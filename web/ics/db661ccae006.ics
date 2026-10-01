@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db661ccae006@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:INSIEME
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/insieme-2026-12-01/
+ \n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/insieme-2026-12-01/
+END:VEVENT
+END:VCALENDAR

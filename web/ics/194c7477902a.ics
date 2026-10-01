@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:194c7477902a@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Con il tuo amore
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/con-
+ il-tuo-amore/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/con-il-tuo-amore/
+END:VEVENT
+END:VCALENDAR

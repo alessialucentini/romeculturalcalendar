@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa3ce54c44cc@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Prospettive. Fotografare Palazzo Corsini
+LOCATION:Galleria Corsini\, Via delle Quattro Fontane 13\, Roma
+DESCRIPTION:Inaugura venerdì 5 giugno 2026\, presso la Galleria Corsini\
+ , la mostra Prospettive – Fotografare Palazzo Corsini\, a cura di Giorg
+ io di Noto e Alessandro Cosma\, che …\n\nInfo: https://barberinicorsini
+ .org/evento/prospettive-fotografare-palazzo-corsini/\n\nDa Linceo
+URL:https://barberinicorsini.org/evento/prospettive-fotografare-palazzo-c
+ orsini/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7571a91d600b@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:STRAPPO ALLA REGOLA
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/strappo-alla-regola
+ -2026-12-18/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/strappo-alla-regola-2026-12-18/
+END:VEVENT
+END:VCALENDAR

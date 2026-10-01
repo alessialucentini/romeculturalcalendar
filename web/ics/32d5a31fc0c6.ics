@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:32d5a31fc0c6@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:NON SI SA COME
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/non-si-sa-come-2026
+ -11-15/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/non-si-sa-come-2026-11-15/
+END:VEVENT
+END:VCALENDAR

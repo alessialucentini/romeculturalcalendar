@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd54a3b0d4a2@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:20 anni di cinema e realtà Dialogo e proiezioni a cura di ZaLab
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/zala
+ b-ita/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/zalab-ita/
+END:VEVENT
+END:VCALENDAR

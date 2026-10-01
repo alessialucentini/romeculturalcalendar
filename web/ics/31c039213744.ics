@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31c039213744@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:MADRE PER SEMPRE
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/madre-per-sempre-20
+ 26-11-27/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/madre-per-sempre-2026-11-27/
+END:VEVENT
+END:VCALENDAR

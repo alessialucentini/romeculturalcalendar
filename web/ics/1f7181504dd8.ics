@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1f7181504dd8@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:L'INCONVENIENTE
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/linconveniente-2027
+ -01-26/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/linconveniente-2027-01-26/
+END:VEVENT
+END:VCALENDAR

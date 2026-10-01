@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a8b11ab1ba92@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+SUMMARY:Farina Integrale
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/fari
+ na-integrale/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/farina-integrale/
+END:VEVENT
+END:VCALENDAR

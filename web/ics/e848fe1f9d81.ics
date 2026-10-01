@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e848fe1f9d81@linceo
+DTSTAMP:20261001T162639Z
+DTSTART:20261123T190000Z
+DTEND:20261123T210000Z
+SUMMARY:Kronos Quartet – “Steve Reich at 90”
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea\n\nInfo: https://www.auditorium.com/it/event/kr
+ onos-quartet-steve-reich-at-90/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/kronos-quartet-steve-reich-at-90/
+END:VEVENT
+END:VCALENDAR

@@ -1,5 +1,5 @@
 {
- "run": "2026-10-01T14:14:15+00:00",
+ "run": "2026-10-01T16:26:39+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -23,7 +23,7 @@
    "source": "maxxi",
    "url": "https://www.maxxi.art",
    "status": "ok",
-   "events": 32
+   "events": 33
   },
   {
    "source": "macro",
@@ -68,10 +68,22 @@
    "events": 0
   },
   {
+   "source": "gallerie-nazionali-barberini-corsini",
+   "url": "https://barberinicorsini.org/calendario/",
+   "status": "ok",
+   "events": 3
+  },
+  {
    "source": "palazzo-bonaparte",
    "url": "https://www.palazzobonaparte.it",
    "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
    "events": 0
+  },
+  {
+   "source": "palazzo-merulana",
+   "url": "https://www.palazzomerulana.it/events/",
+   "status": "ok",
+   "events": 3
   },
   {
    "source": "operativa-arte-contemporanea",
@@ -134,6 +146,12 @@
    "events": 0
   },
   {
+   "source": "teatro-quirino",
+   "url": "https://www.teatroquirino.it/calendario/",
+   "status": "ok",
+   "events": 94
+  },
+  {
    "source": "short-theatre",
    "url": "https://www.shorttheatre.org",
    "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
@@ -143,7 +161,7 @@
    "source": "auditorium-parco-della-musica",
    "url": "https://www.auditorium.com",
    "status": "ok",
-   "events": 64
+   "events": 68
   },
   {
    "source": "accademia-nazionale-di-santa-cecilia",
@@ -154,14 +172,14 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7efd48b322a0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f8ff6edabd0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
    "source": "casa-del-cinema",
-   "url": "https://www.casadelcinema.it",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "url": "https://www.casadelcinema.it/it/",
+   "status": "ok",
+   "events": 17
   },
   {
    "source": "cinema-troisi",

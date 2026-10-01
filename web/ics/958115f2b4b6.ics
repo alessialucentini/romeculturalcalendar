@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:958115f2b4b6@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Eutopie. Per immaginare un mondo migliore
+LOCATION:Palazzo Merulana\, Via Merulana 121\, Roma
+DESCRIPTION:Info: https://www.palazzomerulana.it/events/eutopie-per-immag
+ inare-un-mondo-migliore/\n\nDa Linceo
+URL:https://www.palazzomerulana.it/events/eutopie-per-immaginare-un-mondo
+ -migliore/
+END:VEVENT
+END:VCALENDAR

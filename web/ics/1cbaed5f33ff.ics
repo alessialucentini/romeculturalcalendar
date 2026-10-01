@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1cbaed5f33ff@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+SUMMARY:Festival del cinema ucraino – polacco
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/fest
+ ival-cinema-ucraino-polacco-2026/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/festival-cinema-ucraino-polacco
+ -2026/
+END:VEVENT
+END:VCALENDAR

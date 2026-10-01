@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd7fe70036aa@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+SUMMARY:Scoprir – XIV Mostra di Cinema Iberoamericano
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/scop
+ rir-2026/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/scoprir-2026/
+END:VEVENT
+END:VCALENDAR

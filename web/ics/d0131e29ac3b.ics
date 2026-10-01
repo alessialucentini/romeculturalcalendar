@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d0131e29ac3b@linceo
+DTSTAMP:20261001T162639Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Patti Smith – “Words and Music Where Francis Walked”
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Pop/Rock\n\nInfo: https://www.auditorium.com/it/event/patti-s
+ mith-words-and-music-where-francis-walked/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/patti-smith-words-and-music-where
+ -francis-walked/
+END:VEVENT
+END:VCALENDAR

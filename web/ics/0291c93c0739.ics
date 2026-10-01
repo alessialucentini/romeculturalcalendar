@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0291c93c0739@linceo
+DTSTAMP:20261001T162639Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:ANOHNI – “Wilderness”
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Pop/Rock\n\nInfo: https://www.auditorium.com/it/event/anohni-
+ wilderness/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/anohni-wilderness/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc03548c88ed@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:SOGNO DI UNA NOTTE DI MEZZA ESTATE
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/sogno-di-una-notte-
+ di-mezza-estate-2-2026-11-04/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/sogno-di-una-notte-di-mezza-estat
+ e-2-2026-11-04/
+END:VEVENT
+END:VCALENDAR

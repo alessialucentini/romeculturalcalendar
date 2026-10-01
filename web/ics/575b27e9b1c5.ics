@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:575b27e9b1c5@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:MADRE COURAGE E I SUOI FIGLI
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/madre-courage-e-i-s
+ uoi-figli-2026-11-20/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/madre-courage-e-i-suoi-figli-2026
+ -11-20/
+END:VEVENT
+END:VCALENDAR

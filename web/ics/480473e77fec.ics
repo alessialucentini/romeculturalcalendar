@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:480473e77fec@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:TRE VARIAZIONI DELLA VITA
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/tre-variazioni-dell
+ a-vita-2026-12-10/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/tre-variazioni-della-vita-2026-12
+ -10/
+END:VEVENT
+END:VCALENDAR

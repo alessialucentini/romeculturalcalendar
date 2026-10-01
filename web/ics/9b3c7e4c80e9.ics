@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b3c7e4c80e9@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261002
+SUMMARY:VerticalMovie Festival IX edizione
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In sala\n\nInfo: https://www.casadelcinema.it/it/event/vertic
+ al-movie-festival-2026/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/vertical-movie-festival-2026/
+END:VEVENT
+END:VCALENDAR

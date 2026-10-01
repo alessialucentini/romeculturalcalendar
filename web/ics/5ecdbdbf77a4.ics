@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5ecdbdbf77a4@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:As Film Festival XIV edizione
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/as-f
+ ilm-festival-2026/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/as-film-festival-2026/
+END:VEVENT
+END:VCALENDAR

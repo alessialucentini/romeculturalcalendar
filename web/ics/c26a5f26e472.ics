@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c26a5f26e472@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:SEI PERSONAGGI IN CERCA D'AUTORE
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/sei-personaggi-in-c
+ erca-dautore-2-2026-10-25/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/sei-personaggi-in-cerca-dautore-2
+ -2026-10-25/
+END:VEVENT
+END:VCALENDAR

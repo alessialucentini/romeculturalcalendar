@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fd0bd2187e51@linceo
+DTSTAMP:20261001T162639Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:MALINCONICO-Moderatamente felice
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/malinconico-moderat
+ amente-felice-2026-12-23/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/malinconico-moderatamente-felice-
+ 2026-12-23/
+END:VEVENT
+END:VCALENDAR
