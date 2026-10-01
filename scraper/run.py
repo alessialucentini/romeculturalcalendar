@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import ics as ics_mod  # noqa: E402
 import jsonld  # noqa: E402
 from common import CATEGORIES, Event, polite_get  # noqa: E402
+from sites import SITES  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "data" / "sources.csv"
@@ -44,6 +45,8 @@ def load_sources(only: set[str] | None) -> list[dict]:
 
 
 def scrape_source(src: dict) -> list[Event]:
+    if src["id"] in SITES:  # parser dedicato
+        return SITES[src["id"]](src)
     kw = dict(cat=src["cat"], default_venue=src["nome"], source=src["id"])
     resp = polite_get(src["link"])
     events = jsonld.parse(resp.text, src["link"], **kw)
@@ -93,6 +96,8 @@ def main() -> int:
             for e in evs:  # "Titolo - 01/10/2026 09:00" -> "Titolo"
                 e.title = re.sub(r"\s*[-–]\s*\d{1,2}/\d{1,2}/\d{4}(\s+\d{1,2}:\d{2})?\s*$", "", e.title)
             # aggregatori nazionali: tieni solo eventi con indirizzo a Roma
+            # rassegne "tutto l'anno" (oltre 200 giorni) riempirebbero ogni giorno: escluse
+            evs = [e for e in evs if (date.fromisoformat(e.end) - date.fromisoformat(e.start)).days <= 200]
             evs = [e for e in evs if not e.address or re.search(r"\broma\b|\(rm\)", e.address, re.I)]
             # tieni solo eventi non ancora finiti
             evs = [e for e in evs if e.end >= (today - timedelta(days=1)).isoformat() and e.cat in CATEGORIES]
