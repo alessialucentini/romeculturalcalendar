@@ -30,6 +30,7 @@
 </head>
 <body>
 <section class="splash" id="splash" aria-label="Linceo">
+  <button class="snd" id="snd" type="button" aria-label="Suono di benvenuto" aria-pressed="true"></button>
   <div class="splash-in" id="splash-in">
     <img class="splash-logo" src="icons/linceo.webp" width="800" height="800" alt="Linceo: un occhio al centro di due alberi con radici a forma di mano">
     <h1 class="splash-title">Linceo</h1>
@@ -44,8 +45,18 @@
       <div class="brand">
         <img class="brand-logo" src="icons/linceo.webp" width="56" height="56" alt="Linceo">
         <div class="brand-text">
-          <div class="kicker">Linceo · Roma</div>
+          <div class="kicker-row">
+            <div class="kicker">Linceo · Roma</div>
+            <div class="hbtns">
+              <button class="ib sm" id="searchBtn" type="button" aria-label="Cerca eventi" data-icon="search"></button>
+              <button class="ib sm" id="savedBtn" type="button" aria-label="Eventi salvati" aria-pressed="false" data-icon="heart"><span class="badge-n" id="savedCount" hidden>0</span></button>
+            </div>
+          </div>
           <h2 class="date" id="today-label">Linceo</h2>
+          <form class="searchbox" id="searchbox" role="search" hidden>
+            <input id="q" type="search" placeholder="Cerca eventi, luoghi…" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search" aria-label="Cerca eventi">
+            <button class="ib sm" id="searchClose" type="button" aria-label="Chiudi ricerca" data-icon="close"></button>
+          </form>
         </div>
         <div class="stamp" id="stamp" hidden></div>
       </div>
@@ -64,6 +75,7 @@
 
   <footer id="foot"></footer>
 </div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
 <noscript><p class="wrap">Serve JavaScript per mostrare gli eventi.</p></noscript>
 <script src="app.js"></script>
 </body>

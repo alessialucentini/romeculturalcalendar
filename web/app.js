@@ -11,7 +11,7 @@
   const DOW = ["L", "M", "M", "G", "V", "S", "D"];
 
   const $ = (s) => document.querySelector(s);
-  const state = { events: [], meta: null, view: "oggi", hidden: new Set(), month: null, picked: null, now: new Date() };
+  const state = { events: [], meta: null, view: "oggi", prev: "oggi", q: "", cap: 60, hidden: new Set(), saved: new Set(), runs: new Map(), month: null, picked: null, now: new Date() };
 
   // ---------- util ----------
   const pad = (n) => String(n).padStart(2, "0");
@@ -38,6 +38,48 @@
     }
     for (const kid of kids.flat()) if (kid != null) n.append(kid.nodeType ? kid : document.createTextNode(kid));
     return n;
+  }
+
+  const ICONS = {
+    heart: '<path d="M12 20.5s-7.6-4.7-9.6-9.4C.9 7.7 2.7 4.5 6 4.5c2.1 0 3.4 1.1 4.1 2.3h3.8c.7-1.2 2-2.3 4.1-2.3 3.3 0 5.1 3.2 3.6 6.6-2 4.7-9.6 9.4-9.6 9.4z"/>',
+    share: '<path d="M12 15V3M7.5 7.5L12 3l4.5 4.5M5 12v7a2 2 0 002 2h10a2 2 0 002-2v-7"/>',
+    search: '<circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/>',
+    close: '<path d="M6 6l12 12M18 6L6 18"/>',
+    sound: '<path d="M4 9.5v5h3.5L12 18.5v-13L7.5 9.5H4z"/><path d="M15.5 9a4 4 0 010 6M18 6.5a7.5 7.5 0 010 11"/>',
+    mute: '<path d="M4 9.5v5h3.5L12 18.5v-13L7.5 9.5H4z"/><path d="M16 9.5l5 5M21 9.5l-5 5"/>',
+  };
+  function icon(name) {
+    const s = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    s.setAttribute("viewBox", "0 0 24 24"); s.setAttribute("aria-hidden", "true"); s.innerHTML = ICONS[name];
+    return s;
+  }
+  const norm = (s) => String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  // "serie": stesso titolo nello stesso luogo = una produzione con più date (repliche, proiezioni)
+  const sKey = (e) => { const s = `${norm(e.title)}|${norm(e.venue)}`; let h = 5381; for (const ch of s) h = ((h << 5) + h + ch.charCodeAt(0)) >>> 0; return h.toString(36); };
+  function buildRuns() {
+    state.runs = new Map();
+    for (const e of state.events) { e._k = sKey(e); if (!state.runs.has(e._k)) state.runs.set(e._k, []); state.runs.get(e._k).push(e); }
+    for (const a of state.runs.values()) a.sort((x, y) => x.start.localeCompare(y.start) || (x.time || "").localeCompare(y.time || ""));
+  }
+  const occLabel = (o) => `${shortDate(o.start)}${o.time ? " " + o.time : ""}`;
+  const toastEl = () => $("#toast");
+  let toastT = 0;
+  function toast(msg) { const t = toastEl(); t.textContent = msg; t.classList.add("show"); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("show"), 2400); }
+  const saveSaved = () => { store.set("saved", JSON.stringify([...state.saved])); syncSaved(); };
+  function syncSaved() {
+    const n = state.saved.size, b = $("#savedCount");
+    if (b) { b.textContent = String(n); b.hidden = n === 0; }
+    const btn = $("#savedBtn"); if (btn) btn.setAttribute("aria-pressed", String(state.view === "salvati" && !state.q));
+  }
+  const SHARE_URL = () => location.origin + location.pathname;
+  async function shareEvent(e) {
+    const link = safeUrl(e.url) || SHARE_URL();
+    const text = `Ehi, ho trovato questo evento su Linceo 👉 ${link}. Vieni con me? ☀️`;
+    try {
+      if (navigator.share) { await navigator.share({ text }); return; }
+    } catch (err) { if (err && err.name === "AbortError") return; }
+    try { await navigator.clipboard.writeText(text); toast("Messaggio copiato: incollalo dove vuoi"); }
+    catch { window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, "_blank", "noopener"); }
   }
 
   // ---------- dati ----------
@@ -124,7 +166,7 @@
   }
 
   // ---------- componenti ----------
-  function card(e) {
+  function card(e, ctx = {}) {
     const col = `var(--c-${CATS[e.cat] ? e.cat : "altro"})`;
     const open = { v: false };
     const desc = e.description ? el("p", { class: "desc", text: e.description }) : null;
@@ -138,6 +180,19 @@
     const when = isRange(e)
       ? el("div", { class: "when" }, "fino", el("small", { text: shortDate(e.end) }))
       : el("div", { class: "when" }, e.time || "—", e.time ? null : el("small", { text: "giornata" }));
+    const isSaved = state.saved.has(e._k);
+    const heart = el("button", { class: "ib heart", type: "button", "aria-pressed": String(isSaved), "aria-label": isSaved ? "Rimuovi dai salvati" : "Salva evento", onclick(ev) {
+      const b = ev.currentTarget, on = !state.saved.has(e._k);
+      on ? state.saved.add(e._k) : state.saved.delete(e._k);
+      b.setAttribute("aria-pressed", String(on)); b.setAttribute("aria-label", on ? "Rimuovi dai salvati" : "Salva evento");
+      b.classList.remove("pop"); void b.offsetWidth; if (on) b.classList.add("pop");
+      saveSaved();
+      if (!on && state.view === "salvati" && !state.q) setTimeout(() => swap(render), 260);
+    } }, icon("heart"));
+    const times = ctx.times && ctx.times.length > 1 ? el("div", { class: "runs" }, el("b", { text: "Orari" }), ctx.times.join(" · ")) : null;
+    const others = ctx.others && ctx.others.length
+      ? el("div", { class: "runs" }, el("b", { text: "Altre date" }), ctx.others.slice(0, 4).map(occLabel).join(" · "), ctx.others.length > 4 ? ` · +${ctx.others.length - 4}` : "")
+      : null;
     return el("article", { class: "card", style: `--col:${col}` },
       when,
       el("div", {},
@@ -146,12 +201,16 @@
         el("div", { class: "badges" },
           el("span", { class: "badge", text: CATS[e.cat] || "Altro" }),
           e.kind !== "evento" ? el("span", { class: "badge kind", text: e.kind }) : null),
+        times, others,
         desc,
         e.note ? el("p", { class: "note", text: `Da verificare: ${e.note}` }) : null,
         el("div", { class: "actions" },
-          el("button", { class: "go cal", type: "button", text: "Aggiungi sul mio calendario", onclick(ev) { openSheet(e, ev.currentTarget); } }),
+          el("button", { class: "go cal", type: "button", text: "Aggiungi sul mio calendario", onclick(ev) { openSheet(e, ev.currentTarget); } })),
+        el("div", { class: "links" },
           url ? el("a", { class: "go", href: url, target: "_blank", rel: "noopener noreferrer", text: "Vedi evento →" }) : null,
-          moreBtn)));
+          moreBtn)),
+      el("div", { class: "ib-group" }, heart,
+        el("button", { class: "ib share", type: "button", "aria-label": "Condividi con un amico", onclick() { shareEvent(e); } }, icon("share"))));
   }
 
   function daySection(date, { heading } = {}) {
@@ -164,8 +223,16 @@
       sec.append(el("div", { class: "empty" }, el("b", { text: "Niente in programma" }), "Prova a togliere qualche filtro o guarda un altro giorno."));
       return sec;
     }
-    if (timed.length) { sec.append(el("div", { class: "sub", text: `In programma · ${timed.length}` }), ...timed.map(card)); }
-    if (going.length) { sec.append(el("div", { class: "sub", text: `In corso · ${going.length}` }), ...going.map(card)); }
+    if (timed.length) {
+      const groups = new Map();
+      for (const e of timed) { if (!groups.has(e._k)) groups.set(e._k, []); groups.get(e._k).push(e); }
+      const cards = [...groups.values()].map((g) => {
+        const rep = g[0], later = (state.runs.get(rep._k) || []).filter((o) => !isRange(o) && o.start > day);
+        return card(rep, { times: g.map((x) => x.time).filter(Boolean), others: later });
+      });
+      sec.append(el("div", { class: "sub", text: `In programma · ${cards.length}` }), ...cards);
+    }
+    if (going.length) { sec.append(el("div", { class: "sub", text: `In corso · ${going.length}` }), ...going.map((e) => card(e))); }
     return sec;
   }
 
@@ -203,6 +270,46 @@
     pill.style.setProperty("--x", `${sel.offsetLeft}px`); pill.style.setProperty("--w", `${sel.offsetWidth}px`);
   }
   window.addEventListener("resize", movePill);
+
+  // elenco "per serie" (ricerca, salvati): una scheda per produzione, con le altre date
+  function renderGrouped(list, empty) {
+    const main = $("#main"); main.replaceChildren();
+    if (!list.length) { main.append(el("div", { class: "empty" }, el("b", { text: empty[0] }), empty[1])); return; }
+    const todayIso = iso(state.now), tomorrowIso = iso(addDays(state.now, 1));
+    const shown = list.slice(0, state.cap), groups = new Map();
+    for (const e of shown) {
+      const key = isRange(e) && e.start <= todayIso ? "0" : e.start;
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(e);
+    }
+    for (const [key, items] of groups) {
+      const head = key === "0" ? "In corso" : key === todayIso ? "Oggi" : key === tomorrowIso ? `Domani · ${longDay(fromIso(key))}` : longDay(fromIso(key));
+      main.append(el("section", { class: "day" }, el("h2", { text: head }),
+        ...items.map((e) => card(e, { others: (state.runs.get(e._k) || []).filter((o) => !isRange(o) && (o.start > e.start || (o.start === e.start && (o.time || "") > (e.time || "")))) }))));
+    }
+    if (list.length > shown.length) {
+      main.append(el("button", { class: "more-results", type: "button", text: `Mostra altri (${list.length - shown.length})`, onclick() { state.cap += 60; render(); } }));
+    }
+  }
+  const upcoming = () => { const t = iso(state.now); return state.events.filter((e) => e.end >= t); };
+  const firstPerSeries = (list) => {
+    const m = new Map();
+    for (const e of list) if (!m.has(e._k)) m.set(e._k, e);
+    return [...m.values()].sort((a, b) => a.start.localeCompare(b.start) || (a.time || "").localeCompare(b.time || ""));
+  };
+  function renderSearch() {
+    const toks = norm(state.q).split(/\s+/).filter(Boolean);
+    // titolo, luogo e categoria: basta l'inizio della parola ("jaz" trova "jazz"); nella descrizione serve la parola intera
+    const words = (s) => " " + norm(s).replace(/[^a-z0-9]+/g, " ") + " ";
+    const hit = (e) => { const main = words(`${e.title} ${e.venue} ${e.address} ${CATS[e.cat] || ""} ${e.kind}`), desc = words(e.description); return toks.every((t) => main.includes(" " + t) || desc.includes(" " + t + " ")); };
+    renderGrouped(firstPerSeries(upcoming().filter(hit)), [`Nessun risultato per “${state.q}”`, "Prova con un'altra parola, un luogo o una categoria."]);
+  }
+  function renderSaved() {
+    const t = iso(state.now);
+    const list = [...state.saved].map((k) => (state.runs.get(k) || []).find((o) => o.end >= t)).filter(Boolean);
+    renderGrouped(list.sort((a, b) => a.start.localeCompare(b.start) || (a.time || "").localeCompare(b.time || "")),
+      ["Nessun evento salvato", "Tocca il cuore su un evento per ritrovarlo qui."]);
+  }
 
   // ---------- viste ----------
   function renderList() {
@@ -249,10 +356,14 @@
   }
 
   function render() {
-    document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
-    state.view === "calendario" ? renderCalendar() : renderList();
-    movePill(); revealCards();
+    const special = !!state.q || state.view === "salvati";
+    document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", String(!special && b.dataset.view === state.view)));
+    $(".tabs").classList.toggle("none", special);
+    if (state.q) renderSearch(); else if (state.view === "salvati") renderSaved();
+    else if (state.view === "calendario") renderCalendar(); else renderList();
+    syncSaved(); movePill(); revealCards();
   }
+  const toTop = () => { if ($("#app").getBoundingClientRect().top < 0) window.scrollTo({ top: $("#app").offsetTop, behavior: "instant" }); };
 
   function renderChips() {
     const used = new Set(state.events.map((e) => e.cat));
@@ -281,18 +392,50 @@
       el("br"), "Aggregatore non commerciale: ogni evento rimanda alla fonte originale.");
   }
 
+  // ---------- ricerca e salvati nell'intestazione ----------
+  function openSearch() {
+    $(".brand").classList.add("searching"); $("#searchbox").hidden = false;
+    requestAnimationFrame(() => { $("#searchbox").classList.add("on"); $("#q").focus(); });
+  }
+  function closeSearch(redraw = true) {
+    $("#q").value = ""; state.q = ""; state.cap = 60;
+    $("#searchbox").classList.remove("on"); $(".brand").classList.remove("searching");
+    setTimeout(() => { if (!$(".brand").classList.contains("searching")) $("#searchbox").hidden = true; }, 250);
+    if (redraw) swap(() => { render(); toTop(); });
+  }
+  function wireHeader() {
+    $("#searchBtn").addEventListener("click", openSearch);
+    $("#searchClose").addEventListener("click", () => closeSearch());
+    $("#searchbox").addEventListener("submit", (ev) => { ev.preventDefault(); $("#q").blur(); });
+    let t = 0;
+    $("#q").addEventListener("input", (ev) => {
+      clearTimeout(t);
+      t = setTimeout(() => { const was = state.q; state.q = ev.target.value.trim(); state.cap = 60; if (was !== state.q) { render(); if (state.q) toTop(); } }, 140);
+    });
+    document.addEventListener("keydown", (ev) => { if (ev.key === "Escape" && $(".brand").classList.contains("searching") && !sheet) closeSearch(); });
+    $("#savedBtn").addEventListener("click", () => {
+      if (state.q) closeSearch(false);
+      if (state.view === "salvati") state.view = state.prev || "oggi"; else { state.prev = state.view; state.view = "salvati"; }
+      swap(() => { render(); toTop(); }, state.view === "salvati" ? "next" : "prev");
+    });
+    syncSaved();
+  }
+
   // ---------- avvio ----------
   async function init() {
     try { state.hidden = new Set(JSON.parse(store.get("hidden") || "[]")); } catch { state.hidden = new Set(); }
+    try { state.saved = new Set(JSON.parse(store.get("saved") || "[]")); } catch { state.saved = new Set(); }
+    document.querySelectorAll("[data-icon]").forEach((b) => b.prepend(icon(b.dataset.icon)));
     const saved = store.get("view"); if (["oggi", "domani", "weekend", "calendario"].includes(saved)) state.view = saved;
     state.month = new Date(state.now.getFullYear(), state.now.getMonth(), 1);
     state.picked = iso(state.now);
     document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => {
       const order = ["oggi", "domani", "weekend", "calendario"];
-      if (b.dataset.view === state.view) return;
-      const dir = order.indexOf(b.dataset.view) > order.indexOf(state.view) ? "next" : "prev";
+      if (b.dataset.view === state.view && !state.q) return;
+      const from = order.indexOf(state.view), dir = order.indexOf(b.dataset.view) > from ? "next" : "prev";
+      if (state.q) closeSearch(false);
       state.view = b.dataset.view; store.set("view", state.view);
-      swap(() => { render(); if ($("#app").getBoundingClientRect().top < 0) window.scrollTo({ top: $("#app").offsetTop, behavior: "instant" }); }, dir);
+      swap(() => { render(); toTop(); }, from < 0 ? "fade" : dir);
     }));
     try {
       const r = await fetch("data/events.json", { cache: "no-cache" });
@@ -303,9 +446,10 @@
       $("#main").append(el("div", { class: "empty" }, el("b", { text: "Non riesco a caricare gli eventi" }), "Controlla la connessione e riapri l'app."));
       return;
     }
-    header(); renderChips();
+    buildRuns(); header(); renderChips();
     document.querySelectorAll(".chip").forEach((c, i) => { const k = Object.keys(CATS).filter((x) => new Set(state.events.map((e) => e.cat)).has(x))[i]; c.classList.toggle("dim", state.hidden.has(k)); });
     render();
+    wireHeader();
     requestAnimationFrame(() => requestAnimationFrame(() => $(".tabs").classList.add("ready")));
     // se l'app resta aperta oltre la mezzanotte, ricalcola "oggi" al ritorno in primo piano
     document.addEventListener("visibilitychange", () => {
@@ -336,6 +480,45 @@
     if (canVibrate || !ev.isTrusted) return;
     if (ev.target.closest(TAP)) { try { iosTick(); } catch { /* nessun feedback disponibile */ } }
   });
+
+  // ---------- gong di benvenuto (sintetizzato, nessun file) ----------
+  let actx = null, gongDone = false;
+  function synthGong(ctx) {
+    const t0 = ctx.currentTime + 0.03, dur = 0.5, f0 = 262;
+    const master = ctx.createGain(), lp = ctx.createBiquadFilter();
+    lp.type = "lowpass"; lp.frequency.value = 3400;
+    master.gain.setValueAtTime(0.0001, t0);
+    master.gain.exponentialRampToValueAtTime(0.32, t0 + 0.014);   // attacco morbido
+    master.gain.exponentialRampToValueAtTime(0.0001, t0 + dur);   // si spegne in mezzo secondo
+    master.connect(lp); lp.connect(ctx.destination);
+    // parziali non armonici, come un gong/campana; gli acuti si spengono prima
+    [[1, 0.62, 1], [2.04, 0.34, 0.8], [2.76, 0.24, 0.62], [4.1, 0.1, 0.4], [5.4, 0.06, 0.28]].forEach(([r, g, d]) => {
+      const o = ctx.createOscillator(), og = ctx.createGain();
+      o.type = "sine"; o.frequency.setValueAtTime(f0 * r * 1.006, t0); o.frequency.exponentialRampToValueAtTime(f0 * r, t0 + 0.12);
+      og.gain.setValueAtTime(g, t0); og.gain.exponentialRampToValueAtTime(0.0001, t0 + dur * d);
+      o.connect(og); og.connect(master); o.start(t0); o.stop(t0 + dur + 0.05);
+    });
+  }
+  function playGong() {
+    if (gongDone || store.get("sound") === "off") return;
+    try {
+      const AC = window.AudioContext || window.webkitAudioContext; if (!AC) return;
+      actx = actx || new AC();
+      const go = () => { if (gongDone || actx.state !== "running") return; gongDone = true; synthGong(actx); };
+      if (actx.state === "running") go(); else actx.resume().then(go).catch(() => {});
+    } catch { /* audio non disponibile */ }
+  }
+  // i browser bloccano l'audio finché non c'è un tocco: provo subito, e al primo gesto se serve
+  ["pointerdown", "touchend", "keydown", "click"].forEach((t) => window.addEventListener(t, function once() { if (gongDone) window.removeEventListener(t, once); else playGong(); }, { passive: true }));
+  window.addEventListener("load", playGong);
+  $("#snd").addEventListener("click", (ev) => {
+    ev.stopPropagation();
+    const off = store.get("sound") !== "off";
+    store.set("sound", off ? "off" : "on");
+    ev.currentTarget.setAttribute("aria-pressed", String(!off)); ev.currentTarget.replaceChildren(icon(off ? "mute" : "sound"));
+    if (!off) { gongDone = false; playGong(); }
+  });
+  { const b = $("#snd"), on = store.get("sound") !== "off"; b.setAttribute("aria-pressed", String(on)); b.replaceChildren(icon(on ? "sound" : "mute")); }
 
   // ---------- splash: scorri (o tocca) per entrare nel calendario ----------
   const app = $("#app"), splashIn = $("#splash-in");
