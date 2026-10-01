@@ -449,6 +449,51 @@ def fetch_quirino(src: dict, months: int = 4) -> list[Event]:
     return out
 
 
+# ------------------------------------------------------------------ Arte.it (calendario mostre Roma)
+_ARTEIT_DATE = re.compile(r"Dal\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s+al\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})")
+
+
+def parse_arteit(html: str, base: str, cat: str, source: str) -> list[Event]:
+    out = []
+    for a in _soup(html).select("ul.event-list a.link_mostre_list"):
+        d, t, occ = a.select_one(".data"), a.select_one(".title"), a.select_one(".occhiello")
+        m = _ARTEIT_DATE.search(d.get_text(" ", strip=True)) if d else None
+        if not (m and t and _month(m.group(2)) and _month(m.group(5))):
+            continue
+        start = _d(int(m.group(3)), _month(m.group(2)), int(m.group(1)))
+        end = _d(int(m.group(6)), _month(m.group(5)), int(m.group(4)))
+        if not (start and end) or (date.fromisoformat(end) - date.fromisoformat(start)).days > 400:
+            continue
+        venue = clean(occ.get_text(" ", strip=True).split("|", 1)[-1]) if occ else ""
+        so = a.select_one(".sommario")
+        out.append(Event(
+            title=clean(t.get_text(" ", strip=True)), cat=cat, kind="mostra", venue=venue or "Roma",
+            address=f"{venue}, Roma" if venue else "Roma", start=start, end=end,
+            url=urljoin(base, a["href"]), source=source,
+            description=clean(so.get_text(" ", strip=True)).rstrip(".") if so else ""))
+    return out
+
+
+def fetch_arteit(src: dict, months: int = 2) -> list[Event]:
+    out, seen = [], set()
+    today = date.today()
+    y, m = today.year, today.month
+    for _ in range(months):
+        url = f"https://www.arte.it/calendario-arte/roma/{y}/{m:02d}/"
+        try:
+            r = polite_get(url)
+        except Exception:
+            break
+        for e in parse_arteit(_text(r.content), url, src["cat"], src["id"]):
+            if e.url not in seen:
+                seen.add(e.url)
+                out.append(e)
+        m += 1
+        if m > 12:
+            m, y = 1, y + 1
+    return out
+
+
 SITES = {
     "maxxi": fetch_maxxi,
     "auditorium-parco-della-musica": fetch_auditorium,
@@ -459,4 +504,5 @@ SITES = {
     "gallerie-nazionali-barberini-corsini": fetch_barberini,
     "palazzo-merulana": fetch_merulana,
     "teatro-quirino": fetch_quirino,
+    "arte-it": fetch_arteit,
 }

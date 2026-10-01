@@ -49,6 +49,8 @@ def test_sites():
         assert len(c) >= 15 and c[0].start <= c[0].end
         assert len(sites.parse_barberini(rx("6.html"), "u", "mostre", "b", today=datetime.date(2026, 10, 1))) >= 2
         assert len(sites.parse_merulana(rx("5.html"), "u", "altro", "m")) >= 10
+        a = sites.parse_arteit(rx("0.html"), "https://www.arte.it", "mostre", "a")
+        assert len(a) >= 30 and a[0].start == "2026-10-01"
         q = sites.parse_quirino(rx("2.html"), "u", "teatro", "q")
         assert len(q) >= 10 and q[0].start == "2026-10-20"
     assert sites._tdr_range("10 set – 6 ott 2026") == ("2026-09-10", "2026-10-06")
