@@ -238,9 +238,14 @@ def fetch_culture(src: dict, max_pages: int = 60) -> list[Event]:
     seen_pages, out, seen_urls = [], [], set()
     for n in range(1, 4):  # elenco paginato
         url = src["link"] if n == 1 else f"{src['link'].rstrip('/')}/page/{n}/"
-        try:
-            r = polite_get(url)
-        except Exception:
+        r = None
+        for _ in range(2):  # il sito è lento: un secondo tentativo
+            try:
+                r = polite_get(url)
+                break
+            except Exception:
+                continue
+        if r is None:
             break
         soup = _soup(_text(r.content))
         found = [urljoin(base, a["href"]) for a in soup.find_all("a", href=re.compile(r"/manifestazione/[^/]+/?$"))]
