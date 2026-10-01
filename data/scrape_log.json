@@ -1,5 +1,5 @@
 {
- "run": "2026-10-01T14:08:23+00:00",
+ "run": "2026-10-01T14:14:15+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -10,8 +10,8 @@
   {
    "source": "roma-culture-manifestazioni",
    "url": "https://culture.roma.it/manifestazione/",
-   "status": "ok",
-   "events": 32
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
   },
   {
    "source": "artribune",
@@ -22,8 +22,8 @@
   {
    "source": "maxxi",
    "url": "https://www.maxxi.art",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "status": "ok",
+   "events": 32
   },
   {
    "source": "macro",
@@ -106,8 +106,8 @@
   {
    "source": "teatro-dell-opera-di-roma",
    "url": "https://www.operaroma.it",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "status": "ok",
+   "events": 136
   },
   {
    "source": "romaeuropa-festival",
@@ -142,8 +142,8 @@
   {
    "source": "auditorium-parco-della-musica",
    "url": "https://www.auditorium.com",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "status": "ok",
+   "events": 64
   },
   {
    "source": "accademia-nazionale-di-santa-cecilia",
@@ -154,7 +154,7 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f2095d39010>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7efd48b322a0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
