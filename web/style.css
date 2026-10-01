@@ -164,3 +164,7 @@ html { scroll-snap-type: y proximity; scroll-behavior: smooth; }
   .splash-logo, .splash-title, .splash-sub, .cue, .chev, .app.in main .card { animation: none !important; }
   .js .app:not(.in) .top, .js .app:not(.in) main, .js .app:not(.in) footer { transform: none; }
 }
+
+/* feedback visivo al tocco (si somma alla vibrazione) */
+.chip, .tabs button, .cell, .go, .more, .cal-head button, .cue { transition: transform .12s ease, box-shadow .2s, color .2s, opacity .2s; }
+.chip:active, .tabs button:active, .cell:active, .go:active, .cal-head button:active { transform: scale(.94); }

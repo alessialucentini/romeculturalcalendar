@@ -192,6 +192,30 @@
     });
   }
 
+  // ---------- feedback tattile ----------
+  // Android/Chrome: Vibration API. iPhone: Safari non la supporta, ma un interruttore nativo (input switch)
+  // attivato da un tocco produce il "tic" del sistema (iOS 17.4+). Se nessuno dei due c'è, resta il feedback visivo.
+  const canVibrate = typeof navigator.vibrate === "function";
+  const quiet = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let tickLabel = null;
+  function iosTick() {
+    if (!tickLabel) {
+      tickLabel = el("label", { "aria-hidden": "true", style: "position:fixed;left:-99px;top:-99px;opacity:0;pointer-events:none" }, el("input", { type: "checkbox", switch: true, tabindex: "-1" }));
+      document.body.append(tickLabel);
+    }
+    tickLabel.click();
+  }
+  const TAP = "button, a.go, .chip, .cell, .tabs button";
+  document.addEventListener("pointerdown", (ev) => {
+    if (quiet || !canVibrate || ev.pointerType === "mouse") return;
+    const t = ev.target.closest(TAP);
+    if (t) navigator.vibrate(t.matches(".tabs button, .cell") ? 14 : 9);
+  }, { passive: true });
+  document.addEventListener("click", (ev) => {
+    if (quiet || canVibrate || !ev.isTrusted) return;
+    if (ev.target.closest(TAP)) { try { iosTick(); } catch { /* nessun feedback disponibile */ } }
+  });
+
   // ---------- splash: scorri (o tocca) per entrare nel calendario ----------
   const app = $("#app"), splashIn = $("#splash-in");
   const goApp = () => app.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
