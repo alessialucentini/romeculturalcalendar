@@ -1,0 +1,185 @@
+{
+ "run": "2026-10-01T13:42:16+00:00",
+ "sources": [
+  {
+   "source": "roma-culture-zètema-estate-romana",
+   "url": "https://www.culture.roma.it",
+   "status": "errore: HTTPError: 500 Server Error: Internal Server Error for url: https://www.culture.roma.it/?ical=322557",
+   "events": 0
+  },
+  {
+   "source": "roma-culture-manifestazioni",
+   "url": "https://culture.roma.it/manifestazione/",
+   "status": "errore: HTTPError: 500 Server Error: Internal Server Error for url: https://culture.roma.it/?ical=62236",
+   "events": 0
+  },
+  {
+   "source": "artribune",
+   "url": "https://www.artribune.com",
+   "status": "ok",
+   "events": 5
+  },
+  {
+   "source": "maxxi",
+   "url": "https://www.maxxi.art",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "macro",
+   "url": "https://museomacro.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "villa-medici-accademia-di-francia",
+   "url": "https://www.villamedici.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "galleria-nazionale-d-arte-moderna-e-contemporane",
+   "url": "https://lagallerianazionale.com",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "mattatoio-pelanda",
+   "url": "https://www.mattatoioroma.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "museo-carlo-bilotti",
+   "url": "https://www.museocarlobilotti.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "palazzo-delle-esposizioni",
+   "url": "https://www.palazzoesposizioni.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "scuderie-del-quirinale",
+   "url": "https://www.scuderiequirinale.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "palazzo-bonaparte",
+   "url": "https://www.palazzobonaparte.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "operativa-arte-contemporanea",
+   "url": "https://www.operativa-arte.com",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>",
+   "events": 0
+  },
+  {
+   "source": "forte-prenestino",
+   "url": "https://www.forteprenestino.net",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "istituto-svizzero",
+   "url": "https://www.istitutosvizzero.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "american-academy-in-rome",
+   "url": "https://www.aarome.org",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "istituto-olandese-knir",
+   "url": "https://www.knir.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html><html prefix=\"og: http://ogp.me/ns# article: http://ogp.me/ns/article#\" lang=\"it\" data-tag-manager-id=\"GTM-WLHD85V\"><head><META http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">': <!DOCTYPEhtml><htmlprefix=\"og:http://ogp.me/ns#article:http://ogp.me/ns/article#\"lang=\"it\"data-tag-manager-id=\"GTM-WLHD85V\"><head><METAhttp-equiv=\"Content-Type\"content=\"text/html;charset=UTF-8\">",
+   "events": 0
+  },
+  {
+   "source": "teatro-dell-opera-di-roma",
+   "url": "https://www.operaroma.it",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "romaeuropa-festival",
+   "url": "https://romaeuropa.net",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "teatro-di-roma-argentina-india",
+   "url": "https://www.teatrodiroma.net",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "teatro-vascello",
+   "url": "https://www.teatrovascello.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "teatro-palladium",
+   "url": "https://www.teatropalladium.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>",
+   "events": 0
+  },
+  {
+   "source": "short-theatre",
+   "url": "https://www.shorttheatre.org",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!doctype html>': <!doctypehtml>",
+   "events": 0
+  },
+  {
+   "source": "auditorium-parco-della-musica",
+   "url": "https://www.auditorium.com",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
+  },
+  {
+   "source": "accademia-nazionale-di-santa-cecilia",
+   "url": "https://www.santacecilia.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "casa-del-jazz",
+   "url": "https://www.casajazz.it",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f1e6e5b14f0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "events": 0
+  },
+  {
+   "source": "casa-del-cinema",
+   "url": "https://www.casadelcinema.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "cinema-troisi",
+   "url": "https://www.cinematroisi.it",
+   "status": "ok",
+   "events": 208
+  },
+  {
+   "source": "la-feltrinelli-eventi",
+   "url": "https://www.lafeltrinelli.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  },
+  {
+   "source": "fandango-incontro",
+   "url": "https://www.fandangolibri.it",
+   "status": "errore: ValueError: Content line could not be parsed into parts: '<!DOCTYPE html>': <!DOCTYPEhtml>",
+   "events": 0
+  }
+ ]
+}
