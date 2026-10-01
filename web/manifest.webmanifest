@@ -1,7 +1,7 @@
 {
-  "name": "Roma oggi",
-  "short_name": "Roma oggi",
-  "description": "Cosa succede oggi a Roma: mostre, teatro, opera, cinema, arte contemporanea, festival.",
+  "name": "Linceo",
+  "short_name": "Linceo",
+  "description": "Linceo: il radar culturale di Roma. Mostre, teatro, opera, cinema, arte contemporanea, festival.",
   "lang": "it",
   "start_url": "./",
   "scope": "./",

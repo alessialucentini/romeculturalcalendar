@@ -2,43 +2,66 @@
 <html lang="it">
 <head>
 <meta charset="utf-8">
-<title>Roma oggi</title>
+<title>Linceo — il radar culturale di Roma</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Linceo: cosa succede a Roma. Mostre, teatro, opera, cinema, arte contemporanea, festival.">
 <meta name="color-scheme" content="light">
-<meta name="description" content="Cosa succede oggi a Roma: mostre, teatro, opera, cinema, arte contemporanea, festival.">
 <meta name="theme-color" content="#f1ead9">
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="icon" href="icons/favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Roma oggi">
+<meta name="apple-mobile-web-app-title" content="Linceo">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
+<!-- anteprima quando il link viene condiviso (WhatsApp, iMessage, Telegram…) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Linceo">
+<meta property="og:title" content="Linceo">
+<meta property="og:description" content="Il radar culturale di Roma: mostre, teatro, opera, cinema, arte contemporanea, festival.">
+<meta property="og:url" content="https://alessialucentini.github.io/romeculturalcalendar/">
+<meta property="og:image" content="https://alessialucentini.github.io/romeculturalcalendar/icons/og.jpg">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="600">
+<meta name="twitter:card" content="summary">
+<script>document.documentElement.className = "js";</script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="top">
-  <div class="wrap">
-    <div class="brand">
-      <div>
-        <div class="kicker">Roma · radar culturale</div>
-        <h1 id="today-label">Roma oggi</h1>
-      </div>
-      <div class="stamp" id="stamp"></div>
-    </div>
-    <div class="tabs" role="tablist" aria-label="Vista">
-      <button role="tab" data-view="oggi" aria-selected="true">Oggi</button>
-      <button role="tab" data-view="domani" aria-selected="false">Domani</button>
-      <button role="tab" data-view="weekend" aria-selected="false">Weekend</button>
-      <button role="tab" data-view="calendario" aria-selected="false">Calendario</button>
-    </div>
-    <div class="chips" id="chips" role="group" aria-label="Filtra per categoria"></div>
+<section class="splash" id="splash" aria-label="Linceo">
+  <div class="splash-in" id="splash-in">
+    <img class="splash-logo" src="icons/linceo.webp" width="800" height="800" alt="Linceo: un occhio al centro di due alberi con radici a forma di mano">
+    <h1 class="splash-title">Linceo</h1>
+    <p class="splash-sub">il radar culturale di Roma</p>
   </div>
-</header>
+  <button class="cue" id="cue" type="button">scorri per vedere<span class="chev" aria-hidden="true"></span></button>
+</section>
 
-<main class="wrap" id="main" aria-live="polite"></main>
+<div class="app" id="app">
+  <header class="top">
+    <div class="wrap">
+      <div class="brand">
+        <img class="brand-logo" src="icons/linceo.webp" width="56" height="56" alt="Linceo">
+        <div class="brand-text">
+          <div class="kicker">Linceo · Roma</div>
+          <h2 class="date" id="today-label">Linceo</h2>
+        </div>
+        <div class="stamp" id="stamp" hidden></div>
+      </div>
+      <div class="tabs" role="tablist" aria-label="Vista">
+        <button role="tab" data-view="oggi" aria-selected="true">Oggi</button>
+        <button role="tab" data-view="domani" aria-selected="false">Domani</button>
+        <button role="tab" data-view="weekend" aria-selected="false">Weekend</button>
+        <button role="tab" data-view="calendario" aria-selected="false">Calendario</button>
+      </div>
+      <div class="chips" id="chips" role="group" aria-label="Filtra per categoria"></div>
+    </div>
+  </header>
 
-<footer id="foot"></footer>
+  <main class="wrap" id="main" aria-live="polite"></main>
+
+  <footer id="foot"></footer>
+</div>
 <noscript><p class="wrap">Serve JavaScript per mostrare gli eventi.</p></noscript>
 <script src="app.js"></script>
 </body>

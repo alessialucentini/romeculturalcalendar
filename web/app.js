@@ -1,4 +1,4 @@
-/* Roma oggi — legge data/events.json e lo mostra. Nessuna dipendenza, nessun tracciamento. */
+/* Linceo — legge data/events.json e lo mostra. Nessuna dipendenza, nessun tracciamento. */
 (() => {
   "use strict";
 
@@ -191,6 +191,21 @@
       const n = new Date(); if (iso(n) !== iso(state.now)) { state.now = n; state.picked = iso(n); header(); render(); }
     });
   }
+
+  // ---------- splash: scorri (o tocca) per entrare nel calendario ----------
+  const app = $("#app"), splashIn = $("#splash-in");
+  const goApp = () => app.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+  $("#cue").addEventListener("click", goApp);
+  $("#splash").addEventListener("click", goApp);
+  let ticking = false;
+  window.addEventListener("scroll", () => {
+    if (ticking) return; ticking = true;
+    requestAnimationFrame(() => { splashIn.style.setProperty("--p", Math.min(Math.max(window.scrollY / window.innerHeight, 0), 1).toFixed(3)); ticking = false; });
+  }, { passive: true });
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver((es, o) => { if (es.some((e) => e.isIntersecting)) { app.classList.add("in"); o.disconnect(); } }, { threshold: 0, rootMargin: "0px 0px -18% 0px" }).observe(app);
+  } else app.classList.add("in");
+  if (location.hash === "#app") { app.classList.add("in"); app.scrollIntoView(); }
 
   if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
   init();

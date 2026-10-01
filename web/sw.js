@@ -1,8 +1,8 @@
 // Service worker: l'app funziona offline con l'ultimo elenco eventi scaricato.
-const VERSION = "v2";
+const VERSION = "v3";
 const SHELL = `roma-oggi-shell-${VERSION}`;
 const DATA = "roma-oggi-data";
-const FILES = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
+const FILES = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/linceo.webp", "icons/favicon.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(SHELL).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));

@@ -1,6 +1,6 @@
-# Roma oggi
+# Linceo
 
-PWA gratuita: apri l'icona sul telefono e vedi **cosa succede oggi a Roma** (opera, teatro, cinema, musei, arte contemporanea, festival…), con un colore per categoria. Ogni evento rimanda alla pagina originale. I dati si aggiornano da soli ogni domenica.
+Linceo — PWA gratuita: apri l'icona sul telefono e vedi **cosa succede oggi a Roma** (opera, teatro, cinema, musei, arte contemporanea, festival…), con un colore per categoria. Ogni evento rimanda alla pagina originale. I dati si aggiornano da soli ogni domenica.
 
 ```
 web/                       l'app (HTML/CSS/JS puro, nessuna dipendenza) → pubblicata su GitHub Pages
