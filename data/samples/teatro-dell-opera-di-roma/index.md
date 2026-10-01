@@ -1,0 +1,48 @@
+# teatro-dell-opera-di-roma
+
+Link candidati dalla home:
+- https://www.operaroma.it/stagione/
+- https://www.operaroma.it/spettacoli/le-nozze-di-figaro-2/
+- https://www.operaroma.it/spettacoli/falstaff/
+- http://www.operaroma.it/stagione/
+- https://www.operaroma.it/biglietteria/acquista-biglietti/
+- https://www.operaroma.it/opera-giovani/progetti-scuole/spettacoli-scuole/
+- https://www.operaroma.it/sostieni/sostieni-membro-associato/vantaggi-stagione-20162017/
+- https://www.operaroma.it/sostieni/scegli-di-diventare-sponsor/intera-stagione/
+- https://www.operaroma.it/sostieni/organizza-un-evento/
+- https://www.operaroma.it/spettacoli/mariotti-le-due-petite-messe/
+- https://www.operaroma.it/spettacoli/la-vita-nuda/
+- https://www.operaroma.it/spettacoli/icone-della-danza/
+- https://www.operaroma.it/spettacoli/goecke-robbins-bausch/
+- https://www.operaroma.it/spettacoli/the-rakes-progress-la-carriera-di-un-libertino/
+- https://www.operaroma.it/news/lisette-oropesa-al-teatro-dellopera-di-roma-inaugura-la-stagione-cameristica-di-santa-cecilia/
+- https://www.operaroma.it/spettacoli/mariotti-le-due-petite-messe-3/
+- https://www.operaroma.it/spettacoli/lo-schiaccianoci-10/
+- https://www.operaroma.it/spettacoli/il-castello-del-principe-barbablunetrebko-nanasi/
+- https://www.operaroma.it/spettacoli/il-lago-dei-cigni-7/
+- https://www.operaroma.it/spettacoli/peter-pan/
+- https://www.operaroma.it/spettacoli/andrea-chenier-3/
+- https://www.operaroma.it/spettacoli/terza-sinfonia-di-mahler/
+- https://www.operaroma.it/spettacoli/lucia-di-lammermoor-2/
+- https://www.operaroma.it/spettacoli/i-due-foscari/
+- https://www.operaroma.it/spettacoli/orchestra-nazionale-barocca-dei-conservatori/
+- https://www.operaroma.it/spettacoli/motusblanc-mcgregor-ekman/
+- https://www.operaroma.it/spettacoli/iphigenie-en-tauride/
+- https://www.operaroma.it/spettacoli/echoesbonachela-eyal-tortelli/
+- https://www.operaroma.it/spettacoli/piccinni-e-gluck-una-corona-per-due/
+- https://www.operaroma.it/spettacoli/una-lady-macbeth-del-distretto-di-mzensk/
+- https://www.operaroma.it/spettacoli/code-unknown/
+- https://www.operaroma.it/spettacoli/e-ancora-troppo-presto/
+- https://www.operaroma.it/spettacoli/il-barbiere-di-sivigliabartoli-capuano/
+- https://www.operaroma.it/spettacoli/don-chisciotte-5/
+- https://www.operaroma.it/spettacoli/il-trovatore-3/
+- https://www.operaroma.it/spettacoli/la-rondine/
+- https://www.operaroma.it/spettacoli/la-cenerentola-3/
+- https://www.operaroma.it/spettacoli/raymonda/
+- https://www.operaroma.it/news/il-dolce-suono-mi-colpi-la-stagione-2026-2027-del-teatro-dellopera-di-roma/
+- https://www.operaroma.it/news/the-rakes-progress-di-stravinskij-inaugura-la-stagione-dellopera-di-roma/
+
+- 0.html <- https://www.operaroma.it (200, 183176 byte)
+- 1.html <- https://www.operaroma.it/stagione/ (200, 72502 byte)
+- 2.html <- https://www.operaroma.it/spettacoli/le-nozze-di-figaro-2/ (200, 77912 byte)
+- 3.html <- https://www.operaroma.it/spettacoli/falstaff/ (200, 57476 byte)

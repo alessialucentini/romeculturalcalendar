@@ -1,0 +1,48 @@
+# maxxi
+
+Link candidati dalla home:
+- https://www.maxxi.art/events/categories/mostre/
+- https://www.maxxi.art/events/categories/eventi/
+- https://www.maxxi.art/events/categories/eventi/educazione/
+- https://www.maxxi.art/events/categories/segnaliamo/
+- https://www.maxxi.art/events/categories/open-call/
+- https://www.maxxi.art/events/hai-18-anni-entra-al-maxxi-con-il-bonus-cultura/
+- https://www.maxxi.art/events/the-large-glass/
+- https://www.maxxi.art/events/andrea-pazienza-non-sempre-si-muore/
+- https://www.maxxi.art/events/vitalita-dellarchitettura-italiana-1946-2026/
+- https://www.maxxi.art/events/mao-museo-darte-orientale-di-torino/
+- https://www.maxxi.art/events/takk-con-vivere/
+- https://www.maxxi.art/events/larchivio-della-rivista-segno/
+- https://www.maxxi.art/events/alberto-garutti/
+- https://www.maxxi.art/events/nxt-hpo-rubato/
+- https://www.maxxi.art/events/croce-rossa-italiana-3ottobre/
+- https://www.maxxi.art/events/di-spazio-in-spazio-3ottobre-10-18mesi/
+- https://www.maxxi.art/events/di-spazio-in-spazio-3ottobre-18-30mesi/
+- https://www.maxxi.art/events/il-murale-di-andrea-pazienza-unopera-in-attesa/
+- https://www.maxxi.art/events/gli-ultimi-giorni-di-pompeo/
+- https://www.maxxi.art/events/philip-glass-piano-etudes/
+- https://www.maxxi.art/events/xxix-compasso-doro-adi/
+- https://www.maxxi.art/events/the-birthday-conference/
+- https://www.maxxi.art/events/xxii-giornata-del-contemporaneo/
+- https://www.maxxi.art/events/qui-riposano-i-segreti-dei-viandanti-del-cimitero-degli-artisti-e-dei-poeti/
+- https://www.maxxi.art/events/festa-del-cinema-di-roma-2026/
+- https://www.maxxi.art/events/sophie-calle-matrimoni-rotture-e-funerali-inclusi/
+- https://www.maxxi.art/events/tatiana-bilbao-estudio-campo-aperto/
+- https://www.maxxi.art/events/di-spazio-in-spazio-17ottobre-10-18mesi/
+- https://www.maxxi.art/events/di-spazio-in-spazio-17ottobre-18-30mesi/
+- https://www.maxxi.art/events/sophie-calle-visita-guidata-25ottobre/
+- https://www.maxxi.art/events/mart-museo-di-arte-moderna-e-contemporanea-di-trento-e-rovereto/
+- https://www.maxxi.art/events/the-scoop-jazz-band-la-musica-incontra-larchitettura/
+- https://www.maxxi.art/events/maxxi-bvlgari-prize-2026/
+- https://www.maxxi.art/events/di-spazio-in-spazio-7novembre-10-18mesi/
+- https://www.maxxi.art/events/di-spazio-in-spazio-7novembre-18-30mesi/
+- https://www.maxxi.art/events/gordon-matta-clark/
+- https://www.maxxi.art/events/ordinare-il-mondo-larchivio-di-nanda-lanfranco/
+- https://www.maxxi.art/events/gordon-matta-clark-visita-guidata-15novembre/
+- https://www.maxxi.art/events/museo-e-real-bosco-di-capodimonte/
+- https://www.maxxi.art/events/sensing-the-future/
+
+- 0.html <- https://www.maxxi.art (200, 173322 byte)
+- 1.html <- https://www.maxxi.art/events/categories/mostre/ (200, 146419 byte)
+- 2.html <- https://www.maxxi.art/events/categories/eventi/ (200, 161767 byte)
+- 3.html <- https://www.maxxi.art/events/categories/eventi/educazione/ (200, 147674 byte)

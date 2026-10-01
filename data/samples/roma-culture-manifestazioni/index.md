@@ -1,0 +1,48 @@
+# roma-culture-manifestazioni
+
+Link candidati dalla home:
+- https://culture.roma.it/spettacolo-fuori-dal-centro-fnsv/
+- https://culture.roma.it/manifestazione/monumenti-sonori/
+- https://culture.roma.it/manifestazione/appuntamenti-a-cura-della-sovrintendenza-capitolina/
+- https://culture.roma.it/appuntamento/mostra-archivio-vivo-2/
+- https://culture.roma.it/manifestazione/trame-di-memoria-e-impegno-larchivio-di-libera-si-trasforma-in-arte-pubblica-2/
+- https://culture.roma.it/manifestazione/danzare-per-includere-danziamo-insieme-nella-grande-bellezza-2/
+- https://culture.roma.it/manifestazione/canta-tufello-musica-creattiva-con-il-coro-truefellows-tra-laboratori-popolari-e-cultura-condivisa/
+- https://culture.roma.it/manifestazione/macro-stagione-espositiva-2026/
+- https://culture.roma.it/manifestazione/fai-la-differenza-ce-alla-ricerca-della-sostenibilita-il-festival-vii-edizione/
+- https://culture.roma.it/appuntamento/vivispettacolo-2025-2026/
+- https://culture.roma.it/appuntamento/visite-guidate-il-sabato-e-la-domenica-alla-mostra-diego-rivera/
+- https://culture.roma.it/manifestazione/zalib-informal-academy-2026/
+- https://culture.roma.it/manifestazione/biblioteche-di-roma-2025-2026/
+- https://culture.roma.it/manifestazione/reverse/
+- https://culture.roma.it/manifestazione/entrature-libere/
+- https://culture.roma.it/manifestazione/corpi-in-ascolto/
+- https://culture.roma.it/manifestazione/casa-del-jazz-stagione-2026-2027/
+- https://culture.roma.it/manifestazione/arcipelago-quarticciolo/
+- https://culture.roma.it/manifestazione/vocifero/
+- https://culture.roma.it/manifestazione/nuovo-cinema-aquila-2025-2026/
+- https://culture.roma.it/manifestazione/casa-del-cinema-2025-2026/
+- https://culture.roma.it/manifestazione/passeggiate-romane-2026/
+- https://culture.roma.it/manifestazione/romaeuropa-festival-ref2026/
+- https://culture.roma.it/manifestazione/estetica-del-riuso-2026/
+- https://culture.roma.it/manifestazione/stagione-percorsi-per-anatomie-collettive/
+- https://culture.roma.it/manifestazione/i-grandi-festival-da-venezia-a-roma-e-nel-lazio-3/
+- https://culture.roma.it/manifestazione/officina-pigneto/
+- https://culture.roma.it/manifestazione/ciak-cinema-arena-2026/
+- https://culture.roma.it/manifestazione/teatri-in-comune-2026-2027/
+- https://culture.roma.it/manifestazione/celio-stellato/
+- https://culture.roma.it/manifestazione/le-voci-del-presente-2026/
+- https://culture.roma.it/manifestazione/interazioni-festival-2026/
+- https://culture.roma.it/manifestazione/visiva-365-il-potere-della-citta/
+- https://culture.roma.it/appuntamento/mostra-estetica-del-riuso/
+- https://culture.roma.it/manifestazione/you-the-young-city-iv-edizione/
+- https://culture.roma.it/manifestazione/archeologia-in-comune-2026/
+- https://culture.roma.it/manifestazione/auditorium-parco-della-musica-2026/
+- https://culture.roma.it/manifestazione/paesaggi-umani-di-roma-plurale-2/
+- https://culture.roma.it/manifestazione/prove-aperte-di-civilta-2/
+- https://culture.roma.it/manifestazione/blister-festival-di-teatro-in-pillole-laboratori-incontri/
+
+- 0.html <- https://culture.roma.it/manifestazione/ (200, 946440 byte)
+- 1.html <- https://culture.roma.it/spettacolo-fuori-dal-centro-fnsv/ (200, 84033 byte)
+- 2.html <- https://culture.roma.it/manifestazione/monumenti-sonori/ (200, 45106 byte)
+- 3.html <- https://culture.roma.it/manifestazione/appuntamenti-a-cura-della-sovrintendenza-capitolina/ (200, 378963 byte)
