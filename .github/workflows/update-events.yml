@@ -8,7 +8,7 @@ on:
       mode:
         description: "scrape = aggiorna gli eventi | probe = analizza come leggere ogni fonte | sample = scarica HTML di esempio"
         type: choice
-        options: [scrape, probe, sample]
+        options: [scrape, probe, probe2, sample]
         default: scrape
       urls:
         description: "solo per mode=sample: URL singoli separati da spazio (vuoto = fonti predefinite)"
@@ -43,6 +43,9 @@ jobs:
       - name: Probe delle fonti
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'probe'
         run: python scraper/probe.py
+      - name: Probe 2 (sotto-pagine)
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'probe2'
+        run: python scraper/probe2.py
       - name: Campioni HTML
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'sample'
         run: python scraper/sample.py ${{ inputs.urls }}
