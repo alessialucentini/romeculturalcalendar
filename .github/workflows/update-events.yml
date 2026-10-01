@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "scrape = aggiorna gli eventi | probe = analizza come leggere ogni fonte"
+        description: "scrape = aggiorna gli eventi | probe = analizza come leggere ogni fonte | sample = scarica HTML di esempio"
         type: choice
-        options: [scrape, probe]
+        options: [scrape, probe, sample]
         default: scrape
   push:
     branches: [main]
@@ -39,6 +39,9 @@ jobs:
       - name: Probe delle fonti
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'probe'
         run: python scraper/probe.py
+      - name: Campioni HTML
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'sample'
+        run: python scraper/sample.py
       - name: Scraping
         if: github.event_name == 'schedule' || inputs.mode == 'scrape'
         run: python scraper/run.py
