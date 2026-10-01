@@ -1,5 +1,5 @@
 // Service worker: l'app funziona offline con l'ultimo elenco eventi scaricato.
-const VERSION = "v4";
+const VERSION = "v5";
 const SHELL = `roma-oggi-shell-${VERSION}`;
 const DATA = "roma-oggi-data";
 const FILES = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/linceo.webp", "icons/favicon.png"];
@@ -32,14 +32,11 @@ self.addEventListener("fetch", (e) => {
     );
     return;
   }
-  // guscio dell'app: dalla cache, aggiornata in background
+  // guscio dell'app: prima la rete (aggiornamenti subito), se offline la copia salvata
   e.respondWith(
-    caches.match(req).then((hit) => {
-      const net = fetch(req).then((res) => {
-        if (res.ok) { const copy = res.clone(); caches.open(SHELL).then((c) => c.put(req, copy)); }
-        return res;
-      }).catch(() => hit);
-      return hit || net;
-    })
+    fetch(req).then((res) => {
+      if (res.ok) { const copy = res.clone(); caches.open(SHELL).then((c) => c.put(req, copy)); }
+      return res;
+    }).catch(() => caches.match(req).then((hit) => hit || caches.match("index.html")))
   );
 });

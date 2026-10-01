@@ -45,6 +45,82 @@
   const onDay = (list, day) => list.filter((e) => e.start <= day && day <= e.end);
   const isRange = (e) => e.kind === "festival" || e.kind === "mostra" || e.start !== e.end;
 
+  // ---------- aggiungi al calendario ----------
+  const p2 = (n) => String(n).padStart(2, "0");
+  const compact = (s) => s.replaceAll("-", "");
+  // ora di Roma -> istante UTC (corretto anche con l'ora legale)
+  function romeToUtc(day, time) {
+    const [y, m, d] = day.split("-").map(Number), [hh, mm] = time.split(":").map(Number);
+    const guess = Date.UTC(y, m - 1, d, hh, mm);
+    const parts = new Intl.DateTimeFormat("en-US", { timeZone: "Europe/Rome", hourCycle: "h23", year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric" }).formatToParts(new Date(guess));
+    const g = Object.fromEntries(parts.map((x) => [x.type, +x.value]));
+    return new Date(guess - (Date.UTC(g.year, g.month - 1, g.day, g.hour, g.minute) - guess));
+  }
+  const utcStamp = (d) => `${d.getUTCFullYear()}${p2(d.getUTCMonth() + 1)}${p2(d.getUTCDate())}T${p2(d.getUTCHours())}${p2(d.getUTCMinutes())}00Z`;
+  function calData(e) {
+    const where = [e.venue, e.address].filter(Boolean).join(", ");
+    const details = [e.description, e.url ? `Info: ${e.url}` : "", "Da Linceo"].filter(Boolean).join("\n\n");
+    if (e.time && !isRange(e)) {
+      const s = romeToUtc(e.start, e.time), en = new Date(s.getTime() + 2 * 3600e3);
+      return { e, where, details, allDay: false, s, en };
+    }
+    const last = addDays(fromIso(e.end || e.start), 1); // fine esclusiva
+    return { e, where, details, allDay: true, s: e.start, en: iso(last) };
+  }
+  function googleUrl(c) {
+    const q = new URLSearchParams({ action: "TEMPLATE", text: c.e.title, details: c.details, location: c.where });
+    q.set("dates", c.allDay ? `${compact(c.s)}/${compact(c.en)}` : `${utcStamp(c.s)}/${utcStamp(c.en)}`);
+    return `https://calendar.google.com/calendar/render?${q}`;
+  }
+  function outlookUrl(c, host) {
+    const q = new URLSearchParams({ path: "/calendar/action/compose", rru: "addevent", subject: c.e.title, body: c.details, location: c.where });
+    if (c.allDay) { q.set("allday", "true"); q.set("startdt", c.s); q.set("enddt", c.en); }
+    else { q.set("startdt", c.s.toISOString()); q.set("enddt", c.en.toISOString()); }
+    return `https://${host}/calendar/0/deeplink/compose?${q}`;
+  }
+  const esc = (t) => String(t || "").replace(/\\/g, "\\\\").replace(/;/g, "\\;").replace(/,/g, "\\,").replace(/\r?\n/g, "\\n");
+  const fold = (line) => line.length <= 73 ? line : line.match(/.{1,73}/gu).join("\r\n ");
+  function icsText(c) {
+    const uid = `${c.e.id || compact(c.e.start) + p2(c.e.title.length)}@linceo`;
+    const L = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Linceo//Roma//IT", "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "BEGIN:VEVENT", `UID:${uid}`, `DTSTAMP:${utcStamp(new Date())}`];
+    if (c.allDay) L.push(`DTSTART;VALUE=DATE:${compact(c.s)}`, `DTEND;VALUE=DATE:${compact(c.en)}`);
+    else L.push(`DTSTART:${utcStamp(c.s)}`, `DTEND:${utcStamp(c.en)}`);
+    L.push(`SUMMARY:${esc(c.e.title)}`, `LOCATION:${esc(c.where)}`, `DESCRIPTION:${esc(c.details)}`);
+    if (safeUrl(c.e.url)) L.push(`URL:${c.e.url}`);
+    L.push("END:VEVENT", "END:VCALENDAR");
+    return L.map(fold).join("\r\n") + "\r\n";
+  }
+  function openIcs(c) {
+    const name = `${c.e.title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40) || "evento"}.ics`;
+    const ios = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    const a = el("a", { href: `data:text/calendar;charset=utf-8,${encodeURIComponent(icsText(c))}`, download: ios ? null : name, rel: "noopener" });
+    document.body.append(a); a.click(); a.remove();
+  }
+
+  let sheet = null;
+  function closeSheet() { if (!sheet) return; const s = sheet; sheet = null; s.classList.remove("show"); setTimeout(() => s.remove(), 220); document.removeEventListener("keydown", onKey); if (s._from) s._from.focus(); }
+  function onKey(ev) { if (ev.key === "Escape") closeSheet(); }
+  function openSheet(e, from) {
+    closeSheet();
+    const c = calData(e);
+    const opt = (label, hint, act) => el("button", { class: "sheet-opt", type: "button", onclick() { act(); closeSheet(); } }, el("b", { text: label }), el("small", { text: hint }));
+    const when = isRange(e) ? `${shortDate(e.start)} – ${shortDate(e.end)}` : `${shortDate(e.start)}${e.time ? " · " + e.time : ""}`;
+    sheet = el("div", { class: "sheet", role: "dialog", "aria-modal": "true", "aria-label": "Aggiungi sul mio calendario", onclick(ev) { if (ev.target === ev.currentTarget) closeSheet(); } },
+      el("div", { class: "sheet-card" },
+        el("div", { class: "sheet-grip", "aria-hidden": "true" }),
+        el("h3", { text: "Aggiungi sul mio calendario" }),
+        el("p", { class: "sheet-ev", text: `${e.title} · ${when}` }),
+        opt("Apple Calendar", "iPhone, iPad, Mac", () => openIcs(c)),
+        opt("Google Calendar", "si apre nel browser", () => window.open(googleUrl(c), "_blank", "noopener")),
+        opt("Outlook", "outlook.com, Hotmail", () => window.open(outlookUrl(c, "outlook.live.com"), "_blank", "noopener")),
+        opt("Outlook di lavoro", "Microsoft 365", () => window.open(outlookUrl(c, "outlook.office.com"), "_blank", "noopener")),
+        el("button", { class: "sheet-cancel", type: "button", text: "Annulla", onclick: closeSheet })));
+    sheet._from = from;
+    document.body.append(sheet);
+    requestAnimationFrame(() => { sheet && sheet.classList.add("show"); sheet && sheet.querySelector(".sheet-opt").focus(); });
+    document.addEventListener("keydown", onKey);
+  }
+
   // ---------- componenti ----------
   function card(e) {
     const col = `var(--c-${CATS[e.cat] ? e.cat : "altro"})`;
@@ -71,6 +147,7 @@
         desc,
         e.note ? el("p", { class: "note", text: `Da verificare: ${e.note}` }) : null,
         el("div", { class: "actions" },
+          el("button", { class: "go cal", type: "button", text: "+ Aggiungi sul mio calendario", onclick(ev) { openSheet(e, ev.currentTarget); } }),
           url ? el("a", { class: "go", href: url, target: "_blank", rel: "noopener noreferrer", text: "Vedi evento →" }) : null,
           moreBtn)));
   }
@@ -172,7 +249,7 @@
     const saved = store.get("view"); if (["oggi", "domani", "weekend", "calendario"].includes(saved)) state.view = saved;
     state.month = new Date(state.now.getFullYear(), state.now.getMonth(), 1);
     state.picked = iso(state.now);
-    document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => { state.view = b.dataset.view; store.set("view", state.view); render(); window.scrollTo({ top: 0 }); }));
+    document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => { state.view = b.dataset.view; store.set("view", state.view); render(); window.scrollTo({ top: $("#app").offsetTop, behavior: "instant" }); }));
     try {
       const r = await fetch("data/events.json", { cache: "no-cache" });
       if (!r.ok) throw new Error(r.status);
@@ -196,23 +273,22 @@
   // Android/Chrome: Vibration API. iPhone: Safari non la supporta, ma un interruttore nativo (input switch)
   // attivato da un tocco produce il "tic" del sistema (iOS 17.4+). Se nessuno dei due c'è, resta il feedback visivo.
   const canVibrate = typeof navigator.vibrate === "function";
-  const quiet = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  let tickLabel = null;
+    let tickLabel = null;
   function iosTick() {
     if (!tickLabel) {
-      tickLabel = el("label", { "aria-hidden": "true", style: "position:fixed;left:-99px;top:-99px;opacity:0;pointer-events:none" }, el("input", { type: "checkbox", switch: true, tabindex: "-1" }));
-      document.body.append(tickLabel);
+      tickLabel = el("label", { "aria-hidden": "true", style: "display:none" }, el("input", { type: "checkbox", switch: true }));
+      document.head.append(tickLabel);
     }
     tickLabel.click();
   }
-  const TAP = "button, a.go, .chip, .cell, .tabs button";
+  const TAP = "button, a.go, .chip, .cell, .tabs button, .sheet-opt";
   document.addEventListener("pointerdown", (ev) => {
-    if (quiet || !canVibrate || ev.pointerType === "mouse") return;
+    if (!canVibrate || ev.pointerType === "mouse") return;
     const t = ev.target.closest(TAP);
     if (t) navigator.vibrate(t.matches(".tabs button, .cell") ? 14 : 9);
   }, { passive: true });
   document.addEventListener("click", (ev) => {
-    if (quiet || canVibrate || !ev.isTrusted) return;
+    if (canVibrate || !ev.isTrusted) return;
     if (ev.target.closest(TAP)) { try { iosTick(); } catch { /* nessun feedback disponibile */ } }
   });
 

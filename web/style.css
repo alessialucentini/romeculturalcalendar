@@ -168,3 +168,21 @@ html { scroll-snap-type: y proximity; scroll-behavior: smooth; }
 /* feedback visivo al tocco (si somma alla vibrazione) */
 .chip, .tabs button, .cell, .go, .more, .cal-head button, .cue { transition: transform .12s ease, box-shadow .2s, color .2s, opacity .2s; }
 .chip:active, .tabs button:active, .cell:active, .go:active, .cal-head button:active { transform: scale(.94); }
+
+/* ---------- aggiungi al calendario ---------- */
+.go.cal { border: 0; background: var(--bg); cursor: pointer; font: inherit; font-weight: 700; font-size: 13px; }
+.sheet { position: fixed; inset: 0; z-index: 50; display: flex; align-items: flex-end; justify-content: center; background: rgba(61, 55, 44, 0); transition: background .25s; }
+.sheet.show { background: rgba(61, 55, 44, .38); }
+.sheet-card {
+  width: min(100%, 520px); background: var(--bg); border-radius: 30px 30px 0 0; padding: 10px 20px calc(env(safe-area-inset-bottom) + 20px);
+  box-shadow: 0 -14px 40px rgba(61, 55, 44, .22); transform: translateY(100%); transition: transform .32s cubic-bezier(.2, .8, .2, 1);
+}
+.sheet.show .sheet-card { transform: none; }
+.sheet-grip { width: 44px; height: 5px; border-radius: 3px; background: var(--line); margin: 4px auto 14px; }
+.sheet-card h3 { margin: 0; text-align: center; font: 700 18px Inter, system-ui, sans-serif; letter-spacing: -.01em; }
+.sheet-ev { margin: 6px 0 18px; text-align: center; color: var(--ink-2); font-size: 13px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.sheet-opt { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; width: 100%; margin-bottom: 14px; padding: 14px 20px; border: 0; border-radius: 20px; background: var(--bg); box-shadow: var(--raise-sm); text-align: left; cursor: pointer; min-height: 56px; }
+.sheet-opt b { font-size: 15.5px; } .sheet-opt small { color: var(--ink-2); font-size: 12.5px; }
+.sheet-opt:active { box-shadow: var(--inset); transform: scale(.985); }
+.sheet-cancel { width: 100%; border: 0; background: none; padding: 12px; color: var(--ink-2); font-weight: 600; font-size: 14px; cursor: pointer; min-height: 44px; }
+@media (prefers-reduced-motion: reduce) { .sheet, .sheet-card { transition: none; } }
