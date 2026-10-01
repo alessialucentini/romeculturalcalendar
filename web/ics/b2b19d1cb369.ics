@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b2b19d1cb369@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20261007
+SUMMARY:Romaeuropa Festival 2026
+LOCATION:Teatro di Roma · Teatro Argentina
+DESCRIPTION:Info: https://www.teatrodiroma.net/progetti/collaborazioni/ro
+ maeuropa-festival-2026/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/progetti/collaborazioni/romaeuropa-festi
+ val-2026/
+END:VEVENT
+END:VCALENDAR

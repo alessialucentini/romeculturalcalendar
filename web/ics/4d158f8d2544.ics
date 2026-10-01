@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d158f8d2544@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:The Rake's Progress (La carriera di un libertino)
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/the-rakes-progress-
+ la-carriera-di-un-libertino/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/the-rakes-progress-la-carriera-di
+ -un-libertino/
+END:VEVENT
+END:VCALENDAR

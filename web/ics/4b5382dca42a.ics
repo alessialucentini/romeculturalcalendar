@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b5382dca42a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20270426
+SUMMARY:Il Villaggio Olimpico di Roma
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:focus · architetture dagli archivi del MAXXI · Il mondo in 
+ 300.000 mq\n\nInfo: https://www.maxxi.art/events/il-villaggio-olimpico-di
+ -roma/\n\nDa Linceo
+URL:https://www.maxxi.art/events/il-villaggio-olimpico-di-roma/
+END:VEVENT
+END:VCALENDAR

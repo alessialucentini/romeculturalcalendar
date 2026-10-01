@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3f3227856f3@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261001T150000Z
+DTEND:20261001T170000Z
+SUMMARY:I GRANDI FESTIVAL 2026 | 1 ottobre
+LOCATION:Cinema Eden\, Cinema Giulio Cesare\, Cinema Adriano
+DESCRIPTION:Le proiezioni del 1º ottobre 2026\n\nInfo: https://culture.r
+ oma.it/appuntamento/i-grandi-festival-2026-1-ottobre/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/i-grandi-festival-2026-1-ottobre
+ /
+END:VEVENT
+END:VCALENDAR

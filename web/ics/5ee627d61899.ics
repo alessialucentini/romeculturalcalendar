@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5ee627d61899@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:Lisette Oropesa
+LOCATION:Teatro dell’Opera di Roma
+DESCRIPTION:In concerto con il pianista Alessandro Praticò con il recita
+ l Mis amores son canciones\n\nInfo: https://culture.roma.it/appuntamento/
+ lisette-oropesa/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/lisette-oropesa/
+END:VEVENT
+END:VCALENDAR

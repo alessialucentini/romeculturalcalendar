@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c682225d531@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261005
+SUMMARY:Passeggiate Romane del 30 settembre e del 4 ottobre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Passeggiate in città a cura della Sovrintendenza Capitolina\
+ n\nInfo: https://culture.roma.it/appuntamento/passeggiate-romane-del-30-s
+ ettembre-e-del-4-ottobre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/passeggiate-romane-del-30-settem
+ bre-e-del-4-ottobre-2026/
+END:VEVENT
+END:VCALENDAR

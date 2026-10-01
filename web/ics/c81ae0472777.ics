@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c81ae0472777@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Jeremy Pelt Quintet
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ jeremy-pelt-quintet/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/jeremy-pelt-quintet/
+END:VEVENT
+END:VCALENDAR

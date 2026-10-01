@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7735cb5385d3@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261205T150000Z
+DTEND:20261205T170000Z
+SUMMARY:Di Spazio in Spazio
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · MAXXI in famiglia · Divento Spazio\n\
+ nInfo: https://www.maxxi.art/events/di-spazio-in-spazio-5dicembre-10-18me
+ si/\n\nDa Linceo
+URL:https://www.maxxi.art/events/di-spazio-in-spazio-5dicembre-10-18mesi/
+END:VEVENT
+END:VCALENDAR

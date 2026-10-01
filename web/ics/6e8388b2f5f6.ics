@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6e8388b2f5f6@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:Miguel Ángel Zotto\, Daiana Guspero in “Tango. Historias de As
+ tor”
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Danza\n\nInfo: https://www.auditorium.com/it/event/miguel-ang
+ el-zotto-daiana-guspero-in-tango-historias-de-astor/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/miguel-angel-zotto-daiana-guspero
+ -in-tango-historias-de-astor/
+END:VEVENT
+END:VCALENDAR

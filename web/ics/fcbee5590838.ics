@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fcbee5590838@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261112T183000Z
+DTEND:20261112T203000Z
+SUMMARY:Kirill Petrenko
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /kirill-petrenko-2026/?replica=1673\n\nDa Linceo
+URL:https://santacecilia.it/concerto/kirill-petrenko-2026/?replica=1673
+END:VEVENT
+END:VCALENDAR

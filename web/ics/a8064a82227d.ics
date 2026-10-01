@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a8064a82227d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261007T080000Z
+DTEND:20261007T100000Z
+SUMMARY:Rezza Mastrella a Tor Bella Monaca
+LOCATION:Piazze e strade di Tor Bella Monaca\, Tor Bella Monaca\, Roma\, 
+ RM\, Italia
+DESCRIPTION:Prima passeggiata: ricognizione iniziale\n\nInfo: https://cul
+ ture.roma.it/appuntamento/rezza-mastrella-a-tor-bella-monaca-2/\n\nDa Lin
+ ceo
+URL:https://culture.roma.it/appuntamento/rezza-mastrella-a-tor-bella-mona
+ ca-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6797f8a4f784@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Jlin\, Third Coast Percussion – “Vernacular”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Elettronica | Festival\n\nInfo: https://www.auditorium.com/it
+ /event/jlin-third-coast-percussion-vernacular/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/jlin-third-coast-percussion-verna
+ cular/
+END:VEVENT
+END:VCALENDAR

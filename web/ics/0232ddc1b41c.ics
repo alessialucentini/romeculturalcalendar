@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0232ddc1b41c@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261116T190000Z
+DTEND:20261116T210000Z
+SUMMARY:Enzo Favata – “Atlantico Reunion”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ enzo-favata-atlantico-reunion/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/enzo-favata-atlantico-reunion/
+END:VEVENT
+END:VCALENDAR

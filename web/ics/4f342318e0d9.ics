@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f342318e0d9@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270523T143000Z
+DTEND:20270523T163000Z
+SUMMARY:Code: Unknown
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/code-unknown/\n\nDa
+  Linceo
+URL:https://www.operaroma.it/spettacoli/code-unknown/
+END:VEVENT
+END:VCALENDAR

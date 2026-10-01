@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0a7adabc1443@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261115T170000Z
+DTEND:20261115T190000Z
+SUMMARY:Third Coast Percussion – “Philip Glass: Aguas da Amazonia”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Festival\n\nInfo: https://www.auditorium.com/
+ it/event/third-coast-percussion-philip-glass-aguas-da-amazonia/\n\nDa Lin
+ ceo
+URL:https://www.auditorium.com/it/event/third-coast-percussion-philip-gla
+ ss-aguas-da-amazonia/
+END:VEVENT
+END:VCALENDAR

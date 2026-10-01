@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29e4558148d9@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261025T100000Z
+DTEND:20261025T120000Z
+SUMMARY:LILO & STITCH
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Alcuni extraterrestri compiono un esperimento genetico\, che 
+ purtroppo non ha gli esiti sperati: il risultato è Stitch\, un buffo ani
+ maletto\, che ben presto riuscirà a fuggire. Stitch atterra sul pianeta 
+ terra\, più precisamente alle Hawaii\, dove viene adottato dalla piccola
+  Lilo e dalla sua famiglia\, e imparerà l'importanza dell'amore e della 
+ solidarietà. Intanto però l'animaletto deve vedersela co…\n\nInfo: ht
+ tps://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eabfa0ac66c3@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261024T090000Z
+DTEND:20261024T110000Z
+SUMMARY:VALHALLA RISING
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Un gruppo di vichinghi tiene intrappolato un uomo muto e mist
+ erioso dalle impressionanti capacità di combattimento\, facendolo lottar
+ e in combattimenti fino alla morte. Un giorno però il guerriero si liber
+ a uccidendo i suoi aguzzini\, risparmiando solo un bambino che negli anni
+  si è occupato di lui. Nel suo ritorno verso casa One-eye (nome datogli 
+ dal bambino) incontrerà un gruppo di cattolici e si…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

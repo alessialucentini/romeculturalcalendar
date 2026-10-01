@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f75d232544e6@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261122T100000Z
+DTEND:20261122T120000Z
+SUMMARY:Visita Guidata Quarticciolo
+LOCATION:Partenza da Piazza del Quarticciolo\, Piazza del Quarticciolo\, 
+ Roma\, RM\, Italia
+DESCRIPTION:Esplorazione urbana per il quartiere\n\nInfo: https://culture
+ .roma.it/appuntamento/visita-guidata-quarticciolo/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/visita-guidata-quarticciolo/
+END:VEVENT
+END:VCALENDAR

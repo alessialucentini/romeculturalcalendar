@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ea8b9073b80@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Gaia Banfi – “L’ultima Maccaia”
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Pop/Rock\n\nInfo: https://www.auditorium.com/it/event/gaia-ba
+ nfi-lultima-maccaia/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/gaia-banfi-lultima-maccaia/
+END:VEVENT
+END:VCALENDAR

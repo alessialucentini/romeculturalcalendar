@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a8c12b3ccec@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261103T190000Z
+DTEND:20261103T210000Z
+SUMMARY:Paolo Jannacci & Band – “Jannacci arrenditi! La città ascolt
+ a”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Info: https://www.auditorium.com/it/event/paolo-jannacci-jann
+ acci-arrenditi-la-citta-ascolta/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/paolo-jannacci-jannacci-arrenditi
+ -la-citta-ascolta/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f8b10bf6c68@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261206
+SUMMARY:The Rake's Progress – apertura stagione 2026/27
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7
+DESCRIPTION:Nuova produzione di Stravinskij diretta da Michele Mariotti\,
+  regia di Rafael R. Villalobos. Recite dal 27 novembre al 5 dicembre.\n\n
+ Info: https://www.operaroma.it\n\nDa Linceo
+URL:https://www.operaroma.it
+END:VEVENT
+END:VCALENDAR

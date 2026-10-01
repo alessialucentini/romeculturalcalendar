@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0e46451aed47@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261118T190000Z
+DTEND:20261118T210000Z
+SUMMARY:Gregory Hutchinson – “Kind of Now – The Pulse of Miles Davi
+ s”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ gregory-hutchinson-kind-of-now-the-pulse-of-miles-davis/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/gregory-hutchinson-kind-of-now-th
+ e-pulse-of-miles-davis/
+END:VEVENT
+END:VCALENDAR

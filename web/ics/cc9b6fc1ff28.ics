@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc9b6fc1ff28@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lizzi Bougatsos - Spatial Concert
+LOCATION:ERMES - ERMES\, Via dei Banchi Vecchi\, 16 \, Roma
+DESCRIPTION:Info: https://www.artribune.com/mostre-evento-arte/lizzi-boug
+ atsos-spatial-concert/\n\nDa Linceo
+URL:https://www.artribune.com/mostre-evento-arte/lizzi-bougatsos-spatial-
+ concert/
+END:VEVENT
+END:VCALENDAR

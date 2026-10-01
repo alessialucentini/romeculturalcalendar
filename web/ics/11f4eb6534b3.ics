@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11f4eb6534b3@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261008T070000Z
+DTEND:20261008T090000Z
+SUMMARY:Rezza Mastrella a Tor Bella Monaca
+LOCATION:Mercato di Tor Bella Monaca e zone limitrofe\, Tor Bella Monaca\
+ , Roma\, RM\, Italia
+DESCRIPTION:Seconda passeggiata: incontri al mercato\n\nInfo: https://cul
+ ture.roma.it/appuntamento/rezza-mastrella-a-tor-bella-monaca/\n\nDa Lince
+ o
+URL:https://culture.roma.it/appuntamento/rezza-mastrella-a-tor-bella-mona
+ ca/
+END:VEVENT
+END:VCALENDAR

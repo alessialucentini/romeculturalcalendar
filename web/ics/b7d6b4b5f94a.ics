@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7d6b4b5f94a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Vanessa Wagner – “Philip Glass: The Complete Piano Etudes”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Festival\n\nInfo: https://www.auditorium.com/
+ it/event/vanessa-wagner-philip-glass-the-complete-piano-etudes/\n\nDa Lin
+ ceo
+URL:https://www.auditorium.com/it/event/vanessa-wagner-philip-glass-the-c
+ omplete-piano-etudes/
+END:VEVENT
+END:VCALENDAR

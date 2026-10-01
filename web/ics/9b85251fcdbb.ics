@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b85251fcdbb@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261220T153000Z
+DTEND:20261220T173000Z
+SUMMARY:Peter Pan
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/peter-pan/\n\nDa Li
+ nceo
+URL:https://www.operaroma.it/spettacoli/peter-pan/
+END:VEVENT
+END:VCALENDAR

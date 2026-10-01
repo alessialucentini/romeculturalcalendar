@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:78f914f2e77d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261106T190000Z
+DTEND:20261106T210000Z
+SUMMARY:Hamilton De Holanda & Gonzalo Rubalcaba – “Collab”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ hamilton-de-hollanda-gonzalo-rubalcaba-collab/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/hamilton-de-hollanda-gonzalo-ruba
+ lcaba-collab/
+END:VEVENT
+END:VCALENDAR

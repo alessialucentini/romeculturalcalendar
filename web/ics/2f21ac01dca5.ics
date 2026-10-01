@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f21ac01dca5@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Steve Coleman & Five Elements
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ steve-coleman-five-elements-2/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/steve-coleman-five-elements-2/
+END:VEVENT
+END:VCALENDAR

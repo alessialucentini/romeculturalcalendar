@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:22061dd71047@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20261012
+SUMMARY:Donna in blu che legge una lettera (Vermeer)
+LOCATION:Gallerie Nazionali Barberini Corsini – Palazzo Barberini\, Via
+  delle Quattro Fontane 13
+DESCRIPTION:Il capolavoro di Johannes Vermeer ospite a Palazzo Barberini.
+ \n\nInfo: https://www.barberinicorsini.org\n\nDa Linceo
+URL:https://www.barberinicorsini.org
+END:VEVENT
+END:VCALENDAR

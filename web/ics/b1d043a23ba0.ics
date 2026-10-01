@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b1d043a23ba0@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270421T180000Z
+DTEND:20270421T200000Z
+SUMMARY:Piccinni e Gluck\, una corona per due
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:In occasione delle recite di Iphigénie en Tauride al Teatro 
+ Costanzi\, un racconto tra teatro e musica dal vivo che procede come una 
+ confessione sullo sfondo\n\nInfo: https://www.operaroma.it/spettacoli/pic
+ cinni-e-gluck-una-corona-per-due/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/piccinni-e-gluck-una-corona-per-d
+ ue/
+END:VEVENT
+END:VCALENDAR

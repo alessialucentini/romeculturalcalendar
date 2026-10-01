@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f500f1882f0d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261119T183000Z
+DTEND:20261119T203000Z
+SUMMARY:Antonio Pappano / Petrassi / Čajkovskij
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /antonio-pappano-petrassi-cajkovskij/?replica=1676\n\nDa Linceo
+URL:https://santacecilia.it/concerto/antonio-pappano-petrassi-cajkovskij/
+ ?replica=1676
+END:VEVENT
+END:VCALENDAR

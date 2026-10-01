@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:427b642cf0aa@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261010T060000Z
+DTEND:20261010T080000Z
+SUMMARY:La manifestival 2026 | 10 ottobre
+LOCATION:Vari luoghi del quartiere Garbatella
+DESCRIPTION:Tutti gli eventi del 10 ottobre 2026\n\nInfo: https://culture
+ .roma.it/appuntamento/la-manifestival-2026-10-ottobre/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/la-manifestival-2026-10-ottobre/
+END:VEVENT
+END:VCALENDAR

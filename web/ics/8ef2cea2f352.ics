@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ef2cea2f352@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20270208
+SUMMARY:Sophie Calle
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:mostra · Matrimoni\, Rotture e Funerali inclusi\n\nInfo: htt
+ ps://www.maxxi.art/events/sophie-calle-matrimoni-rotture-e-funerali-inclu
+ si/\n\nDa Linceo
+URL:https://www.maxxi.art/events/sophie-calle-matrimoni-rotture-e-funeral
+ i-inclusi/
+END:VEVENT
+END:VCALENDAR

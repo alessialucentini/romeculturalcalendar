@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20b118bdcf20@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261018T090000Z
+DTEND:20261018T110000Z
+SUMMARY:Augias / Principe / Cappelletto: I segreti di Wagner
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /augias-principe-cappelletto-i-segreti-di-wagner/?replica=1827\n\nDa Linc
+ eo
+URL:https://santacecilia.it/concerto/augias-principe-cappelletto-i-segret
+ i-di-wagner/?replica=1827
+END:VEVENT
+END:VCALENDAR

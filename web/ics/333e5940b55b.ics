@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:333e5940b55b@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+SUMMARY:aMICi: appuntamenti del 6 e 8 ottobre 2026
+LOCATION:Vari luoghi
+DESCRIPTION:Visite dedicate ai possessori della MiC card\n\nInfo: https:/
+ /culture.roma.it/appuntamento/amici-appuntamenti-del-6-e-8-ottobre-2026/\
+ n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/amici-appuntamenti-del-6-e-8-ott
+ obre-2026/
+END:VEVENT
+END:VCALENDAR

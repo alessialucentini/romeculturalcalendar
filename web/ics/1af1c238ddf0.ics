@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1af1c238ddf0@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261116T190000Z
+DTEND:20261116T210000Z
+SUMMARY:Händel: Theodora
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /handel-theodora/?replica=1656\n\nDa Linceo
+URL:https://santacecilia.it/concerto/handel-theodora/?replica=1656
+END:VEVENT
+END:VCALENDAR

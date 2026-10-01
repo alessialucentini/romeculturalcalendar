@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4adb85bdd0ae@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261026
+SUMMARY:Festa del Cinema di Roma
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · 21ma edizione\n\nInfo: https://www.maxxi.art/events
+ /festa-del-cinema-di-roma-2026/\n\nDa Linceo
+URL:https://www.maxxi.art/events/festa-del-cinema-di-roma-2026/
+END:VEVENT
+END:VCALENDAR

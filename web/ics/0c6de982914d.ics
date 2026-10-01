@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c6de982914d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20270201
+SUMMARY:Sensing the Future
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:mostra · extra MAXXI\n\nInfo: https://www.maxxi.art/events/s
+ ensing-the-future/\n\nDa Linceo
+URL:https://www.maxxi.art/events/sensing-the-future/
+END:VEVENT
+END:VCALENDAR

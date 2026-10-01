@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0f909cdaecf1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261116
+SUMMARY:Marina Bindella – Cosmogonie
+LOCATION:Museo Carlo Bilotti\, Viale Fiorello La Guardia (Villa Borghese)
+DESCRIPTION:Mostra di Marina Bindella a cura di Ilaria Schiaffini.\n\nInf
+ o: https://www.museocarlobilotti.it\n\nDa Linceo
+URL:https://www.museocarlobilotti.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d2edd1ea2cab@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261204T190000Z
+DTEND:20261204T210000Z
+SUMMARY:Il castello del Principe BarbablùNetrebko / Nánási
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/il-castello-del-pri
+ ncipe-barbablunetrebko-nanasi/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/il-castello-del-principe-barbablu
+ netrebko-nanasi/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:50380b8a9403@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261017T153000Z
+DTEND:20261017T173000Z
+SUMMARY:Di Spazio in Spazio
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · MAXXI in famiglia · Divento Spazio\n\
+ nInfo: https://www.maxxi.art/events/di-spazio-in-spazio-17ottobre-18-30me
+ si/\n\nDa Linceo
+URL:https://www.maxxi.art/events/di-spazio-in-spazio-17ottobre-18-30mesi/
+END:VEVENT
+END:VCALENDAR

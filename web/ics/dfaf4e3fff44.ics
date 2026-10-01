@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dfaf4e3fff44@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261018T090000Z
+DTEND:20261018T110000Z
+SUMMARY:Pocahontas
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Nel 1607 una spedizione inglese parte per il nuovo mondo\, es
+ attamente la Virginia\, a saccheggiarne il suo presunto oro. A capo della
+  spedizione c’è il governatore Ratcliffe e tra i suoi uomini c’è il
+  capitano John Smith. Quest'ultimo\, desideroso di esplorare questo posto
+ \, lontano e misterioso e le sue diversità con il vecchio continente\, l
+ ascia i suoi compagni per conoscere gli indigeni e tra que…\n\nInfo: ht
+ tps://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

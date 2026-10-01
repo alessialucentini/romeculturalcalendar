@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:871b198408d1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261119T170000Z
+DTEND:20261119T190000Z
+SUMMARY:Museo e Real Bosco di Capodimonte
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · Musei in transizione. Nuove sfide per le istituzion
+ i contemporanee · Eike Schmidt\n\nInfo: https://www.maxxi.art/events/mus
+ eo-e-real-bosco-di-capodimonte/\n\nDa Linceo
+URL:https://www.maxxi.art/events/museo-e-real-bosco-di-capodimonte/
+END:VEVENT
+END:VCALENDAR

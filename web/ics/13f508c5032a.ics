@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13f508c5032a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20270217
+SUMMARY:Rassegna Ritratto d’autore
+LOCATION:Teatro di Roma · Teatro Argentina
+DESCRIPTION:Info: https://www.teatrodiroma.net/progetti/attivita-cultural
+ i/rassegna-ritratto-dautore-a-cura-di-roma-tre-orchestra/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/progetti/attivita-culturali/rassegna-rit
+ ratto-dautore-a-cura-di-roma-tre-orchestra/
+END:VEVENT
+END:VCALENDAR

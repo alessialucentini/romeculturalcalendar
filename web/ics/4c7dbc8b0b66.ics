@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4c7dbc8b0b66@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:The Köln Concert
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Festival\n\nInfo: https://santacecilia.it/con
+ certo/the-koln-concert/?replica=1782\n\nDa Linceo
+URL:https://santacecilia.it/concerto/the-koln-concert/?replica=1782
+END:VEVENT
+END:VCALENDAR

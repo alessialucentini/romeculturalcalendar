@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6fc0ef5c6bfa@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270418T170000Z
+DTEND:20270418T190000Z
+SUMMARY:Iphigénie en Tauride
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/iphigenie-en-taurid
+ e/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/iphigenie-en-tauride/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25a7a61681e2@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270605T130000Z
+DTEND:20270605T150000Z
+SUMMARY:Don Chisciotte
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/don-chisciotte-5/\n
+ \nDa Linceo
+URL:https://www.operaroma.it/spettacoli/don-chisciotte-5/
+END:VEVENT
+END:VCALENDAR

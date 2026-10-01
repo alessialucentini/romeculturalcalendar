@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0da0e83eb97d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261013T163000Z
+DTEND:20261013T183000Z
+SUMMARY:La Commare Secca
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Quando una donna viene uccisa in un parco\, la polizia raccog
+ lie tutti i sospetti e testimoni per interrogarli: uno di loro Ã¨ l'ass
+ assino.\n\nInfo: https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

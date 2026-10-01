@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a165c945689@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270207T153000Z
+DTEND:20270207T173000Z
+SUMMARY:Terza Sinfonia di Mahler
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/terza-sinfonia-di-m
+ ahler/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/terza-sinfonia-di-mahler/
+END:VEVENT
+END:VCALENDAR

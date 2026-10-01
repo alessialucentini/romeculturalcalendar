@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:325aa76fc10f@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261106T190000Z
+DTEND:20261106T210000Z
+SUMMARY:Alexander Soddy – Poulenc / Prokofiev
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /alexander-soddy-poulenc-prokofiev-dukas/?replica=1671\n\nDa Linceo
+URL:https://santacecilia.it/concerto/alexander-soddy-poulenc-prokofiev-du
+ kas/?replica=1671
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:397501550bea@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20261228
+SUMMARY:Visite guidate al Criptoportico delle Terme di Traiano
+LOCATION:Colle Oppio - Terme di Traiano\, Parco del Colle Oppio e delle t
+ erme di Traiano\, Vle del Monte Oppio\, 00184 Roma RM\, Italia
+DESCRIPTION:Visita in lingua italiana della Galleria e all’Esedra (sopr
+ astante – all’aperto)\n\nInfo: https://culture.roma.it/appuntamento/v
+ isite-guidate-al-criptoportico-delle-terme-di-traiano/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/visite-guidate-al-criptoportico-
+ delle-terme-di-traiano/
+END:VEVENT
+END:VCALENDAR

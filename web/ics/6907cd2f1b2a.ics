@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6907cd2f1b2a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+SUMMARY:Pazzo ad Arte
+LOCATION:Teatro di Roma · Teatro Torlonia
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-torlonia/pazzo-ad-arte-
+ stagione-2026-2027-teatro-torlonia/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-torlonia/pazzo-ad-arte-stagione-2026-
+ 2027-teatro-torlonia/
+END:VEVENT
+END:VCALENDAR

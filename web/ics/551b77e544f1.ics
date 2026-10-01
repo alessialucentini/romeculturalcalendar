@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:551b77e544f1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261007T070000Z
+DTEND:20261007T090000Z
+SUMMARY:NAZA
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Nel corso di conversazioni segrete sui tetti di Tel Aviv\, di
+  notte\, i meccanismi alla base della sistematica e calcolata uccisione d
+ i massa di civili palestinesi a Gaza a opera di Israele vengono svelati d
+ alle stesse persone che li hanno progettati e gestiti.\n\nInfo: https://w
+ ww.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

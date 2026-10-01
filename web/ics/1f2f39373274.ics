@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1f2f39373274@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261102T190000Z
+DTEND:20261102T210000Z
+SUMMARY:Giulia Mazzoni Live
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Crossover\n\nInfo: https://www.auditorium.com/it/event/giulia
+ -mazzoni-live/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/giulia-mazzoni-live/
+END:VEVENT
+END:VCALENDAR

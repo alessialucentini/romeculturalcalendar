@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c64a9d8f763@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20270412
+SUMMARY:Keith Haring
+LOCATION:Museo di Roma – Palazzo Braschi\, Piazza di San Pantaleo 10
+DESCRIPTION:Grande mostra dedicata a Keith Haring.\n\nInfo: https://www.m
+ useodiroma.it\n\nDa Linceo
+URL:https://www.museodiroma.it
+END:VEVENT
+END:VCALENDAR

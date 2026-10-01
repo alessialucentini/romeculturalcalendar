@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b2b98079a9a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:Più libri più liberi (25ª edizione)
+LOCATION:La Nuvola\, Viale Asia 40
+DESCRIPTION:Fiera nazionale della piccola e media editoria. Tema 2026: «
+ Se guardi meglio cosa vedi?».\n\nInfo: https://www.plpl.it\n\nDa Linceo
+URL:https://www.plpl.it
+END:VEVENT
+END:VCALENDAR

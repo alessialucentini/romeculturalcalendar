@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6b3ee4e2a24c@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270522T160000Z
+DTEND:20270522T180000Z
+SUMMARY:Una Lady Macbeth del distretto di Mzensk
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/una-lady-macbeth-de
+ l-distretto-di-mzensk/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/una-lady-macbeth-del-distretto-di
+ -mzensk/
+END:VEVENT
+END:VCALENDAR

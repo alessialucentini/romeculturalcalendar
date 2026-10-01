@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:74883c0e7090@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270320T170000Z
+DTEND:20270320T190000Z
+SUMMARY:I due Foscari
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/i-due-foscari/\n\nD
+ a Linceo
+URL:https://www.operaroma.it/spettacoli/i-due-foscari/
+END:VEVENT
+END:VCALENDAR

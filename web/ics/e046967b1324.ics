@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e046967b1324@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:La manifestival 2026 | Le mostre
+LOCATION:Vari luoghi del quartiere Garbatella
+DESCRIPTION:Mostre da venerdì a domenica\n\nInfo: https://culture.roma.i
+ t/appuntamento/la-manifestival-2026-le-mostre/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/la-manifestival-2026-le-mostre/
+END:VEVENT
+END:VCALENDAR

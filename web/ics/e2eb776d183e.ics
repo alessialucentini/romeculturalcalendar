@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2eb776d183e@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261003T090000Z
+DTEND:20261003T110000Z
+SUMMARY:DRIVE
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Driver (non ha un nome) ha più di un lavoro. È un esperto m
+ eccanico in una piccola officina. Fa lo stuntmen per riprese automobilist
+ iche e accompagna rapinatori sul luogo del delitto garantendo loro una fu
+ ga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : c
+ orrere in circuiti professionistici. Ma le cose vanno diversamente. Drive
+ r conosce e si innamora di Irene\, una vicina di c…\n\nInfo: https://ww
+ w.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

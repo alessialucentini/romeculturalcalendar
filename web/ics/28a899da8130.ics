@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:28a899da8130@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261017T083000Z
+DTEND:20261017T103000Z
+SUMMARY:I SOGNI DIETRO LA COLLINA
+LOCATION:Corso Francia\, incrocio con scalinata Via Ronciglione\, Corso d
+ i Francia\, Roma\, RM\, Italia
+DESCRIPTION:Passeggiata e spettacolo\n\nInfo: https://culture.roma.it/app
+ untamento/i-sogni-dietro-la-collina/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/i-sogni-dietro-la-collina/
+END:VEVENT
+END:VCALENDAR

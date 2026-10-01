@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d39450ecba8a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+SUMMARY:Laudato sii
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Info: https://www.auditorium.com/it/event/laudato-sii/\n\nDa 
+ Linceo
+URL:https://www.auditorium.com/it/event/laudato-sii/
+END:VEVENT
+END:VCALENDAR

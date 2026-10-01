@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9db7b85f39a7@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261122T093000Z
+DTEND:20261122T113000Z
+SUMMARY:The Glocal Piano Festival
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Classica\n\nInfo: https://santacecilia.it/concerto/the-glocal
+ -piano-festival/?replica=1831\n\nDa Linceo
+URL:https://santacecilia.it/concerto/the-glocal-piano-festival/?replica=1
+ 831
+END:VEVENT
+END:VCALENDAR

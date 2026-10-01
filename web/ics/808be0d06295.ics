@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:808be0d06295@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261010T090000Z
+DTEND:20261010T110000Z
+SUMMARY:XXII Giornata del Contemporaneo
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento\n\nInfo: https://www.maxxi.art/events/xxii-giornata-de
+ l-contemporaneo/\n\nDa Linceo
+URL:https://www.maxxi.art/events/xxii-giornata-del-contemporaneo/
+END:VEVENT
+END:VCALENDAR

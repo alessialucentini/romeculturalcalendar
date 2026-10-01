@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f93fb0297d93@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261025T103000Z
+DTEND:20261025T123000Z
+SUMMARY:Sophie Calle
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · visite guidate · Matrimoni\, Rotture 
+ e Funerali inclusi\n\nInfo: https://www.maxxi.art/events/sophie-calle-vis
+ ita-guidata-25ottobre/\n\nDa Linceo
+URL:https://www.maxxi.art/events/sophie-calle-visita-guidata-25ottobre/
+END:VEVENT
+END:VCALENDAR

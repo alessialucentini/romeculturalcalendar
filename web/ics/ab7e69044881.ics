@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab7e69044881@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270523T160000Z
+DTEND:20270523T180000Z
+SUMMARY:È ancora troppo presto
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Dall'omicidio di Aldo Moro al delitto di Piersanti Mattarella
+ \, dalle stragi di mafia del 1992 alla coltre di depistaggi istituzionali
+  ancora attualissimi. Un\n\nInfo: https://www.operaroma.it/spettacoli/e-a
+ ncora-troppo-presto/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/e-ancora-troppo-presto/
+END:VEVENT
+END:VCALENDAR

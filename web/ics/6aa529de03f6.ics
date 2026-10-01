@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6aa529de03f6@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20270111
+SUMMARY:Claudia Peill - Extension
+LOCATION:MUSEO BONCOMPAGNI LUDOVISI\, Via Boncompagni 18 Roma\, Roma
+DESCRIPTION:&#8220\;Extension”\, la mostra che intende valorizzare la r
+ ecente evoluzione della ricerca trentennale dell’artista attraverso un 
+ dialogo con la collezione dello spazio.\n\nInfo: https://www.artribune.co
+ m/mostre-evento-arte/claudia-peill-extension/\n\nDa Linceo
+URL:https://www.artribune.com/mostre-evento-arte/claudia-peill-extension/
+END:VEVENT
+END:VCALENDAR

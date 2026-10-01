@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c6dfcebb049@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261026T193000Z
+DTEND:20261026T213000Z
+SUMMARY:ICONE DELLA DANZA
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Dopo il successo del debutto parigino\, Icone della Danza\, i
+ l prestigioso gala ideato e diretto da Eleonora Abbagnato\, approda luned
+ ì 26 ottobre 2026\, alle 20.30\n\nInfo: https://www.operaroma.it/spettac
+ oli/icone-della-danza/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/icone-della-danza/
+END:VEVENT
+END:VCALENDAR

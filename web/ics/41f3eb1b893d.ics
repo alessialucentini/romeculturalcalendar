@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:41f3eb1b893d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270226T190000Z
+DTEND:20270226T210000Z
+SUMMARY:Lucia di Lammermoor
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/lucia-di-lammermoor
+ -2/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/lucia-di-lammermoor-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:14aae0d42f03@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270124T153000Z
+DTEND:20270124T173000Z
+SUMMARY:Andrea Chénier
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/andrea-chenier-3/\n
+ \nDa Linceo
+URL:https://www.operaroma.it/spettacoli/andrea-chenier-3/
+END:VEVENT
+END:VCALENDAR

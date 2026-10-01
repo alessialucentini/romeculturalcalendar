@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:41518d4ec583@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261012
+SUMMARY:Tevere Day 2026
+LOCATION:Vari luoghi
+DESCRIPTION:In occasione del Tevere day la Sovrintendenza Capitolina pres
+ enta alcune attività pensate per soffermarsi a osservare\, ascoltare e i
+ mmaginare il dialogo tra il fiume e la città\n\nInfo: https://culture.ro
+ ma.it/appuntamento/tevere-day-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/tevere-day-2026/
+END:VEVENT
+END:VCALENDAR

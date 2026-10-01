@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9c2500d95d98@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20261005
+SUMMARY:L'Angelo e la Luna 2026
+LOCATION:Castel Sant'Angelo\, Lungotevere Castello 50
+DESCRIPTION:Rassegna di danza\, circo contemporaneo\, teatro e musica a C
+ astel Sant'Angelo.\n\nInfo: https://www.romeing.it/it/category/eventi-a-r
+ oma/musica-a-roma/\n\nDa Linceo
+URL:https://www.romeing.it/it/category/eventi-a-roma/musica-a-roma/
+END:VEVENT
+END:VCALENDAR

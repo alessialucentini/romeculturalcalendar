@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ecf94ea5c268@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261123
+SUMMARY:Fabiola Ferrero - Las Grietas
+LOCATION:MUSEO DI ROMA IN TRASTEVERE\, Piazza S. Egidio 1B \, Roma
+DESCRIPTION:Mostra personale della fotografa e giornalista venezuelana Fa
+ biola Ferrero\, vincitrice del XVI Premio IILA-Fotografia.\n\nInfo: https
+ ://www.artribune.com/mostre-evento-arte/fabiola-ferrero-las-grietas/\n\nD
+ a Linceo
+URL:https://www.artribune.com/mostre-evento-arte/fabiola-ferrero-las-grie
+ tas/
+END:VEVENT
+END:VCALENDAR

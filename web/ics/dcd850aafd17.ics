@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dcd850aafd17@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261114T183000Z
+DTEND:20261114T203000Z
+SUMMARY:Nexus Quartet – “Appunti di viaggio”
+LOCATION:Auditorium Parco della Musica · Casa del Jazz\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ nexus-quartet-appunti-di-viaggio/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/nexus-quartet-appunti-di-viaggio/
+END:VEVENT
+END:VCALENDAR

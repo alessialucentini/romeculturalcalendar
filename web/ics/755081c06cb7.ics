@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:755081c06cb7@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261113T190000Z
+DTEND:20261113T210000Z
+SUMMARY:PMCE – “HUELLAS 2. Il cammino della nuova musica dalla Spagna
+ ”
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea\n\nInfo: https://www.auditorium.com/it/event/pm
+ ce-huellas-2-il-cammino-della-nuova-musica-dalla-spagna/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/pmce-huellas-2-il-cammino-della-n
+ uova-musica-dalla-spagna/
+END:VEVENT
+END:VCALENDAR

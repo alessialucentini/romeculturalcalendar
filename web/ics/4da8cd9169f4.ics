@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4da8cd9169f4@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261030T183000Z
+DTEND:20261030T203000Z
+SUMMARY:Lezioni di creatività contemporanea – Alessandro Sartori\, dir
+ ettore artistico ZEGNA
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Incontri | Rassegne\n\nInfo: https://www.auditorium.com/it/ev
+ ent/lezioni-di-creativita-contemporanea-alessandro-sartori-direttore-arti
+ stico-zegna/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/lezioni-di-creativita-contemporan
+ ea-alessandro-sartori-direttore-artistico-zegna/
+END:VEVENT
+END:VCALENDAR

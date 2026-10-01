@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:beccdd88749c@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:Joe Jackson + Band
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Info: https://www.auditorium.com/it/event/joe-jackson-band/\n
+ \nDa Linceo
+URL:https://www.auditorium.com/it/event/joe-jackson-band/
+END:VEVENT
+END:VCALENDAR

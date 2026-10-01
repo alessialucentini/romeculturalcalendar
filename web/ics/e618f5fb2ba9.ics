@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e618f5fb2ba9@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20261116
+SUMMARY:Romaeuropa Festival 2026 (41ª edizione)
+LOCATION:Vari spazi di Roma (Mattatoio\, Teatro India\, Auditorium…)\, 
+ Programma su romaeuropa.net
+DESCRIPTION:Danza\, teatro\, circo contemporaneo\, arte\, musica e mostre
+ : oltre 1.000 artisti\, circa 100 spettacoli in 20 spazi. Quest'anno omag
+ gio ai 75 anni di relazioni Italia-Germania.\n\nInfo: https://romaeuropa.
+ net/programma/\n\nDa Linceo
+URL:https://romaeuropa.net/programma/
+END:VEVENT
+END:VCALENDAR

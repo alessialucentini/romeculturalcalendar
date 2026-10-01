@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9173f487007f@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:The Scoop Jazz Band
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · musica · I nostri primi ottant’anni. La musica i
+ ncontra l’architettura\n\nInfo: https://www.maxxi.art/events/the-scoop-
+ jazz-band-la-musica-incontra-larchitettura/\n\nDa Linceo
+URL:https://www.maxxi.art/events/the-scoop-jazz-band-la-musica-incontra-l
+ architettura/
+END:VEVENT
+END:VCALENDAR

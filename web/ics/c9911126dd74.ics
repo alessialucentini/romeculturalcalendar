@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9911126dd74@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Archeologia in Comune: appuntamenti dell'8 e 11 ottobre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Visite guidate nelle aree archeologiche a cura della Sovrinte
+ ndenza Capitolina\n\nInfo: https://culture.roma.it/appuntamento/archeolog
+ ia-in-comune-appuntamenti-dell8-e-11-ottobre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/archeologia-in-comune-appuntamen
+ ti-dell8-e-11-ottobre-2026/
+END:VEVENT
+END:VCALENDAR

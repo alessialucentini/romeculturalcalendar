@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc453854c518@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+SUMMARY:Carlo Molinari
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Jazz\n\nInfo: https://www.auditorium.com/it/event/carlo-molin
+ ari-2/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/carlo-molinari-2/
+END:VEVENT
+END:VCALENDAR

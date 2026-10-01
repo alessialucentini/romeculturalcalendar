@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72f25d4f894f@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261221
+SUMMARY:Corpi in ascolto | Incontri e conferenze
+LOCATION:Vari luoghi
+DESCRIPTION:La danza va a scuola\, Corpo a(l) corpo\, Creazioni Accessibi
+ li – Ipse Lab e Creazioni Accessibili – Arti Performative e Accessibi
+ lità\n\nInfo: https://culture.roma.it/appuntamento/corpi-in-ascolto-inco
+ ntri-e-conferenze/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/corpi-in-ascolto-incontri-e-conf
+ erenze/
+END:VEVENT
+END:VCALENDAR

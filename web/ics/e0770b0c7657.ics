@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0770b0c7657@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270331T180000Z
+DTEND:20270331T200000Z
+SUMMARY:MOTUSBlanc / McGregor / Ekman
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/motusblanc-mcgregor
+ -ekman/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/motusblanc-mcgregor-ekman/
+END:VEVENT
+END:VCALENDAR

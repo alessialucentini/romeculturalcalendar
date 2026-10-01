@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a408e367b59d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Domenico Rizzuto Trio – “Disastri quotidiani”
+LOCATION:Auditorium Parco della Musica · Casa del Jazz\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ domenico-rizzuto-trio-disastri-quotidiani/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/domenico-rizzuto-trio-disastri-qu
+ otidiani/
+END:VEVENT
+END:VCALENDAR

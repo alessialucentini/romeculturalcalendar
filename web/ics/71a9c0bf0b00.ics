@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71a9c0bf0b00@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261113T190000Z
+DTEND:20261113T210000Z
+SUMMARY:Murubutu
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Rap\n\nInfo: https://www.auditorium.com/it/event/murubutu/\n\
+ nDa Linceo
+URL:https://www.auditorium.com/it/event/murubutu/
+END:VEVENT
+END:VCALENDAR

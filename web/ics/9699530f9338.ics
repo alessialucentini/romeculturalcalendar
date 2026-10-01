@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9699530f9338@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261026
+SUMMARY:Rome Art Week 2026 (11ª edizione)
+LOCATION:Gallerie\, fondazioni\, studi e istituti in tutta Roma\, Mappa e
+  calendario su romeartweek.com
+DESCRIPTION:Settimana diffusa dell'arte contemporanea: centinaia di event
+ i gratuiti\, open studio degli artisti\, tour guidati.\n\nInfo: https://w
+ ww.romeartweek.com\n\nDa Linceo
+URL:https://www.romeartweek.com
+END:VEVENT
+END:VCALENDAR

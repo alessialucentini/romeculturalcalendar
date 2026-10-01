@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b1b05dc74c0a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:Passeggiate Romane del 13\, 14 e 15 ottobre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Passeggiate in città a cura della Sovrintendenza\n\nInfo: ht
+ tps://culture.roma.it/appuntamento/passeggiate-romane-del-13-14-e-15-otto
+ bre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/passeggiate-romane-del-13-14-e-1
+ 5-ottobre-2026/
+END:VEVENT
+END:VCALENDAR

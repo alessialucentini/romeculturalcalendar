@@ -91,9 +91,11 @@
     return L.map(fold).join("\r\n") + "\r\n";
   }
   function openIcs(c) {
-    const name = `${c.e.title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40) || "evento"}.ics`;
     const ios = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-    const a = el("a", { href: `data:text/calendar;charset=utf-8,${encodeURIComponent(icsText(c))}`, download: ios ? null : name, rel: "noopener" });
+    const name = `${c.e.title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40) || "evento"}.ics`;
+    // file vero generato dallo scraper (web/ics/<id>.ics): iPhone lo apre direttamente nel Calendario
+    const href = c.e.id ? new URL(`ics/${c.e.id}.ics`, location.href).href : `data:text/calendar;charset=utf-8,${encodeURIComponent(icsText(c))}`;
+    const a = el("a", { href, download: ios ? null : name, target: ios ? "_blank" : null, rel: "noopener" });
     document.body.append(a); a.click(); a.remove();
   }
 
@@ -147,7 +149,7 @@
         desc,
         e.note ? el("p", { class: "note", text: `Da verificare: ${e.note}` }) : null,
         el("div", { class: "actions" },
-          el("button", { class: "go cal", type: "button", text: "+ Aggiungi sul mio calendario", onclick(ev) { openSheet(e, ev.currentTarget); } }),
+          el("button", { class: "go cal", type: "button", text: "Aggiungi sul mio calendario", onclick(ev) { openSheet(e, ev.currentTarget); } }),
           url ? el("a", { class: "go", href: url, target: "_blank", rel: "noopener noreferrer", text: "Vedi evento →" }) : null,
           moreBtn)));
   }
@@ -166,6 +168,41 @@
     if (going.length) { sec.append(el("div", { class: "sub", text: `In corso · ${going.length}` }), ...going.map(card)); }
     return sec;
   }
+
+  // ---------- movimento morbido ----------
+  const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  // cambia vista con una transizione (View Transitions API); dove non c'è, dissolvenza CSS
+  function swap(fn, dir = "fade") {
+    const main = $("#main");
+    if (reduceMotion) { fn(); return; }
+    if (document.startViewTransition) {
+      document.documentElement.dataset.dir = dir;
+      const t = document.startViewTransition(() => { fn(); });
+      t.finished.finally(() => { delete document.documentElement.dataset.dir; });
+    } else {
+      fn(); main.classList.remove("fresh"); void main.offsetWidth; main.classList.add("fresh");
+    }
+  }
+  // le schede compaiono con una dolce salita quando entrano nello schermo
+  let cardIO = null;
+  function revealCards() {
+    const cards = [...document.querySelectorAll("#main .card:not(.seen)")];
+    if (reduceMotion || !("IntersectionObserver" in window)) { cards.forEach((c) => c.classList.add("seen")); return; }
+    if (!cardIO) {
+      cardIO = new IntersectionObserver((es) => {
+        let k = 0;
+        es.filter((e) => e.isIntersecting).forEach((e) => { e.target.style.transitionDelay = `${Math.min(k++, 6) * 55}ms`; e.target.classList.add("seen"); cardIO.unobserve(e.target); });
+      }, { rootMargin: "0px 0px -6% 0px", threshold: 0.05 });
+    }
+    cards.forEach((c) => { const r = c.getBoundingClientRect(); const top = $("#app").getBoundingClientRect().top; if (top <= 0 && r.top < innerHeight) c.classList.add("seen"); else cardIO.observe(c); });
+  }
+  // la pillola dei tab scorre sotto il tab scelto
+  function movePill() {
+    const sel = document.querySelector('.tabs [aria-selected="true"]'), pill = $(".tab-pill");
+    if (!sel || !pill) return;
+    pill.style.setProperty("--x", `${sel.offsetLeft}px`); pill.style.setProperty("--w", `${sel.offsetWidth}px`);
+  }
+  window.addEventListener("resize", movePill);
 
   // ---------- viste ----------
   function renderList() {
@@ -198,15 +235,15 @@
       grid.append(el("button", {
         class: `cell${d.getMonth() !== m.getMonth() ? " out" : ""}${key === todayIso ? " today" : ""}`, type: "button",
         "aria-pressed": String(key === state.picked), "aria-label": `${longDay(d)}, ${dayEv.length} eventi`,
-        onclick() { state.picked = key; renderCalendar(); },
+        onclick() { state.picked = key; swap(() => { renderCalendar(); revealCards(); }); },
       }, el("span", { class: "n", text: d.getDate() }),
       el("span", { class: "dots" }, cats.slice(0, 3).map((c) => el("i", { style: `--col:var(--c-${CATS[c] ? c : "altro"})` })), cats.length > 3 ? el("em", { text: `+${cats.length - 3}` }) : null)));
     }
     main.append(
       el("div", { class: "cal-head" },
-        el("button", { type: "button", "aria-label": "Mese precedente", text: "‹", onclick() { state.month = new Date(m.getFullYear(), m.getMonth() - 1, 1); renderCalendar(); } }),
+        el("button", { type: "button", "aria-label": "Mese precedente", text: "‹", onclick() { state.month = new Date(m.getFullYear(), m.getMonth() - 1, 1); swap(() => { renderCalendar(); revealCards(); }, "prev"); } }),
         el("h2", { text: `${MESI[m.getMonth()]} ${m.getFullYear()}` }),
-        el("button", { type: "button", "aria-label": "Mese successivo", text: "›", onclick() { state.month = new Date(m.getFullYear(), m.getMonth() + 1, 1); renderCalendar(); } })),
+        el("button", { type: "button", "aria-label": "Mese successivo", text: "›", onclick() { state.month = new Date(m.getFullYear(), m.getMonth() + 1, 1); swap(() => { renderCalendar(); revealCards(); }, "next"); } })),
       grid,
       daySection(fromIso(state.picked)));
   }
@@ -214,6 +251,7 @@
   function render() {
     document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
     state.view === "calendario" ? renderCalendar() : renderList();
+    movePill(); revealCards();
   }
 
   function renderChips() {
@@ -227,7 +265,7 @@
           state.hidden.has(k) ? state.hidden.delete(k) : state.hidden.add(k);
           store.set("hidden", JSON.stringify([...state.hidden]));
           b.setAttribute("aria-pressed", String(!state.hidden.has(k))); b.classList.toggle("dim", state.hidden.has(k));
-          render();
+          swap(render);
         },
       }, el("i"), label));
     });
@@ -249,7 +287,13 @@
     const saved = store.get("view"); if (["oggi", "domani", "weekend", "calendario"].includes(saved)) state.view = saved;
     state.month = new Date(state.now.getFullYear(), state.now.getMonth(), 1);
     state.picked = iso(state.now);
-    document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => { state.view = b.dataset.view; store.set("view", state.view); render(); window.scrollTo({ top: $("#app").offsetTop, behavior: "instant" }); }));
+    document.querySelectorAll(".tabs button").forEach((b) => b.addEventListener("click", () => {
+      const order = ["oggi", "domani", "weekend", "calendario"];
+      if (b.dataset.view === state.view) return;
+      const dir = order.indexOf(b.dataset.view) > order.indexOf(state.view) ? "next" : "prev";
+      state.view = b.dataset.view; store.set("view", state.view);
+      swap(() => { render(); if ($("#app").getBoundingClientRect().top < 0) window.scrollTo({ top: $("#app").offsetTop, behavior: "instant" }); }, dir);
+    }));
     try {
       const r = await fetch("data/events.json", { cache: "no-cache" });
       if (!r.ok) throw new Error(r.status);
@@ -262,6 +306,7 @@
     header(); renderChips();
     document.querySelectorAll(".chip").forEach((c, i) => { const k = Object.keys(CATS).filter((x) => new Set(state.events.map((e) => e.cat)).has(x))[i]; c.classList.toggle("dim", state.hidden.has(k)); });
     render();
+    requestAnimationFrame(() => requestAnimationFrame(() => $(".tabs").classList.add("ready")));
     // se l'app resta aperta oltre la mezzanotte, ricalcola "oggi" al ritorno in primo piano
     document.addEventListener("visibilitychange", () => {
       if (document.visibilityState !== "visible") return;
@@ -300,7 +345,8 @@
   let ticking = false;
   window.addEventListener("scroll", () => {
     if (ticking) return; ticking = true;
-    requestAnimationFrame(() => { splashIn.style.setProperty("--p", Math.min(Math.max(window.scrollY / window.innerHeight, 0), 1).toFixed(3)); ticking = false; });
+    requestAnimationFrame(() => { splashIn.style.setProperty("--p", Math.min(Math.max(window.scrollY / window.innerHeight, 0), 1).toFixed(3));
+      const stuck = app.getBoundingClientRect().top <= -2 && window.scrollY > 0; document.querySelector("header.top").classList.toggle("stuck", stuck); ticking = false; });
   }, { passive: true });
   if ("IntersectionObserver" in window) {
     new IntersectionObserver((es, o) => { if (es.some((e) => e.isIntersecting)) { app.classList.add("in"); o.disconnect(); } }, { threshold: 0, rootMargin: "0px 0px -18% 0px" }).observe(app);

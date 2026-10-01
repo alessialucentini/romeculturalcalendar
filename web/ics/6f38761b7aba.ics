@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f38761b7aba@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261006T161500Z
+DTEND:20261006T181500Z
+SUMMARY:The Bibi Files
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:A poche settimane dalle elezioni che potrebbero decidere il f
+ uturo politico di Netanyahu\, arriva nei cinema italiani THE BIBI FILES\,
+  l’esplosivo documentario diretto da Alexis Bloom e prodotto dal premio
+  Oscar Alex Gibney. Al centro del film ci sono immagini straordinarie e m
+ ai viste prima: le registrazioni degli interrogatori della polizia israel
+ iana a Benjamin Netanyahu\, alla moglie Sara\, al fi…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

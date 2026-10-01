@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a267efea1f2a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:Steve Hackett racconta i Genesis _ evento speciale EMERGENCY
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Pop/Rock | Incontri\n\nInfo: https://www.auditorium.com/it/ev
+ ent/steve-hackett-racconta-i-genesis-_-evento-speciale-emergency/\n\nDa L
+ inceo
+URL:https://www.auditorium.com/it/event/steve-hackett-racconta-i-genesis-
+ _-evento-speciale-emergency/
+END:VEVENT
+END:VCALENDAR

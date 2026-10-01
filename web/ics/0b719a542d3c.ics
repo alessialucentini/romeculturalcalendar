@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0b719a542d3c@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261031
+SUMMARY:XXIX Compasso d’Oro ADI
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:segnaliamo · mostra\n\nInfo: https://www.maxxi.art/events/xx
+ ix-compasso-doro-adi/\n\nDa Linceo
+URL:https://www.maxxi.art/events/xxix-compasso-doro-adi/
+END:VEVENT
+END:VCALENDAR

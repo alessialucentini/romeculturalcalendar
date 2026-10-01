@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e555b665e181@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261012T193000Z
+DTEND:20261012T213000Z
+SUMMARY:L'ESTRANEA
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:La trama ruota attorno a una donna che si presenta all’impr
+ ovviso a casa di sua figlia per raccontarle la verità sulla loro famigli
+ a\, segnata da un patto stretto molti anni prima con un’estranea. Un se
+ greto custodito troppo a lungo\, che ora torna a reclamare il suo prezzo.
+ \n\nInfo: https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

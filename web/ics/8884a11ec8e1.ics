@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8884a11ec8e1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20270208
+SUMMARY:Tatiana Bilbao Estudio
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:focus · NATURE · Campo aperto\n\nInfo: https://www.maxxi.ar
+ t/events/tatiana-bilbao-estudio-campo-aperto/\n\nDa Linceo
+URL:https://www.maxxi.art/events/tatiana-bilbao-estudio-campo-aperto/
+END:VEVENT
+END:VCALENDAR

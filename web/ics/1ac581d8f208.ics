@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ac581d8f208@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261017T090000Z
+DTEND:20261017T110000Z
+SUMMARY:BRONSON
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Bronson è basato sulla vita di uno dei più famosi criminali
+  inglesi\, Michael Gordon Peterson. Nel 1974\, a 19 anni\, Peterson era u
+ n teppistello che per farsi un nome\, tentò di rapinare un ufficio posta
+ le con un fucile a canne mozze. Arrestato\, fu condannato a sette anni di
+  carcere: ma in prigione\, ossessionato dall'idea di diventare famoso\, i
+ niziò ad attaccare con violenza gli altri detenuti e i s…\n\nInfo: htt
+ ps://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b84168eaddd3@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261113T190000Z
+DTEND:20261113T210000Z
+SUMMARY:Corpo a(l) corpo
+LOCATION:Spazio Rossellini
+DESCRIPTION:Restituzione pubblica del laboratorio di Balletto Civile\n\nI
+ nfo: https://culture.roma.it/appuntamento/corpo-al-corpo-2/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/corpo-al-corpo-2/
+END:VEVENT
+END:VCALENDAR

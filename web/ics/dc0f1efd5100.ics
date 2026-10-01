@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dc0f1efd5100@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261009T160000Z
+DTEND:20261009T180000Z
+SUMMARY:The Birthday Conference
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · lectio - e compleanno - di Sophie Calle\n\nInfo: ht
+ tps://www.maxxi.art/events/the-birthday-conference/\n\nDa Linceo
+URL:https://www.maxxi.art/events/the-birthday-conference/
+END:VEVENT
+END:VCALENDAR

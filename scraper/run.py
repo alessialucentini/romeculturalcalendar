@@ -29,6 +29,7 @@ import ics as ics_mod  # noqa: E402
 import jsonld  # noqa: E402
 from common import CATEGORIES, Event, polite_get  # noqa: E402
 from sites import SITES  # noqa: E402
+import icsgen  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "data" / "sources.csv"
@@ -143,6 +144,7 @@ def main() -> int:
     EVENTS.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     LOG.write_text(json.dumps({"run": out["meta"]["generated"], "sources": log}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"scritti {len(final)} eventi in {EVENTS}")
+    print(f"scritti {icsgen.write_all(final)} file .ics (per Apple Calendar)")
     return 0
 
 

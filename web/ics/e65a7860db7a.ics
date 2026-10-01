@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e65a7860db7a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261026
+SUMMARY:Festa del Cinema di Roma (21ª edizione)
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30
+DESCRIPTION:Film d'apertura: «Il rumore delle cose nuove» di Paolo Geno
+ vese. Concorso Progressive Cinema\, Freestyle\, Grand Public\, Best of 20
+ 26\, Storia del Cinema.\n\nInfo: https://www.romacinemafest.it\n\nDa Linc
+ eo
+URL:https://www.romacinemafest.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d9db1655916@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270301
+SUMMARY:Gordon Matta-Clark
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:mostra · Not the Work...The Worker\n\nInfo: https://www.maxx
+ i.art/events/gordon-matta-clark/\n\nDa Linceo
+URL:https://www.maxxi.art/events/gordon-matta-clark/
+END:VEVENT
+END:VCALENDAR

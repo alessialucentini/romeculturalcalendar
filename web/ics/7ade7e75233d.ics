@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ade7e75233d@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261010T060000Z
+DTEND:20261010T080000Z
+SUMMARY:A SCARPE SLACCIATE
+LOCATION:Isola Farnese - Piazza della Colonnetta\, La Colonnetta di Isola
+  Farnese\, Piazza della Colonnetta\, Roma\, RM\, Italia
+DESCRIPTION:Passeggiata e spettacolo\n\nInfo: https://culture.roma.it/app
+ untamento/a-scarpe-slacciate/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/a-scarpe-slacciate/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ef43e547d8f@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+SUMMARY:Gli ultimi giorni di Pompeo
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · musica\n\nInfo: https://www.maxxi.art/events/gli-ul
+ timi-giorni-di-pompeo/\n\nDa Linceo
+URL:https://www.maxxi.art/events/gli-ultimi-giorni-di-pompeo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ced3e9b93818@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:Henze: Voices
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30\, R
+ oma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /henze-voices/?replica=1654\n\nDa Linceo
+URL:https://santacecilia.it/concerto/henze-voices/?replica=1654
+END:VEVENT
+END:VCALENDAR

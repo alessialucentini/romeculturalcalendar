@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f8570b0d9af2@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261031T100000Z
+DTEND:20261031T120000Z
+SUMMARY:ONLY GOD FORGIVES
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Julian allena pugili di thai boxe a Bangkok perchè ha ucciso
+  il padre e non gli è rimasto altro se non fuggire dall'America dove la 
+ madre è a capo di un'organizzazione mafiosa. Suo fratello l'ha seguito m
+ a non si è adattato alla vita locale e l'ennesima prostituta massacrata 
+ è il suo biglietto per l'obitorio. La cosa non è tollerabile e il capof
+ amiglia si trasferisce a Bangkok intenzionata a fare…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

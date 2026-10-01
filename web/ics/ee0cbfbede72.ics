@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee0cbfbede72@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261010T174500Z
+DTEND:20261010T194500Z
+SUMMARY:Digger
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Su richiesta del Presidente degli Stati Uniti\, il magnate de
+ l petrolio Digger Rockwell deve salvare la Terra da un disastro ambiental
+ e causato dalla sua stessa azienda.\n\nInfo: https://www.cinematroisi.it\
+ n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

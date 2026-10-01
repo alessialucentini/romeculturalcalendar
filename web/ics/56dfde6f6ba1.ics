@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56dfde6f6ba1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20270424T160000Z
+DTEND:20270424T180000Z
+SUMMARY:ECHOESBonachela / Eyal / Tortelli
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/echoesbonachela-eya
+ l-tortelli/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/echoesbonachela-eyal-tortelli/
+END:VEVENT
+END:VCALENDAR

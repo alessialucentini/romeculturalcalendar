@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bfad2eba75dc@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261101T191500Z
+DTEND:20261101T211500Z
+SUMMARY:Falstaff
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/falstaff/\n\nDa Lin
+ ceo
+URL:https://www.operaroma.it/spettacoli/falstaff/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:82cd94203252@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261008T133000Z
+DTEND:20261008T153000Z
+SUMMARY:Rider
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Samuele\, detto Sami\, è un giovane rider\, che ogni giorno 
+ si muove per le strade di Milano con la sua bici. La notte di Capodanno\,
+  mentre la città esplode di luci\, consegna un enorme ordine di sushi in
+  una lussuosa villa. Invitato a rimanere per la serata\, incontra Nia\, u
+ na ragazza libera e irrequieta che come lui si sente fuori posto nel mond
+ o\, con cui scatta subito una forte connessione. Ma\, men…\n\nInfo: htt
+ ps://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

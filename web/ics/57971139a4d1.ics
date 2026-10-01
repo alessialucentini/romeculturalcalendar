@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:57971139a4d1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20261005
+SUMMARY:Mischa Kuball
+LOCATION:Museo Casa di Goethe\, Via del Corso 18
+DESCRIPTION:Mostra personale dell'artista concettuale Mischa Kuball.\n\nI
+ nfo: https://www.casadigoethe.it\n\nDa Linceo
+URL:https://www.casadigoethe.it
+END:VEVENT
+END:VCALENDAR

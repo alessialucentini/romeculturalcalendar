@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:412d1805fb60@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261014T193000Z
+DTEND:20261014T213000Z
+SUMMARY:Roma Illegale
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Una storia di musica\, ma soprattutto di spazi e libertà.Neg
+ li anni ’90 la scena rave romana costruisce alternative concrete all’
+ intrattenimento commerciale: autogestione\, accesso\, comunità. Dai prim
+ i eventi semi-legali nei grandi spazi urbani fino alle esperienze nei cen
+ tri sociali\, la città diventa un laboratorio aperto di sperimentazione 
+ culturale.Roma Illegale attraversa questa traiettoria\, tr…\n\nInfo: ht
+ tps://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

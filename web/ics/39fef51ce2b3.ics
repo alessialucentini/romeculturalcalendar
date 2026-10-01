@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:39fef51ce2b3@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270301
+SUMMARY:Ordinare il mondo
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:focus · L’Archivio di Nanda Lanfranco\n\nInfo: https://www
+ .maxxi.art/events/ordinare-il-mondo-larchivio-di-nanda-lanfranco/\n\nDa L
+ inceo
+URL:https://www.maxxi.art/events/ordinare-il-mondo-larchivio-di-nanda-lan
+ franco/
+END:VEVENT
+END:VCALENDAR

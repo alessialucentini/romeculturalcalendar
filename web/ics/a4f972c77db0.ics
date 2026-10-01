@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4f972c77db0@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+SUMMARY:EVENTO RINVIATO – Carlo Molinari
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Jazz\n\nInfo: https://www.auditorium.com/it/event/carlo-molin
+ ari/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/carlo-molinari/
+END:VEVENT
+END:VCALENDAR

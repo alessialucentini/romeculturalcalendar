@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5059dff3997a@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261114T183000Z
+DTEND:20261114T203000Z
+SUMMARY:Lezioni di creatività contemporanea – Antonio e Patrizia Marra
+ s\, direttore creativo e Head of Style ANTONIO MARRAS
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Incontri | Rassegne\n\nInfo: https://www.auditorium.com/it/ev
+ ent/lezioni-di-creativita-contemporanea-antonio-e-patrizia-marras-diretto
+ re-creativo-e-head-of-style-antonio-marras/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/lezioni-di-creativita-contemporan
+ ea-antonio-e-patrizia-marras-direttore-creativo-e-head-of-style-antonio-m
+ arras/
+END:VEVENT
+END:VCALENDAR

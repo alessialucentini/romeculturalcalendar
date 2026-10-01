@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90076d1ac3c6@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261106T190000Z
+DTEND:20261106T210000Z
+SUMMARY:In ricordo di Mauro Bortolotti e Franco Evangelisti
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Festival\n\nInfo: https://www.auditorium.com/
+ it/event/festival-di-nuova-consonanza-in-ricordo-di-mauro-bortolotti-e-fr
+ anco-evangelisti/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/festival-di-nuova-consonanza-in-r
+ icordo-di-mauro-bortolotti-e-franco-evangelisti/
+END:VEVENT
+END:VCALENDAR

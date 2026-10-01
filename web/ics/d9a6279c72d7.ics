@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d9a6279c72d7@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Radiodervish
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:World\n\nInfo: https://www.auditorium.com/it/event/radiodervi
+ sh-9/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/radiodervish-9/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc61d1095a46@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:Appia Day 2026
+LOCATION:Vari luoghi
+DESCRIPTION:In occasione dell’Appia Day\, visite e itinerari alla scope
+ rta dei monumenti che si affacciano sull’antico percorso dell’Appia A
+ ntica\, inserito nella Lista del Patrimonio Mondiale UNESCO\n\nInfo: http
+ s://culture.roma.it/appuntamento/appia-day-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/appia-day-2026/
+END:VEVENT
+END:VCALENDAR

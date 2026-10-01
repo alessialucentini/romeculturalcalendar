@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09ed4570643c@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261220T180000Z
+DTEND:20261220T200000Z
+SUMMARY:Creazioni Accessibili | Come close\, close your eyes
+LOCATION:Spazio Rossellini
+DESCRIPTION:Restituzione pubblica della residenza di Anna Basti\n\nInfo: 
+ https://culture.roma.it/appuntamento/creazioni-accessibili-come-close-clo
+ se-your-eyes/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/creazioni-accessibili-come-close
+ -close-your-eyes/
+END:VEVENT
+END:VCALENDAR

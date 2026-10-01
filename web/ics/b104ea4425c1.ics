@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b104ea4425c1@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261022T180000Z
+DTEND:20261022T200000Z
+SUMMARY:La vita nuda
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/la-vita-nuda/\n\nDa
+  Linceo
+URL:https://www.operaroma.it/spettacoli/la-vita-nuda/
+END:VEVENT
+END:VCALENDAR

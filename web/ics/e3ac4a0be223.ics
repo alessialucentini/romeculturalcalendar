@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3ac4a0be223@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261107T170000Z
+DTEND:20261107T190000Z
+SUMMARY:Goecke / Robbins / Bausch
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/goecke-robbins-baus
+ ch/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/goecke-robbins-bausch/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68334fe44491@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261201T100000Z
+DTEND:20261201T120000Z
+SUMMARY:Lo schiaccianoci
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/lo-schiaccianoci-10
+ /\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/lo-schiaccianoci-10/
+END:VEVENT
+END:VCALENDAR

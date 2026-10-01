@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92bc45da43eb@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+SUMMARY:Enrico Melozzi – Orchestra Notturna Clandestina
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Festival\n\nInfo: https://santacecilia.it/con
+ certo/enrico-melozzi-orchestra-notturna-clandestina/?replica=1780\n\nDa L
+ inceo
+URL:https://santacecilia.it/concerto/enrico-melozzi-orchestra-notturna-cl
+ andestina/?replica=1780
+END:VEVENT
+END:VCALENDAR

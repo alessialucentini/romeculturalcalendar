@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7073a329908f@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261019
+SUMMARY:MOISAI – Voci contemporanee in Domus Aurea (5ª edizione)
+LOCATION:Domus Aurea\, Via della Domus Aurea 1
+DESCRIPTION:Progetto del Parco archeologico del Colosseo con voci contemp
+ oranee dentro la Domus Aurea.\n\nInfo: https://colosseo.it\n\nDa Linceo
+URL:https://colosseo.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:747c7a2f55be@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20270208
+SUMMARY:Pontormo
+LOCATION:Scuderie del Quirinale\, Via XXIV Maggio 16
+DESCRIPTION:Prima grande monografica dedicata a Jacopo da Pontormo.\n\nIn
+ fo: https://www.scuderiequirinale.it\n\nDa Linceo
+URL:https://www.scuderiequirinale.it
+END:VEVENT
+END:VCALENDAR

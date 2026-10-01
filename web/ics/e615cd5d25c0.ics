@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e615cd5d25c0@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261011T083000Z
+DTEND:20261011T103000Z
+SUMMARY:DOLCI VITE
+LOCATION:Via Brembio\, Via Brembio\, Roma\, RM\, Italia
+DESCRIPTION:Passeggiata e spettacolo\n\nInfo: https://culture.roma.it/app
+ untamento/dolci-vite/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/dolci-vite/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f80a0e99ce57@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261130
+SUMMARY:Luigi & Iango
+LOCATION:Galleria Nazionale d'Arte Moderna e Contemporanea\, Viale delle 
+ Belle Arti 131
+DESCRIPTION:La GNAM dedica una mostra al duo fotografico Luigi & Iango.\n
+ \nInfo: https://lagallerianazionale.com\n\nDa Linceo
+URL:https://lagallerianazionale.com
+END:VEVENT
+END:VCALENDAR

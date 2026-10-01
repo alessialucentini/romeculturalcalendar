@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e98fca10f87b@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:Kurt Elling & Yellowjackets – “Celebrate Weather Report”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ kurt-elling-yellowjackets-celebrate-weather-report/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/kurt-elling-yellowjackets-celebra
+ te-weather-report/
+END:VEVENT
+END:VCALENDAR

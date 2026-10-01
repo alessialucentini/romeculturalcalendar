@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6361cb3b0822@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20261221
+SUMMARY:Lo sguardo performativo
+LOCATION:Vari luoghi
+DESCRIPTION:Laboratorio di danza\n\nInfo: https://culture.roma.it/appunta
+ mento/lo-sguardo-performativo-2/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/lo-sguardo-performativo-2/
+END:VEVENT
+END:VCALENDAR

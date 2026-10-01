@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d7c44e689de2@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261012T215900Z
+DTEND:20261012T235900Z
+SUMMARY:THE DREAMERS - VOS 00.30
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Rimasti soli a Parigi mentre i genitori sono in vacanza\, Isa
+ belle e suo fratello Theo invitano nel loro appartamento Matthew\, un gio
+ vane americano incontrato alla Cinémathéque. Sullo sfondo del turbolent
+ o panorama politico che portò al Maggio '68 in Francia\, i tre ragazzi s
+ i chiudono in casa stabilendo delle regole di comportamento e esplorando 
+ emozioni\, erotismo in un crescendo di giochi mentali…\n\nInfo: https:/
+ /www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

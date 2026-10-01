@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f87e83ea8b02@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20261012
+SUMMARY:Saverio Ungheri
+LOCATION:Mattatoio – Padiglione 9b\, Piazza Orazio Giustiniani 4
+DESCRIPTION:Mostra personale nel Padiglione 9b del Mattatoio.\n\nInfo: ht
+ tps://www.mattatoioroma.it\n\nDa Linceo
+URL:https://www.mattatoioroma.it
+END:VEVENT
+END:VCALENDAR

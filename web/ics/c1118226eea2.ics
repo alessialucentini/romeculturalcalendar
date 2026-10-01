@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1118226eea2@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261101T170000Z
+DTEND:20261101T190000Z
+SUMMARY:Davide “Boosta” Di Leo – “Pianorama”
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Pop/Rock\n\nInfo: https://www.auditorium.com/it/event/davide-
+ boosta-di-leo-pianorama/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/davide-boosta-di-leo-pianorama/
+END:VEVENT
+END:VCALENDAR

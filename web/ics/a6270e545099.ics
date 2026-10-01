@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6270e545099@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261007T180000Z
+DTEND:20261007T200000Z
+SUMMARY:La Cenerentola
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/la-cenerentola-3/\n
+ \nDa Linceo
+URL:https://www.operaroma.it/spettacoli/la-cenerentola-3/
+END:VEVENT
+END:VCALENDAR

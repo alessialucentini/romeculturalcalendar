@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ce58e41ac88@linceo
+DTSTAMP:20261001T155834Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:Qui riposano i segreti dei viandanti del cimitero degli artisti e
+  dei poeti
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:performance · di Sophie Calle\n\nInfo: https://www.maxxi.art
+ /events/qui-riposano-i-segreti-dei-viandanti-del-cimitero-degli-artisti-e
+ -dei-poeti/\n\nDa Linceo
+URL:https://www.maxxi.art/events/qui-riposano-i-segreti-dei-viandanti-del
+ -cimitero-degli-artisti-e-dei-poeti/
+END:VEVENT
+END:VCALENDAR

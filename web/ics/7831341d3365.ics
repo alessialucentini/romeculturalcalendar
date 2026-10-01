@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7831341d3365@linceo
+DTSTAMP:20261001T155834Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20261009
+SUMMARY:Bambini/e e ragazzi/e in biblioteca
+LOCATION:Varie Biblioteche
+DESCRIPTION:Incontri\, laboratori e letture nel segno delle attività cul
+ turali\n\nInfo: https://culture.roma.it/appuntamento/bambini-e-e-ragazzi-
+ e-in-biblioteca-8/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/bambini-e-e-ragazzi-e-in-bibliot
+ eca-8/
+END:VEVENT
+END:VCALENDAR
