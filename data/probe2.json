@@ -1,0 +1,1430 @@
+[
+ {
+  "id": "rome-art-week",
+  "nome": "Rome Art Week",
+  "base": "https://www.romeartweek.com",
+  "hits": [],
+  "err": "SSLError"
+ },
+ {
+  "id": "turismo-roma",
+  "nome": "Turismo Roma",
+  "base": "https://www.turismoroma.it",
+  "hits": [
+   {
+    "url": "https://www.turismoroma.it/",
+    "ct": "text/html",
+    "bytes": 229136,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 24,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "roma-culture-zètema-estate-romana",
+  "nome": "Roma Culture (Zètema / Estate Romana)",
+  "base": "https://www.culture.roma.it",
+  "hits": [
+   {
+    "url": "https://culture.roma.it/",
+    "ct": "text/html",
+    "bytes": 108007,
+    "jsonld": 0,
+    "ics": 16,
+    "event_links": 17,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://culture.roma.it/appuntamento/eventi-a-casa-della-memoria-e-della-storia/",
+    "ct": "text/html",
+    "bytes": 51758,
+    "jsonld": 0,
+    "ics": 2,
+    "event_links": 4,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://culture.roma.it/",
+    "ct": "text/html",
+    "bytes": 108007,
+    "jsonld": 0,
+    "ics": 16,
+    "event_links": 17,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://culture.roma.it/",
+    "ct": "text/html",
+    "bytes": 108007,
+    "jsonld": 0,
+    "ics": 16,
+    "event_links": 17,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://culture.roma.it/appuntamento/agenda-2030/",
+    "ct": "text/html",
+    "bytes": 47181,
+    "jsonld": 0,
+    "ics": 2,
+    "event_links": 3,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://culture.roma.it/",
+    "ct": "text/html",
+    "bytes": 108007,
+    "jsonld": 0,
+    "ics": 16,
+    "event_links": 17,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://culture.roma.it/",
+    "ct": "text/html",
+    "bytes": 108007,
+    "jsonld": 0,
+    "ics": 16,
+    "event_links": 17,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "zètema-progetto-cultura",
+  "nome": "Zètema Progetto Cultura",
+  "base": "https://www.zetema.it",
+  "hits": []
+ },
+ {
+  "id": "musei-in-comune",
+  "nome": "Musei in Comune",
+  "base": "https://www.museiincomune.it",
+  "hits": [],
+  "err": "SSLError"
+ },
+ {
+  "id": "exibart",
+  "nome": "Exibart",
+  "base": "https://www.exibart.com",
+  "hits": [
+   {
+    "url": "https://www.exibart.com/eventi/",
+    "ct": "text/html",
+    "bytes": 141547,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 14,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.exibart.com/museo-galleria-arte/events-mogok/",
+    "ct": "text/html",
+    "bytes": 138945,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 8,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "macro",
+  "nome": "MACRO",
+  "base": "https://museomacro.it",
+  "hits": [
+   {
+    "url": "https://www.museomacro.it/wp-json/tribe/events/v1/events?per_page=5",
+    "ct": "text/html",
+    "bytes": 134537,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/eventi/",
+    "ct": "text/html",
+    "bytes": 133118,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/events/",
+    "ct": "text/html",
+    "bytes": 133118,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/calendario/",
+    "ct": "text/html",
+    "bytes": 133122,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/agenda/",
+    "ct": "text/html",
+    "bytes": 133118,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/programma/",
+    "ct": "text/html",
+    "bytes": 133121,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/mostre/",
+    "ct": "text/html",
+    "bytes": 133118,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/mostre-in-corso/",
+    "ct": "text/html",
+    "bytes": 133127,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.museomacro.it/en/events/",
+    "ct": "text/html",
+    "bytes": 133568,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "villa-medici-accademia-di-francia",
+  "nome": "Villa Medici - Accademia di Francia",
+  "base": "https://www.villamedici.it",
+  "hits": [
+   {
+    "url": "https://villamedici.it//",
+    "ct": "text/html",
+    "bytes": 640965,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "galleria-nazionale-d-arte-moderna-e-contemporane",
+  "nome": "Galleria Nazionale d'Arte Moderna e Contemporanea (GNAM)",
+  "base": "https://lagallerianazionale.com",
+  "hits": []
+ },
+ {
+  "id": "mattatoio-pelanda",
+  "nome": "Mattatoio (Pelanda)",
+  "base": "https://www.mattatoioroma.it",
+  "hits": []
+ },
+ {
+  "id": "galleria-d-arte-moderna-di-roma",
+  "nome": "Galleria d'Arte Moderna di Roma",
+  "base": "https://www.galleriaartemodernaroma.it",
+  "hits": [
+   {
+    "url": "https://www.galleriaartemodernaroma.it/",
+    "ct": "text/html",
+    "bytes": 112273,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "museo-carlo-bilotti",
+  "nome": "Museo Carlo Bilotti",
+  "base": "https://www.museocarlobilotti.it",
+  "hits": []
+ },
+ {
+  "id": "palazzo-delle-esposizioni",
+  "nome": "Palazzo delle Esposizioni",
+  "base": "https://www.palazzoesposizioni.it",
+  "hits": [
+   {
+    "url": "https://www.palazzoesposizioniroma.it/wp-json/tribe/events/v1/events?per_page=5&per_page=5",
+    "ct": "text/html",
+    "bytes": 173198,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/eventi/",
+    "ct": "text/html",
+    "bytes": 170961,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/events/",
+    "ct": "text/html",
+    "bytes": 170961,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/calendario/",
+    "ct": "text/html",
+    "bytes": 170965,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/agenda/",
+    "ct": "text/html",
+    "bytes": 170961,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/programma/",
+    "ct": "text/html",
+    "bytes": 170964,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/mostre/",
+    "ct": "text/html",
+    "bytes": 170961,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/mostre-in-corso/",
+    "ct": "text/html",
+    "bytes": 170970,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzoesposizioniroma.it/en/events/",
+    "ct": "text/html",
+    "bytes": 171672,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "scuderie-del-quirinale",
+  "nome": "Scuderie del Quirinale",
+  "base": "https://www.scuderiequirinale.it",
+  "hits": []
+ },
+ {
+  "id": "gallerie-nazionali-barberini-corsini",
+  "nome": "Gallerie Nazionali Barberini Corsini",
+  "base": "https://www.barberinicorsini.org",
+  "hits": [
+   {
+    "url": "https://barberinicorsini.org/calendario/",
+    "ct": "text/html",
+    "bytes": 88087,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 7,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "galleria-borghese",
+  "nome": "Galleria Borghese",
+  "base": "https://galleriaborghese.beniculturali.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "museo-nazionale-romano",
+  "nome": "Museo Nazionale Romano",
+  "base": "https://museonazionaleromano.beniculturali.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "palazzo-bonaparte",
+  "nome": "Palazzo Bonaparte",
+  "base": "https://www.palazzobonaparte.it",
+  "hits": []
+ },
+ {
+  "id": "chiostro-del-bramante",
+  "nome": "Chiostro del Bramante",
+  "base": "https://www.chiostrodelbramante.it",
+  "hits": [
+   {
+    "url": "https://www.chiostrodelbramante.it/",
+    "ct": "text/html",
+    "bytes": 135154,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.chiostrodelbramante.it/mostre/",
+    "ct": "text/html",
+    "bytes": 127619,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "palazzo-merulana",
+  "nome": "Palazzo Merulana",
+  "base": "https://www.palazzomerulana.it",
+  "hits": [
+   {
+    "url": "https://www.palazzomerulana.it/",
+    "ct": "text/html",
+    "bytes": 78216,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzomerulana.it/eventi-in-calendario/",
+    "ct": "text/html",
+    "bytes": 175646,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 11,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.palazzomerulana.it/events/",
+    "ct": "text/html",
+    "bytes": 198919,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 27,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "la-quadriennale-di-roma",
+  "nome": "La Quadriennale di Roma",
+  "base": "https://www.quadriennalediroma.org",
+  "hits": [
+   {
+    "url": "https://quadriennalediroma.org/archivio-eventi/",
+    "ct": "text/html",
+    "bytes": 391333,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://quadriennalediroma.org/en/events/",
+    "ct": "text/html",
+    "bytes": 360939,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 23,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "fondazione-memmo",
+  "nome": "Fondazione Memmo",
+  "base": "https://www.fondazionememmo.it",
+  "hits": [],
+  "err": "SSLError"
+ },
+ {
+  "id": "fondazione-giuliani",
+  "nome": "Fondazione Giuliani",
+  "base": "https://www.fondazionegiuliani.org",
+  "hits": [],
+  "err": "ConnectTimeout"
+ },
+ {
+  "id": "fondazione-nicola-del-roscio",
+  "nome": "Fondazione Nicola Del Roscio",
+  "base": "https://www.fondazionenicoladelroscio.org",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "fondazione-alda-fendi-esperimenti",
+  "nome": "Fondazione Alda Fendi - Esperimenti",
+  "base": "https://www.fondazionealdafendi.it",
+  "hits": [],
+  "err": "HTTPError"
+ },
+ {
+  "id": "fondazione-volume",
+  "nome": "Fondazione VOLUME!",
+  "base": "https://www.fondazionevolume.com",
+  "hits": []
+ },
+ {
+  "id": "fondazione-pastificio-cerere",
+  "nome": "Fondazione Pastificio Cerere",
+  "base": "https://www.pastificiocerere.it",
+  "hits": []
+ },
+ {
+  "id": "fondazione-baruchello",
+  "nome": "Fondazione Baruchello",
+  "base": "https://www.fondazionebaruchello.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "fondazione-torlonia",
+  "nome": "Fondazione Torlonia",
+  "base": "https://www.fondazionetorlonia.org",
+  "hits": []
+ },
+ {
+  "id": "fondazione-roma",
+  "nome": "Fondazione Roma",
+  "base": "https://www.fondazioneroma.it",
+  "hits": []
+ },
+ {
+  "id": "nomas-foundation",
+  "nome": "Nomas Foundation",
+  "base": "https://www.nomasfoundation.com",
+  "hits": []
+ },
+ {
+  "id": "gagosian-roma",
+  "nome": "Gagosian Roma",
+  "base": "https://gagosian.com",
+  "hits": []
+ },
+ {
+  "id": "monitor",
+  "nome": "Monitor",
+  "base": "https://www.monitoronline.org",
+  "hits": []
+ },
+ {
+  "id": "lorcan-o-neill",
+  "nome": "Lorcan O'Neill",
+  "base": "https://www.lorcanoneill.com",
+  "hits": []
+ },
+ {
+  "id": "t293",
+  "nome": "T293",
+  "base": "https://www.t293.it",
+  "hits": []
+ },
+ {
+  "id": "magazzino",
+  "nome": "Magazzino",
+  "base": "https://www.magazzino.art",
+  "hits": []
+ },
+ {
+  "id": "operativa-arte-contemporanea",
+  "nome": "Operativa Arte Contemporanea",
+  "base": "https://www.operativa-arte.com",
+  "hits": []
+ },
+ {
+  "id": "matèria",
+  "nome": "Matèria",
+  "base": "https://www.materiagallery.com",
+  "hits": []
+ },
+ {
+  "id": "ada",
+  "nome": "ADA",
+  "base": "https://www.ada-gallery.com",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "anna-marra-contemporanea",
+  "nome": "Anna Marra Contemporanea",
+  "base": "https://www.annamarraartecontemporanea.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "emmeotto",
+  "nome": "Emmeotto",
+  "base": "https://www.emmeotto.com",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "gallerati",
+  "nome": "Gallerati",
+  "base": "https://www.gallerati.net",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "federica-schiavo-gallery",
+  "nome": "Federica Schiavo Gallery",
+  "base": "https://www.federicaschiavo.com",
+  "hits": []
+ },
+ {
+  "id": "galleria-marie-laure-fleisch",
+  "nome": "Galleria Marie-Laure Fleisch",
+  "base": "https://www.marielaurefleisch.com",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "z2o-galleria-sara-zanin",
+  "nome": "Z2O Galleria Sara Zanin",
+  "base": "https://www.z2ogalleria.it",
+  "hits": []
+ },
+ {
+  "id": "galleria-valentina-bonomo",
+  "nome": "Galleria Valentina Bonomo",
+  "base": "https://www.valentinabonomo.com",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "galleria-alessandra-bonomo",
+  "nome": "Galleria Alessandra Bonomo",
+  "base": "https://www.alessandrabonomo.com",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "studio-stefania-miscetti",
+  "nome": "Studio Stefania Miscetti",
+  "base": "https://www.studiostefaniamiscetti.com",
+  "hits": []
+ },
+ {
+  "id": "richard-saltoun-gallery-roma",
+  "nome": "Richard Saltoun Gallery Roma",
+  "base": "https://www.richardsaltoun.com",
+  "hits": [
+   {
+    "url": "https://www.richardsaltoun.com/events/",
+    "ct": "text/html",
+    "bytes": 323933,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 71,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "galleria-mucciaccia",
+  "nome": "Galleria Mucciaccia",
+  "base": "https://www.galleriamucciaccia.com",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "galleria-continua-roma",
+  "nome": "Galleria Continua Roma",
+  "base": "https://www.galleriacontinua.com",
+  "hits": []
+ },
+ {
+  "id": "wunderkammern",
+  "nome": "Wunderkammern",
+  "base": "https://www.wunderkammern.net",
+  "hits": [],
+  "err": "HTTPError"
+ },
+ {
+  "id": "ex-elettrofonica",
+  "nome": "Ex Elettrofonica",
+  "base": "https://www.exelettrofonica.com",
+  "hits": []
+ },
+ {
+  "id": "sala-1",
+  "nome": "Sala 1",
+  "base": "https://www.salauno.org",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "forte-prenestino",
+  "nome": "Forte Prenestino",
+  "base": "https://www.forteprenestino.net",
+  "hits": []
+ },
+ {
+  "id": "istituto-svizzero",
+  "nome": "Istituto Svizzero",
+  "base": "https://www.istitutosvizzero.it",
+  "hits": []
+ },
+ {
+  "id": "institut-français-italia",
+  "nome": "Institut français Italia",
+  "base": "https://www.institutfrancais.it",
+  "hits": []
+ },
+ {
+  "id": "instituto-cervantes-roma",
+  "nome": "Instituto Cervantes Roma",
+  "base": "https://roma.cervantes.es",
+  "hits": [],
+  "err": "PermissionError"
+ },
+ {
+  "id": "real-academia-de-españa-en-roma",
+  "nome": "Real Academia de España en Roma",
+  "base": "https://www.accademiaspagna.org",
+  "hits": []
+ },
+ {
+  "id": "british-school-at-rome",
+  "nome": "British School at Rome",
+  "base": "https://www.bsr.ac.uk",
+  "hits": []
+ },
+ {
+  "id": "american-academy-in-rome",
+  "nome": "American Academy in Rome",
+  "base": "https://www.aarome.org",
+  "hits": [
+   {
+    "url": "https://www.aarome.org/",
+    "ct": "text/html",
+    "bytes": 520564,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 11,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.aarome.org/events",
+    "ct": "text/html",
+    "bytes": 437129,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 14,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "accademia-belgica",
+  "nome": "Accademia Belgica",
+  "base": "https://www.academiabelgica.it",
+  "hits": [],
+  "err": "ConnectTimeout"
+ },
+ {
+  "id": "istituto-polacco-di-roma",
+  "nome": "Istituto Polacco di Roma",
+  "base": "https://rzym.instytutpolski.pl",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "istituto-giapponese-di-cultura",
+  "nome": "Istituto Giapponese di Cultura",
+  "base": "https://www.jfroma.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "goethe-institut-rom",
+  "nome": "Goethe-Institut Rom",
+  "base": "https://www.goethe.de",
+  "hits": [],
+  "err": "HTTPError"
+ },
+ {
+  "id": "accademia-d-ungheria",
+  "nome": "Accademia d'Ungheria",
+  "base": "https://www.accademiaungheria.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "villa-massimo-accademia-tedesca",
+  "nome": "Villa Massimo (Accademia Tedesca)",
+  "base": "https://www.villamassimo.de",
+  "hits": []
+ },
+ {
+  "id": "accademia-di-danimarca",
+  "nome": "Accademia di Danimarca",
+  "base": "https://www.acdan.it",
+  "hits": [
+   {
+    "url": "https://acdan.it/",
+    "ct": "text/html",
+    "bytes": 243011,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 7,
+    "tribe_plugin": true
+   },
+   {
+    "url": "https://www.acdan.it/wp-json/tribe/events/v1/events?per_page=5",
+    "ct": "application/json",
+    "bytes": 31445,
+    "tribe": 5
+   }
+  ]
+ },
+ {
+  "id": "istituto-olandese-knir",
+  "nome": "Istituto Olandese (KNIR)",
+  "base": "https://www.knir.it",
+  "hits": []
+ },
+ {
+  "id": "istituto-svedese-di-studi-classici",
+  "nome": "Istituto Svedese di Studi Classici",
+  "base": "https://www.isvroma.it",
+  "hits": [],
+  "err": "ConnectTimeout"
+ },
+ {
+  "id": "istituto-austriaco-di-cultura",
+  "nome": "Istituto Austriaco di Cultura",
+  "base": "https://www.austriacult.roma.it",
+  "hits": [
+   {
+    "url": "https://www.austriacult.roma.it/",
+    "ct": "text/html",
+    "bytes": 108431,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 21,
+    "tribe_plugin": true
+   },
+   {
+    "url": "https://www.austriacult.roma.it/wp-json/tribe/events/v1/events?per_page=5",
+    "ct": "application/json",
+    "bytes": 41256,
+    "tribe": 5
+   },
+   {
+    "url": "https://www.austriacult.roma.it/evento/eventi-valentiniani-2015-a-terni-concerto-con-musiche-di-mozart-e-bruckner/",
+    "ct": "text/html",
+    "bytes": 84643,
+    "jsonld": 1,
+    "ics": 1,
+    "event_links": 19,
+    "tribe_plugin": true
+   },
+   {
+    "url": "https://www.austriacult.roma.it/events/",
+    "ct": "text/html",
+    "bytes": 102632,
+    "jsonld": 0,
+    "ics": 1,
+    "event_links": 20,
+    "tribe_plugin": true
+   }
+  ]
+ },
+ {
+  "id": "accademia-di-romania",
+  "nome": "Accademia di Romania",
+  "base": "https://www.accademiaromena.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "romaeuropa-festival",
+  "nome": "Romaeuropa Festival",
+  "base": "https://romaeuropa.net",
+  "hits": []
+ },
+ {
+  "id": "teatro-vascello",
+  "nome": "Teatro Vascello",
+  "base": "https://www.teatrovascello.it",
+  "hits": []
+ },
+ {
+  "id": "teatro-palladium",
+  "nome": "Teatro Palladium",
+  "base": "https://www.teatropalladium.it",
+  "hits": [
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/?per_page=5",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://teatropalladium.uniroma3.it/",
+    "ct": "text/html",
+    "bytes": 97351,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "teatro-quirino",
+  "nome": "Teatro Quirino",
+  "base": "https://www.teatroquirino.it",
+  "hits": [
+   {
+    "url": "https://www.teatroquirino.it/calendario/",
+    "ct": "text/html",
+    "bytes": 174595,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 15,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "teatro-eliseo",
+  "nome": "Teatro Eliseo",
+  "base": "https://www.teatroeliseo.com",
+  "hits": []
+ },
+ {
+  "id": "teatro-biblioteca-quarticciolo",
+  "nome": "Teatro Biblioteca Quarticciolo",
+  "base": "https://www.teatrobibliotecaquarticciolo.it",
+  "hits": [],
+  "err": "SSLError"
+ },
+ {
+  "id": "teatro-argot-studio",
+  "nome": "Teatro Argot Studio",
+  "base": "https://www.teatroargotstudio.com",
+  "hits": []
+ },
+ {
+  "id": "teatro-dell-orologio",
+  "nome": "Teatro dell'Orologio",
+  "base": "https://www.teatroorologio.com",
+  "hits": []
+ },
+ {
+  "id": "short-theatre",
+  "nome": "Short Theatre",
+  "base": "https://www.shorttheatre.org",
+  "hits": [
+   {
+    "url": "https://www.shorttheatre.org/",
+    "ct": "text/html",
+    "bytes": 224317,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 54,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.shorttheatre.org/eventi/",
+    "ct": "text/html",
+    "bytes": 193825,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 55,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.shorttheatre.org/calendario/",
+    "ct": "text/html",
+    "bytes": 216151,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 55,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "accademia-nazionale-di-santa-cecilia",
+  "nome": "Accademia Nazionale di Santa Cecilia",
+  "base": "https://www.santacecilia.it",
+  "hits": [
+   {
+    "url": "https://santacecilia.it/",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://santacecilia.it",
+    "ct": "text/html",
+    "bytes": 359382,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 35,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "concerti-del-tempietto",
+  "nome": "Concerti del Tempietto",
+  "base": "https://www.tempietto.it",
+  "hits": []
+ },
+ {
+  "id": "casa-del-jazz",
+  "nome": "Casa del Jazz",
+  "base": "https://www.casajazz.it",
+  "hits": [],
+  "err": "ConnectTimeout"
+ },
+ {
+  "id": "alexanderplatz-jazz-club",
+  "nome": "Alexanderplatz Jazz Club",
+  "base": "https://www.alexanderplatz.it",
+  "hits": []
+ },
+ {
+  "id": "largo-venue",
+  "nome": "Largo Venue",
+  "base": "https://www.largovenue.com",
+  "hits": []
+ },
+ {
+  "id": "istituzione-universitaria-dei-concerti",
+  "nome": "Istituzione Universitaria dei Concerti",
+  "base": "https://www.concertiiuc.it",
+  "hits": [],
+  "err": "ConnectTimeout"
+ },
+ {
+  "id": "accademia-filarmonica-romana",
+  "nome": "Accademia Filarmonica Romana",
+  "base": "https://www.filarmonicaromana.org",
+  "hits": [
+   {
+    "url": "https://www.filarmonicaromana.org/",
+    "ct": "text/html",
+    "bytes": 72571,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.filarmonicaromana.org/eventi/Home",
+    "ct": "text/html",
+    "bytes": 30157,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 5,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "villa-ada-roma-incontra-il-mondo",
+  "nome": "Villa Ada Roma incontra il mondo",
+  "base": "https://www.villaada.org",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "casa-del-cinema",
+  "nome": "Casa del Cinema",
+  "base": "https://www.casadelcinema.it",
+  "hits": [
+   {
+    "url": "https://www.casadelcinema.it/it/",
+    "ct": "text/html",
+    "bytes": 212538,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 48,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.casadelcinema.it/it/event/eventi-speciali-carta-bianca-dams-roma-3/",
+    "ct": "text/html",
+    "bytes": 145366,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 12,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.casadelcinema.it/it/event/agenda-brasil/",
+    "ct": "text/html",
+    "bytes": 158468,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 12,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.casadelcinema.it/it/event/programma-albania-si-gira-festival-del-cinema-albanese/",
+    "ct": "text/html",
+    "bytes": 155837,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 12,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "festa-del-cinema-di-roma",
+  "nome": "Festa del Cinema di Roma",
+  "base": "https://www.romacinemafest.it",
+  "hits": [
+   {
+    "url": "https://www.romacinemafest.it/it/",
+    "ct": "text/html",
+    "bytes": 218725,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 11,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.romacinemafest.it/it/eventi/",
+    "ct": "text/html",
+    "bytes": 112555,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 10,
+    "tribe_plugin": true
+   },
+   {
+    "url": "https://www.romacinemafest.it/it/events/",
+    "ct": "text/html",
+    "bytes": 112715,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 10,
+    "tribe_plugin": true
+   },
+   {
+    "url": "https://www.romacinemafest.it/en/events/",
+    "ct": "text/html",
+    "bytes": 112472,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 6,
+    "tribe_plugin": true
+   }
+  ]
+ },
+ {
+  "id": "cinema-farnese",
+  "nome": "Cinema Farnese",
+  "base": "https://www.farnesepersempre.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "nuovo-cinema-sacher",
+  "nome": "Nuovo Cinema Sacher",
+  "base": "https://www.sacherfilm.eu",
+  "hits": []
+ },
+ {
+  "id": "azzurro-scipioni",
+  "nome": "Azzurro Scipioni",
+  "base": "https://www.azzurroscipioni.it",
+  "hits": []
+ },
+ {
+  "id": "l-isola-del-cinema",
+  "nome": "L'Isola del Cinema",
+  "base": "https://www.isoladelcinema.com",
+  "hits": [
+   {
+    "url": "https://isoladelcinema.com/events/",
+    "ct": "text/html",
+    "bytes": 89025,
+    "jsonld": 0,
+    "ics": 3,
+    "event_links": 8,
+    "tribe_plugin": true
+   }
+  ]
+ },
+ {
+  "id": "fotografia-festival-internazionale-di-roma",
+  "nome": "Fotografia Festival Internazionale di Roma",
+  "base": "https://www.fotografiafestival.it",
+  "hits": [],
+  "err": "SSLError"
+ },
+ {
+  "id": "la-feltrinelli-eventi",
+  "nome": "La Feltrinelli (eventi)",
+  "base": "https://www.lafeltrinelli.it",
+  "hits": [
+   {
+    "url": "https://www.lafeltrinelli.it/eventi",
+    "ct": "text/html",
+    "bytes": 501994,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 10,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "più-libri-più-liberi",
+  "nome": "Più libri più liberi",
+  "base": "https://www.plpl.it",
+  "hits": []
+ },
+ {
+  "id": "bibli",
+  "nome": "Bibli",
+  "base": "https://www.bibli.it",
+  "hits": [],
+  "err": "ConnectionError"
+ },
+ {
+  "id": "fandango-incontro",
+  "nome": "Fandango Incontro",
+  "base": "https://www.fandangolibri.it",
+  "hits": []
+ },
+ {
+  "id": "biblioteche-di-roma",
+  "nome": "Biblioteche di Roma",
+  "base": "https://www.bibliotechediroma.it",
+  "hits": [],
+  "err": "HTTPError"
+ },
+ {
+  "id": "casa-internazionale-delle-donne",
+  "nome": "Casa Internazionale delle Donne",
+  "base": "https://www.casainternazionaledelledonne.org",
+  "hits": [
+   {
+    "url": "https://www.casainternazionaledelledonne.org/",
+    "ct": "text/html",
+    "bytes": 101939,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 9,
+    "tribe_plugin": false
+   },
+   {
+    "url": "https://www.casainternazionaledelledonne.org/eventi/",
+    "ct": "text/html",
+    "bytes": 267128,
+    "jsonld": 0,
+    "ics": 0,
+    "event_links": 64,
+    "tribe_plugin": false
+   }
+  ]
+ },
+ {
+  "id": "città-dell-altra-economia",
+  "nome": "Città dell'Altra Economia",
+  "base": "https://www.cittadellaltraeconomia.org",
+  "hits": []
+ }
+]
