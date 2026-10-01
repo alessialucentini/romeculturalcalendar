@@ -79,7 +79,7 @@ def parse_maxxi(html: str, base: str, cat: str, venue: str, source: str) -> list
             continue
         seen.add(key)
         out.append(Event(
-            title=title, cat=cat, venue=venue, address="Via Guido Reni 4A", start=start, end=end, time=time,
+            title=title, cat=cat, venue=venue, address="Via Guido Reni 4A, Roma", start=start, end=end, time=time,
             url=urljoin(base, a["href"]), source=source, kind=kind,
             description=clean(" · ".join(x for x in [label, *parts] if x))))
     return out
@@ -123,7 +123,7 @@ def parse_auditorium(html: str, base: str, cat: str, source: str) -> list[Event]
         out.append(Event(
             title=clean(title_el.get_text(" ", strip=True)), cat=ev_cat,
             venue=f"Auditorium Parco della Musica{' · ' + sala if sala and sala != 'AuditoriumArte' else ''}",
-            address="Viale Pietro de Coubertin 30", start=start, end=start, time=time,
+            address="Viale Pietro de Coubertin 30, Roma", start=start, end=start, time=time,
             url=urljoin(base, link["href"]), source=source, description=lab))
     return out
 
@@ -175,7 +175,7 @@ def parse_opera_show(html: str, url: str, cat: str, source: str, today: date | N
             continue
         t = re.search(r"ORE\s*(\d{1,2})[:.](\d{2})", li.get_text(" ", strip=True), re.I)
         out.append(Event(
-            title=title, cat=ev_cat, venue="Teatro dell'Opera di Roma", address="Piazza Beniamino Gigli 7",
+            title=title, cat=ev_cat, venue="Teatro dell'Opera di Roma", address="Piazza Beniamino Gigli 7, Roma",
             start=start, end=start, time=f"{int(t.group(1)):02d}:{t.group(2)}" if t else None,
             url=url, source=source, description=description))
     return out
