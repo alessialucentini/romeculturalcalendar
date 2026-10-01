@@ -51,6 +51,10 @@ def test_sites():
         assert len(sites.parse_merulana(rx("merulana.html"), "u", "altro", "m")) >= 10
         a = sites.parse_arteit(rx("arteit.html"), "https://www.arte.it", "mostre", "a")
         assert len(a) >= 30 and a[0].start == "2026-10-01"
+        z = sites.parse_zero(rx("zero.html"), "u", "z", today=datetime.date(2026, 10, 1))
+        assert len(z) >= 8 and any(e.time == "22:00" for e in z) and z[0].end == "2026-10-04"
+        tc = sites.parse_teatriincomune(rx("teatriincomune.html"), "u", "t", today=datetime.date(2026, 10, 1))
+        assert len(tc) >= 12 and any(e.venue == "Teatro Biblioteca Quarticciolo" for e in tc)
         q = sites.parse_quirino(rx("quirino.html"), "u", "teatro", "q")
         assert len(q) >= 10 and q[0].start == "2026-10-20"
     assert sites._tdr_range("10 set – 6 ott 2026") == ("2026-09-10", "2026-10-06")

@@ -85,7 +85,7 @@ teatro-vascello,Teatro Vascello,https://www.teatrovascello.it,teatro_musica,teat
 teatro-palladium,Teatro Palladium,https://www.teatropalladium.it,teatro_musica,teatro,auto,si,si,Garbatella
 teatro-quirino,Teatro Quirino,https://www.teatroquirino.it/calendario/,teatro_musica,teatro,auto,si,si,
 teatro-eliseo,Teatro Eliseo,https://www.teatroeliseo.com,teatro_musica,teatro,auto,no,si,
-teatro-biblioteca-quarticciolo,Teatro Biblioteca Quarticciolo,https://www.teatrobibliotecaquarticciolo.it,teatro_musica,teatro,auto,no,si,aggiunta
+teatro-biblioteca-quarticciolo,Teatro Biblioteca Quarticciolo,https://teatrobibliotecaquarticciolo.it/,teatro_musica,teatro,auto,si,si,"circuito Teatri in Comune: Quarticciolo, Lido di Ostia, Villa Pamphilj"
 teatro-argot-studio,Teatro Argot Studio,https://www.teatroargotstudio.com,teatro_musica,teatro,auto,no,si,aggiunta
 teatro-dell-orologio,Teatro dell'Orologio,https://www.teatroorologio.com,teatro_musica,teatro,auto,no,si,aggiunta
 short-theatre,Short Theatre,https://www.shorttheatre.org,festival,teatro,auto,si,si,aggiunta
@@ -116,3 +116,8 @@ casa-internazionale-delle-donne,Casa Internazionale delle Donne,https://www.casa
 città-dell-altra-economia,Città dell'Altra Economia,https://www.cittadellaltraeconomia.org,community,community,auto,no,si,aggiunta
 run-club-da-mappare,Run club (da mappare),,community,community,manuale,no,si,da individuare: pagine Instagram/Strava dei run club romani
 arte-it,Arte.it - Calendario mostre Roma,https://www.arte.it/calendario-arte/roma,aggregatore,mostre,auto,si,no,elenco mensile mostre a Roma
+zero-roma,Zero Roma,https://zero.eu/it/roma/eventi/,aggregatore,altro,auto,si,no,liste editoriali: meglio del mese/settimana/weekend + mostre
+tlon,Libreria Teatro Tlon,https://www.tlon.it,libreria,libri,manuale,no,si,nessun calendario datato online: eventi inseriti a mano
+zalib,Zalib Centro Giovani (Arci),https://www.centrogiovaniroma.com/eventi,community,community,manuale,no,si,programma solo su Instagram/lnk.bio: eventi inseriti a mano
+eventbrite-roma,Eventbrite Roma,https://www.eventbrite.it/d/italy--roma/events/,aggregatore,altro,manuale,no,si,blocca i bot (405): serve la loro API ufficiale
+art-around-roma,Art Around Roma,,aggregatore,mostre,manuale,no,si,sito non trovato: serve il link esatto

@@ -494,6 +494,98 @@ def fetch_arteit(src: dict, months: int = 2) -> list[Event]:
     return out
 
 
+# ------------------------------------------------------------------ zero.eu Roma (liste editoriali)
+_ZERO_CAT = {"spettacoli": "teatro", "teatro": "teatro", "danza": "teatro", "mostre": "mostre", "concerti": "musica",
+             "clubbing": "musica", "musica": "musica", "cinema": "cinema", "libri": "libri", "incontri": "altro"}
+
+
+def parse_zero(html: str, base: str, source: str, today: date | None = None) -> list[Event]:
+    """Card a.event-preview: 'fino a domenica 04 ottobre' (solo fine) oppure 'domenica 04 ottobre H 22:00'."""
+    today = today or date.today()
+    out = []
+    for a in _soup(html).select("a.event-preview[href]"):
+        title, day, mon = a.select_one(".title-pdy"), a.select_one(".day"), a.select_one(".month")
+        if not (title and day and mon and _month(mon.get_text(strip=True))):
+            continue
+        dd = re.sub(r"\D", "", day.get_text())
+        d = _infer_year(_month(mon.get_text(strip=True)), int(dd or 0), today)
+        if not d:
+            continue
+        until = a.select_one(".date-until") is not None
+        start, end = (today.isoformat(), d) if until else (d, d)
+        if until and date.fromisoformat(d) < today:
+            continue
+        t = re.search(r"H\s*(\d{1,2})[:.](\d{2})", a.get_text(" ", strip=True))
+        place = a.select_one(".place")
+        venue = clean(re.sub(r",\s*Roma.*$", "", place.get_text(" ", strip=True))) if place else ""
+        cat_el, desc = a.select_one(".category"), a.select_one(".description")
+        label = clean(cat_el.get_text(" ", strip=True)).lower() if cat_el else ""
+        out.append(Event(
+            title=clean(title.get_text(" ", strip=True)), cat=_ZERO_CAT.get(label, "altro"), kind="mostra" if until and label == "mostre" else "evento",
+            venue=venue or "Roma", address=f"{venue}, Roma" if venue else "Roma", start=start, end=end,
+            time=f"{int(t.group(1)):02d}:{t.group(2)}" if t and not until else None, url=a["href"], source=source,
+            description=clean(desc.get_text(" ", strip=True)).rstrip("…") if desc else ""))
+    return out
+
+
+ZERO_PAGES = ["il-meglio-del-mese", "il-meglio-della-settimana", "il-meglio-del-weekend", "mostre-in-corso"]
+
+
+def fetch_zero(src: dict) -> list[Event]:
+    out, seen = [], set()
+    for slug in ZERO_PAGES:
+        url = f"https://zero.eu/it/roma/eventi/{slug}/"
+        try:
+            r = polite_get(url)
+        except Exception:
+            continue
+        for e in parse_zero(_text(r.content), url, src["id"]):
+            if (e.url, e.start) not in seen:
+                seen.add((e.url, e.start))
+                out.append(e)
+    return out
+
+
+# ------------------------------------------------------------------ Teatri in Comune (Teatro Biblioteca Quarticciolo, Lido di Ostia, Villa Pamphilj...)
+_TIC_DATE = re.compile(r"(?:DAL\s+)?(\d{1,2})\s+([A-Za-z]{3,})(?:\s+AL\s+(\d{1,2})\s+([A-Za-z]{3,}))?", re.I)
+_TIC_CAT = {"spettacolo": "teatro", "danza": "teatro", "musica": "musica", "concerto": "musica", "cinema": "cinema"}
+
+
+def parse_teatriincomune(html: str, base: str, source: str, today: date | None = None) -> list[Event]:
+    today = today or date.today()
+    out = []
+    for c in _soup(html).select(".contenuto_slide"):
+        h = c.select_one("h2 a[href]")
+        foot = c.find_next_sibling(class_="footer-evento")
+        if not (h and foot):
+            continue
+        luogo = foot.select_one(".luogo_title")
+        txt = foot.get_text(" ", strip=True)
+        m = _TIC_DATE.search(txt.replace(luogo.get_text(" ", strip=True), "") if luogo else txt)
+        if not (m and _month(m.group(2))):
+            continue
+        start = _infer_year(_month(m.group(2)), int(m.group(1)), today)
+        end = start
+        if m.group(3) and _month(m.group(4) or ""):
+            end = _infer_year(_month(m.group(4)), int(m.group(3)), date.fromisoformat(start)) if start else None
+            if end and end < start:  # fine nell'anno dopo
+                end = _d(int(start[:4]) + 1, _month(m.group(4)), int(m.group(3)))
+        if not (start and end) or (date.fromisoformat(end) - date.fromisoformat(start)).days > MAX_RANGE_DAYS or date.fromisoformat(end) < today:
+            continue
+        v = clean(luogo.get_text(" ", strip=True)) if luogo else "Teatri in Comune"
+        cat_el, desc = c.select_one(".categoria"), c.select_one(".contenuto_slide_content")
+        out.append(Event(
+            title=clean(h.get_text(" ", strip=True)), cat=_TIC_CAT.get(clean(cat_el.get_text()).lower() if cat_el else "", "teatro"),
+            venue=v, address=f"{v}, Roma", start=start, end=end, url=h["href"], source=source,
+            kind="evento", description=clean(desc.get_text(" ", strip=True)) if desc else ""))
+    return out
+
+
+def fetch_teatriincomune(src: dict) -> list[Event]:
+    r = polite_get(src["link"])
+    return parse_teatriincomune(_text(r.content), src["link"], src["id"])
+
+
 SITES = {
     "maxxi": fetch_maxxi,
     "auditorium-parco-della-musica": fetch_auditorium,
@@ -505,4 +597,6 @@ SITES = {
     "palazzo-merulana": fetch_merulana,
     "teatro-quirino": fetch_quirino,
     "arte-it": fetch_arteit,
+    "zero-roma": fetch_zero,
+    "teatro-biblioteca-quarticciolo": fetch_teatriincomune,
 }
