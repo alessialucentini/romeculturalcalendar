@@ -1,5 +1,5 @@
 // Service worker: l'app funziona offline con l'ultimo elenco eventi scaricato.
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL = `roma-oggi-shell-${VERSION}`;
 const DATA = "roma-oggi-data";
 const FILES = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
