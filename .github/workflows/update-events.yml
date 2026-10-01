@@ -10,6 +10,10 @@ on:
         type: choice
         options: [scrape, probe, sample]
         default: scrape
+      urls:
+        description: "solo per mode=sample: URL singoli separati da spazio (vuoto = fonti predefinite)"
+        required: false
+        default: ""
   push:
     branches: [main]
     paths: ["web/**"]            # modifiche all'app: ripubblica senza rifare lo scraping
@@ -41,7 +45,7 @@ jobs:
         run: python scraper/probe.py
       - name: Campioni HTML
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'sample'
-        run: python scraper/sample.py
+        run: python scraper/sample.py ${{ inputs.urls }}
       - name: Scraping
         if: github.event_name == 'schedule' || inputs.mode == 'scrape'
         run: python scraper/run.py

@@ -23,7 +23,24 @@ MAX_BYTES = 350_000
 MAX_PAGES = 4
 
 
+def urls_mode(urls: list[str]) -> None:
+    d = OUT / "extra"
+    d.mkdir(parents=True, exist_ok=True)
+    lines = ["# pagine singole", ""]
+    for i, u in enumerate(urls):
+        try:
+            r = polite_get(u)
+            (d / f"{i}.html").write_text(r.content.decode("utf-8", "replace")[:MAX_BYTES], encoding="utf-8")
+            lines.append(f"- extra/{i}.html <- {u} ({r.status_code}, {len(r.content)} byte)")
+        except Exception as ex:  # noqa: BLE001
+            lines.append(f"- {i}: {u} ERRORE {type(ex).__name__}: {ex}")
+    (d / "index.md").write_text("\n".join(lines), encoding="utf-8")
+    print("\n".join(lines))
+
+
 def main() -> None:
+    if len(sys.argv) > 1 and sys.argv[1].startswith("http"):
+        return urls_mode(sys.argv[1:])
     import csv
     ids = sys.argv[1].split(",") if len(sys.argv) > 1 else IDS
     src = {r["id"]: r for r in csv.DictReader(open(ROOT / "data" / "sources.csv", encoding="utf-8"))}
