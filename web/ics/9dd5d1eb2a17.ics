@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9dd5d1eb2a17@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261115
+SUMMARY:Lizzi Bougatsos - "Spatial Concert"
+LOCATION:Ermes - Ermes\, Ermes - Ermes\, Roma
+DESCRIPTION:Personale dell'artista. Opening mercoledì 30 settembre dalle
+  17:00 alle 21:00.\n\nInfo: https://zero.eu/it/eventi/378758-lizzi-bougat
+ sos-spatial-concert\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378758-lizzi-bougatsos-spatial-concert,roma
+ /
+END:VEVENT
+END:VCALENDAR

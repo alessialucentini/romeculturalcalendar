@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0e1636cd6a6@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:BAILAORA ⋆ in a Room
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Cosa sappiamo davvero del Flamenco? Giorgia Celli\, storica i
+ nterprete delle più importanti compagnie spagnole\, ci accoglie in una p
+ erformance in acustico\, che intreccia la forza viscerale della danza a u
+ no sguardo femminile\, rivoluzionario e segreto\, facendo del proprio cor
+ po un territorio di resistenza e di memoria.\n\nInfo: https://teatriincom
+ une.roma.it/events/bailaora-%e2%8b%86-in-a-room/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/bailaora-%e2%8b%86-in-a-room/
+END:VEVENT
+END:VCALENDAR

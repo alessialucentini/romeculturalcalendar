@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3cecf73f440a@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261011T130000Z
+DTEND:20261011T150000Z
+SUMMARY:Sun.Days w/ La Saramuya
+LOCATION:CSA La Torre\, CSA La Torre\, Roma
+DESCRIPTION:Per la prima volta a Roma atterra un Picò Soundsystem latino
+ americano\, nello specifico il coloratissimo e potentissimo La Saramuya\,
+  direttamente\n\nInfo: https://zero.eu/it/eventi/379422-sun-days-w-la-sar
+ amuya\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379422-sun-days-w-la-saramuya,roma/
+END:VEVENT
+END:VCALENDAR

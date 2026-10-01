@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d57bdf012da8@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:(LA) HORDE - "Après moi\, le déluge"
+LOCATION:Teatro Argentina\, Teatro Argentina\, Roma
+DESCRIPTION:il collettivo francese alla guida del Ballet National de Mars
+ eille torna a Roma con una nuova creazione contro il flusso\n\nInfo: http
+ s://zero.eu/it/eventi/378600-la-horde-apres-moi-le-deluge\,roma/\n\nDa Li
+ nceo
+URL:https://zero.eu/it/eventi/378600-la-horde-apres-moi-le-deluge,roma/
+END:VEVENT
+END:VCALENDAR

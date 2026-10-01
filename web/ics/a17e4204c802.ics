@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a17e4204c802@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:Pankaj Tiwari/CAMPO - "The Harvest of Broken Promises"
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Il regista e performer indiano intreccia memoria personale e 
+ storia collettiva per raccontare la trasformazione dell’agricoltura in 
+ India dagli anni\n\nInfo: https://zero.eu/it/eventi/378795-pankaj-tiwari-
+ campo-the-harvest-of-broken-promises\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378795-pankaj-tiwari-campo-the-harvest-of-b
+ roken-promises,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ebffd078c726@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:Marta Roberti - "Down Dog"
+LOCATION:Leporello\, Leporello\, Roma
+DESCRIPTION:In occasione del festival Bande de Femmes\, Leporello ospita 
+ una selezione dei lavori legati al libro "Down Dog" di Marta\n\nInfo: htt
+ ps://zero.eu/it/eventi/371753-marta-roberti-down-dog\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/371753-marta-roberti-down-dog,roma/
+END:VEVENT
+END:VCALENDAR

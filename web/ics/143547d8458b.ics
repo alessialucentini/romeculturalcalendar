@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:143547d8458b@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261114
+SUMMARY:Satya Forte/Pedro Zhang - "Double Solo"
+LOCATION:Monitor\, Monitor\, Roma
+DESCRIPTION:La galleria Monitor inaugura la stagione 26/27 con una doppia
+  personale a metà tra l'Abruzzo e il Portogallo\, in cui\n\nInfo: https:
+ //zero.eu/it/eventi/375748-satya-forte-pedro-zhang\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375748-satya-forte-pedro-zhang,roma/
+END:VEVENT
+END:VCALENDAR

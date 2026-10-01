@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e912f5403a0c@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:LE GIORNATE SARDE A OSTIA
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Strumenti\, voci\, danze\, costumi\, colori e profumi della S
+ ardegna. Una full immersion nella cultura\, nella storia e nei sapori del
+ l’isola.\n\nInfo: https://teatriincomune.roma.it/events/le-giornate-sar
+ de-a-ostia-5/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/le-giornate-sarde-a-ostia-5/
+END:VEVENT
+END:VCALENDAR

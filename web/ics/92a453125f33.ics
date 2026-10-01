@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92a453125f33@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261012
+SUMMARY:Giorgina Pi/Bluemotion - "Lemnos"
+LOCATION:Teatro Vascello\, Teatro Vascello\, Roma
+DESCRIPTION:Terza tappa di un progetto che comprende gli spettacoli "Tire
+ sias" e "Guida immaginaria"\, "Lemnos" prende le mosse da una riflessione
+ \n\nInfo: https://zero.eu/it/eventi/378797-giorgina-pi-bluemotion-lemnos-
+ 2026-ottobre-romaeuropa\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378797-giorgina-pi-bluemotion-lemnos-2026-o
+ ttobre-romaeuropa,roma/
+END:VEVENT
+END:VCALENDAR

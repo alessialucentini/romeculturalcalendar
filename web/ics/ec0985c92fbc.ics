@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ec0985c92fbc@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:PIANO CITY | Edoardo Vilella
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Piano City Roma è il festival diffuso che porta il pianofort
+ e e la musica in luoghi diversi della città. Al Teatro Biblioteca Quarti
+ cciolo\, il pianista jazz Edoardo Vilella propone un repertorio che attra
+ versa epoche\, generi e linguaggi diversi\, rileggendo al pianoforte bran
+ i di The Beatles\, Radiohead\, Bee Gees\, The Doors.\n\nInfo: https://tea
+ triincomune.roma.it/events/piano-city-edoardo-vilella/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/piano-city-edoardo-vilella/
+END:VEVENT
+END:VCALENDAR

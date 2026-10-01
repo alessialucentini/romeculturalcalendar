@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b6a73680d6e@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261108
+SUMMARY:Zorica Čolić - "Short Cuts"
+LOCATION:Reception Rome\, Reception Rome\, Roma
+DESCRIPTION:Prima personale in Italia dell'artista NY-based. Concepita in
+  due parti distinte ma interconnesse\, la mostra considera il corpo come 
+ un\n\nInfo: https://zero.eu/it/eventi/376349-zorica-colic-short-cuts\,rom
+ a/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376349-zorica-colic-short-cuts,roma/
+END:VEVENT
+END:VCALENDAR

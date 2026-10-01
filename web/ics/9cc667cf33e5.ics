@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9cc667cf33e5@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261108
+SUMMARY:Hypothèse de lecture
+LOCATION:Complesso di Trinità dei Monti\, Complesso di Trinità dei Mont
+ i\, Roma
+DESCRIPTION:Dopo lunghi lavori di restauro\, riapre l'antica biblioteca d
+ el Complesso di Trinità dei Monti ospitando con una collettiva di giovan
+ i\n\nInfo: https://zero.eu/it/eventi/376189-hypothese-de-lecture\,roma/\n
+ \nDa Linceo
+URL:https://zero.eu/it/eventi/376189-hypothese-de-lecture,roma/
+END:VEVENT
+END:VCALENDAR

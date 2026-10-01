@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:12aeba232bd6@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261008T170000Z
+DTEND:20261008T190000Z
+SUMMARY:Hell is Here and Sometimes I Rest Upon It
+LOCATION:Una Vetrina\, Una Vetrina\, Roma
+DESCRIPTION:o—mag presenta una performance di Mädchen Vivi con Fedra M
+ orini\, nella vetrina più famosa del centro storico di Roma. Un'azione\n
+ \nInfo: https://zero.eu/it/eventi/379783-hell-is-here-and-sometimes-i-res
+ t-upon-it\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379783-hell-is-here-and-sometimes-i-rest-up
+ on-it,roma/
+END:VEVENT
+END:VCALENDAR

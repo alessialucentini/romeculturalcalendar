@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b8eed3fb0ac@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:CHI HA PAURA DEL BUIO ovvero la storia di Toporagno e Sedanorapa 
+ | Teatro Verde
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Una bambina che ha paura del buio e i suoi due genitori\, dis
+ perati\, che creano una storia per conciliarle il sonno sono gli attori c
+ he danno vita allo spettacolo. Insieme inventeranno un mondo fatto di omb
+ re\, di suoni e di colori.\n\nInfo: https://teatriincomune.roma.it/events
+ /chi-ha-paura-del-buio-ovvero-la-storia-di-toporagno-e-sedanorapa-teatro-
+ verde/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/chi-ha-paura-del-buio-ovvero-la
+ -storia-di-toporagno-e-sedanorapa-teatro-verde/
+END:VEVENT
+END:VCALENDAR

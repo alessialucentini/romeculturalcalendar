@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af710c5910b4@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261115
+SUMMARY:Agnes Cecile - "Spirits"
+LOCATION:Chroma Art Lab\, Chroma Art Lab\, Roma
+DESCRIPTION:Personale dell'artista\, dedicata a spiriti della natura\, en
+ tità sovrannaturali ed energie sottili. Opening sabato 26 settembre 2026
+  dalle 18:00.\n\nInfo: https://zero.eu/it/eventi/377992-agnes-cecile-spir
+ its\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377992-agnes-cecile-spirits,roma/
+END:VEVENT
+END:VCALENDAR

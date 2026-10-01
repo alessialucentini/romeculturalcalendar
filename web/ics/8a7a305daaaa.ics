@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a7a305daaaa@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261010T150000Z
+DTEND:20261010T170000Z
+SUMMARY:Dieci anni di Olympique Togliatti
+LOCATION:Scuola Popolare delle Arti del CIP-Alessandrino\, Scuola Popolar
+ e delle Arti del CIP-Alessandrino\, Roma
+DESCRIPTION:La più irriverente squadra di calcio a otto della capitale f
+ esteggia un decennio a tutto punk\, con i concerti di\n\nInfo: https://ze
+ ro.eu/it/eventi/378004-dieci-anni-di-olympique-togliatti\,roma/\n\nDa Lin
+ ceo
+URL:https://zero.eu/it/eventi/378004-dieci-anni-di-olympique-togliatti,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

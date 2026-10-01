@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6398e616da54@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:APOCALISSE TASCABILE
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:ideazione e scrittura Niccolò Fettarappa Sandri regia e inte
+ rpretazione Niccolò Fettarappa Sandri e Lorenzo Guerrieri produzione Sar
+ degna Teatro Premio In-BOX 2021\, Premio della Critica Nolo Fringe 2021\,
+  Premio Italia dei Visionari 2021\, Premio delle Giurie Unite Direction U
+ nder 30/2020 Dio appare in un supermercato romano per annunciare la fine 
+ del mondo\, ma quasi nessuno lo ascolta… Solo un gio…\n\nInfo: https:
+ //teatriincomune.roma.it/events/apocalisse-tascabile/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/apocalisse-tascabile/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f7a36669701@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261012
+SUMMARY:Caterina Filograno - "Anche in casa si possono provare emozioni f
+ orti"
+LOCATION:Teatro India\, Teatro India\, Roma
+DESCRIPTION:Muovendosi tra autobiografia e invenzione\, l'attrice e autri
+ ce Caterina Filograno attraversa la propria storia familiare\, segnata da
+  una forte impronta\n\nInfo: https://zero.eu/it/eventi/379076-anche-in-ca
+ sa-si-possono-provare-emozioni-forti-teatro-india\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379076-anche-in-casa-si-possono-provare-emo
+ zioni-forti-teatro-india,roma/
+END:VEVENT
+END:VCALENDAR

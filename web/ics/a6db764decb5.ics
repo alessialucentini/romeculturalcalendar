@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6db764decb5@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Interazioni Festival / Re-Incanto
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Chiasma torna con la sesta edizione del suo festival dedicato
+  alle arti performative\, quest'anno tutto allo Spazio Diamante.\n\nInfo:
+  https://zero.eu/it/eventi/375418-interazioni-festival-re-incanto\,roma/\
+ n\nDa Linceo
+URL:https://zero.eu/it/eventi/375418-interazioni-festival-re-incanto,roma
+ /
+END:VEVENT
+END:VCALENDAR

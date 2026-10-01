@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5ddf32a9871@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+SUMMARY:LE TRE CICORIANE | Dario De Luca
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Una madre e tre figlie\, poverissime\, sopravvivono raccoglie
+ ndo cicoria. Una favola nera\, tra cannibalismo arcaico e violenza\, ambi
+ entata in un tempo remoto ma inquietantemente vicino.\n\nInfo: https://te
+ atriincomune.roma.it/events/le-tre-cicoriane-dario-de-luca/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/le-tre-cicoriane-dario-de-luca/
+END:VEVENT
+END:VCALENDAR

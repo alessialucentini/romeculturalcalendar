@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0862d5242f0@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270104
+SUMMARY:Dayanita Singh - "Archivio"
+LOCATION:Museo Nazionale Etrusco di Villa Giulia\, Museo Nazionale Etrusc
+ o di Villa Giulia\, Roma
+DESCRIPTION:La fotografa indiana porta in mostra oltre 350 fotografie\, u
+ nendo due percorsi che nascono dal suo rapporto con l'Italia e\n\nInfo: h
+ ttps://zero.eu/it/eventi/379041-dayanita-singh-archivio\,roma/\n\nDa Linc
+ eo
+URL:https://zero.eu/it/eventi/379041-dayanita-singh-archivio,roma/
+END:VEVENT
+END:VCALENDAR

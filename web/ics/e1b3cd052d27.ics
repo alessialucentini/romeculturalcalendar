@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e1b3cd052d27@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:BADA - Beyond Aniene Doin' Autoproduzione
+LOCATION:Brancaleone\, Brancaleone\, Roma
+DESCRIPTION:Tre giorni di musica\, fanzine autoprodotte\, illustrazioni\,
+  fumetti underground\, mostre e presentazioni.\n\nInfo: https://zero.eu/i
+ t/eventi/377577-bada-beyond-aniene-doin-autoproduzione-2026\,roma/\n\nDa 
+ Linceo
+URL:https://zero.eu/it/eventi/377577-bada-beyond-aniene-doin-autoproduzio
+ ne-2026,roma/
+END:VEVENT
+END:VCALENDAR

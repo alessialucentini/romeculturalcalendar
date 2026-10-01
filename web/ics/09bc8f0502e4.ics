@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:09bc8f0502e4@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:FAVOLA SISMICA | Iacozzilli/PAV/Caniglia
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Sul confine tra Russia e Finlandia\, la geologa Mira Totinen 
+ scopre il corpo di un bambino in una grotta naturale. Tra mito\, religion
+ e e il paganesimo che resiste al tempo e alle intemperie\, i personaggi c
+ ostruiranno la propria versione della natura\, della famiglia e di loro s
+ tessi\, in un grande atto di fede condiviso.\n\nInfo: https://teatriincom
+ une.roma.it/events/favola-sismica-iacozzilli-pav-caniglia/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/favola-sismica-iacozzilli-pav-c
+ aniglia/
+END:VEVENT
+END:VCALENDAR

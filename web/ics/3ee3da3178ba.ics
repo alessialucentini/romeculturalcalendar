@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ee3da3178ba@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:CONCERTO. Il nostro teatro come un concerto | Teatro delle Ariett
+ e
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Il Teatro delle Ariette torna per accoglierci in una specie d
+ i piccolo bar\, con tavolini rossi consumati dal tempo e un bicchiere di 
+ vino come aperitivo\, con musica dal vivo\, per raccontarci storie che pa
+ rlano di terra\, d’amore\, di passione\, di utopie e fallimenti\, e che
+  in fondo sono come canzoni.\n\nInfo: https://teatriincomune.roma.it/even
+ ts/concerto-il-nostro-teatro-come-un-concerto-teatro-delle-ariette/\n\nDa
+  Linceo
+URL:https://teatriincomune.roma.it/events/concerto-il-nostro-teatro-come-
+ un-concerto-teatro-delle-ariette/
+END:VEVENT
+END:VCALENDAR

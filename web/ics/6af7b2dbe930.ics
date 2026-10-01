@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6af7b2dbe930@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+SUMMARY:Gli ultimi giorni di Pompeo
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Emidio Clementi\, voce e bassista dei Massimo Volume\, e Corr
+ ado Nuccini\, fondatore dei Giardini di Mirò\, si ritrovano insieme a\n\
+ nInfo: https://zero.eu/it/eventi/378912-gli-ultimi-giorni-di-pompeo\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378912-gli-ultimi-giorni-di-pompeo,roma/
+END:VEVENT
+END:VCALENDAR

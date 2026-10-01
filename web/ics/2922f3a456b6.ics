@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2922f3a456b6@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:CNOSSO | Malombra / Compagnia Eleina D.
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Una rilettura del mito del Minotauro in una prospettiva intim
+ a e contemporanea\, che mette in scena una figura non più mostruosa\, ma
+  fragile\, emarginata e specchio delle identità spezzate della nostra ep
+ oca.\n\nInfo: https://teatriincomune.roma.it/events/cnosso-malombra-compa
+ gnia-eleina-d/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/cnosso-malombra-compagnia-elein
+ a-d/
+END:VEVENT
+END:VCALENDAR

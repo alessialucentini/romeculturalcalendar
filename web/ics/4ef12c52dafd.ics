@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ef12c52dafd@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:IL RESPIRO DEL TAMBURO
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Il taiko\, il grande tamburo giapponese\, incontra la danza i
+ n una dimostrazione nata dalla masterclass con Leonard Eto\, Iori Tadokor
+ o e il gruppo Kigaidaiko. Ritmo\, gesto ed energia scenica: tradizione gi
+ apponese e sensibilità contemporanea dialogano sul palco.\n\nInfo: https
+ ://teatriincomune.roma.it/events/il-respiro-del-tamburo/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/il-respiro-del-tamburo/
+END:VEVENT
+END:VCALENDAR

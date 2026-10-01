@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f7396e767ba@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261025
+SUMMARY:THE LAST OF THE NEW | Bluecheese Project
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:The Last of the New è una performance/installazione immersiv
+ a e multidisciplinare che indaga il passaggio dal mondo analogico a quell
+ o digitale come una delle grandi soglie del nostro tempo.\n\nInfo: https:
+ //teatriincomune.roma.it/events/the-last-of-the-new-bluecheese-project/\n
+ \nDa Linceo
+URL:https://teatriincomune.roma.it/events/the-last-of-the-new-bluecheese-
+ project/
+END:VEVENT
+END:VCALENDAR

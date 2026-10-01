@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01197b2bd8bd@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Mischa Kuball - "Newton - Goethe - Galileo"
+LOCATION:Casa di Goethe\, Casa di Goethe\, Roma
+DESCRIPTION:Attraverso due cicli di opere\, l’artista affronta due epis
+ odi significativi della storia della scienza: le concezioni opposte di Jo
+ hann Wolfgang\n\nInfo: https://zero.eu/it/eventi/367375-mischa-kuball-new
+ ton-goethe-galileo\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/367375-mischa-kuball-newton-goethe-galileo,
+ roma/
+END:VEVENT
+END:VCALENDAR

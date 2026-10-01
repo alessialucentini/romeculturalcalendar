@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc8934029c0f@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Lungo le Strade Blu. Along the Blue Highways
+LOCATION:Museo di Roma in Trastevere\, Museo di Roma in Trastevere\, Roma
+DESCRIPTION:Una selezione di novanta scatti in bianco e nero e a colori r
+ ealizzati negli Stati Uniti dal regista Francesco Conversano\n\nInfo: htt
+ ps://zero.eu/it/eventi/364145-lungo-le-strade-blu-along-the-blue-highways
+ -2\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/364145-lungo-le-strade-blu-along-the-blue-h
+ ighways-2,roma/
+END:VEVENT
+END:VCALENDAR

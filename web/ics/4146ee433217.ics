@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4146ee433217@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:Boris Charmatz - "Muette"
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Il coreografo presenta un’esperienza intima e radicale che 
+ esplora il silenzio non come assenza di musica\, ma come spazio emotivo\n
+ \nInfo: https://zero.eu/it/eventi/378785-boris-charmatz-muette\,roma/\n\n
+ Da Linceo
+URL:https://zero.eu/it/eventi/378785-boris-charmatz-muette,roma/
+END:VEVENT
+END:VCALENDAR

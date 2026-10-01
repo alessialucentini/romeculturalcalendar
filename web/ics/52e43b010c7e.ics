@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:52e43b010c7e@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261011T190000Z
+DTEND:20261011T210000Z
+SUMMARY:Upsammy & Valentina Magaletti
+LOCATION:Casetta Rossa\, Casetta Rossa\, Roma
+DESCRIPTION:La batterista italiana e la producer olandese presentano il l
+ oro splendido album in collaborazione\, "Seismo".\n\nInfo: https://zero.e
+ u/it/eventi/379922-upsammy-valentina-magaletti\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379922-upsammy-valentina-magaletti,roma/
+END:VEVENT
+END:VCALENDAR

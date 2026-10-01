@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0693f308ac8@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261007T170000Z
+DTEND:20261007T190000Z
+SUMMARY:Scanner
+LOCATION:MACRO\, MACRO\, Roma
+DESCRIPTION:L'artista e musicista\, protagonista del progetto sonoro "52 
+ Spaces" ospitato attualmente al MACRO\, presenta una live performance che
+  rilegge "L'eclisse"\n\nInfo: https://zero.eu/it/eventi/375554-scanner\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375554-scanner,roma/
+END:VEVENT
+END:VCALENDAR

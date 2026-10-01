@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a9abb516ca8@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261221
+SUMMARY:Arcipelago Quarticciolo
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Un progetto di Cranpi che parte dalle relazioni costruite nel
+  quartiere per metterle in movimento attraverso l’arte. Teatro\, perfor
+ mance\, laboratori\, residenze\, installazioni\, visite guidate e incontr
+ i diventano strumenti per ascoltare il territorio\, creare nuovi legami e
+  dare forma a racconti che nascono dall’interno.\n\nInfo: https://teatr
+ iincomune.roma.it/events/arcipelago-quarticciolo/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/arcipelago-quarticciolo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89d12c38ce72@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261102
+SUMMARY:Hito Steyerl - "Mechanical Kurds"
+LOCATION:MACRO\, MACRO\, Roma
+DESCRIPTION:L'artista tedesca porta in mostra per la prima volta in Itali
+ a un'installazione video realizzata nel 2025 in cui affronta i\n\nInfo: h
+ ttps://zero.eu/it/eventi/365321-hito-steyerl-mechanical-kurds\,roma/\n\nD
+ a Linceo
+URL:https://zero.eu/it/eventi/365321-hito-steyerl-mechanical-kurds,roma/
+END:VEVENT
+END:VCALENDAR

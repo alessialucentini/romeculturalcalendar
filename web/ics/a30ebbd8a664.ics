@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a30ebbd8a664@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20270101
+SUMMARY:Hank Willis Thomas & Man Ray - "Tomorrow I shall contradict mysel
+ f"
+LOCATION:Galleria Continua\, Galleria Continua\, Roma
+DESCRIPTION:Doppia mostra per la nuova stagione a Roma di Continua.\n\nIn
+ fo: https://zero.eu/it/eventi/378380-hank-willis-thomas-man-ray-tomorrow-
+ i-shall-contradict-myself\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378380-hank-willis-thomas-man-ray-tomorrow-
+ i-shall-contradict-myself,roma/
+END:VEVENT
+END:VCALENDAR

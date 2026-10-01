@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf097fa516e1@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261011
+SUMMARY:Martin Bertelmann - “Inside the First Image”
+LOCATION:Curva Pura\, Curva Pura\, Roma
+DESCRIPTION:La mostra riunisce opere fotografiche e installazioni video c
+ he esplorano la natura dell'immagine e l'atto del guardare come modalità
+  fondamentale\n\nInfo: https://zero.eu/it/eventi/379297-martin-bertelmann
+ -inside-the-first-image\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379297-martin-bertelmann-inside-the-first-i
+ mage,roma/
+END:VEVENT
+END:VCALENDAR

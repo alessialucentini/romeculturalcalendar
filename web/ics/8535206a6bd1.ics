@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8535206a6bd1@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261125
+SUMMARY:Fortunatamente
+LOCATION:La Nuova Pesa\, La Nuova Pesa\, Roma
+DESCRIPTION:Una mostra ricostruisce la vita e l'atmosfera dello studio d'
+ artista Paese Fortuna condiviso fino al 2023 da José Angelino\, Alessand
+ ro\n\nInfo: https://zero.eu/it/eventi/379295-fortunatamente\,roma/\n\nDa 
+ Linceo
+URL:https://zero.eu/it/eventi/379295-fortunatamente,roma/
+END:VEVENT
+END:VCALENDAR

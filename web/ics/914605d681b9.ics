@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:914605d681b9@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261003T100000Z
+DTEND:20261003T120000Z
+SUMMARY:1 anno di Laverve
+LOCATION:Laverve\, Laverve\, Roma
+DESCRIPTION:La prima fermenteria specializzata in kombucha di Roma festeg
+ gia un anno\, con una lunga giornata a base di food\, vini\n\nInfo: https
+ ://zero.eu/it/eventi/378640-1-anno-di-laverve\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378640-1-anno-di-laverve,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3dd7dc4a0c37@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261026
+SUMMARY:Iliada Charalambous - "Tools for Assembly"
+LOCATION:Lateral\, Lateral\, Roma
+DESCRIPTION:Prima personale in Italia dell’artista cipriota\, curata da
+  Giulia Menegale. In mostra materiali\, documentazioni\, strumenti e meto
+ dologie sviluppati nell’ambito di\n\nInfo: https://zero.eu/it/eventi/37
+ 6997-iliada-charalambous-tools-for-assembly\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376997-iliada-charalambous-tools-for-assemb
+ ly,roma/
+END:VEVENT
+END:VCALENDAR

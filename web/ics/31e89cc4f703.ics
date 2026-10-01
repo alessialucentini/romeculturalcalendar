@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:31e89cc4f703@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:FORÊT | Evi Cats / .mov 4° edizione
+LOCATION:Teatro Biblioteca Quarticciolo\, Teatro Biblioteca Quarticciolo\
+ , Roma
+DESCRIPTION:Nell’ambito della quarta edizione di .MOV festival di video
+ danza internazionale\, viene realizzato un evento speciale dedicato a For
+ êt\, film diretto da Evi Cats\, tratto dall’omonimo progetto coreograf
+ ico di Anne Teresa De Keersmaeker e Némo Flouret.\n\nInfo: https://teatr
+ iincomune.roma.it/events/foret-mov-4-edizione/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/foret-mov-4-edizione/
+END:VEVENT
+END:VCALENDAR

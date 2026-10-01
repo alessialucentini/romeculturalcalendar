@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ea04a1be75df@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261001T200000Z
+DTEND:20261001T220000Z
+SUMMARY:tellKujira
+LOCATION:Fanfulla 5/a\, Fanfulla 5/a\, Roma
+DESCRIPTION:Una band rock in forma di quartetto classico. Il progetto tut
+ to corde di Ambra Chiara Michelangeli\, Francesco Diodati\, Francesco Gue
+ rri\n\nInfo: https://zero.eu/it/eventi/378473-tellkujira-fanfulla\,roma/\
+ n\nDa Linceo
+URL:https://zero.eu/it/eventi/378473-tellkujira-fanfulla,roma/
+END:VEVENT
+END:VCALENDAR

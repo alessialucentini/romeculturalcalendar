@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43be1532f571@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261010
+SUMMARY:Wim Vandekeybus/Ultima Vez - "What the body does not remember"
+LOCATION:Teatro Argentina\, Teatro Argentina\, Roma
+DESCRIPTION:Wim Vandekeybus ripropone\, aggiornandolo\, il suo debutto de
+ l 1987: una scrittura fisica estrema\, costruita su rischio\, velocità\,
+  collisione e istinto\,\n\nInfo: https://zero.eu/it/eventi/378793-what-th
+ e-body-does-not-remember\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378793-what-the-body-does-not-remember,roma
+ /
+END:VEVENT
+END:VCALENDAR

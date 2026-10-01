@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:deac8447d5c1@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261219
+SUMMARY:Brigitte Niedermair - "Madame Hirsch"
+LOCATION:Richard Saltoun\, Richard Saltoun\, Roma
+DESCRIPTION:La fotografa sudtirolese porta in mostra il progetto realizza
+ to nel 2009 e dedicato a un anno di vita di Renate\n\nInfo: https://zero.
+ eu/it/eventi/378739-brigitte-niedermair-madame-hirsch\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378739-brigitte-niedermair-madame-hirsch,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

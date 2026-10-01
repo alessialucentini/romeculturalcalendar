@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:59c4990125d0@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:Che ne sarà della neve\, del giardino?
+LOCATION:Officine Fotografiche Roma\, Officine Fotografiche Roma\, Roma
+DESCRIPTION:Officine Fotografiche ospita una collettiva che indaga paesag
+ gi\, comunità e memorie in trasformazione attraverso le foto di Emma Cha
+ rrin\, Constanze\n\nInfo: https://zero.eu/it/eventi/379195-che-ne-sara-de
+ lla-neve-del-giardino\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379195-che-ne-sara-della-neve-del-giardino,
+ roma/
+END:VEVENT
+END:VCALENDAR

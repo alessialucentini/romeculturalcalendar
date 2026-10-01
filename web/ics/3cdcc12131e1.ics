@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3cdcc12131e1@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Ve ne dico quattro
+LOCATION:Teatro Villa Pamphilj\, Teatro Villa Pamphilj\, Roma
+DESCRIPTION:Alt Academy Produzioni presenta Pino Strabioli in: "Ve ne dic
+ o quattro" di Pino Strabioli e Fabio Masi.\n\nInfo: https://teatriincomun
+ e.roma.it/events/ve-ne-dico-quattro/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/ve-ne-dico-quattro/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb89002ad535@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261004T200000Z
+DTEND:20261004T220000Z
+SUMMARY:more eaze
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:L'artista di Brooklyn porta a Roma il suo minimalismo sperime
+ ntale\, tra ambient e classica contemporanea. A seguire dj set di\n\nInfo
+ : https://zero.eu/it/eventi/378561-more-eaze\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378561-more-eaze,roma/
+END:VEVENT
+END:VCALENDAR

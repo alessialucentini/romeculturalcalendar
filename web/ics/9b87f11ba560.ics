@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9b87f11ba560@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:MArteLive - Lo spettacolo totale
+LOCATION:Lanificio159\, Lanificio159\, Roma
+DESCRIPTION:Tre giorni di musica a cura MArte Live con Shigeto\, Opus Kin
+ k\, SBTRKT\, Satantango\, Fresh Mula e tantissimi altri.\n\nInfo: https:/
+ /zero.eu/it/eventi/378738-martelive-lo-spettacolo-totale-2026\,roma/\n\nD
+ a Linceo
+URL:https://zero.eu/it/eventi/378738-martelive-lo-spettacolo-totale-2026,
+ roma/
+END:VEVENT
+END:VCALENDAR

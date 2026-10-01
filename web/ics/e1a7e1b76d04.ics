@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e1a7e1b76d04@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261123
+SUMMARY:Agnieszka Mastalerz - "The Props Assist the House"
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:L'artista polacca classe '91 porta in mostra la sua indagine 
+ su individui\, comunità\, istituzioni e ambiente naturale\, leggendo que
+ sti temi\n\nInfo: https://zero.eu/it/eventi/378580-agnieszka-mastalerz-th
+ e-props-assist-the-house-2\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378580-agnieszka-mastalerz-the-props-assist
+ -the-house-2,roma/
+END:VEVENT
+END:VCALENDAR

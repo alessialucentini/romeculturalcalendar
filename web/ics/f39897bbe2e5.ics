@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f39897bbe2e5@linceo
+DTSTAMP:20261001T190228Z
+DTSTART:20261008T190000Z
+DTEND:20261008T210000Z
+SUMMARY:#ALTRNTV w/ Heartworms
+LOCATION:Alcazar\, Alcazar\, Roma
+DESCRIPTION:Post-punk gotico con l'artista inglese Jojo Orme.\n\nInfo: ht
+ tps://zero.eu/it/eventi/378742-altrntv-w-heartworms\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378742-altrntv-w-heartworms,roma/
+END:VEVENT
+END:VCALENDAR

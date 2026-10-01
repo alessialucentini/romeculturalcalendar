@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4fa7f40a18f2@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261012
+SUMMARY:Soundwalk Collective - "Khandroma"
+LOCATION:Spazio Supernova\, Spazio Supernova\, Roma
+DESCRIPTION:Un'installazione esplora il vento\, il respiro\, il canto e i
+ l paesaggio come spazi di ascolto\, contemplazione e trasformazione. Nel 
+ lavoro\n\nInfo: https://zero.eu/it/eventi/378532-soundwalk-collective-kha
+ ndroma\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378532-soundwalk-collective-khandroma,roma/
+END:VEVENT
+END:VCALENDAR

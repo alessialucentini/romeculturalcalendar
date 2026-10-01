@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:10bde0782ee6@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:CosiDanzi 10ª ed.
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Serata conclusiva della Residenza Monitorata CosiDanzi per la
+  Giovane Danza d’Autore. I gruppi selezionati presentano a pubblico e o
+ peratori i primi studi coreografici nati durante il mese di residenza pre
+ sso il Teatro del Lido.\n\nInfo: https://teatriincomune.roma.it/events/co
+ sidanzi-10a-ed/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/cosidanzi-10a-ed/
+END:VEVENT
+END:VCALENDAR

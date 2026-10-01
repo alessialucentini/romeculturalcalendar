@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:741d59bc738a@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261223
+SUMMARY:SOMMINISTRARTE
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:SomministrArte è una rassegna teatrale e un progetto di incl
+ usione dedicato alle nuove generazioni\, dai 3 ai 18 anni\, e alle loro f
+ amiglie. Da ottobre a dicembre il Teatro del Lido di Ostia si trasforma i
+ n un antidoto all'isolamento sociale e in un prezioso strumento di cresci
+ ta collettiva.\n\nInfo: https://teatriincomune.roma.it/events/somministra
+ rte/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/somministrarte/
+END:VEVENT
+END:VCALENDAR

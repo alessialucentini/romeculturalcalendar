@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb3cb4e6b23f@linceo
+DTSTAMP:20261001T190228Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261122
+SUMMARY:Alberto Biasi
+LOCATION:TornabuoniArte\, TornabuoniArte\, Roma
+DESCRIPTION:In mostra lavori del pittore italiano classe 1937\, tra i cof
+ ondatori del Gruppo N ed esponente dell'arte programmata e cinetica\n\nIn
+ fo: https://zero.eu/it/eventi/375747-alberto-biasi\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375747-alberto-biasi,roma/
+END:VEVENT
+END:VCALENDAR
