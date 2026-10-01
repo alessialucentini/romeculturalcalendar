@@ -390,7 +390,8 @@
     const foot = $("#foot");
     foot.replaceChildren(
       gen ? `Dati aggiornati il ${gen.getDate()} ${MESI[gen.getMonth()]} ${gen.getFullYear()} · ${state.events.length} eventi` : "Dati non disponibili",
-      el("br"), "Aggregatore non commerciale: ogni evento rimanda alla fonte originale.");
+      el("br"), "Aggregatore non commerciale: ogni evento rimanda alla fonte originale.",
+      el("br"), el("span", { class: "made", text: "fatto col ❤️ da Alessia Lucentini" }));
   }
 
   // ---------- ricerca e salvati nell'intestazione ----------

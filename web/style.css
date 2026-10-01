@@ -347,21 +347,22 @@ main.fresh { animation: vt-in .4s var(--ease); }
 .gate-links button, .linklike { border: 0; background: none; color: var(--ink-2); font: 13px Inter, system-ui, sans-serif; text-decoration: underline; text-underline-offset: 3px; padding: 10px; cursor: pointer; }
 .linklike { padding: 0; }
 
-/* ---------- feedback nel footer ---------- */
-.fb { padding-top: 34px; padding-bottom: 6px; text-align: center; }
-.fb-toggle { display: inline-flex; align-items: center; gap: 12px; border: 0; border-radius: 999px; padding: 14px 22px; min-height: 48px; background: var(--bg); box-shadow: var(--raise-xs); font: 13px Inter, system-ui, sans-serif; color: var(--ink-2); cursor: pointer; transition: box-shadow .25s, transform .12s; }
-.fb-toggle b { color: var(--accent); font-weight: 700; }
+/* ---------- feedback: pillola fissa in basso ---------- */
+.fb { position: fixed; z-index: 40; left: 12px; bottom: calc(12px + env(safe-area-inset-bottom)); }
+.fb-toggle { display: inline-flex; align-items: center; gap: 7px; border: 0; border-radius: 999px; padding: 0 14px 0 11px; height: 36px; background: var(--bg); box-shadow: var(--raise-xs); font: 600 12px Inter, system-ui, sans-serif; color: var(--accent); cursor: pointer; transition: box-shadow .25s, transform .12s; }
 .fb-toggle[aria-expanded="true"] { box-shadow: var(--inset); }
-.fb-toggle .chev { animation: none; width: 9px; height: 9px; margin-top: -3px; transition: transform .35s var(--ease); }
-.fb-toggle[aria-expanded="true"] .chev { transform: rotate(-135deg); margin-top: 3px; }
-.fb-panel { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .4s var(--ease), opacity .3s; opacity: 0; }
-.fb-panel.open { grid-template-rows: 1fr; opacity: 1; }
-.fb-in { overflow: hidden; min-height: 0; }
-.fb-in form { padding: 18px 4px 6px; }
-.fb textarea { width: 100%; box-sizing: border-box; border: 0; outline: 0; resize: vertical; min-height: 110px; border-radius: 20px; padding: 16px 18px; background: var(--bg); box-shadow: var(--inset); font: 16px/1.45 Inter, system-ui, sans-serif; color: var(--ink); }
+.fb-ico { width: 14px; height: 14px; background: currentColor; -webkit-mask: var(--chat) center / contain no-repeat; mask: var(--chat) center / contain no-repeat; --chat: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M21 12a8 8 0 0 1-11.6 7.1L3 21l1.9-5.4A8 8 0 1 1 21 12z'/%3E%3C/svg%3E"); }
+.fb-panel { position: absolute; left: 0; bottom: 48px; width: min(340px, calc(100vw - 24px)); padding: 16px; border-radius: 24px; background: var(--bg); box-shadow: var(--raise); opacity: 0; transform: translateY(10px) scale(.97); transform-origin: bottom left; pointer-events: none; visibility: hidden; transition: opacity .28s var(--ease), transform .35s var(--spring), visibility 0s .35s; }
+.fb-panel.open { opacity: 1; transform: none; pointer-events: auto; visibility: visible; transition: opacity .28s var(--ease), transform .35s var(--spring); }
+.fb-q { margin: 0 0 12px 4px; font-size: 13px; color: var(--ink-2); line-height: 1.4; }
+.fb-q b { display: block; color: var(--accent); }
+.fb textarea { width: 100%; box-sizing: border-box; border: 0; outline: 0; resize: none; min-height: 96px; border-radius: 18px; padding: 14px 16px; background: var(--bg); box-shadow: var(--inset); font: 16px/1.45 Inter, system-ui, sans-serif; color: var(--ink); }
 .fb textarea:focus-visible { box-shadow: var(--inset), 0 0 0 2px rgba(125, 95, 39, .35); }
-.fb-row { display: flex; justify-content: space-between; align-items: center; margin-top: 14px; }
+.fb-row { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; }
 .fb-row small { color: var(--ink-2); font-size: 12px; margin-left: 10px; }
-.acct { margin: 18px 0 0; font-size: 12px; color: var(--ink-2); }
+.acct { margin: 0; padding: 0 18px 6px; text-align: center; font-size: 12px; color: var(--ink-2); }
 .acct:empty { display: none; }
+footer { padding-bottom: calc(64px + env(safe-area-inset-bottom)) !important; }
 @media (prefers-reduced-motion: reduce) { .gate, .fb-panel, .seg-pill { transition: none; } }
+
+.made { display: inline-block; margin-top: 8px; font-weight: 600; letter-spacing: .01em; }

@@ -26,8 +26,11 @@
     tog.addEventListener("click", () => {
       const open = tog.getAttribute("aria-expanded") !== "true";
       tog.setAttribute("aria-expanded", String(open)); panel.classList.toggle("open", open);
-      if (open) setTimeout(() => { txt.focus({ preventScroll: true }); panel.scrollIntoView({ behavior: "smooth", block: "nearest" }); }, 280);
+      if (open) setTimeout(() => txt.focus({ preventScroll: true }), 260);
     });
+    const closeFb = () => { if (tog.getAttribute("aria-expanded") === "true") tog.click(); };
+    document.addEventListener("keydown", (ev) => { if (ev.key === "Escape") closeFb(); });
+    document.addEventListener("pointerdown", (ev) => { if (!ev.target.closest("#fb")) closeFb(); });
     txt.addEventListener("input", () => { cnt.textContent = `${txt.value.length}/1000`; });
     form.addEventListener("submit", async (ev) => {
       ev.preventDefault();

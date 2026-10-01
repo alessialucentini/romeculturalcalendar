@@ -93,16 +93,19 @@
 
   <main class="wrap" id="main" aria-live="polite"></main>
 
-  <section class="fb wrap" id="fb">
-    <button class="fb-toggle" id="fb-toggle" type="button" aria-expanded="false" aria-controls="fb-panel"><span>Cosa possiamo migliorare? <b>Lascia un feedback</b></span><i class="chev" aria-hidden="true"></i></button>
-    <div class="fb-panel" id="fb-panel"><div class="fb-in">
-      <form id="fb-form"><textarea id="fb-text" maxlength="1000" rows="4" placeholder="Idee, errori, eventi che mancano…" aria-label="Il tuo feedback" required></textarea>
-        <div class="fb-row"><small id="fb-count">0/1000</small><button class="gate-go sm" type="submit">Invia</button></div></form>
-    </div></div>
-    <p class="acct" id="acct"></p>
-  </section>
+  <p class="acct wrap" id="acct"></p>
 
   <footer id="foot"></footer>
+</div>
+<div class="fb" id="fb">
+  <div class="fb-panel" id="fb-panel" role="dialog" aria-label="Lascia un feedback">
+    <form id="fb-form">
+      <p class="fb-q">Cosa possiamo migliorare? <b>Lascia un feedback</b></p>
+      <textarea id="fb-text" maxlength="1000" rows="4" placeholder="Idee, errori, eventi che mancano…" aria-label="Il tuo feedback" required></textarea>
+      <div class="fb-row"><small id="fb-count">0/1000</small><button class="gate-go sm" type="submit">Invia</button></div>
+    </form>
+  </div>
+  <button class="fb-toggle" id="fb-toggle" type="button" aria-expanded="false" aria-controls="fb-panel" aria-label="Cosa possiamo migliorare? Lascia un feedback"><span class="fb-ico" aria-hidden="true"></span>Feedback</button>
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <noscript><p class="wrap">Serve JavaScript per mostrare gli eventi.</p></noscript>
