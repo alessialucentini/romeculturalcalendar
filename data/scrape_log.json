@@ -1,5 +1,5 @@
 {
- "run": "2026-10-01T13:49:30+00:00",
+ "run": "2026-10-01T14:08:23+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -10,8 +10,8 @@
   {
    "source": "roma-culture-manifestazioni",
    "url": "https://culture.roma.it/manifestazione/",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "status": "ok",
+   "events": 32
   },
   {
    "source": "artribune",
@@ -118,8 +118,8 @@
   {
    "source": "teatro-di-roma-argentina-india",
    "url": "https://www.teatrodiroma.net",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "status": "ok",
+   "events": 11
   },
   {
    "source": "teatro-vascello",
@@ -154,7 +154,7 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7fe8d68419a0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f2095d39010>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
