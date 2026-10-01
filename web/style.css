@@ -366,3 +366,9 @@ footer { padding-bottom: calc(64px + env(safe-area-inset-bottom)) !important; }
 @media (prefers-reduced-motion: reduce) { .gate, .fb-panel, .seg-pill { transition: none; } }
 
 .made { display: inline-block; margin-top: 8px; font-weight: 600; letter-spacing: .01em; }
+
+/* intro: origine del nome e cosa fa Linceo */
+.intro { padding-top: 26px; padding-bottom: 6px; text-align: center; }
+.intro p { margin: 0 auto 10px; max-width: 38ch; font-size: 13.5px; line-height: 1.55; color: var(--ink-2); }
+.intro b { color: var(--accent); font-weight: 700; }
+.intro p:first-child { padding-bottom: 2px; }

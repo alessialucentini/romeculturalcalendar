@@ -364,7 +364,7 @@
     else if (state.view === "calendario") renderCalendar(); else renderList();
     syncSaved(); movePill(); revealCards();
   }
-  const toTop = () => { if ($("#app").getBoundingClientRect().top < 0) window.scrollTo({ top: $("#app").offsetTop, behavior: "instant" }); };
+  const toTop = () => { const y = $("#app").offsetTop + $("#intro").offsetHeight; if (window.scrollY > y) window.scrollTo({ top: y, behavior: "instant" }); };
 
   function renderChips() {
     const used = new Set(state.events.map((e) => e.cat));
