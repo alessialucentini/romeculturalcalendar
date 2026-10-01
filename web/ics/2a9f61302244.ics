@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a9f61302244@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20270201
+SUMMARY:Marialba Russo. Sguardo rovescio
+LOCATION:MACRO Museo d’Arte Contemporanea Roma\, MACRO Museo d’Arte C
+ ontemporanea Roma\, Roma
+DESCRIPTION:Museo d'Arte Contemporanea di Roma inaugura il 24 settembre l
+ a stagione autunnale con un programma che intreccia fotografia\, immagine
+  in movimento e r\n\nInfo: https://www.arte.it/calendario-arte/roma/mostr
+ a-marialba-russo-sguardo-rovescio-104137\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-marialba-russo-sguard
+ o-rovescio-104137
+END:VEVENT
+END:VCALENDAR

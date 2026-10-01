@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c1382973b77@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20261129
+SUMMARY:Eugenio Tibaldi. Benu
+LOCATION:Fondazione Pastificio Cerere\, Fondazione Pastificio Cerere\, Ro
+ ma
+DESCRIPTION:Martedì 22 settembre 2026 alleore 18\, la Fondazione Pastifi
+ cio Cerere e la Fondazione Severino\, in collaborazione con Intes\n\nInfo
+ : https://www.arte.it/calendario-arte/roma/mostra-eugenio-tibaldi-benu-10
+ 4412\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-eugenio-tibaldi-benu-
+ 104412
+END:VEVENT
+END:VCALENDAR

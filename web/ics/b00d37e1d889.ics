@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b00d37e1d889@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20261115
+SUMMARY:Living! Julian Beck pittore
+LOCATION:Accademia Nazionale di San Luca ETS\, Accademia Nazionale di San
+  Luca ETS\, Roma
+DESCRIPTION:L’Accademia Nazionale di San Luca ets amplia la propria att
+ ività culturale con un nuovo spazio espositivo\, sempre a Roma\, origina
+ riamente\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-living-
+ julian-beck-pittore-104086\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-living-julian-beck-pi
+ ttore-104086
+END:VEVENT
+END:VCALENDAR

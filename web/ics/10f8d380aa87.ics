@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:10f8d380aa87@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20261116
+SUMMARY:Miriam Cahn. Ciò che mi guarda
+LOCATION:MACRO - Museo di Arte Contemporanea\, MACRO - Museo di Arte Cont
+ emporanea\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-miriam-
+ cahn-ciò-che-mi-guarda-104235\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-miriam-cahn-ciò-che-
+ mi-guarda-104235
+END:VEVENT
+END:VCALENDAR

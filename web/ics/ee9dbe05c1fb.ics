@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee9dbe05c1fb@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261123
+SUMMARY:Artiste Contemporanee a Casa Andersen – Il corpo come dimora
+LOCATION:Casa Museo Hendrik Christian Andersen\, Casa Museo Hendrik Chris
+ tian Andersen\, Roma
+DESCRIPTION:Dal 28 settembre al 22 novembre 2026\, la Casa Museo Hendrik 
+ Christian Andersen\, diretta da Maria Giuseppina Di Monte\, afferente all
+ ’Istituto Pa\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-a
+ rtiste-contemporanee-a-casa-andersen-il-corpo-come-dimora-104549\n\nDa Li
+ nceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-artiste-contemporanee
+ -a-casa-andersen-il-corpo-come-dimora-104549
+END:VEVENT
+END:VCALENDAR

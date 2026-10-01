@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9bb757f55540@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20261116
+SUMMARY:AEGYPTUS – Dal Nilo al Mediterraneo. Oasi e deserto in epoca ro
+ mana
+LOCATION:Museo Nazionale Romano - Terme di Diocleziano\, Museo Nazionale 
+ Romano - Terme di Diocleziano\, Roma
+DESCRIPTION:Dal 3 luglio al 15 novembre 2026 l'Aula Ottagona delle Terme 
+ di Diocleziano del Museo Nazionale Romano ospita "AEGYPTUS – Dal Nil\n\
+ nInfo: https://www.arte.it/calendario-arte/roma/mostra-aegyptus-dal-nilo-
+ al-mediterraneo-oasi-e-deserto-in-epoca-romana-104088\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-aegyptus-dal-nilo-al-
+ mediterraneo-oasi-e-deserto-in-epoca-romana-104088
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:451c37c9d738@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20270215
+SUMMARY:Kandinsky
+LOCATION:Palazzo Bonaparte\, Palazzo Bonaparte\, Roma
+DESCRIPTION:Dal 15 settembre\, Palazzo Bonaparte ospiterà uno degli even
+ ti culturali più importanti dell'anno: la grande mostra dedicata a&\n\nI
+ nfo: https://www.arte.it/calendario-arte/roma/mostra-kandinsky-104237\n\n
+ Da Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-kandinsky-104237
+END:VEVENT
+END:VCALENDAR

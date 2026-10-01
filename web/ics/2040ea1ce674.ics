@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2040ea1ce674@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20261220
+SUMMARY:Flavia Rossi. Ànemos
+LOCATION:Chiesa di San Francesco a Ripa\, Chiesa di San Francesco a Ripa\
+ , Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-flavia-
+ rossi-ànemos-103980\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-flavia-rossi-ànemos-
+ 103980
+END:VEVENT
+END:VCALENDAR

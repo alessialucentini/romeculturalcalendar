@@ -1,5 +1,5 @@
 {
- "run": "2026-10-01T16:26:39+00:00",
+ "run": "2026-10-01T18:44:46+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -172,7 +172,7 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f8ff6edabd0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f6a1f77e150>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
@@ -198,6 +198,12 @@
    "url": "https://www.fandangolibri.it",
    "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
    "events": 0
+  },
+  {
+   "source": "arte-it",
+   "url": "https://www.arte.it/calendario-arte/roma",
+   "status": "ok",
+   "events": 33
   }
  ]
 }

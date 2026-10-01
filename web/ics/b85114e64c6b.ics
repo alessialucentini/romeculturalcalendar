@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b85114e64c6b@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261116
+SUMMARY:Marina Bindella. Cosmogonie
+LOCATION:Museo Carlo Bilotti\, Museo Carlo Bilotti\, Roma
+DESCRIPTION:Dal 26 settembre al 15 novembre 2026 il Museo Carlo Bilotti p
+ resenta la mostra Marina Bindella Cosmogonie\, a cura di Ilaria Schiaf\n\
+ nInfo: https://www.arte.it/calendario-arte/roma/mostra-marina-bindella-co
+ smogonie-104413\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-marina-bindella-cosmo
+ gonie-104413
+END:VEVENT
+END:VCALENDAR

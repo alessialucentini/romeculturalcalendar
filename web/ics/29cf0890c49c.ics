@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:29cf0890c49c@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20270301
+SUMMARY:Elisa Montessori. Nel corso del tempo
+LOCATION:Casino dei Principi - Musei di Villa Torlonia\, Casino dei Princ
+ ipi - Musei di Villa Torlonia\, Roma
+DESCRIPTION:Dal 30 settembre 2026 al 28 febbraio 2027 al Casino dei Princ
+ ipi - Musei di Villa Torlonia viene presentata la mostra Elisa Montes\n\n
+ Info: https://www.arte.it/calendario-arte/roma/mostra-elisa-montessori-ne
+ l-corso-del-tempo-104238\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-elisa-montessori-nel-
+ corso-del-tempo-104238
+END:VEVENT
+END:VCALENDAR

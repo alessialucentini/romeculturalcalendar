@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6ac324d11893@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20261019
+SUMMARY:Troia e Roma. Miti\, leggende\, storie del Mediterraneo antico
+LOCATION:Parco Archeologico del Colosseo\, Parco Archeologico del Colosse
+ o\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-troia-e
+ -roma-miti-leggende-storie-del-mediterraneo-antico-103868\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-troia-e-roma-miti-leg
+ gende-storie-del-mediterraneo-antico-103868
+END:VEVENT
+END:VCALENDAR

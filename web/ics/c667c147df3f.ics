@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c667c147df3f@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261116
+SUMMARY:LAVINIA gusto # 6 - Peter Friedl melagrana e salvia
+LOCATION:Villa Borghese - Loggia dei Vini\, Villa Borghese - Loggia dei V
+ ini\, Roma
+DESCRIPTION:Giovedì 1° ottobre inaugura il sesto appuntamento di LAVINI
+ A\, il programma di arte contemporanea a cura di Salvatore Lacagnina e re
+ alizzato\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-lavinia
+ -gusto-6-peter-friedl-melagrana-e-salvia-104493\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-lavinia-gusto-6-peter
+ -friedl-melagrana-e-salvia-104493
+END:VEVENT
+END:VCALENDAR

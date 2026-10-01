@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc16de49191b@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20261005
+SUMMARY:Lungo le Strade Blu. Along the Blue Highways. Fotografie di Franc
+ esco Conversano
+LOCATION:Museo di Roma in Trastevere\, Museo di Roma in Trastevere\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-lungo-l
+ e-strade-blu-along-the-blue-highways-fotografie-di-francesco-conversano-1
+ 03368\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-lungo-le-strade-blu-a
+ long-the-blue-highways-fotografie-di-francesco-conversano-103368
+END:VEVENT
+END:VCALENDAR

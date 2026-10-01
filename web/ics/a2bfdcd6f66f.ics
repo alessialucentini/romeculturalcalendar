@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a2bfdcd6f66f@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20261116
+SUMMARY:Moda in luce 1955-1975. Roma fra glamour e innovazione industrial
+ e
+LOCATION:Musei Capitolini Centrale Montemartini\, Musei Capitolini Centra
+ le Montemartini\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-moda-in
+ -luce-1955-1975-roma-fra-glamour-e-innovazione-industriale-103955\n\nDa L
+ inceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-moda-in-luce-1955-197
+ 5-roma-fra-glamour-e-innovazione-industriale-103955
+END:VEVENT
+END:VCALENDAR

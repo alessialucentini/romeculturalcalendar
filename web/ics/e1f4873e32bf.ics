@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e1f4873e32bf@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20261025
+SUMMARY:Sesión Neón Andina. Joan Alfaro Cabrera
+LOCATION:Instituto Cervantes\, Instituto Cervantes\, Roma
+DESCRIPTION:La mostra “Sesión Neón Andina. Joan Alfaro Cabrera” osp
+ itata dall’Instituto Cervantes di Roma nella sede della Sala Da\n\nInfo
+ : https://www.arte.it/calendario-arte/roma/mostra-sesión-neón-andina-jo
+ an-alfaro-cabrera-104376\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-sesión-neón-andina-
+ joan-alfaro-cabrera-104376
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a6a442ca07be@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20261101
+SUMMARY:Raffaele Curi. Solo le cose fragili resistono in eterno
+LOCATION:rhinoceros gallery\, rhinoceros gallery\, Roma
+DESCRIPTION:La fragilità come valore dell'esistenza\, per riscoprirci "f
+ orti" solo della nostra umanità\, in un presente che tende a farci dimen
+ ticare\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-raffaele-
+ curi-solo-le-cose-fragili-resistono-in-eterno-104254\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-raffaele-curi-solo-le
+ -cose-fragili-resistono-in-eterno-104254
+END:VEVENT
+END:VCALENDAR

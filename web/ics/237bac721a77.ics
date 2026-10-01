@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:237bac721a77@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20261025
+SUMMARY:«alla studiosa Gioventù del Disegno». i Concorsi Clementini di
+  architettura (1702–1869)
+LOCATION:Accademia Nazionale di San Luca\, Accademia Nazionale di San Luc
+ a\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-alla-st
+ udiosa-gioventù-del-disegno-i-concorsi-clementini-di-architettura-1702-1
+ 869-103631\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-alla-studiosa-giovent
+ ù-del-disegno-i-concorsi-clementini-di-architettura-1702-1869-103631
+END:VEVENT
+END:VCALENDAR

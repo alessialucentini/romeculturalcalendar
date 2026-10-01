@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7dc8eb2b0053@linceo
+DTSTAMP:20261001T184446Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20261123
+SUMMARY:Fuochi sul Tevere: Roma attraverso gli occhi di Kanutas Ruseckas
+LOCATION:Museo Nazionale di Castel Sant’Angelo\, Museo Nazionale di Cas
+ tel Sant’Angelo\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-fuochi-
+ sul-tevere-roma-attraverso-gli-occhi-di-kanutas-ruseckas-104084\n\nDa Lin
+ ceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-fuochi-sul-tevere-rom
+ a-attraverso-gli-occhi-di-kanutas-ruseckas-104084
+END:VEVENT
+END:VCALENDAR
