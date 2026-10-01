@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Roma oggi</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Cosa succede oggi a Roma: mostre, teatro, opera, cinema, arte contemporanea, festival.">
+<meta name="theme-color" content="#f6f1e7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14130f" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Roma oggi">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <div>
+        <div class="kicker">Roma · radar culturale</div>
+        <h1 id="today-label">Roma oggi</h1>
+      </div>
+      <div class="stamp" id="stamp"></div>
+    </div>
+    <div class="tabs" role="tablist" aria-label="Vista">
+      <button role="tab" data-view="oggi" aria-selected="true">Oggi</button>
+      <button role="tab" data-view="domani" aria-selected="false">Domani</button>
+      <button role="tab" data-view="weekend" aria-selected="false">Weekend</button>
+      <button role="tab" data-view="calendario" aria-selected="false">Calendario</button>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filtra per categoria"></div>
+  </div>
+</header>
+
+<main class="wrap" id="main" aria-live="polite"></main>
+
+<footer id="foot"></footer>
+<noscript><p class="wrap">Serve JavaScript per mostrare gli eventi.</p></noscript>
+<script src="app.js"></script>
+</body>
+</html>

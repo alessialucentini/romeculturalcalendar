@@ -1,0 +1,117 @@
+id,nome,link,famiglia,cat,method,enabled,link_da_verificare,note
+rome-art-week,Rome Art Week,https://www.romeartweek.com,aggregatore,altro,auto,no,no,seed database della scena contemporanea: calendario + mappa + elenco 135 strutture
+turismo-roma,Turismo Roma,https://www.turismoroma.it,aggregatore,altro,auto,no,no,aggrega mostre ed eventi
+roma-culture-zètema-estate-romana,Roma Culture (Zètema / Estate Romana),https://www.culture.roma.it,aggregatore,altro,auto,no,no,agenda ufficiale di Roma Capitale
+roma-culture-manifestazioni,Roma Culture - Manifestazioni (Zètema),https://culture.roma.it/manifestazione/,aggregatore,altro,auto,si,no,ha iCal per evento e categorie: dopo il probe valutare un parser dedicato per leggere tutta la lista
+zètema-progetto-cultura,Zètema Progetto Cultura,https://www.zetema.it,aggregatore,altro,auto,no,no,gestisce musei civici
+musei-in-comune,Musei in Comune,https://www.museiincomune.it,aggregatore,altro,auto,no,no,musei civici di Roma
+artribune,Artribune,https://www.artribune.com,aggregatore,altro,auto,no,no,testata di settore con agenda
+exibart,Exibart,https://www.exibart.com,aggregatore,altro,auto,no,no,testata di settore con agenda
+maxxi,MAXXI,https://www.maxxi.art,istituzione,contemporanea,auto,si,no,mostre + talk + cinema + performance
+macro,MACRO,https://museomacro.it,istituzione,contemporanea,auto,si,no,
+villa-medici-accademia-di-francia,Villa Medici - Accademia di Francia,https://www.villamedici.it,istituzione,contemporanea,auto,si,no,multi-categoria: mostre danza concerti incontri
+galleria-nazionale-d-arte-moderna-e-contemporane,Galleria Nazionale d'Arte Moderna e Contemporanea (GNAM),https://lagallerianazionale.com,istituzione,contemporanea,auto,si,no,
+mattatoio-pelanda,Mattatoio (Pelanda),https://www.mattatoioroma.it,istituzione,contemporanea,auto,si,no,mostre + performance + teatro
+galleria-d-arte-moderna-di-roma,Galleria d'Arte Moderna di Roma,https://www.galleriaartemodernaroma.it,istituzione,mostre,auto,no,no,
+museo-carlo-bilotti,Museo Carlo Bilotti,https://www.museocarlobilotti.it,istituzione,contemporanea,auto,si,no,Villa Borghese
+palazzo-delle-esposizioni,Palazzo delle Esposizioni,https://www.palazzoesposizioni.it,istituzione,mostre,auto,si,no,
+scuderie-del-quirinale,Scuderie del Quirinale,https://www.scuderiequirinale.it,istituzione,mostre,auto,si,no,
+gallerie-nazionali-barberini-corsini,Gallerie Nazionali Barberini Corsini,https://www.barberinicorsini.org,istituzione,mostre,auto,no,no,
+galleria-borghese,Galleria Borghese,https://galleriaborghese.beniculturali.it,istituzione,mostre,auto,no,no,
+museo-nazionale-romano,Museo Nazionale Romano,https://museonazionaleromano.beniculturali.it,istituzione,mostre,auto,no,no,
+palazzo-bonaparte,Palazzo Bonaparte,https://www.palazzobonaparte.it,istituzione,mostre,auto,si,no,grandi mostre
+chiostro-del-bramante,Chiostro del Bramante,https://www.chiostrodelbramante.it,istituzione,mostre,auto,no,no,
+palazzo-merulana,Palazzo Merulana,https://www.palazzomerulana.it,istituzione,mostre,auto,no,no,Esquilino
+la-quadriennale-di-roma,La Quadriennale di Roma,https://www.quadriennalediroma.org,fondazione,contemporanea,auto,no,no,
+fondazione-memmo,Fondazione Memmo,https://www.fondazionememmo.it,fondazione,contemporanea,auto,no,no,
+fondazione-giuliani,Fondazione Giuliani,https://www.fondazionegiuliani.org,fondazione,contemporanea,auto,no,no,
+fondazione-nicola-del-roscio,Fondazione Nicola Del Roscio,https://www.fondazionenicoladelroscio.org,fondazione,contemporanea,auto,no,si,
+fondazione-alda-fendi-esperimenti,Fondazione Alda Fendi - Esperimenti,https://www.fondazionealdafendi.it,fondazione,contemporanea,auto,no,si,Rhinoceros
+fondazione-volume,Fondazione VOLUME!,https://www.fondazionevolume.com,fondazione,contemporanea,auto,no,si,
+fondazione-pastificio-cerere,Fondazione Pastificio Cerere,https://www.pastificiocerere.it,fondazione,contemporanea,auto,no,si,San Lorenzo
+fondazione-baruchello,Fondazione Baruchello,https://www.fondazionebaruchello.it,fondazione,contemporanea,auto,no,si,
+fondazione-d-arc,Fondazione D'ARC,,fondazione,contemporanea,manuale,no,si,da cercare: link non noto
+fondazione-torlonia,Fondazione Torlonia,https://www.fondazionetorlonia.org,fondazione,mostre,auto,no,si,
+fondazione-roma,Fondazione Roma,https://www.fondazioneroma.it,fondazione,mostre,auto,no,si,
+nomas-foundation,Nomas Foundation,https://www.nomasfoundation.com,fondazione,contemporanea,auto,no,si,
+gagosian-roma,Gagosian Roma,https://gagosian.com/locations/rome,galleria,contemporanea,auto,no,no,
+monitor,Monitor,https://www.monitoronline.org,galleria,contemporanea,auto,no,no,
+lorcan-o-neill,Lorcan O'Neill,https://www.lorcanoneill.com,galleria,contemporanea,auto,no,no,
+t293,T293,https://www.t293.it,galleria,contemporanea,auto,no,no,
+magazzino,Magazzino,https://www.magazzino.art,galleria,contemporanea,auto,no,no,
+operativa-arte-contemporanea,Operativa Arte Contemporanea,https://www.operativa-arte.com,galleria,contemporanea,auto,no,no,
+matèria,Matèria,https://www.materiagallery.com,galleria,contemporanea,auto,no,si,
+ada,ADA,https://www.ada-gallery.com,galleria,contemporanea,auto,no,si,
+anna-marra-contemporanea,Anna Marra Contemporanea,https://www.annamarraartecontemporanea.it,galleria,contemporanea,auto,no,si,
+emmeotto,Emmeotto,https://www.emmeotto.com,galleria,contemporanea,auto,no,si,
+gallerati,Gallerati,https://www.gallerati.net,galleria,contemporanea,auto,no,si,
+fidia,Fidia,,galleria,contemporanea,manuale,no,si,da cercare: link non noto
+federica-schiavo-gallery,Federica Schiavo Gallery,https://www.federicaschiavo.com,galleria,contemporanea,auto,no,si,aggiunta
+galleria-marie-laure-fleisch,Galleria Marie-Laure Fleisch,https://www.marielaurefleisch.com,galleria,contemporanea,auto,no,si,aggiunta
+z2o-galleria-sara-zanin,Z2O Galleria Sara Zanin,https://www.z2ogalleria.it,galleria,contemporanea,auto,no,si,aggiunta
+galleria-valentina-bonomo,Galleria Valentina Bonomo,https://www.valentinabonomo.com,galleria,contemporanea,auto,no,si,aggiunta
+galleria-alessandra-bonomo,Galleria Alessandra Bonomo,https://www.alessandrabonomo.com,galleria,contemporanea,auto,no,si,aggiunta
+studio-stefania-miscetti,Studio Stefania Miscetti,https://www.studiostefaniamiscetti.com,galleria,contemporanea,auto,no,si,aggiunta
+richard-saltoun-gallery-roma,Richard Saltoun Gallery Roma,https://www.richardsaltoun.com,galleria,contemporanea,auto,no,si,aggiunta
+galleria-mucciaccia,Galleria Mucciaccia,https://www.galleriamucciaccia.com,galleria,mostre,auto,no,si,aggiunta
+galleria-continua-roma,Galleria Continua Roma,https://www.galleriacontinua.com,galleria,contemporanea,auto,no,si,aggiunta
+wunderkammern,Wunderkammern,https://www.wunderkammern.net,spazio_indipendente,contemporanea,auto,no,si,aggiunta
+ex-elettrofonica,Ex Elettrofonica,https://www.exelettrofonica.com,spazio_indipendente,contemporanea,auto,no,si,aggiunta
+sala-1,Sala 1,https://www.salauno.org,spazio_indipendente,contemporanea,auto,no,si,aggiunta
+forte-prenestino,Forte Prenestino,https://www.forteprenestino.net,spazio_indipendente,community,auto,no,si,aggiunta
+istituto-svizzero,Istituto Svizzero,https://www.istitutosvizzero.it,istituto_culturale,istituti,auto,si,no,mostre + talk + performance
+institut-français-italia,Institut français Italia,https://www.institutfrancais.it,istituto_culturale,istituti,auto,no,si,
+instituto-cervantes-roma,Instituto Cervantes Roma,https://roma.cervantes.es,istituto_culturale,istituti,auto,no,si,
+real-academia-de-españa-en-roma,Real Academia de España en Roma,https://www.accademiaspagna.org,istituto_culturale,istituti,auto,no,si,
+british-school-at-rome,British School at Rome,https://www.bsr.ac.uk,istituto_culturale,istituti,auto,no,no,
+american-academy-in-rome,American Academy in Rome,https://www.aarome.org,istituto_culturale,istituti,auto,no,no,
+accademia-belgica,Accademia Belgica,https://www.academiabelgica.it,istituto_culturale,istituti,auto,no,si,
+istituto-polacco-di-roma,Istituto Polacco di Roma,https://rzym.instytutpolski.pl,istituto_culturale,istituti,auto,no,si,
+istituto-giapponese-di-cultura,Istituto Giapponese di Cultura,https://www.jfroma.it,istituto_culturale,istituti,auto,no,si,
+goethe-institut-rom,Goethe-Institut Rom,https://www.goethe.de/rom,istituto_culturale,istituti,auto,no,no,Istituto di Cultura Germanica
+accademia-d-ungheria,Accademia d'Ungheria,https://www.accademiaungheria.it,istituto_culturale,istituti,auto,no,si,
+villa-massimo-accademia-tedesca,Villa Massimo (Accademia Tedesca),https://www.villamassimo.de,istituto_culturale,istituti,auto,no,no,aggiunta
+accademia-di-danimarca,Accademia di Danimarca,https://www.acdan.it,istituto_culturale,istituti,auto,no,si,aggiunta
+istituto-olandese-knir,Istituto Olandese (KNIR),https://www.knir.it,istituto_culturale,istituti,auto,no,si,aggiunta
+istituto-svedese-di-studi-classici,Istituto Svedese di Studi Classici,https://www.isvroma.it,istituto_culturale,istituti,auto,no,si,aggiunta
+istituto-austriaco-di-cultura,Istituto Austriaco di Cultura,https://www.austriacult.roma.it,istituto_culturale,istituti,auto,no,si,aggiunta
+accademia-di-romania,Accademia di Romania,https://www.accademiaromena.it,istituto_culturale,istituti,auto,no,si,aggiunta
+casa-argentina,Casa Argentina,,istituto_culturale,istituti,manuale,no,si,da cercare: link non noto
+teatro-dell-opera-di-roma,Teatro dell'Opera di Roma,https://www.operaroma.it,teatro_musica,opera,auto,si,no,
+romaeuropa-festival,Romaeuropa Festival,https://romaeuropa.net,festival,teatro,auto,si,no,
+teatro-di-roma-argentina-india,Teatro di Roma (Argentina / India),https://www.teatrodiroma.net,teatro_musica,teatro,auto,si,no,
+teatro-india,Teatro India,https://www.teatrodiroma.net,teatro_musica,teatro,auto,no,si,Lungotevere Vittorio Gassman 1 - Ostiense; sede del Teatro di Roma (programma sul sito del Teatro di Roma)
+teatro-vascello,Teatro Vascello,https://www.teatrovascello.it,teatro_musica,teatro,auto,no,si,
+teatro-palladium,Teatro Palladium,https://www.teatropalladium.it,teatro_musica,teatro,auto,no,si,Garbatella
+teatro-quirino,Teatro Quirino,https://www.teatroquirino.it,teatro_musica,teatro,auto,no,si,
+teatro-eliseo,Teatro Eliseo,https://www.teatroeliseo.com,teatro_musica,teatro,auto,no,si,
+teatro-biblioteca-quarticciolo,Teatro Biblioteca Quarticciolo,https://www.teatrobibliotecaquarticciolo.it,teatro_musica,teatro,auto,no,si,aggiunta
+teatro-argot-studio,Teatro Argot Studio,https://www.teatroargotstudio.com,teatro_musica,teatro,auto,no,si,aggiunta
+teatro-dell-orologio,Teatro dell'Orologio,https://www.teatroorologio.com,teatro_musica,teatro,auto,no,si,aggiunta
+short-theatre,Short Theatre,https://www.shorttheatre.org,festival,teatro,auto,no,si,aggiunta
+auditorium-parco-della-musica,Auditorium Parco della Musica,https://www.auditorium.com,teatro_musica,musica,auto,si,no,multi-categoria
+accademia-nazionale-di-santa-cecilia,Accademia Nazionale di Santa Cecilia,https://www.santacecilia.it,teatro_musica,musica,auto,si,no,
+concerti-del-tempietto,Concerti del Tempietto,https://www.tempietto.it,teatro_musica,musica,auto,no,si,
+casa-del-jazz,Casa del Jazz,https://www.casajazz.it,teatro_musica,musica,auto,si,no,
+alexanderplatz-jazz-club,Alexanderplatz Jazz Club,https://www.alexanderplatz.it,teatro_musica,musica,auto,no,si,aggiunta
+largo-venue,Largo Venue,https://www.largovenue.com,teatro_musica,musica,auto,no,si,aggiunta
+istituzione-universitaria-dei-concerti,Istituzione Universitaria dei Concerti,https://www.concertiiuc.it,teatro_musica,musica,auto,no,si,aggiunta
+accademia-filarmonica-romana,Accademia Filarmonica Romana,https://www.filarmonicaromana.org,teatro_musica,musica,auto,no,si,aggiunta
+villa-ada-roma-incontra-il-mondo,Villa Ada Roma incontra il mondo,https://www.villaada.org,festival,musica,auto,no,si,aggiunta
+casa-del-cinema,Casa del Cinema,https://www.casadelcinema.it,cinema,cinema,auto,si,no,
+roma-cinefest,Roma Cinefest,,festival,cinema,manuale,no,si,da cercare: link non noto
+festa-del-cinema-di-roma,Festa del Cinema di Roma,https://www.romacinemafest.it,festival,cinema,auto,no,si,aggiunta
+cinema-troisi,Cinema Troisi,https://www.cinematroisi.it,cinema,cinema,auto,no,si,aggiunta
+cinema-farnese,Cinema Farnese,https://www.farnesepersempre.it,cinema,cinema,auto,no,si,aggiunta
+nuovo-cinema-sacher,Nuovo Cinema Sacher,https://www.sacherfilm.eu,cinema,cinema,auto,no,si,aggiunta
+azzurro-scipioni,Azzurro Scipioni,https://www.azzurroscipioni.it,cinema,cinema,auto,no,si,aggiunta
+l-isola-del-cinema,L'Isola del Cinema,https://www.isoladelcinema.com,cinema,cinema,auto,no,si,cinema all'aperto - Isola Tiberina
+fotografia-festival-internazionale-di-roma,Fotografia Festival Internazionale di Roma,https://www.fotografiafestival.it,festival,mostre,auto,no,si,aggiunta
+la-feltrinelli-eventi,La Feltrinelli (eventi),https://www.lafeltrinelli.it,libreria,libri,auto,no,si,presentazioni libri
+più-libri-più-liberi,Più libri più liberi,https://www.plpl.it,festival,libri,auto,no,si,aggiunta
+bibli,Bibli,https://www.bibli.it,libreria,libri,auto,no,si,aggiunta - Trastevere
+fandango-incontro,Fandango Incontro,https://www.fandangolibri.it,libreria,libri,auto,no,si,aggiunta
+biblioteche-di-roma,Biblioteche di Roma,https://www.bibliotechediroma.it,libreria,libri,auto,no,si,aggiunta
+casa-internazionale-delle-donne,Casa Internazionale delle Donne,https://www.casainternazionaledelledonne.org,community,community,auto,no,si,
+città-dell-altra-economia,Città dell'Altra Economia,https://www.cittadellaltraeconomia.org,community,community,auto,no,si,aggiunta
+run-club-da-mappare,Run club (da mappare),,community,community,manuale,no,si,da individuare: pagine Instagram/Strava dei run club romani
