@@ -1,7 +1,7 @@
 {
  "meta": {
-  "generated": "2026-10-01T13:45:47+00:00",
-  "count": 125
+  "generated": "2026-10-01T13:49:30+00:00",
+  "count": 123
  },
  "events": [
   {
@@ -117,38 +117,6 @@
    "id": "6aa529de03f6"
   },
   {
-   "title": "Diana Lola Posani",
-   "cat": "altro",
-   "venue": "PLATEA PALAZZO GALEANO",
-   "start": "2026-09-30",
-   "end": "2027-01-15",
-   "url": "https://www.artribune.com/mostre-evento-arte/diana-lola-posani/",
-   "source": "artribune",
-   "kind": "mostra",
-   "time": null,
-   "address": "Corso Umberto I , Lodi",
-   "description": "Con la quarta mostra di Fivefold Tuning, prosegue la nuova stagione espositiva a cura di Giovanna Manzotti. Un percorso che si costruisce nel tempo, tra installazione permanente e interventi progressivi.",
-   "note": "",
-   "checked": "2026-10-01",
-   "id": "297711f24dad"
-  },
-  {
-   "title": "Elliott Erwitt - L'arte di osservare",
-   "cat": "altro",
-   "venue": "MUSEO CIVICO ARCHEOLOGICO",
-   "start": "2026-09-30",
-   "end": "2027-02-28",
-   "url": "https://www.artribune.com/mostre-evento-arte/elliott-erwitt-larte-di-osservare/",
-   "source": "artribune",
-   "kind": "mostra",
-   "time": null,
-   "address": "Via Dell'archiginnasio 2, Bologna",
-   "description": "Un viaggio inedito nell’universo intimo di uno dei più grandi fotografi del Novecento.",
-   "note": "",
-   "checked": "2026-10-01",
-   "id": "9a173be16f1c"
-  },
-  {
    "title": "Fabiola Ferrero - Las Grietas",
    "cat": "altro",
    "venue": "MUSEO DI ROMA IN TRASTEVERE",
@@ -181,7 +149,7 @@
    "id": "cc9b6fc1ff28"
   },
   {
-   "title": "NAZA - 01/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -194,10 +162,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "23fdeda0d649"
+   "id": "d6474aa2bce5"
   },
   {
-   "title": "Digger - 01/10/2026 11:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -210,10 +178,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "2888eb65473e"
+   "id": "e2566882f24a"
   },
   {
-   "title": "NAZA - 01/10/2026 13:30",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -226,10 +194,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ea89c1a68584"
+   "id": "a2229087a1e7"
   },
   {
-   "title": "Her Private Hell - 01/10/2026 15:15",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -242,10 +210,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "712f4f10d485"
+   "id": "8797f89d5a9f"
   },
   {
-   "title": "NAZA - 01/10/2026 17:30",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -258,10 +226,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "dd1736758704"
+   "id": "2a84810f3395"
   },
   {
-   "title": "Digger - 01/10/2026 19:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -274,10 +242,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "0adc823d97dc"
+   "id": "2d66f16716d2"
   },
   {
-   "title": "Her Private Hell - 01/10/2026 21:30",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -290,10 +258,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "d2b90c716f5f"
+   "id": "66e7fb8b4108"
   },
   {
-   "title": "DRIVE - VOS 00.30 - 01/10/2026 23:59",
+   "title": "DRIVE - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-01",
@@ -306,10 +274,10 @@
    "description": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di c…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7b25ff52e100"
+   "id": "a230d31dc31a"
   },
   {
-   "title": "Her Private Hell - 02/10/2026 11:00",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-02",
@@ -322,10 +290,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "780d323f58c0"
+   "id": "80c029b57034"
   },
   {
-   "title": "Digger - 02/10/2026 14:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-02",
@@ -338,10 +306,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "37c60a533a59"
+   "id": "d52293e8e1e9"
   },
   {
-   "title": "NAZA - 02/10/2026 17:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-02",
@@ -354,10 +322,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "726c651b4cec"
+   "id": "8acc35667172"
   },
   {
-   "title": "Her Private Hell - V.O. - 02/10/2026 19:00",
+   "title": "Her Private Hell - V.O.",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-02",
@@ -370,10 +338,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "6b82a9870ccc"
+   "id": "72c7b4337d55"
   },
   {
-   "title": "Digger - 02/10/2026 21:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-02",
@@ -386,10 +354,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "62a2b791620d"
+   "id": "eb98d1a663fb"
   },
   {
-   "title": "DRIVE - VOS 00.30 - 02/10/2026 23:59",
+   "title": "DRIVE - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-02",
@@ -402,7 +370,7 @@
    "description": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di c…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a17809876c62"
+   "id": "e9851c9b4fc6"
   },
   {
    "title": "MOISAI – Voci contemporanee in Domus Aurea (5ª edizione)",
@@ -421,7 +389,7 @@
    "id": "7073a329908f"
   },
   {
-   "title": "DRIVE - 03/10/2026 11:00",
+   "title": "DRIVE",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-03",
@@ -434,10 +402,10 @@
    "description": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di c…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "f6141ce97a6a"
+   "id": "e2eb776d183e"
   },
   {
-   "title": "Her Private Hell - 03/10/2026 13:30",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-03",
@@ -450,10 +418,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "bd567ef06ca5"
+   "id": "18193e08620e"
   },
   {
-   "title": "Digger - 03/10/2026 16:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-03",
@@ -466,10 +434,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "188445ddd22a"
+   "id": "294180eb6d64"
   },
   {
-   "title": "Her Private Hell - 03/10/2026 18:30",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-03",
@@ -482,10 +450,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "02aacaaca6cf"
+   "id": "83d52e3877cf"
   },
   {
-   "title": "Digger - 03/10/2026 21:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-03",
@@ -498,10 +466,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c9d9fdc2c6b9"
+   "id": "3a620098206d"
   },
   {
-   "title": "DRIVE - VOS 00.30 - 03/10/2026 23:59",
+   "title": "DRIVE - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-03",
@@ -514,10 +482,10 @@
    "description": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di c…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "9695f5a2db9d"
+   "id": "95864e8b9780"
   },
   {
-   "title": "NAZA - 04/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -530,10 +498,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "96fee753b000"
+   "id": "1527b31607e9"
   },
   {
-   "title": "Le follie dell'imperatore - 04/10/2026 11:00",
+   "title": "Le follie dell'imperatore",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -546,10 +514,10 @@
    "description": "L'imperatore Kuzco sta per compiere 18 anni ma è troppo pieno di sé per trovare una sposa 'adeguata'. Compie però l'errore di licenziare l'anziana consigliera Izma che si vendica con l'aiuto del fusto Kronk che le fa da chaperon. Il proposito è quello di avvelenarlo ma, per un errore, di Kronk, la pozione non lo uccide, ma lo trasforma in un lama (parlante ovviamente). L'imperatore lama finisce c…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8bf25b75f751"
+   "id": "ca29e8fd17c1"
   },
   {
-   "title": "Digger - 04/10/2026 13:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -562,10 +530,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c87ce0a47e91"
+   "id": "e80ffe65f04c"
   },
   {
-   "title": "RIDER - 04/10/2026 16:00",
+   "title": "RIDER",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -578,10 +546,10 @@
    "description": "Samuele, detto Sami, è un giovane rider, che ogni giorno si muove per le strade di Milano con la sua bici. La notte di Capodanno, mentre la città esplode di luci, consegna un enorme ordine di sushi in una lussuosa villa. Invitato a rimanere per la serata, incontra Nia, una ragazza libera e irrequieta che come lui si sente fuori posto nel mondo, con cui scatta subito una forte connessione. Ma, men…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a2856d9caa51"
+   "id": "1682b4c29694"
   },
   {
-   "title": "Her Private Hell - 04/10/2026 18:30",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -594,10 +562,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "0ea8a08e6758"
+   "id": "66e37a153e46"
   },
   {
-   "title": "Digger - 04/10/2026 20:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -610,10 +578,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "3deea35c18ec"
+   "id": "119182dd33ea"
   },
   {
-   "title": "Her Private Hell - 04/10/2026 22:45",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -626,10 +594,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "72ef1b8bb6cc"
+   "id": "ad38160bfef4"
   },
   {
-   "title": "DRIVE - VOS 00.45 - 04/10/2026 23:59",
+   "title": "DRIVE - VOS 00.45",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-04",
@@ -642,10 +610,10 @@
    "description": "Driver (non ha un nome) ha più di un lavoro. È un esperto meccanico in una piccola officina. Fa lo stuntmen per riprese automobilistiche e accompagna rapinatori sul luogo del delitto garantendo loro una fuga a tempo di record. Ora Driver avrebbe anche una nuova opportunità : correre in circuiti professionistici. Ma le cose vanno diversamente. Driver conosce e si innamora di Irene, una vicina di c…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "b62607d8bc7d"
+   "id": "9f01631caff8"
   },
   {
-   "title": "NAZA - 05/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -658,10 +626,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "4f43c0641358"
+   "id": "bf77359d85a2"
   },
   {
-   "title": "NAZA - 05/10/2026 11:01",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -674,10 +642,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "50c84b40bbee"
+   "id": "e64e0b52b01c"
   },
   {
-   "title": "Her Private Hell - 05/10/2026 14:30",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -690,10 +658,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a667614692ce"
+   "id": "0e4e9c6bf104"
   },
   {
-   "title": "The Bibi Files - 05/10/2026 17:00",
+   "title": "The Bibi Files",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -706,10 +674,10 @@
    "description": "A poche settimane dalle elezioni che potrebbero decidere il futuro politico di Netanyahu, arriva nei cinema italiani THE BIBI FILES, l’esplosivo documentario diretto da Alexis Bloom e prodotto dal premio Oscar Alex Gibney. Al centro del film ci sono immagini straordinarie e mai viste prima: le registrazioni degli interrogatori della polizia israeliana a Benjamin Netanyahu, alla moglie Sara, al fi…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ebc4f802c966"
+   "id": "485db618106f"
   },
   {
-   "title": "Her Private Hell - 05/10/2026 19:00",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -722,10 +690,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a17fad6e5c4a"
+   "id": "ef8655708742"
   },
   {
-   "title": "Digger - 05/10/2026 21:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -738,10 +706,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "0779041f6307"
+   "id": "ffe026816aad"
   },
   {
-   "title": "The Dreamers - I Sognatori - 05/10/2026 23:59",
+   "title": "The Dreamers - I Sognatori",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-05",
@@ -754,10 +722,10 @@
    "description": "Rimasti soli a Parigi mentre i genitori sono in vacanza, Isabelle e suo fratello Theo invitano nel loro appartamento Matthew, un giovane americano incontrato alla Cinémathéque. Sullo sfondo del turbolento panorama politico che portò al Maggio '68 in Francia, i tre ragazzi si chiudono in casa stabilendo delle regole di comportamento e esplorando emozioni, erotismo in un crescendo di giochi mentali…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a25278a89c18"
+   "id": "ee865f9876ca"
   },
   {
-   "title": "NAZA - 06/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -770,10 +738,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7d41b5244aba"
+   "id": "29619c3ff989"
   },
   {
-   "title": "Her Private Hell - VOS (CINEMINI) - 06/10/2026 11:00",
+   "title": "Her Private Hell - VOS (CINEMINI)",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -786,10 +754,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "50d5bb358a99"
+   "id": "240434d6949c"
   },
   {
-   "title": "Digger - 06/10/2026 13:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -802,10 +770,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "cd760bb4f06d"
+   "id": "e35400b51260"
   },
   {
-   "title": "Her Private Hell - 06/10/2026 16:00",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -818,10 +786,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "d7b8ef26dd2c"
+   "id": "ef08a4d23267"
   },
   {
-   "title": "The Bibi Files - 06/10/2026 18:15",
+   "title": "The Bibi Files",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -834,10 +802,10 @@
    "description": "A poche settimane dalle elezioni che potrebbero decidere il futuro politico di Netanyahu, arriva nei cinema italiani THE BIBI FILES, l’esplosivo documentario diretto da Alexis Bloom e prodotto dal premio Oscar Alex Gibney. Al centro del film ci sono immagini straordinarie e mai viste prima: le registrazioni degli interrogatori della polizia israeliana a Benjamin Netanyahu, alla moglie Sara, al fi…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7a46609cb286"
+   "id": "6f38761b7aba"
   },
   {
-   "title": "Digger - 06/10/2026 20:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -850,10 +818,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "2b6ee01aa732"
+   "id": "6cf6437c8815"
   },
   {
-   "title": "NAZA - 06/10/2026 22:30",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-06",
@@ -866,7 +834,7 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "1aff20c6cc62"
+   "id": "5cfcabffd108"
   },
   {
    "title": "Keith Haring",
@@ -885,7 +853,7 @@
    "id": "2c64a9d8f763"
   },
   {
-   "title": "NAZA - 07/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-07",
@@ -898,10 +866,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8d6fba610bf5"
+   "id": "551b77e544f1"
   },
   {
-   "title": "The Bibi Files - 07/10/2026 11:00",
+   "title": "The Bibi Files",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-07",
@@ -914,10 +882,10 @@
    "description": "A poche settimane dalle elezioni che potrebbero decidere il futuro politico di Netanyahu, arriva nei cinema italiani THE BIBI FILES, l’esplosivo documentario diretto da Alexis Bloom e prodotto dal premio Oscar Alex Gibney. Al centro del film ci sono immagini straordinarie e mai viste prima: le registrazioni degli interrogatori della polizia israeliana a Benjamin Netanyahu, alla moglie Sara, al fi…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "e1376c1d1aa0"
+   "id": "956c0fa5ca9e"
   },
   {
-   "title": "Digger - 07/10/2026 14:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-07",
@@ -930,10 +898,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c788002820cd"
+   "id": "46b68a46b218"
   },
   {
-   "title": "Digger - 07/10/2026 16:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-07",
@@ -946,10 +914,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7e7005026f7c"
+   "id": "c3e30e600487"
   },
   {
-   "title": "Her Private Hell - 07/10/2026 19:00",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-07",
@@ -962,10 +930,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8229aa29e7b1"
+   "id": "6449ee4e80d9"
   },
   {
-   "title": "L'ESTRANEA - 07/10/2026 21:00",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-07",
@@ -978,10 +946,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c120f80c2845"
+   "id": "25e9c4547452"
   },
   {
-   "title": "L'ESTRANEA - 08/10/2026 11:00",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -994,10 +962,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "63c21dd6b4c9"
+   "id": "6b7f2c4b0361"
   },
   {
-   "title": "Digger - 08/10/2026 13:15",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -1010,10 +978,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "4e6b45a501fd"
+   "id": "badbf590aa6b"
   },
   {
-   "title": "Rider - 08/10/2026 15:30",
+   "title": "Rider",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -1026,10 +994,10 @@
    "description": "Samuele, detto Sami, è un giovane rider, che ogni giorno si muove per le strade di Milano con la sua bici. La notte di Capodanno, mentre la città esplode di luci, consegna un enorme ordine di sushi in una lussuosa villa. Invitato a rimanere per la serata, incontra Nia, una ragazza libera e irrequieta che come lui si sente fuori posto nel mondo, con cui scatta subito una forte connessione. Ma, men…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "87d7da90aab7"
+   "id": "82cd94203252"
   },
   {
-   "title": "Her Private Hell - 08/10/2026 17:15",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -1042,10 +1010,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7f0a2499a00a"
+   "id": "da61f34c680e"
   },
   {
-   "title": "L'ESTRANEA - 08/10/2026 19:15",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -1058,10 +1026,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "4879b8f03e15"
+   "id": "eaeb09b097ce"
   },
   {
-   "title": "Digger - 08/10/2026 21:30",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -1074,10 +1042,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "bf566b6aac6e"
+   "id": "20b5d75a9a60"
   },
   {
-   "title": "Her Private Hell - VOS 00.30 - 08/10/2026 23:59",
+   "title": "Her Private Hell - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-08",
@@ -1090,10 +1058,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "6bb0cffed25c"
+   "id": "fcad2aca4598"
   },
   {
-   "title": "NAZA - 09/10/2026 11:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1106,10 +1074,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "5d56925733ba"
+   "id": "f7256f5f24f5"
   },
   {
-   "title": "L'ESTRANEA - 09/10/2026 13:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1122,10 +1090,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "08a69c4d0b30"
+   "id": "ddc384da8e97"
   },
   {
-   "title": "Her Private Hell - 09/10/2026 16:00",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1138,10 +1106,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "3450f9531c04"
+   "id": "7295bd3288ed"
   },
   {
-   "title": "Digger - 09/10/2026 18:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1154,10 +1122,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ab352b1fa381"
+   "id": "dfc40cded405"
   },
   {
-   "title": "L'ESTRANEA - 09/10/2026 20:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1170,10 +1138,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "6eb7a77a32ac"
+   "id": "c010929cb121"
   },
   {
-   "title": "Her Private Hell - 09/10/2026 22:45",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1186,10 +1154,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "bd596b8d36b8"
+   "id": "e6e6427561d1"
   },
   {
-   "title": "Her Private Hell - VOS 00.45 - 09/10/2026 23:59",
+   "title": "Her Private Hell - VOS 00.45",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-09",
@@ -1202,7 +1170,7 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "dc54a5a037d0"
+   "id": "3a06703fffc8"
   },
   {
    "title": "Pontormo",
@@ -1221,7 +1189,7 @@
    "id": "747c7a2f55be"
   },
   {
-   "title": "NAZA - 10/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1234,10 +1202,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ece811b0f643"
+   "id": "845f938cb66b"
   },
   {
-   "title": "Pusher III: I'm The Angel of Death VOS - 10/10/2026 11:00",
+   "title": "Pusher III: I'm The Angel of Death VOS",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1250,10 +1218,10 @@
    "description": "MILO MANTIENE UN'APPARENZA DI RISPETTABILITÀ, MA IN REALTÀ È UNO DEI PIÙ IMPORTANTI ESPONENTI DEL NARCOTRAFFICO A COPENAGHEN.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8fe3324d4c29"
+   "id": "4f159a360810"
   },
   {
-   "title": "Her Private Hell - 10/10/2026 13:00",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1266,10 +1234,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "b4eddf421960"
+   "id": "ba0703a50a0d"
   },
   {
-   "title": "Digger - 10/10/2026 15:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1282,10 +1250,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "b10edb77918b"
+   "id": "b04616f1515d"
   },
   {
-   "title": "L'ESTRANEA - 10/10/2026 17:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1298,10 +1266,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "3517de8d4c61"
+   "id": "211e03cf8cfb"
   },
   {
-   "title": "Digger - 10/10/2026 19:45",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1314,10 +1282,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "1b94cd593f78"
+   "id": "ee0cbfbede72"
   },
   {
-   "title": "L'ESTRANEA - 10/10/2026 22:15",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1330,10 +1298,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "72dcfd3506cb"
+   "id": "a91e2d5937e8"
   },
   {
-   "title": "Her Private Hell - VOS 00.30 - 10/10/2026 23:59",
+   "title": "Her Private Hell - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-10",
@@ -1346,10 +1314,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "404b2407757f"
+   "id": "db18c145cda1"
   },
   {
-   "title": "NAZA - 11/10/2026 09:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1362,10 +1330,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "afc80baa1375"
+   "id": "cd645b36a102"
   },
   {
-   "title": "HERCULES - 11/10/2026 11:00",
+   "title": "HERCULES",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1378,10 +1346,10 @@
    "description": "Il giovane Hercules, dotato di una forza sovraumana, scopre la verità sul suo passato: è il figlio del grande Zeus. Ma per riprendere il suo posto tra gli dei dell'Olimpo dovrà dimostrare di essere un vero eroe. Affiancato dal fedele Pegaso, il cavallo alato, e dall'esilarante Phil, il suo allenatore personale, Hercules dovrà affrontare Ade, il perfido signore delle Tenebre, nemico degli dei. Sol…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "cf31872fc4c3"
+   "id": "8ba02b5b676a"
   },
   {
-   "title": "NAZA - 11/10/2026 13:30",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1394,10 +1362,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7de39d6ce0dc"
+   "id": "ea93279efa49"
   },
   {
-   "title": "L'ESTRANEA - 11/10/2026 15:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1410,10 +1378,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "67cc73a52f65"
+   "id": "2322003268be"
   },
   {
-   "title": "Her Private Hell - 11/10/2026 17:45",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1426,10 +1394,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a494819cb544"
+   "id": "bf34f37bd78e"
   },
   {
-   "title": "L'ESTRANEA - 11/10/2026 19:45",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1442,10 +1410,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8887ba6c5a35"
+   "id": "35820244e02e"
   },
   {
-   "title": "Digger - 11/10/2026 22:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1458,10 +1426,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8982f438b3a3"
+   "id": "c25e24158ef6"
   },
   {
-   "title": "Her Private Hell - VOS 00.30 - 11/10/2026 23:59",
+   "title": "Her Private Hell - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-11",
@@ -1474,10 +1442,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ed118acf31f1"
+   "id": "ff55ea52ffd2"
   },
   {
-   "title": "Rider - 12/10/2026 11:00",
+   "title": "Rider",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1490,10 +1458,10 @@
    "description": "Samuele, detto Sami, è un giovane rider, che ogni giorno si muove per le strade di Milano con la sua bici. La notte di Capodanno, mentre la città esplode di luci, consegna un enorme ordine di sushi in una lussuosa villa. Invitato a rimanere per la serata, incontra Nia, una ragazza libera e irrequieta che come lui si sente fuori posto nel mondo, con cui scatta subito una forte connessione. Ma, men…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "1ccbda992ac8"
+   "id": "ee4e696514ec"
   },
   {
-   "title": "L'ESTRANEA - 12/10/2026 13:00",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1506,10 +1474,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "7d2ebeeadc1e"
+   "id": "f5924cee9767"
   },
   {
-   "title": "Her Private Hell - 12/10/2026 15:15",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1522,10 +1490,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "5dc645870c85"
+   "id": "350a3dc8d169"
   },
   {
-   "title": "Rider - 12/10/2026 17:15",
+   "title": "Rider",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1538,10 +1506,10 @@
    "description": "Samuele, detto Sami, è un giovane rider, che ogni giorno si muove per le strade di Milano con la sua bici. La notte di Capodanno, mentre la città esplode di luci, consegna un enorme ordine di sushi in una lussuosa villa. Invitato a rimanere per la serata, incontra Nia, una ragazza libera e irrequieta che come lui si sente fuori posto nel mondo, con cui scatta subito una forte connessione. Ma, men…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "35b7c4331c27"
+   "id": "cce65fa95c06"
   },
   {
-   "title": "Digger - 12/10/2026 19:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1554,10 +1522,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c636a283c624"
+   "id": "a1d96a69ab9a"
   },
   {
-   "title": "L'ESTRANEA - 12/10/2026 21:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1570,10 +1538,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "13ae566c0706"
+   "id": "e555b665e181"
   },
   {
-   "title": "THE DREAMERS - VOS 00.30 - 12/10/2026 23:59",
+   "title": "THE DREAMERS - VOS 00.30",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-12",
@@ -1586,10 +1554,10 @@
    "description": "Rimasti soli a Parigi mentre i genitori sono in vacanza, Isabelle e suo fratello Theo invitano nel loro appartamento Matthew, un giovane americano incontrato alla Cinémathéque. Sullo sfondo del turbolento panorama politico che portò al Maggio '68 in Francia, i tre ragazzi si chiudono in casa stabilendo delle regole di comportamento e esplorando emozioni, erotismo in un crescendo di giochi mentali…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "d536d336996f"
+   "id": "d7c44e689de2"
   },
   {
-   "title": "Digger - VOS (CINEMINI) - 13/10/2026 11:00",
+   "title": "Digger - VOS (CINEMINI)",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1602,10 +1570,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "9cb33e07e726"
+   "id": "b2794917c85a"
   },
   {
-   "title": "NAZA - 13/10/2026 11:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1618,10 +1586,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "2fe44dde88cd"
+   "id": "a55312b89cbc"
   },
   {
-   "title": "L'ESTRANEA - 13/10/2026 14:00",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1634,10 +1602,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c1a35727af20"
+   "id": "d1bc35ddb3f1"
   },
   {
-   "title": "Her Private Hell - 13/10/2026 16:30",
+   "title": "Her Private Hell",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1650,10 +1618,10 @@
    "description": "Quando una misteriosa nebbia avvolge una metropoli futuristica, scatenando un'entità mortale e sfuggente, una giovane donna in difficoltà cerca suo padre. La sua ricerca si scontra con un GI americano su un'odissea straziante per salvare sua figlia dall'inferno.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "9343678d82c4"
+   "id": "723c05af55fc"
   },
   {
-   "title": "La Commare Secca - 13/10/2026 18:30",
+   "title": "La Commare Secca",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1666,10 +1634,10 @@
    "description": "Quando una donna viene uccisa in un parco, la polizia raccoglie tutti i sospetti e testimoni per interrogarli: uno di loro Ã¨ l'assassino.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "c661e8086e2c"
+   "id": "0da0e83eb97d"
   },
   {
-   "title": "L'ESTRANEA - 13/10/2026 20:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1682,10 +1650,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "e04439b5504c"
+   "id": "31cd767fc43a"
   },
   {
-   "title": "Digger - 13/10/2026 22:45",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-13",
@@ -1698,7 +1666,7 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "933dc0fc9afe"
+   "id": "256957642efd"
   },
   {
    "title": "Luigi & Iango",
@@ -1717,7 +1685,7 @@
    "id": "f80a0e99ce57"
   },
   {
-   "title": "NAZA - 14/10/2026 11:00",
+   "title": "NAZA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-14",
@@ -1730,10 +1698,10 @@
    "description": "Nel corso di conversazioni segrete sui tetti di Tel Aviv, di notte, i meccanismi alla base della sistematica e calcolata uccisione di massa di civili palestinesi a Gaza a opera di Israele vengono svelati dalle stesse persone che li hanno progettati e gestiti.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "83a32544c58a"
+   "id": "59f6660b3700"
   },
   {
-   "title": "Digger - 14/10/2026 14:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-14",
@@ -1746,10 +1714,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ebb447cde5b8"
+   "id": "aca0e12d1cd1"
   },
   {
-   "title": "L'ESTRANEA - 14/10/2026 16:30",
+   "title": "L'ESTRANEA",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-14",
@@ -1762,10 +1730,10 @@
    "description": "La trama ruota attorno a una donna che si presenta all’improvviso a casa di sua figlia per raccontarle la verità sulla loro famiglia, segnata da un patto stretto molti anni prima con un’estranea. Un segreto custodito troppo a lungo, che ora torna a reclamare il suo prezzo.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "2052d756c57d"
+   "id": "93f6f14611b9"
   },
   {
-   "title": "Digger - 14/10/2026 19:00",
+   "title": "Digger",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-14",
@@ -1778,10 +1746,10 @@
    "description": "Su richiesta del Presidente degli Stati Uniti, il magnate del petrolio Digger Rockwell deve salvare la Terra da un disastro ambientale causato dalla sua stessa azienda.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "2d03ecb452a6"
+   "id": "dc81ccf2a2b5"
   },
   {
-   "title": "Roma Illegale - 14/10/2026 21:30",
+   "title": "Roma Illegale",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-14",
@@ -1794,7 +1762,7 @@
    "description": "Una storia di musica, ma soprattutto di spazi e libertà.Negli anni ’90 la scena rave romana costruisce alternative concrete all’intrattenimento commerciale: autogestione, accesso, comunità. Dai primi eventi semi-legali nei grandi spazi urbani fino alle esperienze nei centri sociali, la città diventa un laboratorio aperto di sperimentazione culturale.Roma Illegale attraversa questa traiettoria, tr…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "ed0c3427c693"
+   "id": "412d1805fb60"
   },
   {
    "title": "Festa del Cinema di Roma (21ª edizione)",
@@ -1829,7 +1797,7 @@
    "id": "2cbee8bfd697"
   },
   {
-   "title": "BRONSON - 17/10/2026 11:00",
+   "title": "BRONSON",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-17",
@@ -1842,10 +1810,10 @@
    "description": "Bronson è basato sulla vita di uno dei più famosi criminali inglesi, Michael Gordon Peterson. Nel 1974, a 19 anni, Peterson era un teppistello che per farsi un nome, tentò di rapinare un ufficio postale con un fucile a canne mozze. Arrestato, fu condannato a sette anni di carcere: ma in prigione, ossessionato dall'idea di diventare famoso, iniziò ad attaccare con violenza gli altri detenuti e i s…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "61ba64bfb68f"
+   "id": "1ac581d8f208"
   },
   {
-   "title": "Pocahontas - 18/10/2026 11:00",
+   "title": "Pocahontas",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-18",
@@ -1858,7 +1826,7 @@
    "description": "Nel 1607 una spedizione inglese parte per il nuovo mondo, esattamente la Virginia, a saccheggiarne il suo presunto oro. A capo della spedizione c’è il governatore Ratcliffe e tra i suoi uomini c’è il capitano John Smith. Quest'ultimo, desideroso di esplorare questo posto, lontano e misterioso e le sue diversità con il vecchio continente, lascia i suoi compagni per conoscere gli indigeni e tra que…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "206a407c1b5d"
+   "id": "dfaf4e3fff44"
   },
   {
    "title": "Rome Art Week 2026 (11ª edizione)",
@@ -1877,7 +1845,7 @@
    "id": "9699530f9338"
   },
   {
-   "title": "VALHALLA RISING - 24/10/2026 11:00",
+   "title": "VALHALLA RISING",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-24",
@@ -1890,10 +1858,10 @@
    "description": "Un gruppo di vichinghi tiene intrappolato un uomo muto e misterioso dalle impressionanti capacità di combattimento, facendolo lottare in combattimenti fino alla morte. Un giorno però il guerriero si libera uccidendo i suoi aguzzini, risparmiando solo un bambino che negli anni si è occupato di lui. Nel suo ritorno verso casa One-eye (nome datogli dal bambino) incontrerà un gruppo di cattolici e si…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "801e7b0ceb1b"
+   "id": "eabfa0ac66c3"
   },
   {
-   "title": "LILO & STITCH - 25/10/2026 11:00",
+   "title": "LILO & STITCH",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-25",
@@ -1906,10 +1874,10 @@
    "description": "Alcuni extraterrestri compiono un esperimento genetico, che purtroppo non ha gli esiti sperati: il risultato è Stitch, un buffo animaletto, che ben presto riuscirà a fuggire. Stitch atterra sul pianeta terra, più precisamente alle Hawaii, dove viene adottato dalla piccola Lilo e dalla sua famiglia, e imparerà l'importanza dell'amore e della solidarietà. Intanto però l'animaletto deve vedersela co…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8a394ee1759a"
+   "id": "29e4558148d9"
   },
   {
-   "title": "ONLY GOD FORGIVES - 31/10/2026 11:00",
+   "title": "ONLY GOD FORGIVES",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-10-31",
@@ -1922,10 +1890,10 @@
    "description": "Julian allena pugili di thai boxe a Bangkok perchè ha ucciso il padre e non gli è rimasto altro se non fuggire dall'America dove la madre è a capo di un'organizzazione mafiosa. Suo fratello l'ha seguito ma non si è adattato alla vita locale e l'ennesima prostituta massacrata è il suo biglietto per l'obitorio. La cosa non è tollerabile e il capofamiglia si trasferisce a Bangkok intenzionata a fare…",
    "note": "",
    "checked": "2026-10-01",
-   "id": "8928c33094ce"
+   "id": "f8570b0d9af2"
   },
   {
-   "title": "Le avventure di Ichabod e Mr. Toad - 01/11/2026 11:00",
+   "title": "Le avventure di Ichabod e Mr. Toad",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-11-01",
@@ -1938,7 +1906,7 @@
    "description": "",
    "note": "",
    "checked": "2026-10-01",
-   "id": "a1b7ab435161"
+   "id": "0febfec50dff"
   },
   {
    "title": "Roma Jazz Festival",
@@ -1957,7 +1925,7 @@
    "id": "0f28703ee16b"
   },
   {
-   "title": "THE NEON DEMON - 07/11/2026 11:00",
+   "title": "THE NEON DEMON",
    "cat": "cinema",
    "venue": "Cinema Troisi",
    "start": "2026-11-07",
@@ -1970,7 +1938,7 @@
    "description": "Quando l’aspirante modella Jesse si trasferisce a Los Angeles, la sua giovinezza e vitalità vengono fagocitate da un gruppo di donne ossessionate dalla bellezza,disposte ad usare ogni mezzo per prenderle ciò che ha.",
    "note": "",
    "checked": "2026-10-01",
-   "id": "bf8c60f882d4"
+   "id": "bf73b39cf0c4"
   },
   {
    "title": "The Rake's Progress – apertura stagione 2026/27",
