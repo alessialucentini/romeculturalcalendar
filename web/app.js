@@ -187,6 +187,7 @@
       b.setAttribute("aria-pressed", String(on)); b.setAttribute("aria-label", on ? "Rimuovi dai salvati" : "Salva evento");
       b.classList.remove("pop"); void b.offsetWidth; if (on) b.classList.add("pop");
       saveSaved();
+      if (window.LinceoAuth) window.LinceoAuth.setSaved(e._k, on);
       if (!on && state.view === "salvati" && !state.q) setTimeout(() => swap(render), 260);
     } }, icon("heart"));
     const times = ctx.times && ctx.times.length > 1 ? el("div", { class: "runs" }, el("b", { text: "Orari" }), ctx.times.join(" · ")) : null;
@@ -421,6 +422,13 @@
     syncSaved();
   }
 
+  // ---------- salvati sincronizzati con l'account ----------
+  window.addEventListener("linceo:saved", (ev) => {
+    state.saved = new Set(ev.detail || []);
+    saveSaved();
+    if (state.events.length) render();
+  });
+
   // ---------- avvio ----------
   async function init() {
     try { state.hidden = new Set(JSON.parse(store.get("hidden") || "[]")); } catch { state.hidden = new Set(); }
@@ -522,7 +530,7 @@
 
   // ---------- splash: scorri (o tocca) per entrare nel calendario ----------
   const app = $("#app"), splashIn = $("#splash-in");
-  const goApp = () => app.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+  const goApp = () => (document.getElementById("gate") && !document.getElementById("gate").hidden ? document.getElementById("gate") : app).scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
   $("#cue").addEventListener("click", goApp);
   $("#splash").addEventListener("click", goApp);
   let ticking = false;

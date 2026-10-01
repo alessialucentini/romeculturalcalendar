@@ -39,6 +39,26 @@
   <button class="cue" id="cue" type="button">scorri per vedere<span class="chev" aria-hidden="true"></span></button>
 </section>
 
+<section class="gate" id="gate" hidden aria-labelledby="gate-t">
+  <div class="gate-card">
+    <img class="gate-logo" src="icons/linceo.webp" width="84" height="84" alt="">
+    <h2 id="gate-t">Entra in Linceo</h2>
+    <p class="gate-sub">Accedi per ritrovare i tuoi eventi salvati su ogni dispositivo e ricevere gli ultimi aggiornamenti via mail.</p>
+    <div class="seg" data-mode="in" role="tablist"><span class="seg-pill"></span>
+      <button type="button" role="tab" data-mode="in" aria-selected="true">Accedi</button>
+      <button type="button" role="tab" data-mode="up" aria-selected="false">Registrati</button></div>
+    <form id="gate-form" novalidate>
+      <label class="fld"><span>Email</span><input id="g-mail" type="email" autocomplete="email" inputmode="email" autocapitalize="none" required></label>
+      <label class="fld"><span>Password</span><input id="g-pass" type="password" autocomplete="current-password" minlength="8" required></label>
+      <label class="chk"><input type="checkbox" id="g-rem" checked><i></i><span>Ricordami</span></label>
+      <label class="chk" id="g-consent-row" hidden><input type="checkbox" id="g-consent"><i></i><span>Voglio ricevere via mail gli ultimi aggiornamenti di Linceo (puoi annullare quando vuoi)</span></label>
+      <p class="gate-msg" id="g-msg" role="alert"></p>
+      <button class="gate-go" id="g-go" type="submit">Accedi</button>
+    </form>
+    <div class="gate-links"><button type="button" id="g-forgot">Password dimenticata?</button><button type="button" id="g-skip">Continua senza accedere</button></div>
+  </div>
+</section>
+
 <div class="app" id="app">
   <header class="top">
     <div class="wrap">
@@ -73,10 +93,21 @@
 
   <main class="wrap" id="main" aria-live="polite"></main>
 
+  <section class="fb wrap" id="fb">
+    <button class="fb-toggle" id="fb-toggle" type="button" aria-expanded="false" aria-controls="fb-panel"><span>Cosa possiamo migliorare? <b>Lascia un feedback</b></span><i class="chev" aria-hidden="true"></i></button>
+    <div class="fb-panel" id="fb-panel"><div class="fb-in">
+      <form id="fb-form"><textarea id="fb-text" maxlength="1000" rows="4" placeholder="Idee, errori, eventi che mancano…" aria-label="Il tuo feedback" required></textarea>
+        <div class="fb-row"><small id="fb-count">0/1000</small><button class="gate-go sm" type="submit">Invia</button></div></form>
+    </div></div>
+    <p class="acct" id="acct"></p>
+  </section>
+
   <footer id="foot"></footer>
 </div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <noscript><p class="wrap">Serve JavaScript per mostrare gli eventi.</p></noscript>
+<script src="config.js"></script>
+<script src="auth.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Linceo · Area admin</title>
+<link rel="icon" href="icons/favicon.png">
+<style>
+:root{--bg:#f1ead9;--ink:#3d372c;--ink-2:#6f6552;--accent:#7d5f27;--hi:rgba(255,252,242,.95);--lo:rgba(161,143,105,.42);
+--raise:5px 5px 11px var(--lo),-5px -5px 11px var(--hi);--inset:inset 4px 4px 9px var(--lo),inset -4px -4px 9px var(--hi)}
+*{box-sizing:border-box}
+body{margin:0;min-height:100svh;display:grid;place-items:center;padding:24px 18px;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
+main{width:min(100%,420px);text-align:center}
+img{width:72px;height:72px;border-radius:50%;box-shadow:var(--raise)}
+h1{font-size:24px;margin:16px 0 6px;letter-spacing:-.02em}
+p{color:var(--ink-2);margin:0 0 18px}
+input{width:100%;border:0;outline:0;border-radius:18px;padding:15px 18px;margin-bottom:12px;background:var(--bg);box-shadow:var(--inset);font:16px inherit;color:var(--ink)}
+button{width:100%;border:0;border-radius:999px;padding:15px;margin-bottom:14px;min-height:50px;background:var(--bg);box-shadow:var(--raise);font:700 15px inherit;color:var(--accent);cursor:pointer}
+button:active{box-shadow:var(--inset)}button:disabled{opacity:.5}
+.stat{display:flex;gap:12px;margin:0 0 22px}.stat div{flex:1;padding:14px;border-radius:20px;box-shadow:var(--inset)}
+.stat b{display:block;font-size:26px;color:var(--ink)}.stat span{font-size:12px;color:var(--ink-2)}
+#msg{min-height:20px;font-size:13px;color:#a6403a}
+a,.lnk{color:var(--ink-2);font-size:13px;background:none;box-shadow:none;font-weight:400;text-decoration:underline;width:auto;min-height:0;padding:6px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+  <img src="icons/linceo.webp" alt="">
+  <h1>Area admin</h1>
+  <p id="sub">Accedi con la mail amministratore.</p>
+  <form id="login">
+    <input id="m" type="email" placeholder="Email" autocomplete="email" required>
+    <input id="p" type="password" placeholder="Password" autocomplete="current-password" required>
+    <button type="submit">Accedi</button>
+  </form>
+  <section id="panel" hidden>
+    <div class="stat"><div><b id="n-sub">–</b><span>iscritti</span></div><div><b id="n-fb">–</b><span>feedback</span></div></div>
+    <button id="xlsx" type="button">Scarica Excel (Iscritti + Feedback)</button>
+    <button id="csv" type="button">Scarica CSV con le sole email</button>
+    <button class="lnk" id="out" type="button">Esci</button>
+  </section>
+  <div id="msg" role="alert"></div>
+  <a href="./">← torna a Linceo</a>
+</main>
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+<script>
+(function(){
+  const C=window.LINCEO_CFG||{}, $=s=>document.querySelector(s), msg=t=>{$("#msg").textContent=t||""};
+  if(!C.supabaseUrl||!window.supabase){msg("Backend non configurato.");return;}
+  const sb=window.supabase.createClient(C.supabaseUrl,C.supabaseKey,{auth:{persistSession:true}});
+  let subs=[],fbs=[];
+  const fmt=d=>new Date(d).toLocaleString("it-IT",{timeZone:"Europe/Rome"});
+  async function load(){
+    const a=await sb.from("subscribers").select("email,consent,created_at").order("created_at",{ascending:false}).limit(100000);
+    const b=await sb.from("feedback").select("created_at,email,message").order("created_at",{ascending:false}).limit(100000);
+    if(a.error||b.error){msg("Non hai i permessi admin (o la tabella non esiste ancora).");return false;}
+    subs=a.data;fbs=b.data;$("#n-sub").textContent=subs.length;$("#n-fb").textContent=fbs.length;return true;
+  }
+  async function show(session){
+    const ok=session&&session.user&&session.user.email.toLowerCase()===String(C.adminEmail).toLowerCase();
+    $("#login").hidden=!!session;
+    if(session&&!ok){msg("Questa mail non è l'amministratore.");$("#panel").hidden=true;$("#login").hidden=true;$("#out").parentElement.hidden=false;$("#panel").hidden=false;$("#xlsx").hidden=$("#csv").hidden=true;return;}
+    if(!ok){$("#panel").hidden=true;return;}
+    $("#sub").textContent=session.user.email;msg("");
+    if(await load()){$("#panel").hidden=false;$("#xlsx").hidden=$("#csv").hidden=false;}
+  }
+  $("#login").addEventListener("submit",async e=>{e.preventDefault();msg("");
+    const {data,error}=await sb.auth.signInWithPassword({email:$("#m").value.trim(),password:$("#p").value});
+    if(error)return msg("Email o password non corrette.");show(data.session);});
+  $("#out").onclick=async()=>{await sb.auth.signOut();location.reload();};
+  $("#xlsx").onclick=()=>{
+    const wb=XLSX.utils.book_new();
+    const s1=XLSX.utils.aoa_to_sheet([["Email","Iscritta il","Acconsente agli aggiornamenti"],...subs.map(r=>[r.email,fmt(r.created_at),r.consent?"sì":"no"])]);
+    const s2=XLSX.utils.aoa_to_sheet([["Data","Email","Feedback"],...fbs.map(r=>[fmt(r.created_at),r.email||"(anonimo)",r.message])]);
+    s1["!cols"]=[{wch:36},{wch:20},{wch:28}];s2["!cols"]=[{wch:20},{wch:34},{wch:90}];
+    XLSX.utils.book_append_sheet(wb,s1,"Iscritti");XLSX.utils.book_append_sheet(wb,s2,"Feedback");
+    XLSX.writeFile(wb,`linceo-iscritti-${new Date().toISOString().slice(0,10)}.xlsx`);
+  };
+  $("#csv").onclick=()=>{
+    const csv="Email\r\n"+subs.map(r=>`"${r.email.replace(/"/g,'""')}"`).join("\r\n")+"\r\n";
+    const a=document.createElement("a");a.href=URL.createObjectURL(new Blob(["﻿"+csv],{type:"text/csv;charset=utf-8"}));
+    a.download=`linceo-email-${new Date().toISOString().slice(0,10)}.csv`;a.click();
+  };
+  sb.auth.getSession().then(({data})=>{if(data.session)show(data.session);});
+})();
+</script>
+</body>
+</html>
