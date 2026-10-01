@@ -19,6 +19,7 @@ import json
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
+import re
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -89,6 +90,10 @@ def main() -> int:
         entry = {"source": src["id"], "url": src["link"], "status": "ok", "events": 0}
         try:
             evs = scrape_source(src)
+            for e in evs:  # "Titolo - 01/10/2026 09:00" -> "Titolo"
+                e.title = re.sub(r"\s*[-–]\s*\d{1,2}/\d{1,2}/\d{4}(\s+\d{1,2}:\d{2})?\s*$", "", e.title)
+            # aggregatori nazionali: tieni solo eventi con indirizzo a Roma
+            evs = [e for e in evs if not e.address or re.search(r"\broma\b|\(rm\)", e.address, re.I)]
             # tieni solo eventi non ancora finiti
             evs = [e for e in evs if e.end >= (today - timedelta(days=1)).isoformat() and e.cat in CATEGORIES]
             new_by_source[src["id"]] = evs
