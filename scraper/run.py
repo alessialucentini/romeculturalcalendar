@@ -50,10 +50,27 @@ def scrape_source(src: dict) -> list[Event]:
         return events
     # nessun JSON-LD: prova un feed iCal linkato dalla pagina
     soup = BeautifulSoup(resp.text, "html.parser")
+    seen = set()
     for a in soup.find_all("a", href=True):
-        if a["href"].lower().split("?")[0].endswith(".ics") or "ical" in a["href"].lower():
-            feed = polite_get(urljoin(src["link"], a["href"]))
-            return ics_mod.parse(feed.content, src["link"], **kw)
+        h = a["href"].lower()
+        if not (h.split("?")[0].endswith(".ics") or "ical=1" in h or "/ical" in h or "outlook-ical" in h):
+            continue
+        link = urljoin(src["link"], a["href"])
+        if link in seen:
+            continue
+        seen.add(link)
+        try:
+            feed = polite_get(link)
+        except Exception:
+            continue
+        if not feed.content.lstrip().upper().startswith(b"BEGIN:VCALENDAR"):
+            continue  # non è un vero calendario (es. pagina HTML)
+        try:
+            evs = ics_mod.parse(feed.content, src["link"], **kw)
+        except Exception:
+            continue
+        if evs:
+            return evs
     return []
 
 
