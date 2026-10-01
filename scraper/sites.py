@@ -323,10 +323,140 @@ def fetch_teatrodiroma(src: dict, max_pages: int = 8) -> list[Event]:
     return out
 
 
+# ------------------------------------------------------------------ Casa del Cinema
+def parse_casadelcinema(html: str, base: str, cat: str, source: str) -> list[Event]:
+    """Slider della home: .gt-slide-inner con titolo, una o due date (inizio/fine) e link /it/event/."""
+    out, seen = [], set()
+    for sl in _soup(html).select(".gt-slide-inner"):
+        t, a = sl.select_one(".gt-title"), sl.select_one(".buttons a[href]")
+        if not (t and a):
+            continue
+        ds = []
+        for li in sl.select(".gt-information li"):
+            m = _MAXXI_DATE.search(li.get_text(" ", strip=True))
+            if m and _month(m.group(2)):
+                d = _d(int(m.group(3)), _month(m.group(2)), int(m.group(1)))
+                if d:
+                    ds.append(d)
+        if not ds or a["href"] in seen:
+            continue
+        seen.add(a["href"])
+        st = sl.select_one(".gt-event-status")
+        out.append(Event(
+            title=clean(t.get_text(" ", strip=True)), cat=cat, venue="Casa del Cinema",
+            address="Largo Marcello Mastroianni 1, Roma", start=ds[0], end=ds[-1],
+            url=urljoin(base, a["href"]), source=source, kind="evento",
+            description=clean(st.get_text(" ", strip=True)) if st else ""))
+    return out
+
+
+def fetch_casadelcinema(src: dict) -> list[Event]:
+    r = polite_get(src["link"])
+    return parse_casadelcinema(_text(r.content), src["link"], src["cat"], src["id"])
+
+
+# ------------------------------------------------------------------ Palazzo Barberini / Galleria Corsini
+def parse_barberini(html: str, base: str, cat: str, source: str, today: date | None = None) -> list[Event]:
+    """Card 'fino al 11 Ottobre 2026' + sede: l'inizio non e' indicato, uso oggi."""
+    today = today or date.today()
+    out = []
+    for art in _soup(html).select("article.a11y_card"):
+        a = art.select_one("a.card_title[href]")
+        d = art.select_one(".date")
+        if not (a and d):
+            continue
+        m = _MAXXI_DATE.search(d.get_text(" ", strip=True))
+        if not (m and _month(m.group(2))):
+            continue
+        end = _d(int(m.group(3)), _month(m.group(2)), int(m.group(1)))
+        if not end or date.fromisoformat(end) < today:
+            continue
+        if (date.fromisoformat(end) - today).days > MAX_RANGE_DAYS:
+            continue
+        sede = art.select_one(".sede")
+        ex = art.select_one(".excerpt")
+        out.append(Event(
+            title=clean(a.get_text(" ", strip=True)), cat=cat,
+            venue=clean(sede.get_text(" ", strip=True)).title() if sede else "Gallerie Nazionali Barberini Corsini",
+            address="Via delle Quattro Fontane 13, Roma", start=today.isoformat(), end=end, url=a["href"], source=source,
+            kind="mostra", description=clean(ex.get_text(" ", strip=True)) if ex else ""))
+    return out
+
+
+def fetch_barberini(src: dict) -> list[Event]:
+    r = polite_get(src["link"])
+    return parse_barberini(_text(r.content), src["link"], src["cat"], src["id"])
+
+
+# ------------------------------------------------------------------ Palazzo Merulana
+def parse_merulana(html: str, base: str, cat: str, source: str) -> list[Event]:
+    """Card .cards.card-short con data gg/mm/aaaa (solo date singole; 'Dal ...' senza fine e' escluso)."""
+    out = []
+    for c in _soup(html).select(".cards.card-short"):
+        a, d, t = c.select_one("a.card-content[href]"), c.select_one(".pre-title .date"), c.select_one(".post-title")
+        if not (a and d and t):
+            continue
+        m = re.fullmatch(r"(\d{1,2})/(\d{1,2})/(\d{4})", d.get_text(strip=True))
+        if not m:
+            continue
+        start = _d(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        if start:
+            out.append(Event(title=clean(t.get_text(" ", strip=True)), cat=cat, venue="Palazzo Merulana",
+                             address="Via Merulana 121, Roma", start=start, end=start, url=a["href"], source=source))
+    return out
+
+
+def fetch_merulana(src: dict) -> list[Event]:
+    r = polite_get(src["link"])
+    return parse_merulana(_text(r.content), src["link"], src["cat"], src["id"])
+
+
+# ------------------------------------------------------------------ Teatro Quirino
+def parse_quirino(html: str, base: str, cat: str, source: str) -> list[Event]:
+    """Calendario mensile (Events Manager): una cella per giorno con titolo e link."""
+    out = []
+    for cell in _soup(html).select(".em-cal-day.eventful"):
+        ts = cell.select_one("[data-calendar-date]")
+        if not ts:
+            continue
+        try:
+            day = date.fromtimestamp(int(ts["data-calendar-date"]) + 12 * 3600)
+        except (ValueError, OverflowError):
+            continue
+        for ev in cell.select(".em-cal-event"):
+            a = ev.select_one("a[href]")
+            if a:
+                out.append(Event(title=clean(a.get_text(" ", strip=True)), cat=cat, venue="Teatro Quirino",
+                                 address="Via delle Vergini 7, Roma", start=day.isoformat(), end=day.isoformat(),
+                                 url=a["href"], source=source))
+    return out
+
+
+def fetch_quirino(src: dict, months: int = 4) -> list[Event]:
+    out: list[Event] = []
+    today = date.today()
+    y, m = today.year, today.month
+    for _ in range(months):
+        url = f"https://www.teatroquirino.it/calendario/?mo={m}&yr={y}"
+        try:
+            r = polite_get(url)
+        except Exception:
+            break
+        out += parse_quirino(_text(r.content), url, src["cat"], src["id"])
+        m += 1
+        if m > 12:
+            m, y = 1, y + 1
+    return out
+
+
 SITES = {
     "maxxi": fetch_maxxi,
     "auditorium-parco-della-musica": fetch_auditorium,
     "teatro-dell-opera-di-roma": fetch_opera,
     "roma-culture-manifestazioni": fetch_culture,
     "teatro-di-roma-argentina-india": fetch_teatrodiroma,
+    "casa-del-cinema": fetch_casadelcinema,
+    "gallerie-nazionali-barberini-corsini": fetch_barberini,
+    "palazzo-merulana": fetch_merulana,
+    "teatro-quirino": fetch_quirino,
 }

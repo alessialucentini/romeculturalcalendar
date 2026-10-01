@@ -16,12 +16,12 @@ galleria-d-arte-moderna-di-roma,Galleria d'Arte Moderna di Roma,https://www.gall
 museo-carlo-bilotti,Museo Carlo Bilotti,https://www.museocarlobilotti.it,istituzione,contemporanea,auto,si,no,Villa Borghese
 palazzo-delle-esposizioni,Palazzo delle Esposizioni,https://www.palazzoesposizioni.it,istituzione,mostre,auto,si,no,
 scuderie-del-quirinale,Scuderie del Quirinale,https://www.scuderiequirinale.it,istituzione,mostre,auto,si,no,
-gallerie-nazionali-barberini-corsini,Gallerie Nazionali Barberini Corsini,https://www.barberinicorsini.org,istituzione,mostre,auto,no,no,
+gallerie-nazionali-barberini-corsini,Gallerie Nazionali Barberini Corsini,https://barberinicorsini.org/calendario/,istituzione,mostre,auto,si,no,
 galleria-borghese,Galleria Borghese,https://galleriaborghese.beniculturali.it,istituzione,mostre,auto,no,no,
 museo-nazionale-romano,Museo Nazionale Romano,https://museonazionaleromano.beniculturali.it,istituzione,mostre,auto,no,no,
 palazzo-bonaparte,Palazzo Bonaparte,https://www.palazzobonaparte.it,istituzione,mostre,auto,si,no,grandi mostre
 chiostro-del-bramante,Chiostro del Bramante,https://www.chiostrodelbramante.it,istituzione,mostre,auto,no,no,
-palazzo-merulana,Palazzo Merulana,https://www.palazzomerulana.it,istituzione,mostre,auto,no,no,Esquilino
+palazzo-merulana,Palazzo Merulana,https://www.palazzomerulana.it/events/,istituzione,mostre,auto,si,no,Esquilino
 la-quadriennale-di-roma,La Quadriennale di Roma,https://www.quadriennalediroma.org,fondazione,contemporanea,auto,no,no,
 fondazione-memmo,Fondazione Memmo,https://www.fondazionememmo.it,fondazione,contemporanea,auto,no,no,
 fondazione-giuliani,Fondazione Giuliani,https://www.fondazionegiuliani.org,fondazione,contemporanea,auto,no,no,
@@ -83,7 +83,7 @@ teatro-di-roma-argentina-india,Teatro di Roma (Argentina / India),https://www.te
 teatro-india,Teatro India,https://www.teatrodiroma.net,teatro_musica,teatro,auto,no,si,Lungotevere Vittorio Gassman 1 - Ostiense; sede del Teatro di Roma (programma sul sito del Teatro di Roma)
 teatro-vascello,Teatro Vascello,https://www.teatrovascello.it,teatro_musica,teatro,auto,si,si,
 teatro-palladium,Teatro Palladium,https://www.teatropalladium.it,teatro_musica,teatro,auto,si,si,Garbatella
-teatro-quirino,Teatro Quirino,https://www.teatroquirino.it,teatro_musica,teatro,auto,no,si,
+teatro-quirino,Teatro Quirino,https://www.teatroquirino.it/calendario/,teatro_musica,teatro,auto,si,si,
 teatro-eliseo,Teatro Eliseo,https://www.teatroeliseo.com,teatro_musica,teatro,auto,no,si,
 teatro-biblioteca-quarticciolo,Teatro Biblioteca Quarticciolo,https://www.teatrobibliotecaquarticciolo.it,teatro_musica,teatro,auto,no,si,aggiunta
 teatro-argot-studio,Teatro Argot Studio,https://www.teatroargotstudio.com,teatro_musica,teatro,auto,no,si,aggiunta
@@ -98,7 +98,7 @@ largo-venue,Largo Venue,https://www.largovenue.com,teatro_musica,musica,auto,no,
 istituzione-universitaria-dei-concerti,Istituzione Universitaria dei Concerti,https://www.concertiiuc.it,teatro_musica,musica,auto,no,si,aggiunta
 accademia-filarmonica-romana,Accademia Filarmonica Romana,https://www.filarmonicaromana.org,teatro_musica,musica,auto,no,si,aggiunta
 villa-ada-roma-incontra-il-mondo,Villa Ada Roma incontra il mondo,https://www.villaada.org,festival,musica,auto,no,si,aggiunta
-casa-del-cinema,Casa del Cinema,https://www.casadelcinema.it,cinema,cinema,auto,si,no,
+casa-del-cinema,Casa del Cinema,https://www.casadelcinema.it/it/,cinema,cinema,auto,si,no,
 roma-cinefest,Roma Cinefest,,festival,cinema,manuale,no,si,da cercare: link non noto
 festa-del-cinema-di-roma,Festa del Cinema di Roma,https://www.romacinemafest.it,festival,cinema,auto,no,si,aggiunta
 cinema-troisi,Cinema Troisi,https://www.cinematroisi.it,cinema,cinema,auto,si,si,aggiunta

@@ -42,6 +42,15 @@ def test_sites():
     o = sites.parse_opera_show(rd("teatro-dell-opera-di-roma/3.html"), "u", "opera", "o", today=datetime.date(2026, 10, 1))
     assert o and o[0].start == "2026-10-11" and o[0].time == "19:00"
     assert len(sites.parse_culture_items(rd("roma-culture-manifestazioni/3.html"), "https://culture.roma.it", "c")) > 50
+    E = S / "extra"
+    if E.exists():
+        rx = lambda n: (E / n).read_text(encoding="utf-8")  # noqa: E731
+        c = sites.parse_casadelcinema(rx("8.html"), "https://www.casadelcinema.it", "cinema", "c")
+        assert len(c) >= 15 and c[0].start <= c[0].end
+        assert len(sites.parse_barberini(rx("6.html"), "u", "mostre", "b", today=datetime.date(2026, 10, 1))) >= 2
+        assert len(sites.parse_merulana(rx("5.html"), "u", "altro", "m")) >= 10
+        q = sites.parse_quirino(rx("2.html"), "u", "teatro", "q")
+        assert len(q) >= 10 and q[0].start == "2026-10-20"
     assert sites._tdr_range("10 set – 6 ott 2026") == ("2026-09-10", "2026-10-06")
     assert sites._tdr_range("07 ott 2026 – 16 feb 2027") == ("2026-10-07", "2027-02-16")
 
