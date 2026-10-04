@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b3de145eb35@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Quartiere Vino Pigneto
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Vini naturali in festa per un sabato al Pigneto\, con lo zamp
+ ino dell'enoteca SO2 e Solovino. Come per l'appuntamento primaverile\,\n\
+ nInfo: https://zero.eu/it/eventi/376337-quartiere-vino-pigneto-2026-ottob
+ re\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376337-quartiere-vino-pigneto-2026-ottobre,
+ roma/
+END:VEVENT
+END:VCALENDAR

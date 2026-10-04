@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e6e3a92da8bf@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Domenica al museo
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Ogni prima domenica del mese\, l’iniziativa ministeriale "D
+ omenica al museo" vi porta gratis nei musei e nelle aree archeologiche st
+ atali.\n\nInfo: https://zero.eu/it/eventi/379175-domenica-al-museo-4-otto
+ bre-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379175-domenica-al-museo-4-ottobre-2026,rom
+ a/
+END:VEVENT
+END:VCALENDAR

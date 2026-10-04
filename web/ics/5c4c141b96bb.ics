@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c4c141b96bb@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261015
+SUMMARY:Festival dei Dottorandi
+LOCATION:Teatro di Roma · Teatro India
+DESCRIPTION:Info: https://www.teatrodiroma.net/progetti/collaborazioni/fe
+ stival-dei-dottorandi/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/progetti/collaborazioni/festival-dei-dot
+ torandi/
+END:VEVENT
+END:VCALENDAR

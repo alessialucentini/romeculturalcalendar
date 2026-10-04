@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d49621e595bb@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261114
+SUMMARY:Eva Beresin - "Fool's Privilege"
+LOCATION:Spazio Amanita\, Spazio Amanita\, Roma
+DESCRIPTION:Seconda personale dell'artista in galleria. In mostra una sel
+ ezione di dipinti e sculture realizzati nell'ultimo anno.\n\nInfo: https:
+ //zero.eu/it/eventi/379281-eva-beresin-fools-privilege\,roma/\n\nDa Lince
+ o
+URL:https://zero.eu/it/eventi/379281-eva-beresin-fools-privilege,roma/
+END:VEVENT
+END:VCALENDAR

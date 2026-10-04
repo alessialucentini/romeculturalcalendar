@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96715e26c122@linceo
+DTSTAMP:20261004T090201Z
+DTSTART:20261010T160000Z
+DTEND:20261010T180000Z
+SUMMARY:#ALTRNTV Elektro Stage
+LOCATION:Tevere Art Gallery\, Tevere Art Gallery\, Roma
+DESCRIPTION:Due stage e dodici ore di musica per lo spin off elettronico 
+ di MArte Live\, con la curatela di Circolo\n\nInfo: https://zero.eu/it/ev
+ enti/378621-altrntv-elektro-stage\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378621-altrntv-elektro-stage,roma/
+END:VEVENT
+END:VCALENDAR

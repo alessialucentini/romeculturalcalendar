@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5488172ca4cf@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:MAM - Media Art Museum Opening
+LOCATION:MAM – Media Art Museum\, MAM – Media Art Museum\, Roma
+DESCRIPTION:L'ecosistema (tutto made in Rome) legato al software FLxER e 
+ al Live Performers Meeting trova casa a due passi da\n\nInfo: https://zer
+ o.eu/it/eventi/379020-mam-media-art-museum-opening\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379020-mam-media-art-museum-opening,roma/
+END:VEVENT
+END:VCALENDAR

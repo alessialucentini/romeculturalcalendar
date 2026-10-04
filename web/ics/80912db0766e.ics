@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:80912db0766e@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261025
+SUMMARY:Come aperto dal Cielo. Nuovi paesaggi nell’architettura cinese
+LOCATION:Accademia Nazionale di San Luca\, Accademia Nazionale di San Luc
+ a\, Roma
+DESCRIPTION:Al via un ciclo di quattro appuntamenti\, tra mostre e lectio
+  magistralis\, dedicati all’architettura cinese contemporanea e alle su
+ e trasformazioni.\n\nInfo: https://zero.eu/it/eventi/378578-come-aperto-d
+ al-cielo-nuovi-paesaggi-nellarchitettura-cinese\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378578-come-aperto-dal-cielo-nuovi-paesaggi
+ -nellarchitettura-cinese,roma/
+END:VEVENT
+END:VCALENDAR

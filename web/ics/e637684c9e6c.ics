@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e637684c9e6c@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Domenica nei Musei Civici
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Ogni prima domenica del mese i Musei Civici di Roma sono grat
+ uiti. Scopri qui i siti visitabili.\n\nInfo: https://zero.eu/it/eventi/37
+ 9176-domenica-nei-musei-civici-4-ottobre-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379176-domenica-nei-musei-civici-4-ottobre-
+ 2026,roma/
+END:VEVENT
+END:VCALENDAR

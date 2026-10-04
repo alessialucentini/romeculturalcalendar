@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3872d383fd7@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261012
+SUMMARY:Un Vermeer a Palazzo Barberini. Donna in blu che legge una letter
+ a
+LOCATION:Palazzo Barberini\, Via delle Quattro Fontane 13\, Roma
+DESCRIPTION:Dall’8 luglio all’11 ottobre 2026 Palazzo Barberini ospit
+ a Donna in blu che legge una lettera\, straordinario capolavoro di Johann
+ es Vermeer concesso in prestito eccezionale dal …\n\nInfo: https://barb
+ erinicorsini.org/evento/un-vermeer-a-palazzo-barberini-donna-in-blu-che-l
+ egge-una-lettera/\n\nDa Linceo
+URL:https://barberinicorsini.org/evento/un-vermeer-a-palazzo-barberini-do
+ nna-in-blu-che-legge-una-lettera/
+END:VEVENT
+END:VCALENDAR

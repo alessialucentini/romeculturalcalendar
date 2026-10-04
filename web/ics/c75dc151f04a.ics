@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c75dc151f04a@linceo
+DTSTAMP:20261004T090201Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:#ALTRNTV w/ Four Flies Showcase
+LOCATION:Palazzo San Lorenzo\, Palazzo San Lorenzo\, Roma
+DESCRIPTION:L'etichetta romana porta sul palco dal vivo tre dei suoi prog
+ etti di punta: Banda Maje\, Fabric e Chiarè.\n\nInfo: https://zero.eu/it
+ /eventi/378487-altrntv-w-four-flies-showcase\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378487-altrntv-w-four-flies-showcase,roma/
+END:VEVENT
+END:VCALENDAR

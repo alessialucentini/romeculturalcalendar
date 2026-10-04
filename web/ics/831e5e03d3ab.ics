@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:831e5e03d3ab@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261203
+SUMMARY:Museum Accessibility as Shared Culture and Collective Practice
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:know-how\n\nInfo: https://www.maxxi.art/events/museum-accessi
+ bility-as-shared-culture-and-collective-practice/\n\nDa Linceo
+URL:https://www.maxxi.art/events/museum-accessibility-as-shared-culture-a
+ nd-collective-practice/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:740f2d0621c3@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261122
+SUMMARY:Andrés Anza - "Paisaje a la montaña"
+LOCATION:Anna Marra Contemporanea\, Anna Marra Contemporanea\, Roma
+DESCRIPTION:L'artista messicano porta in mostra le sue sculture organiche
+ \, trasformando la galleria in un ecosistema alieno.\n\nInfo: https://zer
+ o.eu/it/eventi/379303-andres-anza-paisaje-a-la-montana\,roma/\n\nDa Lince
+ o
+URL:https://zero.eu/it/eventi/379303-andres-anza-paisaje-a-la-montana,rom
+ a/
+END:VEVENT
+END:VCALENDAR

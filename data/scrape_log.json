@@ -1,5 +1,5 @@
 {
- "run": "2026-10-01T19:02:28+00:00",
+ "run": "2026-10-04T09:02:01+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -11,19 +11,19 @@
    "source": "roma-culture-manifestazioni",
    "url": "https://culture.roma.it/manifestazione/",
    "status": "ok",
-   "events": 32
+   "events": 29
   },
   {
    "source": "artribune",
    "url": "https://www.artribune.com",
-   "status": "ok",
-   "events": 3
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
   },
   {
    "source": "maxxi",
    "url": "https://www.maxxi.art",
    "status": "ok",
-   "events": 33
+   "events": 30
   },
   {
    "source": "macro",
@@ -83,7 +83,7 @@
    "source": "palazzo-merulana",
    "url": "https://www.palazzomerulana.it/events/",
    "status": "ok",
-   "events": 3
+   "events": 1
   },
   {
    "source": "operativa-arte-contemporanea",
@@ -119,7 +119,7 @@
    "source": "teatro-dell-opera-di-roma",
    "url": "https://www.operaroma.it",
    "status": "ok",
-   "events": 136
+   "events": 135
   },
   {
    "source": "romaeuropa-festival",
@@ -155,7 +155,7 @@
    "source": "teatro-biblioteca-quarticciolo",
    "url": "https://teatrobibliotecaquarticciolo.it/",
    "status": "ok",
-   "events": 16
+   "events": 19
   },
   {
    "source": "short-theatre",
@@ -178,20 +178,20 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7fb6154f1e80>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f0cc79d4e90>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
    "source": "casa-del-cinema",
    "url": "https://www.casadelcinema.it/it/",
    "status": "ok",
-   "events": 17
+   "events": 16
   },
   {
    "source": "cinema-troisi",
    "url": "https://www.cinematroisi.it",
    "status": "ok",
-   "events": 208
+   "events": 168
   },
   {
    "source": "la-feltrinelli-eventi",
@@ -209,13 +209,13 @@
    "source": "arte-it",
    "url": "https://www.arte.it/calendario-arte/roma",
    "status": "ok",
-   "events": 33
+   "events": 34
   },
   {
    "source": "zero-roma",
    "url": "https://zero.eu/it/roma/eventi/",
    "status": "ok",
-   "events": 120
+   "events": 131
   }
  ]
 }

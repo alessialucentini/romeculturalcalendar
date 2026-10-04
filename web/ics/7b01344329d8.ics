@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7b01344329d8@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20270101
+SUMMARY:Domenica al museo: ingresso gratuito la prima domenica del mese
+LOCATION:Galleria Corsini\, Via delle Quattro Fontane 13\, Roma
+DESCRIPTION:Ogni prima domenica del mese ingresseo gratuito per tutti a P
+ alazzo Barberini e alla Galleria Corsini nell'ambito dell'iniziativa Dome
+ nica al Museo del Ministero della Cultura.\n\nInfo: https://barberinicors
+ ini.org/evento/domenica-al-museo/\n\nDa Linceo
+URL:https://barberinicorsini.org/evento/domenica-al-museo/
+END:VEVENT
+END:VCALENDAR

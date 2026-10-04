@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5faba1abca7b@linceo
+DTSTAMP:20261004T090201Z
+DTSTART:20261011T150000Z
+DTEND:20261011T170000Z
+SUMMARY:Bartertown Alleycat Vol. 1
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Ride safe\, have fun\, get lost!\n\nInfo: https://zero.eu/it/
+ eventi/379886-bartertown-alleycat-vol-1\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379886-bartertown-alleycat-vol-1,roma/
+END:VEVENT
+END:VCALENDAR

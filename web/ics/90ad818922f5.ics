@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:90ad818922f5@linceo
-DTSTAMP:20261001T190228Z
+DTSTAMP:20261004T090201Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261013
 SUMMARY:Omaggio a Gillo Pontecorvo
 LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
-DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/omag
- gio-gillo-pontecorvo/\n\nDa Linceo
+DESCRIPTION:In sala\n\nInfo: https://www.casadelcinema.it/it/event/omaggi
+ o-gillo-pontecorvo/\n\nDa Linceo
 URL:https://www.casadelcinema.it/it/event/omaggio-gillo-pontecorvo/
 END:VEVENT
 END:VCALENDAR

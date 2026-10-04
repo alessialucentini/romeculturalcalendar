@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c39eb32d5655@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20270111
+SUMMARY:Claudia Peill. Extension
+LOCATION:Museo Boncompagni Ludovisi\, Museo Boncompagni Ludovisi\, Roma
+DESCRIPTION:In dialogo con la collezione di arti decorative e di arazzi d
+ ella Casa Museo\, l'artista porta in mostra un corpus\n\nInfo: https://ze
+ ro.eu/it/eventi/379478-claudia-peill-extension\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379478-claudia-peill-extension,roma/
+END:VEVENT
+END:VCALENDAR

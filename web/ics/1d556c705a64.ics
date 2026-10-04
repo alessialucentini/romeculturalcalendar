@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d556c705a64@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261109
+SUMMARY:Dalija Kaukėnaitė - "hopecore"
+LOCATION:10 documents\, 10 documents\, Roma
+DESCRIPTION:L'artista di Vilnius presenta una mostra che prende spunto da
+ ll'omonima cultura web fondata su sincerità radicale\, vulnerabilità e 
+ ottimismo. A\n\nInfo: https://zero.eu/it/eventi/376994-dalija-kaukenaite-
+ hopecore\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376994-dalija-kaukenaite-hopecore,roma/
+END:VEVENT
+END:VCALENDAR

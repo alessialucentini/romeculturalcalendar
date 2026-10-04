@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4279699ce1e7@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261115
+SUMMARY:Gerardo Iudicone - "Deposito morte Gerry"
+LOCATION:Fondazione Pastificio Cerere\, Fondazione Pastificio Cerere\, Ro
+ ma
+DESCRIPTION:Prima mostra personale dell'artista\, presentata da Gianni Po
+ liti in partenariato con NABA. L'esposizione raccoglie una serie di diseg
+ ni realizzati con\n\nInfo: https://zero.eu/it/eventi/376158-gerardo-iudic
+ one-deposito-morte-gerry\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376158-gerardo-iudicone-deposito-morte-gerr
+ y,roma/
+END:VEVENT
+END:VCALENDAR

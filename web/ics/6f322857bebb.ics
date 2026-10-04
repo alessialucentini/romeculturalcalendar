@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f322857bebb@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261012
+SUMMARY:GAM 100. Un secolo di Galleria comunale 1925-2025
+LOCATION:Galleria d'arte moderna\, Galleria d'arte moderna\, Roma
+DESCRIPTION:Oltre 120 opere riunite in un percorso espositivo che riperco
+ rre le tappe fondamentali della Galleria: dalle diverse acquisizioni ai c
+ ontesti\n\nInfo: https://zero.eu/it/eventi/356497-gam-100-un-secolo-di-ga
+ lleria-comunale-1925-2025\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/356497-gam-100-un-secolo-di-galleria-comuna
+ le-1925-2025,roma/
+END:VEVENT
+END:VCALENDAR

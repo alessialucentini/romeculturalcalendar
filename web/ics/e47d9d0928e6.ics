@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e47d9d0928e6@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20270108
+SUMMARY:Campo di riflessione
+LOCATION:bocal\, bocal\, Roma
+DESCRIPTION:Una collettiva a cura di Isabella Vitale e Bianca Miki Zelli\
+ ; con lavori di Gabriele Agrimonti\, Sveva Angeletti\, Cristiano Carotti\
+ ,\n\nInfo: https://zero.eu/it/eventi/379878-campo-di-riflessione\,roma/\n
+ \nDa Linceo
+URL:https://zero.eu/it/eventi/379878-campo-di-riflessione,roma/
+END:VEVENT
+END:VCALENDAR

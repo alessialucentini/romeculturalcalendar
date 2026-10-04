@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43aa21581ff1@linceo
+DTSTAMP:20261004T090201Z
+DTSTART:20261011T140000Z
+DTEND:20261011T160000Z
+SUMMARY:Four Seasons Changed
+LOCATION:Teatro Argentina\, Teatro Argentina\, Roma
+DESCRIPTION:In questo concerto coreografico i confini tra musica e danza 
+ si dissolvono\, aggiungendo un nuovo livello alla celebre reinterpretazio
+ ne che\n\nInfo: https://zero.eu/it/eventi/377675-four-seasons-changed-2\,
+ roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377675-four-seasons-changed-2,roma/
+END:VEVENT
+END:VCALENDAR

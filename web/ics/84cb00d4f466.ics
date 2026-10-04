@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:84cb00d4f466@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:DELITTO E CASTIGO
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Partendo dalla riscrittura del Maestro Mauri\, la Compagnia M
+ auri Sturno focalizza l’attenzione su uno dei più grandi romanzi mai s
+ critti e costruisce un ponte tra passato\, presente e futuro. | SALA GRAN
+ DE\n\nInfo: https://teatriincomune.roma.it/events/delitto-e-castigo/\n\nD
+ a Linceo
+URL:https://teatriincomune.roma.it/events/delitto-e-castigo/
+END:VEVENT
+END:VCALENDAR

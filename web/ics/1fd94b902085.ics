@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fd94b902085@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261102
+SUMMARY:Yuan Gong - "The World of the Stage II"
+LOCATION:Palazzo Merulana\, Palazzo Merulana\, Roma
+DESCRIPTION:Palazzo Merulana ospita il secondo capitolo di un progetto es
+ positivo inaugurato nel 2026 a Venezia. Attraverso video art\, performanc
+ e e\n\nInfo: https://zero.eu/it/eventi/379270-yuan-gong-the-world-of-the-
+ stage-ii\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379270-yuan-gong-the-world-of-the-stage-ii,
+ roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1829bd47467e@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+SUMMARY:SUORE FUORI CONTROLLO
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Un’operazione di polizia perfettamente organizzata si trasf
+ orma in un esilarante caos di equivoci\, identità confuse e situazioni s
+ urreali. | SALA GRANDE\n\nInfo: https://teatriincomune.roma.it/events/suo
+ re-fuori-controllo/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/suore-fuori-controllo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ac505aa9d9ed@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:1.5.15 – AFFETTI COLLATERALI
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Lavoro incentrato sulla controversa figura di Fritz Haber\, p
+ remio Nobel per la chimica nel 1918\, sua moglie Clara Immerwahr\, prima 
+ donna laureata in chimica e del figlio Hermann. Una storia d’amore\, am
+ bizione e responsabilità scientifica. | SALA GRANDE\n\nInfo: https://tea
+ triincomune.roma.it/events/1-5-15-affetti-collaterali/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/1-5-15-affetti-collaterali/
+END:VEVENT
+END:VCALENDAR

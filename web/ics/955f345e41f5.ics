@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:955f345e41f5@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20270111
+SUMMARY:Frank Horvat
+LOCATION:Terme di Caracalla\, Terme di Caracalla\, Roma
+DESCRIPTION:In mostra 72 immagini del fotografo italiano scomparso nel 20
+ 20\, tra moda\, reportage sociali e di viaggio\, paesaggi e ritratti.\n\n
+ Info: https://zero.eu/it/eventi/376628-frank-horvat\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376628-frank-horvat,roma/
+END:VEVENT
+END:VCALENDAR

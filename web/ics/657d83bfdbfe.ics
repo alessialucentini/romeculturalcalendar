@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:657d83bfdbfe@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261009
+SUMMARY:Florence Di Benedetto
+LOCATION:Spazio Nuovo\, Spazio Nuovo\, Roma
+DESCRIPTION:Quattordici fotografia indagano in maniera intima e rigorosa 
+ i temi della presenza e dell'assenza\, del tempo e della memoria\, a\n\nI
+ nfo: https://zero.eu/it/eventi/377462-florence-di-benedetto\,roma/\n\nDa 
+ Linceo
+URL:https://zero.eu/it/eventi/377462-florence-di-benedetto,roma/
+END:VEVENT
+END:VCALENDAR

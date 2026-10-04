@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:03c09292a99f@linceo
+DTSTAMP:20261004T090201Z
+DTSTART:20261011T200000Z
+DTEND:20261011T220000Z
+SUMMARY:Ambivalent Cinewave
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Un format che vuole far convivere in modo innovativo cinema (
+ con la proiezione di "Raving Iran")\, parola e clubbing.\n\nInfo: https:/
+ /zero.eu/it/eventi/377980-ambivalent-cinewave-invites-la-roboterie\,roma/
+ \n\nDa Linceo
+URL:https://zero.eu/it/eventi/377980-ambivalent-cinewave-invites-la-robot
+ erie,roma/
+END:VEVENT
+END:VCALENDAR

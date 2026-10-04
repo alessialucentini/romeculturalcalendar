@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c873c338a84@linceo
+DTSTAMP:20261004T090201Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261101
+SUMMARY:Kiki Smith
+LOCATION:Lorcan O'Neill\, Lorcan O'Neill\, Roma
+DESCRIPTION:Personale dell'artista statunitense.\n\nInfo: https://zero.eu
+ /it/eventi/379287-kiki-smith-2\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379287-kiki-smith-2,roma/
+END:VEVENT
+END:VCALENDAR
