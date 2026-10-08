@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:91306f4e70f2@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261223T200000Z
+DTEND:20261223T220000Z
+SUMMARY:Il Badante
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Ne Il Badante\, Paolo Ruffini accompagna il pubblico in un vi
+ aggio tra le grandi domande dell’esistenza. 23 Dicembre al Teatro Branc
+ accio\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/
+ il-badante/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/il-badante/
+END:VEVENT
+END:VCALENDAR

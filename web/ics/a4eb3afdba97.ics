@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4eb3afdba97@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270220T200000Z
+DTEND:20270220T220000Z
+SUMMARY:RAFFAELLA il musical
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Raffaella Il Musical\, biographical musical sulla straordinar
+ ia vita e carriera di Raffaella Carrà. Dal 10 Febbraio al Teatro Brancac
+ cio\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/ra
+ ffaella-il-musical/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/raffaella-i
+ l-musical/
+END:VEVENT
+END:VCALENDAR

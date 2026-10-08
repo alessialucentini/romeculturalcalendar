@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2fecebbdd9da@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270204T200000Z
+DTEND:20270204T220000Z
+SUMMARY:Fuori Di Tela
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Fuori di tela di Filippo Caccamo: una commedia brillante tra 
+ ironia\, musica e personaggi irresistibili\, 4 febbraio al Teatro Brancac
+ cio.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/f
+ uori-di-tela/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/fuori-di-te
+ la/
+END:VEVENT
+END:VCALENDAR

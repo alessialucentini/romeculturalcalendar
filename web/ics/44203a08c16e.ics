@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44203a08c16e@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:Ho Tre Belle Notizie
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Angelo Duro torna con uno spettacolo nuovo di zecca “Ho tre
+  belle notizie” (questo è il quarto e sarà prodotto dalla […]\n\nIn
+ fo: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/ho-tre-bell
+ e-notizie-2/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/ho-tre-bell
+ e-notizie-2/
+END:VEVENT
+END:VCALENDAR

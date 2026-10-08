@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e00a18c83a35@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270323T200000Z
+DTEND:20270323T220000Z
+SUMMARY:Ti Lascio Andare
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Per la prima volta Daniel Lumera porta a teatro il tema del l
+ asciare andare non come un argomento da raccontare\, […]\n\nInfo: https
+ ://teatrobrancaccio.it/spettacoli/stagione-2026-2027/ti-lascio-andare/\n\
+ nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/ti-lascio-a
+ ndare/
+END:VEVENT
+END:VCALENDAR

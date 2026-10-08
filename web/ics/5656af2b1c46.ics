@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5656af2b1c46@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261123T200000Z
+DTEND:20261123T220000Z
+SUMMARY:Monet. Una Vita A Colori
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Un grande evento per il centenario della morte di Claude Mone
+ t di e con Marco Goldin. Il 23 Novembre al Teatro Brancaccio.\n\nInfo: ht
+ tps://teatrobrancaccio.it/spettacoli/stagione-2026-2027/monet-una-vita-a-
+ colori/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/monet-una-v
+ ita-a-colori/
+END:VEVENT
+END:VCALENDAR

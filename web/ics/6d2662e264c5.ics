@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d2662e264c5@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:30 Anni…E Non Sentirli
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Dopo il grande successo della passata stagione Andrea Pucci\,
+  il comico milanese\, torna al Teatro Brancaccio con il suo esilarante [
+ …]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/a
+ ndrrea-pucci-30-anni-e-non-sentirli/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/andrrea-puc
+ ci-30-anni-e-non-sentirli/
+END:VEVENT
+END:VCALENDAR

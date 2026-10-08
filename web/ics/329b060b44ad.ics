@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:329b060b44ad@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261112T230000Z
+DTEND:20261113T010000Z
+SUMMARY:Frida Opera Musical
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Dopo aver emozionato il pubblico con produzioni come La Divin
+ a Commedia Opera Musical e Van Gogh Café Opera Musical\, la […]\n\nInf
+ o: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/frida-opera-
+ musical-2025/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/frida-opera
+ -musical-2025/
+END:VEVENT
+END:VCALENDAR

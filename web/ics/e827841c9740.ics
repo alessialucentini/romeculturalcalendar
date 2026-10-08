@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e827841c9740@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270421T190000Z
+DTEND:20270421T210000Z
+SUMMARY:L’Arte Della Truffa
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:L’arte della Truffa è Il nuovo spettacolo di Biagio Izzo\,
+  una commedia brillante tra momenti paradossali\, comici ed emozionanti.\
+ n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/larte-
+ della-truffa/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/larte-della
+ -truffa/
+END:VEVENT
+END:VCALENDAR

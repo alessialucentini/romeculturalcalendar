@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9bfade67c8b8@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270403T140000Z
+DTEND:20270403T160000Z
+SUMMARY:MRS DOUBTFIRE il musical
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:MRS. DOUBTFIRE\, la commedia musicale tratta dal film di succ
+ esso con Robin Williams\, arriva al Teatro Brancaccio con Francesco Cicch
+ ella\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/m
+ rs-doubtfire/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/mrs-doubtfi
+ re/
+END:VEVENT
+END:VCALENDAR

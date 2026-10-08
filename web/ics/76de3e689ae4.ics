@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76de3e689ae4@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261116T200000Z
+DTEND:20261116T220000Z
+SUMMARY:Le Migliori Colonne Sonore Hans Zimmer
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:IL TOUR TRIBUTO DELL’ ENSEMBLE SYMPHONY ORCHESTRA DEDICATO 
+ AL GENIO DI HANS ZIMMER E ALLE SUE PIÙ BELLE COLONNE SONORE. 16 NOVEMBRE
+ \n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/le-mi
+ gliori-colonne-sonore-hans-zimmer/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/le-migliori
+ -colonne-sonore-hans-zimmer/
+END:VEVENT
+END:VCALENDAR

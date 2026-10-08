@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c3124ecc0c88@linceo
+DTSTAMP:20261008T220127Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:NON HANNO UN DUBBIO
+LOCATION:Teatro Ambra Jovinelli
+DESCRIPTION:Info: https://www.ambrajovinelli.org/events/non-hanno-un-dubb
+ io/\n\nDa Linceo
+URL:https://www.ambrajovinelli.org/events/non-hanno-un-dubbio/
+END:VEVENT
+END:VCALENDAR

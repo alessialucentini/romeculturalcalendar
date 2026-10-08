@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6e629797a48@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:Il Cantico
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Angelo Branduardi\, con “Il Cantico”\, il 27 gennaio 2027
+ \, sarà al Teatro Brancaccio di Roma\, concerto organizzato da Vincenzo 
+ Berti […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026
+ -2027/il-cantico/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/il-cantico/
+END:VEVENT
+END:VCALENDAR

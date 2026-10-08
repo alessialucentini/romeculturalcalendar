@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b38c90972c1c@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261016T220000Z
+DTEND:20261017T000000Z
+SUMMARY:Avanguardia Pura
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Dopo il travolgente successo delle date invernali di “AVANG
+ UARDIA PURA”\, lo spettacolo che ha conquistato il pubblico con sold ou
+ t […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-202
+ 6/avanguardia-pura-camihawke-scilla/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/avanguardia
+ -pura-camihawke-scilla/
+END:VEVENT
+END:VCALENDAR

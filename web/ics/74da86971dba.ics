@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:74da86971dba@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261012T220000Z
+DTEND:20261013T000000Z
+SUMMARY:Grazie Per La Domanda
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Pierluca Mariti\, conosciuto online anche come @piuttosto_che
+ \, torna al Teatro Brancaccio in Grazie per la domanda con un monologo co
+ mico […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-
+ 2026/grazie-per-la-domanda-pierluca-mariti/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/grazie-per-
+ la-domanda-pierluca-mariti/
+END:VEVENT
+END:VCALENDAR

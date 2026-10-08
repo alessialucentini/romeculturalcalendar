@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08d8727fad4e@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261030T200000Z
+DTEND:20261030T220000Z
+SUMMARY:Il Principe D’Egitto – Il Musical
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:“Il Principe d’Egitto – Il Musical”\, tratto dall’o
+ monimo film d’animazione della DreamWorks\, arriva al Teatro Brancaccio
+  dal 29 Ottobre\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-
+ 2026-2027/il-principe-degitto-il-musical/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/il-principe
+ -degitto-il-musical/
+END:VEVENT
+END:VCALENDAR

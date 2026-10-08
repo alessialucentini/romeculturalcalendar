@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:58cd349c59de@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Gaber – Mi Fa Male Il Mondo
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Gaber -Mi fa male il mondo con Neri Marcorè\, porta il teatr
+ o canzone\, in un’esplorazione dell’universo creativo\, narrativo\, e
+ tico e letterario\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagion
+ e-2026-2027/gaber-mi-fa-male-il-mondo/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/gaber-mi-fa
+ -male-il-mondo/
+END:VEVENT
+END:VCALENDAR

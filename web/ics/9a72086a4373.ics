@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a72086a4373@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270502T190000Z
+DTEND:20270502T210000Z
+SUMMARY:Giorgio Montanini Live
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Giorgio Montanini torna con una serata di stand-up comedy tra
+  satira\, ironia e riflessioni pungenti sulla società contemporanea.\n\n
+ Info: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/giorgio-m
+ ontanini-live-2/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/giorgio-mon
+ tanini-live-2/
+END:VEVENT
+END:VCALENDAR

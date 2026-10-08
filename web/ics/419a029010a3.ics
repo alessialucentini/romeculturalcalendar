@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:419a029010a3@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261205T193000Z
+DTEND:20261205T213000Z
+SUMMARY:Lo Schiaccianoci
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Lo Schiaccianoci: Un capolavoro immortale in una versione ine
+ dita e visionaria firmata da Alessia Gatta in collaborazione con Manuel P
+ aruccini\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-20
+ 27/lo-schiaccianoci-2026-2027/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/lo-schiacci
+ anoci-2026-2027/
+END:VEVENT
+END:VCALENDAR

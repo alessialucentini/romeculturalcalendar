@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e79e478983ec@linceo
+DTSTAMP:20261008T220127Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:LAPOCALISSE
+LOCATION:Teatro Ambra Jovinelli
+DESCRIPTION:Info: https://www.ambrajovinelli.org/events/lapocalisse-2/\n\
+ nDa Linceo
+URL:https://www.ambrajovinelli.org/events/lapocalisse-2/
+END:VEVENT
+END:VCALENDAR

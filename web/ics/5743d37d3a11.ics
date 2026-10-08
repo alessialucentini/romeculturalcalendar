@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5743d37d3a11@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270206T200000Z
+DTEND:20270206T220000Z
+SUMMARY:On The Road Again
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:PFM in concerto: rock\, progressive e musica classica si fond
+ ono in uno spettacolo dal vivo unico e sempre diverso.\n\nInfo: https://t
+ eatrobrancaccio.it/spettacoli/stagione-2026-2027/on-the-road-again/\n\nDa
+  Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/on-the-road
+ -again/
+END:VEVENT
+END:VCALENDAR

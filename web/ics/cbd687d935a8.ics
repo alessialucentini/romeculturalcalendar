@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cbd687d935a8@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261109T230000Z
+DTEND:20261110T010000Z
+SUMMARY:Segmenti World Tour
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Per la prima volta nella sua acclamata carriera internazional
+ e\, il pianista crossover MAKSIM arriva a Roma con il suo spettacolare [
+ …]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/s
+ egmenti-world-tour/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/segmenti-wo
+ rld-tour/
+END:VEVENT
+END:VCALENDAR

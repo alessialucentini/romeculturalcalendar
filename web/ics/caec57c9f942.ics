@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:caec57c9f942@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270522T190000Z
+DTEND:20270522T210000Z
+SUMMARY:Live Première
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Prodotti e organizzati da Friends & Partners\, il live riport
+ a Arisa in una dimensione intima ed emozionante\, pensata per offrire [
+ …]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/l
+ ive-premiere/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/live-premie
+ re/
+END:VEVENT
+END:VCALENDAR

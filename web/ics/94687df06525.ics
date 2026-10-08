@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:94687df06525@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270419T190000Z
+DTEND:20270419T210000Z
+SUMMARY:Indagini Live 2027 – Storie Intrecciate
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Stefano Nazzi torna a teatro con INDAGINI LIVE 2027 – STORI
+ E INTRECCIATE\, dopo oltre 80 repliche e 130 mila spettatori.\n\nInfo: ht
+ tps://teatrobrancaccio.it/spettacoli/stagione-2026-2027/indagini-live-202
+ 7-storie-intrecciate/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/indagini-li
+ ve-2027-storie-intrecciate/
+END:VEVENT
+END:VCALENDAR

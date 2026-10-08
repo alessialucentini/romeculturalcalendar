@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:411f73321713@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270514T190000Z
+DTEND:20270514T210000Z
+SUMMARY:No Vabbe’ Mi Adoro
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Katia Follesa torna con uno spettacolo che unisce comicità b
+ rillante e spunti di riflessione pungenti. 14 Maggio Teatro Brancaccio\n\
+ nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/no-vabbe
+ -mi-adoro/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/no-vabbe-mi
+ -adoro/
+END:VEVENT
+END:VCALENDAR

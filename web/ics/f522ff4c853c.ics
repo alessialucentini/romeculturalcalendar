@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f522ff4c853c@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270512T190000Z
+DTEND:20270512T210000Z
+SUMMARY:Giallo Sai!
+LOCATION:Teatro Vittoria\, Piazza Santa Maria Liberatrice 10\, Roma
+DESCRIPTION:Il volto più sorprendente della comicità magica arriva sul 
+ nostro palco con un nuovo\, esilarante spettacolo: “Giallo sai!”. Pre
+ paratevi a un’esperienza fuori dagli schemi\, dove l’impossibile pren
+ de forma tra risate e colpi di scena.\n\nInfo: https://www.teatrovittoria
+ .it/spettacoli/giallo-sai/\n\nDa Linceo
+URL:https://www.teatrovittoria.it/spettacoli/giallo-sai/
+END:VEVENT
+END:VCALENDAR

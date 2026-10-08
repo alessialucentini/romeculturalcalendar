@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40487a537a7c@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261222T200000Z
+DTEND:20261222T220000Z
+SUMMARY:Il Babysitter
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:“Il Babysitter” è uno spettacolo teatrale unico\, nato d
+ all’omonimo podcast di successo ideato e condotto da Paolo Ruffini.\n\n
+ Info: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/il-babysi
+ tter-2026/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/il-babysitt
+ er-2026/
+END:VEVENT
+END:VCALENDAR

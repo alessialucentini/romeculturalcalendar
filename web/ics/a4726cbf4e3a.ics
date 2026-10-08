@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a4726cbf4e3a@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270118T200000Z
+DTEND:20270118T220000Z
+SUMMARY:Tutta Colpa Del K-Pop
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Tutta colpa del K-pop: il primo spettacolo teatrale italiano 
+ dedicato al K-pop\, tra musica\, danza\, cultura coreana e coreografie or
+ iginali.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-20
+ 27/tutta-colpa-del-k-pop/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/tutta-colpa
+ -del-k-pop/
+END:VEVENT
+END:VCALENDAR

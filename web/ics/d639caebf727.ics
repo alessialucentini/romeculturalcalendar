@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d639caebf727@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270205T200000Z
+DTEND:20270205T220000Z
+SUMMARY:La Mente In Scena
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:La mente in scena è il nuovo spettacolo di Stefania Andreoli
+ : un intenso monologo a due voci che unisce teatro e psicologia per racco
+ ntare\, il disturbo borderline di personalità e il valore della comprens
+ ione\, della speranza e dell'umanità.\n\nInfo: https://teatrobrancaccio.
+ it/spettacoli/stagione-2026-2027/la-mente-in-scena/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/la-mente-in
+ -scena/
+END:VEVENT
+END:VCALENDAR

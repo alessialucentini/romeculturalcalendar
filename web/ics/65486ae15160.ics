@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65486ae15160@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261124T230000Z
+DTEND:20261125T010000Z
+SUMMARY:Rocky Horror Show
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:PRENOTA IL TUO ROCKY HORROR KIT IN LINGUA ORIGINALE L’iconi
+ co film con Tim Curry e Susan Sarandon ha appena festeggiato […]\n\nInf
+ o: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/rocky-horror
+ -show/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/rocky-horro
+ r-show/
+END:VEVENT
+END:VCALENDAR

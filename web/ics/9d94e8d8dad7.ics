@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d94e8d8dad7@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261018T220000Z
+DTEND:20261019T000000Z
+SUMMARY:E Se Domani…
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:GIORGIO PANARIELLO con il nuovo show “E SE DOMANI…”\, u
+ n racconto ironico e pungente del suo personalissimo “viaggio nel futur
+ o”. Lo spettacolo inizia proprio […]\n\nInfo: https://teatrobrancacci
+ o.it/spettacoli/stagione-2025-2026/e-se-domani/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/e-se-domani
+ /
+END:VEVENT
+END:VCALENDAR

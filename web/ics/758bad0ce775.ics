@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:758bad0ce775@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261104T230000Z
+DTEND:20261105T010000Z
+SUMMARY:Thikra: Night Of Remembering
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Presentato in collaborazione nell’ambito del Romaeuropa Fes
+ tival. Per la sua nuova produzione Thikra: Night of Remembering\, Akram K
+ han riunisce un cast […]\n\nInfo: https://teatrobrancaccio.it/spettacol
+ i/stagione-2025-2026/thikra-night-of-remembering/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/thikra-nigh
+ t-of-remembering/
+END:VEVENT
+END:VCALENDAR

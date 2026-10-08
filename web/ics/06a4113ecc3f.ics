@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06a4113ecc3f@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270511T190000Z
+DTEND:20270511T210000Z
+SUMMARY:Live Teatri 2026
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Francesco Renga in LIVE TEATRI 2026 ripercorre i successi del
+ la sua carriera con una nuova fase artistica. 9 Ottobre al Teatro Brancac
+ cio\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/li
+ ve-teatri-2026/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/live-teatri
+ -2026/
+END:VEVENT
+END:VCALENDAR

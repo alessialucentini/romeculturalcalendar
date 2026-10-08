@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce3210c3ef07@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261107T230000Z
+DTEND:20261108T010000Z
+SUMMARY:La Zanzara Tour
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Dopo anni di irriverenza radiofonica\, La Zanzara di Giuseppe
+  Cruciani e David Parenzo sbarca nei teatri con uno show senza […]\n\nI
+ nfo: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/la-zanzara
+ -tour/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/la-zanzara-
+ tour/
+END:VEVENT
+END:VCALENDAR

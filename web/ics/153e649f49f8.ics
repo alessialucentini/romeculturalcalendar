@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:153e649f49f8@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270322T200000Z
+DTEND:20270322T220000Z
+SUMMARY:Le Donne Non Fanno Ridere
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Uno spettacolo chesi chiama Le donne non fanno ridere\, ma sm
+ entisce ogni sillaba\, da un'idea di Paolo Ruffini. 22 Marzo Teatro Branc
+ accio.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027
+ /le-donne-non-fanno-ridere/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/le-donne-no
+ n-fanno-ridere/
+END:VEVENT
+END:VCALENDAR

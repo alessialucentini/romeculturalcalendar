@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:970fd6d14485@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270325T200000Z
+DTEND:20270325T220000Z
+SUMMARY:Inimitabile
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:In Inimitabile\, Ubaldo Pantani\, mattatore della comicità t
+ elevisiva\, porta sul palco il suo mondo di personaggi: dalle celebrità 
+ imitate\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-202
+ 7/inimitabile/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/inimitabile
+ /
+END:VEVENT
+END:VCALENDAR

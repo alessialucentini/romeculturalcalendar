@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4dea4e11c041@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270324T200000Z
+DTEND:20270324T220000Z
+SUMMARY:Viaggio Al Centro Della Fisica
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Vincenzo Schettini in “Viaggio al centro della Fisica” un
+  cammino fatto di scoperte\, meraviglie e sorprese da vivere insieme. 23 
+ Marzo 2027\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-
+ 2027/viaggio-al-centro-della-fisica-lo-spettacolo-della-conoscenza/\n\nDa
+  Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/viaggio-al-
+ centro-della-fisica-lo-spettacolo-della-conoscenza/
+END:VEVENT
+END:VCALENDAR

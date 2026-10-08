@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abbca6746b97@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270131T200000Z
+DTEND:20270131T220000Z
+SUMMARY:Prima Della Prima – Il Mio Viaggio Nei Sentimenti
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Prima della Prima è un One Man Show al contrario: da qui pre
+ nde vita il viaggio di Filippo Bisciglia. 30-31 Gennaio\, Teatro Brancacc
+ io\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/pri
+ ma-della-prima/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/prima-della
+ -prima/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:49de59d334e8@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270426T190000Z
+DTEND:20270426T210000Z
+SUMMARY:La Banalita’ Del Bene
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Quando la violenza affascina più della pace e la dittatura s
+ educe più della democrazia\, la gente soffre\, ma il comico […]\n\nInf
+ o: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/la-banalita-
+ del-bene-filippo-giardina-2026-2027/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/la-banalita
+ -del-bene-filippo-giardina-2026-2027/
+END:VEVENT
+END:VCALENDAR

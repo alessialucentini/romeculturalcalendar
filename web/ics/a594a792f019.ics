@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a594a792f019@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261117T200000Z
+DTEND:20261117T220000Z
+SUMMARY:The Best Of Genesis & Solo Gems 2026 Italian Tour
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Steve Hackett\, leggendario chitarrista dei Genesis\, al Teat
+ ro Brancaccio con THE BEST OF GENESIS & SOLO GEMS 2026 ITALIAN TOUR il 17
+  Novembre\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2
+ 027/best-of-genesis-solo-gems-tour-2026/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/best-of-gen
+ esis-solo-gems-tour-2026/
+END:VEVENT
+END:VCALENDAR

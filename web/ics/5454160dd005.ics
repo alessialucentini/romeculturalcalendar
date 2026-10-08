@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5454160dd005@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261016T190000Z
+DTEND:20261016T210000Z
+SUMMARY:È Questa La Vita Che Sognavo Da Bambino?
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Luca Argentero racconta Malabrocca\, Bonatti e Tomba: tre gra
+ ndi campioni italiani\, tra sport\, imprese\, emozioni e storie di vita.\
+ n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/e-ques
+ ta-la-vita-che-sognavo-da-bambino-2026/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/e-questa-la
+ -vita-che-sognavo-da-bambino-2026/
+END:VEVENT
+END:VCALENDAR

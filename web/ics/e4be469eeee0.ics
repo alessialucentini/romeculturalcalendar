@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e4be469eeee0@linceo
+DTSTAMP:20261008T220127Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Tutti gli uomini che non sono
+LOCATION:Teatro Ambra Jovinelli
+DESCRIPTION:Info: https://www.ambrajovinelli.org/events/tutti-gli-uomini-
+ che-non-sono-2/\n\nDa Linceo
+URL:https://www.ambrajovinelli.org/events/tutti-gli-uomini-che-non-sono-2
+ /
+END:VEVENT
+END:VCALENDAR

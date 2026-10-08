@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:090b828ee3c5@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:Arriva Lucilla
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:La magia sta per tornare a illuminare i teatri italiani: “A
+ RRIVA LUCILLA”\, il nuovo attesissimo show dell’artista più amata da
+ i più piccoli\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2
+ 026-2027/arriva-lucilla/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/arriva-luci
+ lla/
+END:VEVENT
+END:VCALENDAR

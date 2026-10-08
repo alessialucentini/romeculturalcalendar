@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:209a4842714f@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261220T150000Z
+DTEND:20261220T170000Z
+SUMMARY:Aggiungi Un Posto A Tavola
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:AGGIUNGI UN POSTO A TAVOLA\, la commedia musicale di Garinei/
+ Giovannini\, cult del teatro italiano\, dal 10 Dicembre al Teatro Brancac
+ cio\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/ag
+ giungi-un-posto-a-tavola-2026-2027/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/aggiungi-un
+ -posto-a-tavola-2026-2027/
+END:VEVENT
+END:VCALENDAR

@@ -1,5 +1,5 @@
 {
- "run": "2026-10-08T21:18:51+00:00",
+ "run": "2026-10-08T22:01:21+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -178,7 +178,7 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7fc98de6f6b0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f2e21e672c0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
@@ -222,6 +222,30 @@
    "url": "https://romadiffusa.com/",
    "status": "ok",
    "events": 1
+  },
+  {
+   "source": "teatro-brancaccio",
+   "url": "https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/",
+   "status": "ok",
+   "events": 147
+  },
+  {
+   "source": "teatro-vittoria",
+   "url": "https://www.teatrovittoria.it/spettacoli/",
+   "status": "ok",
+   "events": 1
+  },
+  {
+   "source": "teatro-ambra-jovinelli",
+   "url": "https://www.ambrajovinelli.org/",
+   "status": "ok",
+   "events": 12
+  },
+  {
+   "source": "teatro-ghione",
+   "url": "https://www.teatroghione.it/",
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
   }
  ]
 }

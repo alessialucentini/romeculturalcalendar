@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1fcdaa158890@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261208T140000Z
+DTEND:20261208T160000Z
+SUMMARY:Un Magico Natale Con Carolina
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:A grande richiesta\, Carolina\, torna sulla scena con il suo 
+ spettacolo “Un Magico Natale con Carolina” di Carolina Benvenga e Mor
+ ena D’Onofrio. “Un magico Natale con Carolina” mette in […]\n\nIn
+ fo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/un-magico-n
+ atale-con-carolina/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/un-magico-n
+ atale-con-carolina/
+END:VEVENT
+END:VCALENDAR

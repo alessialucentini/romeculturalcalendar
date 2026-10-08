@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0fdcb5645dbe@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261227T150000Z
+DTEND:20261227T170000Z
+SUMMARY:Assassinio Sull’Orient Express
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:ASSASSINIO SULL’ORIENT EXPRESS\, l’adattamento teatrale d
+ el celebre romanzo di Agatha Christie firmato Viola Produzioni con protag
+ onista Greg\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026
+ -2027/assassinio-sullorient-express/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/assassinio-
+ sullorient-express/
+END:VEVENT
+END:VCALENDAR

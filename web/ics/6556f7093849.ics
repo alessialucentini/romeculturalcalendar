@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6556f7093849@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270319T193000Z
+DTEND:20270319T213000Z
+SUMMARY:FRIDA Opera Musical
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Dopo il successo del tour 2025\, la Mic International Company
+  porta in scena “FRIDA OPERA MUSICAL". Dal 17 Marzo al Teatro Brancacci
+ o.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/fri
+ da-opera-musical-2026-2027/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/frida-opera
+ -musical-2026-2027/
+END:VEVENT
+END:VCALENDAR

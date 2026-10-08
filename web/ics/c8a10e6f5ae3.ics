@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8a10e6f5ae3@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261113T200000Z
+DTEND:20261113T220000Z
+SUMMARY:Essenze Jazz
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:ESSENZE JAZZ di Eduardo De Crescenzo: un concerto tra jazz\, 
+ blues e suggestioni mediterranee\, dove voce\, fisarmonica e improvvisazi
+ one si incontrano.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagio
+ ne-2026-2027/essenze-jazz-2/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/essenze-jaz
+ z-2/
+END:VEVENT
+END:VCALENDAR

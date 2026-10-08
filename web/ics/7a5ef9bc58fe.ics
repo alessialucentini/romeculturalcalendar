@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a5ef9bc58fe@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270327T200000Z
+DTEND:20270327T220000Z
+SUMMARY:Din Don Down
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Din Don Down di Paolo Ruffini è molto più di un varietà: 
+ è un rito collettivo\, un’esplorazione comica e poetica del concetto d
+ i Dio\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/
+ din-don-down-2026-2027/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/din-don-dow
+ n-2026-2027/
+END:VEVENT
+END:VCALENDAR

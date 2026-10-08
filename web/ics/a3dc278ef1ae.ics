@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3dc278ef1ae@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261008T190000Z
+DTEND:20261008T210000Z
+SUMMARY:Citofonare Casa Imbarazzi
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:“Citofonare Casa Imbarazzi” è un racconto che continua a
+  evolversi: nuovi episodi nuove situazioni e tutta la tipica energia\n\nI
+ nfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/citofonare
+ -casa-imbarazzi/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/citofonare-
+ casa-imbarazzi/
+END:VEVENT
+END:VCALENDAR

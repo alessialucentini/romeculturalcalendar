@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68bdf69c4c3f@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261120T200000Z
+DTEND:20261120T220000Z
+SUMMARY:Commedia Musicale Tour
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Michele Bravi arriva al Teatro Brancaccio con il Commedia Mus
+ icale Tour dove intreccia musica\, racconto e teatralità in un viaggio e
+ mozionale\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2
+ 027/commedia-musicale-tour/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/commedia-mu
+ sicale-tour/
+END:VEVENT
+END:VCALENDAR

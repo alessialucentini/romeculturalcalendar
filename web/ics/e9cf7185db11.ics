@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9cf7185db11@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261116T230000Z
+DTEND:20261117T010000Z
+SUMMARY:Non Aprite Quel Teatro
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:“Non Aprite Quella Podcast” è uno show creato da J-Ax e 
+ condotto insieme al rapper Pedar e al giornalista e autore Matteo Lenardo
+ n. Tre persone […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stag
+ ione-2025-2026/non-aprite-quel-teatro/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/non-aprite-
+ quel-teatro/
+END:VEVENT
+END:VCALENDAR

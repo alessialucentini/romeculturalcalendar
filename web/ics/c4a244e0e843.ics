@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c4a244e0e843@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261011T190000Z
+DTEND:20261011T210000Z
+SUMMARY:Mr.Rain Nei Teatri
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:MR.RAIN arriva al Teatro Brancaccio per un'unica serata piena
+  di musica ed emozioni: in scena l'11 Ottobre 2026\n\nInfo: https://teatr
+ obrancaccio.it/spettacoli/stagione-2026-2027/mr-rain-nei-teatri/\n\nDa Li
+ nceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/mr-rain-nei
+ -teatri/
+END:VEVENT
+END:VCALENDAR

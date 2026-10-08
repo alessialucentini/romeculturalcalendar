@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7abb1500409e@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261214T200000Z
+DTEND:20261214T220000Z
+SUMMARY:This Is What You Are
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Mario Biondi nell’anno del ventennale di “This Is What Yo
+ u Are” e “Handful of Soul” arriva al Teatro Brancaccio il 14 Dicemb
+ re.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/th
+ is-is-what-you-are/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/this-is-wha
+ t-you-are/
+END:VEVENT
+END:VCALENDAR

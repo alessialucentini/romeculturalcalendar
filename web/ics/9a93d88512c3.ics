@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a93d88512c3@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20270315T200000Z
+DTEND:20270315T220000Z
+SUMMARY:Salotto Paolantoni
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Francesco Paolantoni porta in scena uno spettacolo tra sketch
+ \, improvvisazione e comicità\, in un coinvolgente dialogo con il pubbli
+ co.\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/sa
+ lotto-paolantoni/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/salotto-pao
+ lantoni/
+END:VEVENT
+END:VCALENDAR

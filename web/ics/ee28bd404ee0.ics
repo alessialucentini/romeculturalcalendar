@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ee28bd404ee0@linceo
+DTSTAMP:20261008T220127Z
+DTSTART:20261015T220000Z
+DTEND:20261016T000000Z
+SUMMARY:Benvenuto Nell’Ai!
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Alessandro Cattelan torna live nei teatri con il suo nuovo sp
+ ettacolo “Benvenuto nell’AI!”\, che nell’autunno 2025 toccherà l
+ e città più […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagi
+ one-2025-2026/benvenuto-nell-ai/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/benvenuto-n
+ ell-ai/
+END:VEVENT
+END:VCALENDAR
