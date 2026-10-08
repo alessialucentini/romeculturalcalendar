@@ -787,12 +787,16 @@ def parse_vittoria_show(html: str, url: str, cat: str, source: str, today: date 
 
 
 def fetch_vittoria(src: dict, limit: int = 60) -> list[Event]:
-    r = polite_get("https://www.teatrovittoria.it/")
-    skip = ("audiodescrizione", "te-letterari")
+    skip = ("audiodescrizione", "te-letterari", "/feed/")
     links = []
-    for u in re.findall(r'href="(https://www\.teatrovittoria\.it/spettacoli/[^"/]+/)"', r.text):
-        if u not in links and not any(k in u for k in skip):
-            links.append(u)
+    for page in ("https://www.teatrovittoria.it/spettacoli/", "https://www.teatrovittoria.it/"):
+        try:
+            r = polite_get(page)
+        except Exception:
+            continue
+        for u in re.findall(r'href="(https://www\.teatrovittoria\.it/spettacoli/[^"/]+/)"', r.text):
+            if u not in links and not any(k in u for k in skip):
+                links.append(u)
     out: list[Event] = []
     for u in links[:limit]:
         try:
@@ -800,6 +804,12 @@ def fetch_vittoria(src: dict, limit: int = 60) -> list[Event]:
         except Exception:
             continue
     return out
+
+
+def fetch_ghione(src: dict) -> list[Event]:
+    import ics as ics_mod
+    feed = polite_get("https://www.teatroghione.it/spettacoli/?ical=1")
+    return ics_mod.parse(feed.content, "https://www.teatroghione.it/", cat=src["cat"], default_venue="Teatro Ghione", source=src["id"])
 
 
 SITES = {
@@ -819,4 +829,5 @@ SITES = {
     "teatro-biblioteca-quarticciolo": fetch_teatriincomune,
     "teatro-brancaccio": fetch_brancaccio,
     "teatro-vittoria": fetch_vittoria,
+    "teatro-ghione": fetch_ghione,
 }
