@@ -61,6 +61,11 @@ def test_sites():
         assert len(rd) == 1 and rd[0].start == "2026-10-10" and "Esquilino" in rd[0].title
         q = sites.parse_quirino(rx("quirino.html"), "u", "teatro", "q")
         assert len(q) >= 10 and q[0].start == "2026-10-20"
+        d0 = datetime.date(2026, 10, 8)
+        b = sites.parse_brancaccio_show(rx("brancaccio_show.html"), "u", "teatro", "b", today=d0)
+        assert b and b[0].start == "2026-10-08" and b[0].time == "21:00"
+        v = sites.parse_vittoria_show(rx("vittoria_show.html"), "u", "teatro", "v", today=d0)
+        assert v and v[0].start == "2027-05-12" and v[0].time == "21:00"
     assert sites._tdr_range("10 set – 6 ott 2026") == ("2026-09-10", "2026-10-06")
     assert sites._tdr_range("07 ott 2026 – 16 feb 2027") == ("2026-10-07", "2027-02-16")
 

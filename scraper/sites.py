@@ -704,6 +704,104 @@ def fetch_romadiffusa(src: dict) -> list[Event]:
     return parse_romadiffusa(_text(r.content), src["link"], src["id"])
 
 
+# ------------------------------------------------------------------ Teatro Brancaccio e Teatro Vittoria (schede spettacolo)
+_BRANC_TIME = re.compile(r"(?:Lun|Mar|Mer|Gio|Ven|Sab|Dom)\w*\s+(\d{1,2})/(\d{1,2})(?:\s+(\d{1,2})[:.](\d{2}))?")
+
+
+def parse_brancaccio_show(html: str, url: str, cat: str, source: str, today: date | None = None) -> list[Event]:
+    today = today or date.today()
+    soup = _soup(html)
+    h1 = soup.select_one("h1")
+    title = clean(h1.get_text(" ", strip=True) if h1 else "")
+    if not title:
+        return []
+    text = soup.get_text(" ", strip=True)
+    m = re.search(r"Orario Spettacoli(.{0,400}?)(?:Prezzi|$)", text)
+    if not m:
+        return []
+    og = soup.select_one('meta[property="og:description"]')
+    desc = clean(og["content"]) if og and og.get("content") else ""
+    out, seen = [], set()
+    for d, mo, hh, mm in _BRANC_TIME.findall(m.group(1)):
+        day = _infer_year(int(mo), int(d), today)
+        t = f"{int(hh):02d}:{mm}" if hh else None
+        if not day or (day, t) in seen:
+            continue
+        seen.add((day, t))
+        out.append(Event(title=title.title() if title.isupper() else title, cat=cat, venue="Teatro Brancaccio",
+                         address="Via Merulana 244, Roma", start=day, end=day, time=t, url=url,
+                         source=source, description=desc))
+    return out
+
+
+def fetch_brancaccio(src: dict, limit: int = 70) -> list[Event]:
+    base = "https://teatrobrancaccio.it/"
+    r = polite_get(base)
+    links = []
+    for u in re.findall(r'href="(https://teatrobrancaccio\.it/spettacoli/stagione-[^"/]+/[^"/]+/)"', r.text):
+        if u not in links:
+            links.append(u)
+    for sea in ("stagione-2026-2027", "stagione-2025-2026"):
+        try:
+            rr = polite_get(f"{base}spettacoli/{sea}/")
+        except Exception:
+            continue
+        for u in re.findall(r'href="(https://teatrobrancaccio\.it/spettacoli/' + sea + r'/[^"/]+/)"', rr.text):
+            if u not in links:
+                links.append(u)
+    out: list[Event] = []
+    for u in links[:limit]:
+        try:
+            out += parse_brancaccio_show(_text(polite_get(u).content), u, src["cat"], src["id"])
+        except Exception:
+            continue
+    return out
+
+
+def parse_vittoria_show(html: str, url: str, cat: str, source: str, today: date | None = None) -> list[Event]:
+    today = today or date.today()
+    soup = _soup(html)
+    h1 = soup.select_one("h1")
+    title = clean(h1.get_text(" ", strip=True) if h1 else "")
+    text = soup.get_text(" ", strip=True)
+    m = re.search(r"Calendario delle repliche(.{0,1200}?)(?:NON PERDERTI|Acquista biglietti|$)", text)
+    if not (title and m):
+        return []
+    og = soup.select_one('meta[property="og:description"]')
+    desc = clean(og["content"]) if og and og.get("content") else ""
+    out, seen, month = [], set(), None
+    for tok in re.finditer(r"([A-Za-zÀ-ù]+)\s+(\d{1,2})\s+(\d{1,2})[.:](\d{2})|\b([A-Z]{3,9})\b", m.group(1)):
+        if tok.group(5):
+            month = _month(tok.group(5)) or month
+            continue
+        if not month or tok.group(1).upper() in ("GIORNO", "DATA", "ORARIO"):
+            continue
+        day = _infer_year(month, int(tok.group(2)), today)
+        t = f"{int(tok.group(3)):02d}:{tok.group(4)}"
+        if day and (day, t) not in seen:
+            seen.add((day, t))
+            out.append(Event(title=title.title() if title.isupper() else title, cat=cat, venue="Teatro Vittoria",
+                             address="Piazza Santa Maria Liberatrice 10, Roma", start=day, end=day, time=t,
+                             url=url, source=source, description=desc))
+    return out
+
+
+def fetch_vittoria(src: dict, limit: int = 60) -> list[Event]:
+    r = polite_get("https://www.teatrovittoria.it/")
+    skip = ("audiodescrizione", "te-letterari")
+    links = []
+    for u in re.findall(r'href="(https://www\.teatrovittoria\.it/spettacoli/[^"/]+/)"', r.text):
+        if u not in links and not any(k in u for k in skip):
+            links.append(u)
+    out: list[Event] = []
+    for u in links[:limit]:
+        try:
+            out += parse_vittoria_show(_text(polite_get(u).content), u, src["cat"], src["id"])
+        except Exception:
+            continue
+    return out
+
+
 SITES = {
     "maxxi": fetch_maxxi,
     "auditorium-parco-della-musica": fetch_auditorium,
@@ -719,4 +817,6 @@ SITES = {
     "il-giornale-dell-arte": fetch_giornaledellarte,
     "romadiffusa": fetch_romadiffusa,
     "teatro-biblioteca-quarticciolo": fetch_teatriincomune,
+    "teatro-brancaccio": fetch_brancaccio,
+    "teatro-vittoria": fetch_vittoria,
 }

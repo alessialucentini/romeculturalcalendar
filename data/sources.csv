@@ -123,3 +123,9 @@ eventbrite-roma,Eventbrite Roma,https://www.eventbrite.it/d/italy--roma/events/,
 art-around-roma,Art Around Roma,,aggregatore,mostre,manuale,no,si,sito non trovato: serve il link esatto
 il-giornale-dell-arte,Il Giornale dell'Arte - calendario mostre (Roma),https://www.ilgiornaledellarte.com/Calendario/Mostre,editoria,mostre,auto,no,no,"parser pronto, ma il filtro Roma del calendario risponde 'nessun risultato' a richieste automatiche: serve un browser vero (Playwright)"
 romadiffusa,Romadiffusa,https://romadiffusa.com/,festival,contemporanea,auto,si,no,"festival annuale diffuso, una edizione in evidenza"
+teatro-brancaccio,Teatro Brancaccio,https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/,teatro_musica,teatro,auto,si,si,schede spettacolo con orari
+teatro-vittoria,Teatro Vittoria,https://www.teatrovittoria.it/spettacoli/,teatro_musica,teatro,auto,si,si,schede spettacolo con calendario repliche
+teatro-ambra-jovinelli,Teatro Ambra Jovinelli,https://www.ambrajovinelli.org/,teatro_musica,teatro,auto,si,si,JSON-LD in homepage
+teatro-ghione,Teatro Ghione,https://www.teatroghione.it/,teatro_musica,teatro,auto,si,si,feed iCal (spettacoli/?ical=1)
+teatro-sistina,Teatro Sistina,https://ilsistina.it/stagione-2026-2027/,teatro_musica,teatro,auto,no,si,stagione solo in immagini: serve parser/OCR
+teatro-eliseo,Teatro Eliseo,https://www.teatroeliseo.com/,teatro_musica,teatro,auto,no,no,dominio ora occupato da contenuti spam: trovare il sito ufficiale
