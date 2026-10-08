@@ -433,7 +433,7 @@
       m.on("click", () => openPlace(g));
       m.addTo(pins); pts.push([g.lat, g.lon]);
     }
-    $("#mapNote").textContent = `${pts.length} ${pts.length === 1 ? "luogo" : "luoghi"} sulla mappa · tocca un pallino per aprire la scheda, i cerchi grandi si aprono con un tocco`;
+    $("#mapNote").textContent = `${pts.length} ${pts.length === 1 ? "luogo" : "luoghi"} sulla mappa · tocca un pallino per aprire la scheda, i cerchi grandi si aprono con un tocco · usa due dita per fare zoom in/out`;
     requestAnimationFrame(() => {
       map.invalidateSize();
       if (pts.length === 1) map.setView(pts[0], 15, { animate: false });
