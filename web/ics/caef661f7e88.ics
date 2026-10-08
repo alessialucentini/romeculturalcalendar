@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:caef661f7e88@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261015T160000Z
+DTEND:20261015T180000Z
+SUMMARY:Tatiana Bilbao
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · talk\n\nInfo: https://www.maxxi.art/events/tatiana-
+ bilbao/\n\nDa Linceo
+URL:https://www.maxxi.art/events/tatiana-bilbao/
+END:VEVENT
+END:VCALENDAR

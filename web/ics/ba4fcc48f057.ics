@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba4fcc48f057@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261116
+SUMMARY:Donato Trovato - "Millepiedi"
+LOCATION:Casa vuota\, Casa vuota\, Roma
+DESCRIPTION:prima personale romana dell’artista trevigiano di nascita m
+ a pugliese di adozione. In mostra un ciclo di opere site-specific e reali
+ zzate\n\nInfo: https://zero.eu/it/eventi/379866-donato-trovato-millepiedi
+ \,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379866-donato-trovato-millepiedi,roma/
+END:VEVENT
+END:VCALENDAR

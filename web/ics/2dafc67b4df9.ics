@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2dafc67b4df9@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261116
+SUMMARY:Adrian Ghenie - "Capricci romani"
+LOCATION:Istituto Centrale per la Grafica c/o Palazzo Poli\, Istituto Cen
+ trale per la Grafica c/o Palazzo Poli\, Roma
+DESCRIPTION:L'artista rumeno presenta una serie di nuovi disegni che nasc
+ ono nel suo studio situato lungo l'Appia: una ricerca sul paesaggio\n\nIn
+ fo: https://zero.eu/it/eventi/376899-adrian-ghenie-capricci-romani\,roma/
+ \n\nDa Linceo
+URL:https://zero.eu/it/eventi/376899-adrian-ghenie-capricci-romani,roma/
+END:VEVENT
+END:VCALENDAR

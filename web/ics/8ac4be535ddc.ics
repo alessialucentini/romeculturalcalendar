@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8ac4be535ddc@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261011T200000Z
+DTEND:20261011T220000Z
+SUMMARY:B Mixx & Afriken
+LOCATION:Rashomon Club\, Rashomon Club\, Roma
+DESCRIPTION:Per la prima volta in Italia arrivano due protagonisti del Ra
+ bòday\, un genere di musica da club nato ad Haiti\,\n\nInfo: https://zer
+ o.eu/it/eventi/380228-b-mixx-afriken\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380228-b-mixx-afriken,roma/
+END:VEVENT
+END:VCALENDAR

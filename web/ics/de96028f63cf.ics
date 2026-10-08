@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de96028f63cf@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261109
+SUMMARY:L'ingegnere Volante. Taruffi torna sulla Via Appia Antica
+LOCATION:Casale di Santa Maria Nova\, Casale di Santa Maria Nova\, Roma
+DESCRIPTION:Per la prima volta viene esposto al pubblico l’archivio pri
+ vato di Piero Taruffi\, oggi parte della collezione di Corrado Lopresto:\
+ n\nInfo: https://zero.eu/it/eventi/380111-lingegnere-volante-taruffi-torn
+ a-sulla-via-appia-antica\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380111-lingegnere-volante-taruffi-torna-sul
+ la-via-appia-antica,roma/
+END:VEVENT
+END:VCALENDAR

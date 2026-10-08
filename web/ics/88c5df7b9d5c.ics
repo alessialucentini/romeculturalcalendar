@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:88c5df7b9d5c@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261123
+SUMMARY:Artiste Contemporanee a Casa Andersen – Il corpo come dimora
+LOCATION:Museo H. C. Andersen\, Museo H. C. Andersen\, Roma
+DESCRIPTION:Una collettiva a cura di Nicoletta Castellaneta\, Luisa Catuc
+ ci e Giuseppe Simone Modeo\, dialogare le sessanta opere appartenenti a q
+ uarantadue\n\nInfo: https://zero.eu/it/eventi/378649-artiste-contemporane
+ e-a-casa-andersen-il-corpo-come-dimora\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378649-artiste-contemporanee-a-casa-anderse
+ n-il-corpo-come-dimora,roma/
+END:VEVENT
+END:VCALENDAR

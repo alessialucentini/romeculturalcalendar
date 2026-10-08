@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:856c05719c43@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261016
+SUMMARY:Dom Bouffard - "Sound Drawings per il Portico d'Ottavia"
+LOCATION:Valentina Bonomo\, Valentina Bonomo\, Roma
+DESCRIPTION:L'arista porta in mostra i suoi sound drawings realizzati con
+  china e grafite su carta: partiture grafiche e frammenti di\n\nInfo: htt
+ ps://zero.eu/it/eventi/370453-dom-bouffard-sound-drawings-per-il-portico-
+ dottavia\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/370453-dom-bouffard-sound-drawings-per-il-p
+ ortico-dottavia,roma/
+END:VEVENT
+END:VCALENDAR

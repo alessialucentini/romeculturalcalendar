@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:38d29898512e@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261022
+SUMMARY:Anni Luce
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Con la sua tradizionale rassegna negli spazi del Mattatoio\, 
+ il Romaeuropa Festival torna a esplorare i territori del futuro teatrale\
+ n\nInfo: https://zero.eu/it/eventi/378802-anni-luce\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378802-anni-luce,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b8569f0fc355@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261101
+SUMMARY:Giovanni Kronenberg
+LOCATION:z2o Sara Zanin\, z2o Sara Zanin\, Roma
+DESCRIPTION:Nuova personale per l'artista\, che segna il decennale della 
+ collaborazione con la galleria. Opening mercoledì 16 settembre dalle 18 
+ alle\n\nInfo: https://zero.eu/it/eventi/375850-giovanni-kronenberg-5\,rom
+ a/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375850-giovanni-kronenberg-5,roma/
+END:VEVENT
+END:VCALENDAR

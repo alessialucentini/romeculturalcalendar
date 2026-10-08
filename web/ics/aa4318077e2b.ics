@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aa4318077e2b@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261022T160000Z
+DTEND:20261022T180000Z
+SUMMARY:Giuliano Vassalli. Legge e libertà
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · libri al MAXXI · di Mario Avagliano\n\nInfo: https
+ ://www.maxxi.art/events/giuliano-vassalli-legge-e-liberta/\n\nDa Linceo
+URL:https://www.maxxi.art/events/giuliano-vassalli-legge-e-liberta/
+END:VEVENT
+END:VCALENDAR

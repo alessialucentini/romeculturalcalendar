@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a45917f597aa@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261010T100000Z
+DTEND:20261010T120000Z
+SUMMARY:Yuval Abraham/Rachel Szor - "Naza"
+LOCATION:Teatro Palladium\, Teatro Palladium\, Roma
+DESCRIPTION:Il nuovo film di Yuval Abraham e Rachel Szor vicnitore del Pr
+ emio Speciale della Giuria alla 83ª Mostra del Cinema\n\nInfo: https://z
+ ero.eu/it/eventi/380173-naza-la-manifestival\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380173-naza-la-manifestival,roma/
+END:VEVENT
+END:VCALENDAR

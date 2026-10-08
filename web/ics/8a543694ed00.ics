@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a543694ed00@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Un Vermeer a Palazzo Barberini
+LOCATION:Galleria nazionale d'Arte Antica a Palazzo Barberini\, Galleria 
+ nazionale d'Arte Antica a Palazzo Barberini\, Roma
+DESCRIPTION:Per tre mesi Palazzo Barberini ospiterà "Donna in blu che le
+ gge una lettera"\, capolavoro di Johannes Vermeer concesso in prestito\n\
+ nInfo: https://zero.eu/it/eventi/374235-un-vermeer-a-palazzo-barberini\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/374235-un-vermeer-a-palazzo-barberini,roma/
+END:VEVENT
+END:VCALENDAR

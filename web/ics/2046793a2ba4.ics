@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2046793a2ba4@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:San Francesco / Coro di Santa Cecilia / Secchi / Piovano
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /coro-di-santa-cecilia-luigi-piovano/?replica=1652\n\nDa Linceo
+URL:https://santacecilia.it/concerto/coro-di-santa-cecilia-luigi-piovano/
+ ?replica=1652
+END:VEVENT
+END:VCALENDAR

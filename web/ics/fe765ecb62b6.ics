@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fe765ecb62b6@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261019
+SUMMARY:Zolla
+LOCATION:Parco della Caffarella\, Parco della Caffarella\, Roma
+DESCRIPTION:Il Parco della Caffarella ospita la rassegna di ricerca dedic
+ ata alla creazione coreografica under 35 e al dialogo tra corpo\n\nInfo: 
+ https://zero.eu/it/eventi/380456-zolla\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380456-zolla,roma/
+END:VEVENT
+END:VCALENDAR

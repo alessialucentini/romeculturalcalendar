@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:8eb0efd9f35e@linceo
-DTSTAMP:20261004T090201Z
+DTSTAMP:20261008T205937Z
 DTSTART:20261230T140000Z
 DTEND:20261230T160000Z
 SUMMARY:Il lago dei cigni
 LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
-DESCRIPTION:Info: https://www.operaroma.it/spettacoli/il-lago-dei-cigni-7
- /\n\nDa Linceo
-URL:https://www.operaroma.it/spettacoli/il-lago-dei-cigni-7/
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/il-lago-dei-cigni-2
+ 026-2027/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/il-lago-dei-cigni-2026-2027/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:269d6f5a9fa2@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261116
+SUMMARY:Di notte\, notte e dì
+LOCATION:Gallery Morphè\, Gallery Morphè\, Roma
+DESCRIPTION:Leonardo Crudi ed Elia Novecento presentano un nucleo di oper
+ e inedite costruite attorno a due direzioni complementari: la dimensione 
+ diurna\n\nInfo: https://zero.eu/it/eventi/379024-di-notte-notte-e-di\,rom
+ a/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379024-di-notte-notte-e-di,roma/
+END:VEVENT
+END:VCALENDAR

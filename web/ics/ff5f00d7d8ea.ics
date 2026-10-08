@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff5f00d7d8ea@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261214
+SUMMARY:Diego Rivera e la costruzione dell’arte moderna in Messico nel 
+ XX secolo
+LOCATION:Musei Capitolini\, Musei Capitolini\, Roma
+DESCRIPTION:In mostra oltre centosessanta opere\, tra dipinti\, disegni\,
+  fotografie e bozzetti provenienti da musei pubblici e collezioni private
+ . In mostra\n\nInfo: https://zero.eu/it/eventi/370837-diego-rivera-e-la-c
+ ostruzione-dellarte-moderna-in-messico-nel-xx-secolo\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/370837-diego-rivera-e-la-costruzione-dellar
+ te-moderna-in-messico-nel-xx-secolo,roma/
+END:VEVENT
+END:VCALENDAR

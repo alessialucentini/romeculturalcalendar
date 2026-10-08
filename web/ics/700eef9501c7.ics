@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:700eef9501c7@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261121
+SUMMARY:Pierluigi Antonucci - "Coltivare la luce da fermi"
+LOCATION:Richter Fine Art\, Richter Fine Art\, Roma
+DESCRIPTION:L'artista racconta in una personale il suo immaginario pittor
+ ico\, che prende forma da un profondo e sentito legame con la\n\nInfo: ht
+ tps://zero.eu/it/eventi/379009-pierluigi-antonucci-coltivare-la-luce-da-f
+ ermi\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379009-pierluigi-antonucci-coltivare-la-luc
+ e-da-fermi,roma/
+END:VEVENT
+END:VCALENDAR

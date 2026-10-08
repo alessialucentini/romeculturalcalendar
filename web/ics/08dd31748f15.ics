@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:08dd31748f15@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Leo Middea
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Dal vivo l'artista brasiliano che mescola musica popolare bra
+ siliana e pop internazionale.\n\nInfo: https://zero.eu/it/eventi/379862-l
+ eo-middea\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379862-leo-middea,roma/
+END:VEVENT
+END:VCALENDAR

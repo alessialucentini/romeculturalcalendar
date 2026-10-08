@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2ad433e4bc1a@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261205
+SUMMARY:SHODŌ. La via del segno
+LOCATION:Istituto Giapponese di Cultura\, Istituto Giapponese di Cultura\
+ , Roma
+DESCRIPTION:50 opere dei maestri della calligrafia giapponese contemporan
+ ea raccontano il gesto irripetibile della scrittura ideografica\, oltre i
+ l significato fin dentro\n\nInfo: https://zero.eu/it/eventi/380335-shodo-
+ la-via-del-segno\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380335-shodo-la-via-del-segno,roma/
+END:VEVENT
+END:VCALENDAR

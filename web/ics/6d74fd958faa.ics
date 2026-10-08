@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6d74fd958faa@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270111
+SUMMARY:TAKK - "con-vivere"
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Lo studio di architettura e design fondato da Mireia Luzárra
+ ga e Alejandro Muiño ridisegna la hall del MAXXI installando sei\n\nInfo
+ : https://zero.eu/it/eventi/361781-takk-con-vivere\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/361781-takk-con-vivere,roma/
+END:VEVENT
+END:VCALENDAR

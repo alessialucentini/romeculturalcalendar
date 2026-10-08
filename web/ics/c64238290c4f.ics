@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c64238290c4f@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261017
+SUMMARY:Studio AIRA - "Placeholders"
+LOCATION:Officine Fotografiche Roma\, Officine Fotografiche Roma\, Roma
+DESCRIPTION:Tre minuti di immobilità. Un corpo\, un luogo\, migliaia di 
+ scatti. Le Officine Fotografiche ospitano una ricerca di StudioAira sulla
+ \n\nInfo: https://zero.eu/it/eventi/380588-studio-aira-placeholders\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380588-studio-aira-placeholders,roma/
+END:VEVENT
+END:VCALENDAR

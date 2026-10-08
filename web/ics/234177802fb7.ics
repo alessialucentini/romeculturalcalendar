@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:234177802fb7@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261025T073000Z
+DTEND:20261025T093000Z
+SUMMARY:Festa del Cinema di Roma – Giorno 13
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30\, R
+ oma
+DESCRIPTION:Cinema | Festival\n\nInfo: https://www.auditorium.com/it/even
+ t/festa-del-cinema-di-roma-giorno-13/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/festa-del-cinema-di-roma-giorno-1
+ 3/
+END:VEVENT
+END:VCALENDAR

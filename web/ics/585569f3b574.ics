@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:585569f3b574@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261106
+SUMMARY:Renata Prunas. Materia risorta
+LOCATION:MLAC - Museo Laboratorio Di Arte Contemporanea\, MLAC - Museo La
+ boratorio Di Arte Contemporanea\, Roma
+DESCRIPTION:Il MLAC presenta la prima retrospettiva dedicata all'artista 
+ sanremese\, ripercorrendo oltre cinquant’anni di attività di una ricer
+ ca lontano dai riflettori.\n\nInfo: https://zero.eu/it/eventi/377567-rena
+ ta-prunas\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377567-renata-prunas,roma/
+END:VEVENT
+END:VCALENDAR

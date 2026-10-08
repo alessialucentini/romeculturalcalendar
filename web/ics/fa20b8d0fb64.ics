@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fa20b8d0fb64@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270131
+SUMMARY:Peter Marcasiano / Michele Tocca - A Sort of Song
+LOCATION:FONDAZIONE GIULIANI PER L'ARTE CONTEMPORANEA\, Via Gustavo Bianc
+ hi 1\, Roma
+DESCRIPTION:Sebbene appartengano a generazioni e contesti artistici diffe
+ renti\, entrambi gli artisti hanno sviluppato forme di pittura fondate su
+  un personale insolito raccoglimento nelle cose.\n\nInfo: https://www.art
+ ribune.com/mostre-evento-arte/peter-marcasiano-michele-tocca-a-sort-of-so
+ ng/\n\nDa Linceo
+URL:https://www.artribune.com/mostre-evento-arte/peter-marcasiano-michele
+ -tocca-a-sort-of-song/
+END:VEVENT
+END:VCALENDAR

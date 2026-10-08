@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f2ff63ce0fcb@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261017T063000Z
+DTEND:20261017T083000Z
+SUMMARY:Festa del Cinema di Roma – Giorno 5
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30\, R
+ oma
+DESCRIPTION:Cinema | Festival\n\nInfo: https://www.auditorium.com/it/even
+ t/festa-del-cinema-di-roma-giorno-5/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/festa-del-cinema-di-roma-giorno-5
+ /
+END:VEVENT
+END:VCALENDAR

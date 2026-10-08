@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:32debdd01467@linceo
-DTSTAMP:20261004T090201Z
+DTSTAMP:20261008T205937Z
 DTSTART:20261008T200000Z
 DTEND:20261008T220000Z
 SUMMARY:Branchie w/ Neo Geodesia
 LOCATION:Fanfulla 5/a\, Fanfulla 5/a\, Roma
-DESCRIPTION:Dal vivo il progetto di Saphy Vong\, artista audiovisivo fran
- co-cambogiano nato in un campo profughi thailandese e cresciuto nella per
- iferia\n\nInfo: https://zero.eu/it/eventi/378869-neo-geodesia\,roma/\n\nD
- a Linceo
+DESCRIPTION:I progetto di Saphy Vong\, artista audiovisivo franco-cambogi
+ ano\, tra attitudine sperimentale e DIY della scena hardcore e grindcore 
+ e i\n\nInfo: https://zero.eu/it/eventi/378869-neo-geodesia\,roma/\n\nDa L
+ inceo
 URL:https://zero.eu/it/eventi/378869-neo-geodesia,roma/
 END:VEVENT
 END:VCALENDAR

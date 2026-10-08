@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6f0df79493a@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261109
+SUMMARY:Gaia De Megni - "Maria's Dream"
+LOCATION:MACRO\, MACRO\, Roma
+DESCRIPTION:Il MACRO\, con la curatela di Maria Lodovica Ferrari\, porta 
+ per la prima volta in uno spazio museale l’opera prodotta\n\nInfo: http
+ s://zero.eu/it/eventi/375546-gaia-de-megni-marias-dream\,roma/\n\nDa Linc
+ eo
+URL:https://zero.eu/it/eventi/375546-gaia-de-megni-marias-dream,roma/
+END:VEVENT
+END:VCALENDAR

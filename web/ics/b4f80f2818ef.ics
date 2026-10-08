@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b4f80f2818ef@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Winter Garden
+LOCATION:Casale dei Cedrati\, Casale dei Cedrati\, Roma
+DESCRIPTION:Il casale dei Cedrati ospita un progetto installativo e fotog
+ rafico diretto da Alice Lipizz e curato da Edoardo Giambalvo\, tra\n\nInf
+ o: https://zero.eu/it/eventi/379011-winter-garden\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379011-winter-garden,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7c52068dd4fa@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270119
+SUMMARY:Sole Nero. Petrolio e arte contemporanea
+LOCATION:Accademia di Francia a Roma - Villa Medici\, Accademia di Franci
+ a a Roma - Villa Medici\, Roma
+DESCRIPTION:Una collettiva a cura di Morad Montazami e Madeleine de Colne
+ t indaga l’impatto del petrolio sulle pratiche artistiche contemporanee
+  e\n\nInfo: https://zero.eu/it/eventi/377638-sole-nero-petrolio-e-arte-co
+ ntemporanea\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377638-sole-nero-petrolio-e-arte-contempora
+ nea,roma/
+END:VEVENT
+END:VCALENDAR

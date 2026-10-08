@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb9e0a929d85@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Internazionale a Roma
+LOCATION:Palazzo delle Esposizioni\, Palazzo delle Esposizioni\, Roma
+DESCRIPTION:Torna a Roma il tradizionale appuntamento cinematografico con
+  i migliori documentari passati in rassegna nell'annuale festival della r
+ ivista\, ospitato nella\n\nInfo: https://zero.eu/it/eventi/379277-interna
+ zionale-a-roma-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379277-internazionale-a-roma-2026,roma/
+END:VEVENT
+END:VCALENDAR

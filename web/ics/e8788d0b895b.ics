@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e8788d0b895b@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261015T063000Z
+DTEND:20261015T083000Z
+SUMMARY:Festa del Cinema di Roma – Giorno 3
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30\, R
+ oma
+DESCRIPTION:Cinema | Festival\n\nInfo: https://www.auditorium.com/it/even
+ t/festa-del-cinema-di-roma-giorno-3/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/festa-del-cinema-di-roma-giorno-3
+ /
+END:VEVENT
+END:VCALENDAR

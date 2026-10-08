@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5439a13fe139@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261027
+SUMMARY:Perenni Ospiti
+LOCATION:Galleria Gallerati\, Galleria Gallerati\, Roma
+DESCRIPTION:Dppia mostra personale di Simone Cerio e Iacopo Pasqui\, a cu
+ ra di Simone Marsibilio. Il taccuino di Iacopo Pasqui raccoglie\n\nInfo: 
+ https://zero.eu/it/eventi/377759-perenni-ospiti\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377759-perenni-ospiti,roma/
+END:VEVENT
+END:VCALENDAR

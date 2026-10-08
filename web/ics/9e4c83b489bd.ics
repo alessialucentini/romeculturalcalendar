@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:9e4c83b489bd@linceo
-DTSTAMP:20261004T090201Z
+DTSTAMP:20261008T205937Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20261019
 SUMMARY:Ercolano. L’arte di vivere
 LOCATION:Castel Sant’Angelo\, Castel Sant’Angelo\, Roma
-DESCRIPTION:Reperti straordinari provenienti dai depositi del Parco arche
- ologico di Ercolano e raramente esposti al pubblico\, oggetti che raccont
- ano la vita quoti\n\nInfo: https://www.arte.it/calendario-arte/roma/mostr
- a-ercolano-l-arte-di-vivere-104141\n\nDa Linceo
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-ercolan
+ o-l-arte-di-vivere-104141\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-ercolano-l-arte-di-vi
  vere-104141
 END:VEVENT

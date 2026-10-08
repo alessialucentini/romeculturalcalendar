@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:754b4fa32fa6@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261016T160000Z
+DTEND:20261016T180000Z
+SUMMARY:Performing the archives
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · talk · Storie\, significati e attualità della riv
+ ista segno\n\nInfo: https://www.maxxi.art/events/performing-the-archives-
+ rivista-segno/\n\nDa Linceo
+URL:https://www.maxxi.art/events/performing-the-archives-rivista-segno/
+END:VEVENT
+END:VCALENDAR

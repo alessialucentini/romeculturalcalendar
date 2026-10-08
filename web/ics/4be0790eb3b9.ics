@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4be0790eb3b9@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261116
+SUMMARY:Vitalità dell’architettura italiana 1946-2026
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Ottant’anni della Repubblica e dell’architettura italiana
+ : idee\, progetti e visioni che hanno costruito il presente e guardano al
+  futuro. A\n\nInfo: https://zero.eu/it/eventi/368252-vitalita-dellarchite
+ ttura-italiana-1946-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/368252-vitalita-dellarchitettura-italiana-1
+ 946-2026,roma/
+END:VEVENT
+END:VCALENDAR

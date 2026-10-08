@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e189107d3975@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261229
+SUMMARY:Lunedì a Corsini. Aperture straordinarie
+LOCATION:Galleria Corsini\, Via delle Quattro Fontane 13\, Roma
+DESCRIPTION:Ogni lunedì\, dal 12 ottobre al 28 dicembre 2026\, in quello
+  che di solito è il giorno di chiusura settimanale\, la Galleria Corsini
+  vi aspetta …\n\nInfo: https://barberinicorsini.org/evento/lunedi-a-cor
+ sini-aperture-straordinarie/\n\nDa Linceo
+URL:https://barberinicorsini.org/evento/lunedi-a-corsini-aperture-straord
+ inarie/
+END:VEVENT
+END:VCALENDAR

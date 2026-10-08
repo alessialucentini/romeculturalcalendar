@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:25a7d9d48bb2@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Nubes w/ Able Noise
+LOCATION:Esc Atelier Occupato\, Esc Atelier Occupato\, Roma
+DESCRIPTION:Dal vivo a Roma per la prima volta Il duo sperimentale batter
+ ia e chitarra formato da Alex Andropoulos e George\n\nInfo: https://zero.
+ eu/it/eventi/378775-nubes-w-able-noise\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378775-nubes-w-able-noise,roma/
+END:VEVENT
+END:VCALENDAR

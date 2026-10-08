@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b93652442bd@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261116
+SUMMARY:Dario Nanì - "Biglietti agli amici"
+LOCATION:Condotto48\, Condotto48\, Roma
+DESCRIPTION:In mostra una selezione di opere pittoriche realizzate dall
+ ’artista siciliano tra il 2022 e il 2026. Al percorso espositivo si\n\n
+ Info: https://zero.eu/it/eventi/377752-dario-nani-biglietti-agli-amici\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377752-dario-nani-biglietti-agli-amici,roma
+ /
+END:VEVENT
+END:VCALENDAR

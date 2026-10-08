@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0e95d221f49a@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261018
+SUMMARY:Would?
+LOCATION:Monti8\, Monti8\, Roma
+DESCRIPTION:La galleria inizia la sua nuova stagione espositiva con una c
+ ollettiva con lavori di Talya Brookman\, Nicholas Grafia\, Kira Scerbin\,
+ \n\nInfo: https://zero.eu/it/eventi/375752-would\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375752-would,roma/
+END:VEVENT
+END:VCALENDAR

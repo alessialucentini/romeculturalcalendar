@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8686957faf19@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+SUMMARY:IL TRASLOCO
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Dopo quarant’anni\, una donna deve lasciare la casa che cus
+ todisce tutta la sua vita. Tra ricordi\, scatoloni e una città che cambi
+ a\, spaesamento e comicità si incontrano in un viaggio ironico attravers
+ o il tempo. | SALA PICCOLA\n\nInfo: https://teatriincomune.roma.it/events
+ /il-trasloco/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/il-trasloco/
+END:VEVENT
+END:VCALENDAR

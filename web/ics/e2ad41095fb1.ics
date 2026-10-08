@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e2ad41095fb1@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261115
+SUMMARY:A che gioco stiamo giocando?
+LOCATION:Galleria Gilda Lavia\, Galleria Gilda Lavia\, Roma
+DESCRIPTION:La galleria inizia la sua nuova stagione espositiva con una c
+ ollettiva a cura di Anna Simone. Apertura sabato 12 settembre\,\n\nInfo: 
+ https://zero.eu/it/eventi/375750-a-che-gioco-stiamo-giocando\,roma/\n\nDa
+  Linceo
+URL:https://zero.eu/it/eventi/375750-a-che-gioco-stiamo-giocando,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eccab700330c@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+SUMMARY:Romadiffusa · Esquilino Festival
+LOCATION:Romadiffusa · Esquilino\, Esquilino\, Roma
+DESCRIPTION:Festival diffuso: botteghe\, studi d'artista\, librerie e spa
+ zi che aprono al pubblico con musica\, arte e performance.\n\nInfo: https
+ ://romadiffusa.com/\n\nDa Linceo
+URL:https://romadiffusa.com/
+END:VEVENT
+END:VCALENDAR

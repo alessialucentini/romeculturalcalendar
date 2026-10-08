@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e0db3fbf4246@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Romadiffusa
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Quinta edizione della rassegna urbana\, che quest'anno si dis
+ locherà nelle vie e nelle piazze dell'Esquilino. Due giorni di performan
+ ce itineranti\,\n\nInfo: https://zero.eu/it/eventi/379016-romadiffusa-esq
+ uilino-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379016-romadiffusa-esquilino-2026,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b37aa56a38f4@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261012T203000Z
+DTEND:20261012T223000Z
+SUMMARY:Mutamassik
+LOCATION:Fanfulla 5/a\, Fanfulla 5/a\, Roma
+DESCRIPTION:A Roma la musicista che mescola i canti Maasai della Tanzania
+  con paesaggi elettronici e una sensibilità post-punk.\n\nInfo: https://
+ zero.eu/it/eventi/379705-mutamassik\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379705-mutamassik,roma/
+END:VEVENT
+END:VCALENDAR

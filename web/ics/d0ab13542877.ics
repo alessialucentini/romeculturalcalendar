@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d0ab13542877@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270111
+SUMMARY:Il barocco italiano a Dresda
+LOCATION:Museo Napoleonico\, Museo Napoleonico\, Roma
+DESCRIPTION:Per la prima volta a Roma dopo trecento anni una selezione di
+  capolavori del disegno architettonico europeo del XVIII secolo\,\n\nInfo
+ : https://zero.eu/it/eventi/379251-il-barocco-italiano-a-dresda\,roma/\n\
+ nDa Linceo
+URL:https://zero.eu/it/eventi/379251-il-barocco-italiano-a-dresda,roma/
+END:VEVENT
+END:VCALENDAR

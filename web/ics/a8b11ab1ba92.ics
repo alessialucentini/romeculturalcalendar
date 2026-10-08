@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:a8b11ab1ba92@linceo
-DTSTAMP:20261004T090201Z
+DTSTAMP:20261008T205937Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261009
 SUMMARY:Farina Integrale
 LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
-DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/fari
- na-integrale/\n\nDa Linceo
+DESCRIPTION:In sala\n\nInfo: https://www.casadelcinema.it/it/event/farina
+ -integrale/\n\nDa Linceo
 URL:https://www.casadelcinema.it/it/event/farina-integrale/
 END:VEVENT
 END:VCALENDAR

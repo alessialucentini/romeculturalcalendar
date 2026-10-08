@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4a066a68ae6c@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261101
+SUMMARY:STEN • LEX - "Paesaggi industriali"
+LOCATION:Wunderkammern\, Wunderkammern\, Roma
+DESCRIPTION:Dopo tanto tempo\, STEN • LEX tornano a esporre a Roma. In 
+ mostra piloni\, gasometri\, strutture in acciaio e turbine\n\nInfo: https
+ ://zero.eu/it/eventi/380306-sten-lex-paesaggi-industriali\,roma/\n\nDa Li
+ nceo
+URL:https://zero.eu/it/eventi/380306-sten-lex-paesaggi-industriali,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1cc5d4f822bd@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+SUMMARY:Autoproduzioni Maledetto Cane
+LOCATION:Via Marmorata 121\, Via Marmorata 121\, Roma
+DESCRIPTION:Trama presenta per due giorni l’archivio delle sue pubblica
+ zioni: un’allestimento trafelato con i lavori presenti nei due numeri d
+ i "Maledetto\n\nInfo: https://zero.eu/it/eventi/380298-autoproduzioni-mal
+ edetto-cane\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380298-autoproduzioni-maledetto-cane,roma/
+END:VEVENT
+END:VCALENDAR

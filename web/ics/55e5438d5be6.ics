@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:55e5438d5be6@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:BEAT. BEAT. BEAT.
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Common People Club presenta un ciclo di appuntamenti dedicato
+  alla Beat Generation realizzato tra Rhizome e Spaziotempo\, due spazi a\
+ n\nInfo: https://zero.eu/it/eventi/379745-beat-beat-beat-2\,roma/\n\nDa L
+ inceo
+URL:https://zero.eu/it/eventi/379745-beat-beat-beat-2,roma/
+END:VEVENT
+END:VCALENDAR

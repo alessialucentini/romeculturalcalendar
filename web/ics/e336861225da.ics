@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e336861225da@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261008T190000Z
+DTEND:20261008T210000Z
+SUMMARY:Samuele Cyma
+LOCATION:Brancaleone\, Brancaleone\, Roma
+DESCRIPTION:Il musicista e produttore romano presenta in full band con Mi
+ chele Mariola\, Giovanni Iacovella e Federico D'Angelo\, il nuovo album\n
+ \nInfo: https://zero.eu/it/eventi/376742-samuele-cyma-aura-impossibile-re
+ lease-party\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/376742-samuele-cyma-aura-impossibile-releas
+ e-party,roma/
+END:VEVENT
+END:VCALENDAR

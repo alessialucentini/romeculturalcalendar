@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0fba162392a@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261115T100000Z
+DTEND:20261115T120000Z
+SUMMARY:Lezioni di Storia – Gennaro Carillo\, “La Repubblica di Plato
+ ne: il potere delle idee”
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Incontri | Rassegne\n\nInfo: https://www.auditorium.com/it/ev
+ ent/lezioni-di-storia-gennaro-carillo-la-repubblica-di-platone-il-potere-
+ delle-idee/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/lezioni-di-storia-gennaro-carillo
+ -la-repubblica-di-platone-il-potere-delle-idee/
+END:VEVENT
+END:VCALENDAR

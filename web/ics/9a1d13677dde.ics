@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a1d13677dde@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20270412
+SUMMARY:Keith Haring
+LOCATION:Museo di Roma - Palazzo Braschi\, Museo di Roma - Palazzo Brasch
+ i\, Roma
+DESCRIPTION:Dal 6 ottobre 2026 all'11 aprile 2027 il Museo di Roma a Pala
+ zzo Braschi apre le sale alla grande mostra Keith Haring\, curata da&n\n\
+ nInfo: https://www.arte.it/calendario-arte/roma/mostra-keith-haring-10423
+ 9\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-keith-haring-104239
+END:VEVENT
+END:VCALENDAR

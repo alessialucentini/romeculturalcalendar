@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:830f4400f274@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261109
+SUMMARY:States of Uncertain Domesticities
+LOCATION:Museo Carlo Bilotti\, Museo Carlo Bilotti\, Roma
+DESCRIPTION:Arriva a Roma la mostra internazionale e itinerante dedicata 
+ al tema della casa e dell’abitare\, affrontato da una prospettiva femmi
+ nista\,\n\nInfo: https://zero.eu/it/eventi/377339-states-of-uncertain-dom
+ esticities\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377339-states-of-uncertain-domesticities,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

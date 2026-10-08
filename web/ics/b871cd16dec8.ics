@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b871cd16dec8@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261102
+SUMMARY:Portia Zvavahera - "Like Flowers We Fade"
+LOCATION:Fondazione Memmo\, Fondazione Memmo\, Roma
+DESCRIPTION:Personale d'esordio in un’istituzione romana della pittrice
+  classe '85 dello Zimbawe. In mostra un’installazione site-specific con
+ cepita appositamente per gli spazi\n\nInfo: https://zero.eu/it/eventi/367
+ 092-portia-zvavahera-like-flowers-we-fade\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/367092-portia-zvavahera-like-flowers-we-fad
+ e,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4b350cdd8be2@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261025
+SUMMARY:Andrea Mauti - "Right Now"
+LOCATION:Ada\, Ada\, Roma
+DESCRIPTION:Personale dell'artista romano classe '99\, ora di stanza a Ba
+ silea. La mostra sarà accompagnata da un testo di Quinn Latimer.\n\nInfo
+ : https://zero.eu/it/eventi/375534-andrea-mauti-right-now\,roma/\n\nDa Li
+ nceo
+URL:https://zero.eu/it/eventi/375534-andrea-mauti-right-now,roma/
+END:VEVENT
+END:VCALENDAR

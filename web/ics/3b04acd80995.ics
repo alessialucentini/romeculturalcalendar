@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3b04acd80995@linceo
-DTSTAMP:20261004T090201Z
+DTSTAMP:20261008T205937Z
 DTSTART:20261024T200000Z
 DTEND:20261024T220000Z
 SUMMARY:Fischio for 12th Isle Showcase
 LOCATION:30Formiche\, 30Formiche\, Roma
 DESCRIPTION:Fischio invita l'etichetta scozzese per uno showcase con i li
- ve dei suoi Loris S. Sarid & Innis Chonnele D.K.\, oltre ai\n\nInfo: http
- s://zero.eu/it/eventi/379473-fischio-for-12th-isle-showcase\,roma/\n\nDa 
- Linceo
+ ve dei suoi Loris S. Sarid & Innis Chonnel e D.K.\, oltre\n\nInfo: https:
+ //zero.eu/it/eventi/379473-fischio-for-12th-isle-showcase\,roma/\n\nDa Li
+ nceo
 URL:https://zero.eu/it/eventi/379473-fischio-for-12th-isle-showcase,roma/
 END:VEVENT
 END:VCALENDAR

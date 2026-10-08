@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bdae1724c018@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261031
+SUMMARY:XXIX ADI Compasso d'Oro
+LOCATION:MAXXI Museo nazionale delle arti del XXI secolo\, MAXXI Museo na
+ zionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Una fotografia corale del design contemporaneo come spazio di
+  confronto sulle responsabilità del presente. La mostra riunisce i proge
+ tti parte\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-xxix-a
+ di-compasso-d-oro-104587\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-xxix-adi-compasso-d-o
+ ro-104587
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba5331f49354@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261019
+SUMMARY:Romeo Castellucci/SOCIETAS - "Faust. Fatto\, non detto"
+LOCATION:Teatro Argentina\, Teatro Argentina\, Roma
+DESCRIPTION:Tra ombra\, pelle e apparizione\, lo spettacolo interroga la 
+ figura dell’artista come corpo esposto\, luogo in cui condanna e redenz
+ ione\n\nInfo: https://zero.eu/it/eventi/378582-romeo-castellucci-societas
+ -faust-fatto-non-detto\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378582-romeo-castellucci-societas-faust-fat
+ to-non-detto,roma/
+END:VEVENT
+END:VCALENDAR

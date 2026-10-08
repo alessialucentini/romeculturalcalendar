@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3fd45c682369@linceo
+DTSTAMP:20261008T205937Z
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+SUMMARY:Too Much To Dream
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Quattro promoter per quattro live eterogenei e bellissimi. Su
+ l palco del Trenta Formiche arrivano Milkweed (UK)\, Gnoomes (SVN)\, Moun
+ dabout (IRL)\n\nInfo: https://zero.eu/it/eventi/380317-too-much-to-dream\
+ ,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380317-too-much-to-dream,roma/
+END:VEVENT
+END:VCALENDAR

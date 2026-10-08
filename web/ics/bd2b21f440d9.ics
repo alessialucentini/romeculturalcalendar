@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd2b21f440d9@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261106
+SUMMARY:The World of the Stage II – Una mostra personale di Yuan Gong
+LOCATION:Palazzo Merulana\, Palazzo Merulana\, Roma
+DESCRIPTION:Una manifestazione che non vuole soltanto raccontare due cult
+ ure\, ma creare lo spazio in cui possano incontrarsi\, trasformarsi e gen
+ erare nuove possib\n\nInfo: https://www.arte.it/calendario-arte/roma/most
+ ra-the-world-of-the-stage-ii-una-mostra-personale-di-yuan-gong-104573\n\n
+ Da Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-the-world-of-the-stag
+ e-ii-una-mostra-personale-di-yuan-gong-104573
+END:VEVENT
+END:VCALENDAR

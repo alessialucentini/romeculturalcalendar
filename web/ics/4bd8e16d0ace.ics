@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4bd8e16d0ace@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270201
+SUMMARY:Marialba Russo - "Sguardo rovescio"
+LOCATION:MACRO\, MACRO\, Roma
+DESCRIPTION:Una retrospettiva ripercorre la produzione della fotografa di
+  Giuliano\, a metà tra sociologia\, osservazione antropologica e arte. A
+  cura di\n\nInfo: https://zero.eu/it/eventi/375538-sguardo-rovescio\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375538-sguardo-rovescio,roma/
+END:VEVENT
+END:VCALENDAR

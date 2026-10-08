@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7ab3d1779de6@linceo
+DTSTAMP:20261008T205937Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270208
+SUMMARY:Outlaws
+LOCATION:Istituto Svizzero di Roma\, Istituto Svizzero di Roma\, Roma
+DESCRIPTION:L'Istituto Svizzero di Roma inizia la sua stagione espositiva
+  con una collettiva che propone una riflessione sul concetto di legge\n\n
+ Info: https://zero.eu/it/eventi/378493-outlaws\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378493-outlaws,roma/
+END:VEVENT
+END:VCALENDAR
