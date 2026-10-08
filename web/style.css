@@ -390,3 +390,8 @@ footer { padding-bottom: calc(64px + env(safe-area-inset-bottom)) !important; }
 .pin:hover span, .pin:focus-visible span { transform: scale(1.25); }
 .sheet-card.place { max-height: 86vh; overflow-y: auto; overscroll-behavior: contain; }
 .place-list .card { margin-bottom: 16px; box-shadow: var(--raise-sm); }
+
+/* mappa v2: tile OpenStreetMap scaldate, più alta, cerchi dei gruppi */
+#map { height: 320px; }
+#map .leaflet-tile-pane { filter: sepia(.38) saturate(.8) brightness(1.03) contrast(.96) hue-rotate(-8deg); }
+.pin span.cl { width: 30px; height: 30px; margin: 2px; background: var(--accent); font-size: 13px; border-width: 3px; }

@@ -21,6 +21,7 @@ button:active{box-shadow:var(--inset)}button:disabled{opacity:.5}
 .stat{display:flex;gap:12px;margin:0 0 22px}.stat div{flex:1;padding:14px;border-radius:20px;box-shadow:var(--inset)}
 .stat b{display:block;font-size:26px;color:var(--ink)}.stat span{font-size:12px;color:var(--ink-2)}
 #msg{min-height:20px;font-size:13px;color:#a6403a}
+#fbList{text-align:left;margin:0 0 20px}#fbList h2{font-size:15px;margin:0 0 10px;text-align:center}.fbi{padding:14px 16px;margin-bottom:12px;border-radius:20px;box-shadow:var(--inset)}.fbi small{display:block;color:var(--ink-2);font-size:12px;margin-bottom:6px}.fbi p{margin:0;color:var(--ink);white-space:pre-wrap;word-break:break-word}
 a,.lnk{color:var(--ink-2);font-size:13px;background:none;box-shadow:none;font-weight:400;text-decoration:underline;width:auto;min-height:0;padding:6px}
 [hidden]{display:none!important}
 </style>
@@ -41,6 +42,7 @@ a,.lnk{color:var(--ink-2);font-size:13px;background:none;box-shadow:none;font-we
     <button id="csv" type="button">Scarica CSV con le sole email</button>
     <button class="lnk" id="out" type="button">Esci</button>
   </section>
+  <section id="fbList" hidden><h2>Feedback ricevuti</h2><div id="fbItems"></div></section>
   <div id="msg" role="alert"></div>
   <a href="./">← torna a Linceo</a>
 </main>
@@ -58,7 +60,11 @@ a,.lnk{color:var(--ink-2);font-size:13px;background:none;box-shadow:none;font-we
     const a=await sb.from("subscribers").select("email,consent,created_at").order("created_at",{ascending:false}).limit(100000);
     const b=await sb.from("feedback").select("created_at,email,message").order("created_at",{ascending:false}).limit(100000);
     if(a.error||b.error){msg("Non hai i permessi admin (o la tabella non esiste ancora).");return false;}
-    subs=a.data;fbs=b.data;$("#n-sub").textContent=subs.length;$("#n-fb").textContent=fbs.length;return true;
+    subs=a.data;fbs=b.data;$("#n-sub").textContent=subs.length;$("#n-fb").textContent=fbs.length;
+    const box=$("#fbItems");box.replaceChildren();
+    fbs.forEach(r=>{const d=document.createElement("div");d.className="fbi";const s=document.createElement("small");s.textContent=fmt(r.created_at)+" · "+(r.email||"anonimo");const p=document.createElement("p");p.textContent=r.message;d.append(s,p);box.append(d);});
+    if(!fbs.length){const p=document.createElement("p");p.textContent="Nessun feedback per ora.";box.append(p);}
+    $("#fbList").hidden=false;return true;
   }
   async function show(session){
     const ok=session&&session.user&&session.user.email.toLowerCase()===String(C.adminEmail).toLowerCase();

@@ -55,6 +55,10 @@
       a.append(`Accesso come ${user.email} · `);
       btn.textContent = "Esci";
       btn.onclick = async () => { await sb.auth.signOut(); user = null; accountLine(); toast("Sei uscita da Linceo"); };
+      if (CFG.adminEmail && user.email.toLowerCase() === CFG.adminEmail.toLowerCase()) {
+        const adm = document.createElement("a"); adm.href = "admin.html"; adm.className = "linklike"; adm.textContent = "Area admin";
+        a.append(adm, " · ");
+      }
     } else {
       btn.textContent = "Accedi o registrati";
       btn.onclick = () => showGate(true);
@@ -185,7 +189,7 @@
     });
     sb.auth.getSession().then(({ data }) => {
       onSession(data.session);
-      if (!data.session && ss.get("gate-skip") !== "1") showGate(false);
+      if (!data.session && ss.get("gate-skip") !== "1" && !new URLSearchParams(location.search).has("e")) showGate(false);
     });
   }
 

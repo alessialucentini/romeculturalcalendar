@@ -72,8 +72,10 @@
     const btn = $("#savedBtn"); if (btn) btn.setAttribute("aria-pressed", String(state.view === "salvati" && !state.q));
   }
   const SHARE_URL = () => location.origin + location.pathname;
+  // link di Linceo che riapre proprio questa card (id dell'evento + chiave della serie, se la data cambia)
+  const shareLink = (e) => `${SHARE_URL()}?e=${encodeURIComponent(e.id)}&k=${encodeURIComponent(e._k)}`;
   async function shareEvent(e) {
-    const link = safeUrl(e.url) || SHARE_URL();
+    const link = shareLink(e);
     const text = `Ehi, ho trovato questo evento su Linceo 👉 ${link}. Vieni con me? ☀️`;
     try {
       if (navigator.share) { await navigator.share({ text }); return; }
@@ -372,19 +374,22 @@
     if (leafletP) return leafletP;
     leafletP = new Promise((res, rej) => {
       const l = document.createElement("link"); l.rel = "stylesheet"; l.href = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"; document.head.append(l);
-      const s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js";
-      s.onload = () => res(window.L); s.onerror = () => { leafletP = null; rej(new Error("leaflet")); }; document.head.append(s);
+      const css = (h) => { const c = document.createElement("link"); c.rel = "stylesheet"; c.href = h; document.head.append(c); };
+      css("https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css");
+      const js = (src, ok) => { const s = document.createElement("script"); s.src = src; s.onload = ok; s.onerror = () => { leafletP = null; rej(new Error("leaflet")); }; document.head.append(s); };
+      js("https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js", () =>
+        js("https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js", () => res(window.L)));
     });
     return leafletP;
   }
-  function openPlace(group) {
+  function openPlace(group, opts = {}) {
     closeSheet();
-    const cards = group.items.map(({ e, times }) => { const c = card(e, { times }); c.classList.add("seen"); return c; });
-    sheet = el("div", { class: "sheet", role: "dialog", "aria-modal": "true", "aria-label": group.venue, onclick(ev) { if (ev.target === ev.currentTarget) closeSheet(); } },
+    const cards = group.items.map(({ e, times, others }) => { const c = card(e, { times, others }); c.classList.add("seen"); return c; });
+    sheet = el("div", { class: "sheet", role: "dialog", "aria-modal": "true", "aria-label": opts.title || group.venue, onclick(ev) { if (ev.target === ev.currentTarget) closeSheet(); } },
       el("div", { class: "sheet-card place" },
         el("div", { class: "sheet-grip", "aria-hidden": "true" }),
-        el("h3", { text: group.venue }),
-        el("p", { class: "sheet-ev", text: group.items.length > 1 ? `${group.items.length} eventi in questo luogo` : "Un evento in questo luogo" }),
+        el("h3", { text: opts.title || group.venue }),
+        el("p", { class: "sheet-ev", text: opts.sub || (group.items.length > 1 ? `${group.items.length} eventi in questo luogo` : "Un evento in questo luogo") }),
         el("div", { class: "place-list" }, cards),
         el("button", { class: "sheet-cancel", type: "button", text: "Chiudi", onclick: closeSheet })));
     document.body.append(sheet);
@@ -410,8 +415,11 @@
     if (!map) {
       const touch = L.Browser.mobile;
       map = L.map("map", { zoomControl: !touch, scrollWheelZoom: false, dragging: !touch, attributionControl: true, zoomSnap: 0.5 });
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom: 19, subdomains: "abcd", attribution: "© OpenStreetMap · © CARTO" }).addTo(map);
-      pins = L.layerGroup().addTo(map);
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "© <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>" }).addTo(map);
+      pins = L.markerClusterGroup({
+        maxClusterRadius: 42, showCoverageOnHover: false, spiderfyOnMaxZoom: true,
+        iconCreateFunction: (c) => { const n = c.getAllChildMarkers().reduce((s, m) => s + (m.options.n || 1), 0); return L.divIcon({ className: "pin", html: `<span class="cl">${n}</span>`, iconSize: [34, 34], iconAnchor: [17, 17] }); },
+      }).addTo(map);
     }
     pins.clearLayers();
     const pts = [];
@@ -421,11 +429,11 @@
       const cats = new Set(g.items.map((it) => it.e.cat));
       const col = cats.size === 1 ? `var(--c-${CATS[[...cats][0]] ? [...cats][0] : "altro"})` : "var(--accent)";
       const n = g.items.length;
-      const m = L.marker([g.lat, g.lon], { title: `${g.venue} · ${n}`, keyboard: true, icon: L.divIcon({ className: "pin", html: `<span style="--c:${col}">${n > 1 ? n : ""}</span>`, iconSize: [24, 24], iconAnchor: [12, 12] }) });
+      const m = L.marker([g.lat, g.lon], { title: `${g.venue} · ${n}`, keyboard: true, n, icon: L.divIcon({ className: "pin", html: `<span style="--c:${col}">${n > 1 ? n : ""}</span>`, iconSize: [24, 24], iconAnchor: [12, 12] }) });
       m.on("click", () => openPlace(g));
       m.addTo(pins); pts.push([g.lat, g.lon]);
     }
-    $("#mapNote").textContent = `${pts.length} ${pts.length === 1 ? "luogo" : "luoghi"} sulla mappa · tocca un pallino per aprire la scheda`;
+    $("#mapNote").textContent = `${pts.length} ${pts.length === 1 ? "luogo" : "luoghi"} sulla mappa · tocca un pallino per aprire la scheda, i cerchi grandi si aprono con un tocco`;
     requestAnimationFrame(() => {
       map.invalidateSize();
       if (pts.length === 1) map.setView(pts[0], 15, { animate: false });
@@ -507,6 +515,20 @@
     if (state.events.length) render();
   });
 
+  // ---------- link condiviso: ?e=<id>&k=<serie> apre la card ----------
+  function openSharedFromUrl() {
+    const p = new URLSearchParams(location.search), id = p.get("e"), k = p.get("k");
+    if (!id && !k) return;
+    history.replaceState(null, "", SHARE_URL() + location.hash);
+    const today = iso(state.now);
+    const ev = state.events.find((x) => x.id === id)
+      || (state.runs.get(k) || []).filter((x) => x.end >= today).sort((x, y) => x.start.localeCompare(y.start))[0];
+    if (!ev) { toast("Questo evento non è più in programma"); return; }
+    const others = (state.runs.get(ev._k) || []).filter((o) => !isRange(o) && o.start > ev.start);
+    const times = ev.time ? [ev.time] : [];
+    openPlace({ venue: ev.venue, items: [{ e: ev, times, others }] }, { title: "Un evento per te", sub: "Condiviso con Linceo" });
+  }
+
   // ---------- avvio ----------
   async function init() {
     try { state.hidden = new Set(JSON.parse(store.get("hidden") || "[]")); } catch { state.hidden = new Set(); }
@@ -536,6 +558,7 @@
     document.querySelectorAll(".chip").forEach((c, i) => { const k = Object.keys(CATS).filter((x) => new Set(state.events.map((e) => e.cat)).has(x))[i]; c.classList.toggle("dim", state.hidden.has(k)); });
     render();
     wireHeader();
+    openSharedFromUrl();
     requestAnimationFrame(() => requestAnimationFrame(() => $(".tabs").classList.add("ready")));
     // se l'app resta aperta oltre la mezzanotte, ricalcola "oggi" al ritorno in primo piano
     document.addEventListener("visibilitychange", () => {
@@ -620,7 +643,7 @@
   if ("IntersectionObserver" in window) {
     new IntersectionObserver((es, o) => { if (es.some((e) => e.isIntersecting)) { app.classList.add("in"); o.disconnect(); } }, { threshold: 0, rootMargin: "0px 0px -18% 0px" }).observe(app);
   } else app.classList.add("in");
-  if (location.hash === "#app") { app.classList.add("in"); app.scrollIntoView(); }
+  if (location.hash === "#app" || new URLSearchParams(location.search).has("e")) { app.classList.add("in"); app.scrollIntoView(); }
 
   if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
   init();
