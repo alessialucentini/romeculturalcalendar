@@ -48,7 +48,9 @@ jobs:
         run: python scraper/probe2.py
       - name: Campioni HTML
         if: github.event_name == 'workflow_dispatch' && inputs.mode == 'sample'
-        run: python scraper/sample.py ${{ inputs.urls }}
+        env:
+          SAMPLE_URLS: ${{ inputs.urls }}
+        run: python scraper/sample.py $SAMPLE_URLS
       - name: Scraping
         if: github.event_name == 'schedule' || inputs.mode == 'scrape'
         run: python scraper/run.py
