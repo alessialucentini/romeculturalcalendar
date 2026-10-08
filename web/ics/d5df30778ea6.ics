@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d5df30778ea6@linceo
-DTSTAMP:20261008T220127Z
+DTSTAMP:20261008T221351Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20261026
 SUMMARY:Giuseppe Modica. Il fuoco nel mare
 LOCATION:Mattatoio\, Mattatoio\, Roma
-DESCRIPTION:Promossa da Assessorato alla Cultura di Roma Capitale\, Azien
- da Speciale Palaexpo e Fondazione Mattatoio di Roma – Città delle Arti
- Realizz\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-giuseppe
- -modica-il-fuoco-nel-mare-104126\n\nDa Linceo
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-giusepp
+ e-modica-il-fuoco-nel-mare-104126\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-giuseppe-modica-il-fu
  oco-nel-mare-104126
 END:VEVENT

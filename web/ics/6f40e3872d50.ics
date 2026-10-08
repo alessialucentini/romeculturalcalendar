@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6f40e3872d50@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270119
+SUMMARY:Francis Picabia - “Paesaggio”
+LOCATION:Accademia di Francia a Roma - Villa Medici\, Accademia di Franci
+ a a Roma - Villa Medici\, Roma
+DESCRIPTION:Dopo "Le Citron" (1880) di Édouard Manet\, l’Accademia di 
+ Francia a Roma ospita un altro quadro storico nelle sue sale:\n\nInfo: ht
+ tps://zero.eu/it/eventi/377642-francis-picabia-paesaggio\,roma/\n\nDa Lin
+ ceo
+URL:https://zero.eu/it/eventi/377642-francis-picabia-paesaggio,roma/
+END:VEVENT
+END:VCALENDAR

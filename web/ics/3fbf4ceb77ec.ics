@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:3fbf4ceb77ec@linceo
-DTSTAMP:20261008T220127Z
+DTSTAMP:20261008T221351Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20270329
 SUMMARY:Andy Warhol – Forever Love
 LOCATION:La Vaccheria\, La Vaccheria\, Roma
-DESCRIPTION:Dal 10 settembre 2026 al 28 marzo 2027 lo spazio espositivo d
- ella Vaccheria all’Eur accoglie Andy Warhol – Forever Love\, mostra r
- etrospett\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-andy-w
- arhol-forever-love-104387\n\nDa Linceo
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-andy-wa
+ rhol-forever-love-104387\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-andy-warhol-forever-l
  ove-104387
 END:VEVENT

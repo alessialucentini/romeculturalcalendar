@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5aec8abb19a3@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:DONATELLA PANDIMIGLIO: NATA LIBERA
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column width=”1/4″ css=”.vc_custom_16596054
+ 20797{margin-top: -8px !important\;}”][vc_single_image image=”17415
+ ″ img_size=”full” alignment=”center” css=””][vc_empty_space
+  height=”25px”][/vc_column][vc_column width=”3/4″] DONATELLA PAND
+ IMIGLIO: NATA LIBERA La commedia di una vita [vc_empty_space height=”15
+ px”] 13 novembre 2026 ore 20:30 [vc_empty_space height=”30px”] Fra 
+ canzoni celebri…\n\nInfo: https://www.teatroghione.it/spettacoli/donate
+ lla-pandimiglio-nata-libera/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/donatella-pandimiglio-nata-lib
+ era/
+END:VEVENT
+END:VCALENDAR

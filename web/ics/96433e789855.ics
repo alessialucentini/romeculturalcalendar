@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96433e789855@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:MARCO BONINI: MASCHI SI SALVI CHI PUO'
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_single_image image=”17493″ img_siz
+ e=”full” css=””][vc_empty_space][/vc_column][/vc_row][vc_row][vc_
+ column width=”1/4″ css=”.vc_custom_1659605420797{margin-top: -8px !
+ important\;}”][vc_single_image image=”17491″ img_size=”full” al
+ ignment=”center” css=””][vc_empty_space height=”25px”][/vc_co
+ lumn][vc_column width=”3/4″] MARCO BONINI: MASCHI SI SALVI CHI PUO' L
+ a commedia di una…\n\nInfo: https://www.teatroghione.it/spettacoli/marc
+ o-bonini-maschi-si-salvi-chi-puo/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/marco-bonini-maschi-si-salvi-c
+ hi-puo/
+END:VEVENT
+END:VCALENDAR

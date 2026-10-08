@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f98718d5e792@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+SUMMARY:Media Cartographies
+LOCATION:Liminal Space\, Liminal Space\, Roma
+DESCRIPTION:Liminal ospita un progetto di sei residenze artistiche che es
+ plorano la relazione tra tecnologia\, dati\, percezione e realtà contemp
+ oranea. Il\n\nInfo: https://zero.eu/it/eventi/380262-media-cartographies\
+ ,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380262-media-cartographies,roma/
+END:VEVENT
+END:VCALENDAR

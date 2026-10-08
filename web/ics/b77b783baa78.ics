@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b77b783baa78@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261109
+SUMMARY:Rivoluzione naturale
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:WWF Italia celebra i suoi sessant'anni con una mostra al MAXX
+ I. Un viaggio tra i temi\, i media e le\n\nInfo: https://zero.eu/it/event
+ i/379018-rivoluzione-naturale-wwf-italia\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379018-rivoluzione-naturale-wwf-italia,roma
+ /
+END:VEVENT
+END:VCALENDAR

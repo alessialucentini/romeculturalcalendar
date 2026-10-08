@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2a57f2790e8e@linceo
+DTSTAMP:20261008T221351Z
+DTSTART:20261016T200000Z
+DTEND:20261016T220000Z
+SUMMARY:Deradoorian
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Art-synth-pop e alternative direttamente da Los Angeles.\n\nI
+ nfo: https://zero.eu/it/eventi/379460-deradoorian-30-formiche\,roma/\n\nD
+ a Linceo
+URL:https://zero.eu/it/eventi/379460-deradoorian-30-formiche,roma/
+END:VEVENT
+END:VCALENDAR

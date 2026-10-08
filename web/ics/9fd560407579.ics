@@ -5,14 +5,12 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:9fd560407579@linceo
-DTSTAMP:20261008T220127Z
+DTSTAMP:20261008T221351Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20261012
 SUMMARY:SAVERIO UNGHERI. 100 Anni di futuro
 LOCATION:Mattatoio di Roma\, Mattatoio di Roma\, Roma
-DESCRIPTION:Dall’11 settembre all’11 ottobre 2026 il Mattatoio di Rom
- a presenta nel Padiglione 9b la mostra SAVERIO UNGHERI. 100 Anni di futur
- o a cura\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-saverio
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-saverio
  -ungheri-100-anni-di-futuro-104400\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-saverio-ungheri-100-a
  nni-di-futuro-104400

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1bb81e013c6d@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261109
+SUMMARY:Rivoluzione Naturale
+LOCATION:MAXXI Museo nazionale delle arti del XXI secolo\, MAXXI Museo na
+ zionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Al MAXXI di Roma\, dal 9 ottobre all’8 novembre 2026\, il W
+ WF Italia celebra i suoi primi sessant’anni con Rivoluzione Naturale: u
+ na mostra \n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-rivol
+ uzione-naturale-104480\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-rivoluzione-naturale-
+ 104480
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:686804780248@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270208
+SUMMARY:Sophie Calle - "Matrimoni\, rotture e funerali inclusi"
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Per la prima volta a Roma\, una panoramica sulla ricerca dell
+ a fotografa parigina attraverso oltre quarant’anni di attività.\n\nInf
+ o: https://zero.eu/it/eventi/379641-sophie-calle-matrimoni-rotture-e-fune
+ rali-inclusi\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379641-sophie-calle-matrimoni-rotture-e-fun
+ erali-inclusi,roma/
+END:VEVENT
+END:VCALENDAR

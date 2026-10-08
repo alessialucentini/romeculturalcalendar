@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:99379a620148@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:LE PAROLE CHE NON HO
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_single_image image=”17950″ img_siz
+ e=”full” alignment=”center” css=””][vc_empty_space height=”
+ 55px”][/vc_column][/vc_row][vc_row][vc_column width=”1/4″ css=”.v
+ c_custom_1659605420797{margin-top: -8px !important\;}”][vc_single_image
+  image=”18055″ img_size=”full” alignment=”center” css=””]
+ [vc_empty_space height=”25px”][/vc_column][vc_column width=”3/4″]
+  LE PAROLE CHE NON HO La v…\n\nInfo: https://www.teatroghione.it/spetta
+ coli/le-parole-che-non-ho/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/le-parole-che-non-ho/
+END:VEVENT
+END:VCALENDAR

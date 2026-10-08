@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b1b0957f8b53@linceo
+DTSTAMP:20261008T221351Z
+DTSTART:20261016T210000Z
+DTEND:20261016T230000Z
+SUMMARY:Fervo Fluxo
+LOCATION:Rashomon Club\, Rashomon Club\, Roma
+DESCRIPTION:Basta sentirne due battute per essere subito trascinati in pi
+ sta: il baile funk\, nato nelle favelas brasiliane\, è ormai un\n\nInfo:
+  https://zero.eu/it/eventi/380141-fervo-fluxo-ottobre-2026\,roma/\n\nDa L
+ inceo
+URL:https://zero.eu/it/eventi/380141-fervo-fluxo-ottobre-2026,roma/
+END:VEVENT
+END:VCALENDAR

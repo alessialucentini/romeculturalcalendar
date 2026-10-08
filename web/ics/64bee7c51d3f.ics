@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:64bee7c51d3f@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270119
+SUMMARY:François Morellet\, picnic romano
+LOCATION:Accademia di Francia a Roma - Villa Medici\, Accademia di Franci
+ a a Roma - Villa Medici\, Roma
+DESCRIPTION:Nell'anno del centenario della nascita\, l'Accademia di Franc
+ ia rende omaggio al pittore\, scultore e artista della luce nato a Cholet
+ .\n\nInfo: https://zero.eu/it/eventi/377640-francois-morellet-picnic-roma
+ no\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377640-francois-morellet-picnic-romano,roma
+ /
+END:VEVENT
+END:VCALENDAR

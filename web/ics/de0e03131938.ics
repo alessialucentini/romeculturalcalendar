@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:de0e03131938@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:A BEATLES' ORCHESTRA
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_raw_html css=””]JTVCZXNzX2dyaWQlMj
+ BhbGlhcyUzRCUyMmdyaWQtNjglMjIlNUQlNUIlMkZlc3NfZ3JpZCU1RA==[/vc_raw_html][
+ vc_empty_space height=”55px”][/vc_column][/vc_row][vc_row][vc_column 
+ width=”1/4″ css=”.vc_custom_1659605420797{margin-top: -8px !importa
+ nt\;}”][vc_single_image image=”17730″ img_size=”full” alignment
+ =”center” css=””][vc_empty_space height=”25px”][/vc_column][v
+ c_column w…\n\nInfo: https://www.teatroghione.it/spettacoli/a-beatles-o
+ rchestra/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/a-beatles-orchestra/
+END:VEVENT
+END:VCALENDAR

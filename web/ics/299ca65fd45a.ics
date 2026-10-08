@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:299ca65fd45a@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:MI "AI" RUBATO IL LAVORO?
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_single_image image=”17935″ img_siz
+ e=”full” alignment=”center” css=””][vc_empty_space height=”
+ 55px”][/vc_column][/vc_row][vc_row][vc_column width=”1/4″ css=”.v
+ c_custom_1659605420797{margin-top: -8px !important\;}”][vc_single_image
+  image=”17934″ img_size=”full” alignment=”center” css=””]
+ [vc_empty_space height=”25px”][/vc_column][vc_column width=”3/4″]
+  MI 'AI' RUBATO IL LAVORO?…\n\nInfo: https://www.teatroghione.it/spetta
+ coli/mi-ai-rubato-il-lavoro/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/mi-ai-rubato-il-lavoro/
+END:VEVENT
+END:VCALENDAR

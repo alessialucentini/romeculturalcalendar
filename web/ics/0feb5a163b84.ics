@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0feb5a163b84@linceo
+DTSTAMP:20261008T221351Z
+DTSTART:20261009T160000Z
+DTEND:20261009T180000Z
+SUMMARY:Just One Day
+LOCATION:Micro\, Micro\, Roma
+DESCRIPTION:Al via un ciclo di mostre dalla durata di un giorno nato dall
+ a collaborazione tra Collater.al e MICRO. Ogni volta\n\nInfo: https://zer
+ o.eu/it/eventi/379731-just-one-day\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379731-just-one-day,roma/
+END:VEVENT
+END:VCALENDAR

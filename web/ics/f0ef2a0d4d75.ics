@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0ef2a0d4d75@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:GLI UOMINI VENGONO DA MARTE LE DONNE DA VENERE
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_single_image image=”16699″ img_siz
+ e=”full” css=””][vc_empty_space][/vc_column][vc_column width=”1
+ /4″ css=”.vc_custom_1659605420797{margin-top: -8px !important\;}”][
+ vc_single_image image=”16399″ img_size=”full” alignment=”center
+ ” css=””][vc_empty_space height=”25px”][/vc_column][vc_column w
+ idth=”3/4″] GLI UOMINI VENGONO DA MARTE LE DONNE DA VENERE NEXT GENER
+ ATION 2.0 [vc_empt…\n\nInfo: https://www.teatroghione.it/spettacoli/gli
+ -uomini-vengono-da-marte-le-donne-da-venere/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/gli-uomini-vengono-da-marte-le
+ -donne-da-venere/
+END:VEVENT
+END:VCALENDAR

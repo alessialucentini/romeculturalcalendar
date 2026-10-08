@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b86f7b62d437@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:IL SEGRETO DELLA FELICITÀ
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column width=”1/4″ css=”.vc_custom_16596054
+ 20797{margin-top: -8px !important\;}”][vc_single_image image=”18147
+ ″ img_size=”full” alignment=”center” css=””][vc_empty_space
+  height=”25px”][/vc_column][vc_column width=”3/4″] IL SEGRETO DEL
+ LA FELICITÀ Uno spettacolo unico nel suo genere. [vc_empty_space height=
+ ”15px”] 10 dicembre 2026 ore 20:30 [vc_empty_space height=”30px”]
+  Un’esperienza im…\n\nInfo: https://www.teatroghione.it/spettacoli/il
+ -segreto-della-felicita-leda-moro/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/il-segreto-della-felicita-leda
+ -moro/
+END:VEVENT
+END:VCALENDAR

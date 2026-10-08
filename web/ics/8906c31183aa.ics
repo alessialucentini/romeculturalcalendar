@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8906c31183aa@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20270208
+SUMMARY:Pontormo
+LOCATION:Scuderie del Quirinale\, Scuderie del Quirinale\, Roma
+DESCRIPTION:Prima grande retrospettiva dedicata al maestro empolese Jacop
+ o da Pontormo\, protagonista del Cinquecento fiorentino. In mostra riunit
+ i tutti i principali\n\nInfo: https://zero.eu/it/eventi/375777-pontormo\,
+ roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/375777-pontormo,roma/
+END:VEVENT
+END:VCALENDAR

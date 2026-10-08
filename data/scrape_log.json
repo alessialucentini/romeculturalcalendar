@@ -1,5 +1,5 @@
 {
- "run": "2026-10-08T22:01:21+00:00",
+ "run": "2026-10-08T22:13:40+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -178,7 +178,7 @@
   {
    "source": "casa-del-jazz",
    "url": "https://www.casajazz.it",
-   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f2e21e672c0>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
+   "status": "errore: ConnectTimeout: HTTPSConnectionPool(host='www.casajazz.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.casajazz.it', port=443) at 0x7f6469567f80>, 'Connection to www.casajazz.it timed out. (connect timeout=20)'))",
    "events": 0
   },
   {
@@ -191,7 +191,7 @@
    "source": "cinema-troisi",
    "url": "https://www.cinematroisi.it",
    "status": "ok",
-   "events": 116
+   "events": 102
   },
   {
    "source": "la-feltrinelli-eventi",
@@ -209,13 +209,13 @@
    "source": "arte-it",
    "url": "https://www.arte.it/calendario-arte/roma",
    "status": "ok",
-   "events": 33
+   "events": 37
   },
   {
    "source": "zero-roma",
    "url": "https://zero.eu/it/roma/eventi/",
    "status": "ok",
-   "events": 133
+   "events": 130
   },
   {
    "source": "romadiffusa",
@@ -244,8 +244,8 @@
   {
    "source": "teatro-ghione",
    "url": "https://www.teatroghione.it/",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
-   "events": 0
+   "status": "ok",
+   "events": 30
   }
  ]
 }

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:23c31f3a1bec@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:GALÀ VIENNESE
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_raw_html css=””]JTVCZXNzX2dyaWQlMj
+ BhbGlhcyUzRCUyMmdyaWQtNzIlMjIlNUQlNUIlMkZlc3NfZ3JpZCU1RA==[/vc_raw_html][
+ vc_empty_space height=”55px”][/vc_column][/vc_row][vc_row][vc_column 
+ width=”1/4″ css=”.vc_custom_1659605420797{margin-top: -8px !importa
+ nt\;}”][vc_single_image image=”17911″ img_size=”full” alignment
+ =”center” css=””][vc_empty_space height=”25px”][/vc_column][v
+ c_column w…\n\nInfo: https://www.teatroghione.it/spettacoli/gala-vienne
+ se/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/gala-viennese/
+END:VEVENT
+END:VCALENDAR

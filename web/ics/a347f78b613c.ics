@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a347f78b613c@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Sohpie Calle al MAXXI
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:In occasione della mostra "Sophie Calle. Matrimoni\, Rotture 
+ e Funerali inclusi"\, l'artista sarà protagonista di due appuntamenti at
+ ipici.\n\nInfo: https://zero.eu/it/eventi/380337-sohpie-calle-al-maxxi\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380337-sohpie-calle-al-maxxi,roma/
+END:VEVENT
+END:VCALENDAR

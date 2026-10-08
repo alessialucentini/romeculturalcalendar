@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2b133506a1a9@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:PETER HAMMILL
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column css=”.vc_custom_1659605420797{margin-top
+ : -8px !important\;}”] PETER HAMMILL [vc_empty_space height=”15px”]
+  10 novembre 2026 ore 21:00 [vc_empty_space height=”15px”][vc_column_
+ text][/vc_column_text][vc_empty_space height=”15px”][/vc_column][/vc_
+ row][vc_row css_animation=”bounceIn”][vc_column css=”.vc_custom_165
+ 9605420797{margin-top: -8px !important\;}”][vc_empty_space height=”30
+ p…\n\nInfo: https://www.teatroghione.it/spettacoli/peter-hammill/\n\nDa
+  Linceo
+URL:https://www.teatroghione.it/spettacoli/peter-hammill/
+END:VEVENT
+END:VCALENDAR

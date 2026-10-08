@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ac079273b044@linceo
+DTSTAMP:20261008T221351Z
+DTSTART:20261016T193000Z
+DTEND:20261016T213000Z
+SUMMARY:Never Alone
+LOCATION:Forte Prenestino\, Forte Prenestino\, Roma
+DESCRIPTION:Al Forte la presentazione del progetto editoriale che attrave
+ rsa fotografia\, memoria e cultura rave\, mettendo in relazione l’archi
+ vio visivo di Cheyenne\n\nInfo: https://zero.eu/it/eventi/380108-never-al
+ one-forte-prenestino\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380108-never-alone-forte-prenestino,roma/
+END:VEVENT
+END:VCALENDAR

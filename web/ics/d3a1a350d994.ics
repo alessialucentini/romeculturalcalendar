@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d3a1a350d994@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:VICTOR PATRASCAN
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column css=”.vc_custom_1659605420797{margin-top
+ : -8px !important\;}”] VICTOR PATRASCAN Stand up comedy in broken engli
+ sh [vc_empty_space height=”15px”] 18 Novembre 2026 ore 19:00 e 21:00 
+ [vc_empty_space height=”15px”][vc_column_text][/vc_column_text][vc_em
+ pty_space height=”15px”][/vc_column][/vc_row][vc_row css_animation=
+ ”bounceIn”][vc_column css=”.vc_custom_1659605420797{margin-top: -
+ …\n\nInfo: https://www.teatroghione.it/spettacoli/victor-patrascan-2/\n
+ \nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/victor-patrascan-2/
+END:VEVENT
+END:VCALENDAR

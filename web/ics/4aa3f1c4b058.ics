@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4aa3f1c4b058@linceo
+DTSTAMP:20261008T221351Z
+DTSTART:20261016T210000Z
+DTEND:20261016T230000Z
+SUMMARY:Rebel Rebel w/ Blawan
+LOCATION:Cieloterra\, Cieloterra\, Roma
+DESCRIPTION:Techno fino all'alba con una delle stelle più lucenti in cir
+ colazione.\n\nInfo: https://zero.eu/it/eventi/379672-blawan-cieloterra-2\
+ ,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379672-blawan-cieloterra-2,roma/
+END:VEVENT
+END:VCALENDAR

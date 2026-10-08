@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fbbe89969c53@linceo
+DTSTAMP:20261008T221351Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20270119
+SUMMARY:Sole nero\, petrolio e arte contemporanea
+LOCATION:Accademia di Francia a Roma - Villa Medici\, Accademia di Franci
+ a a Roma - Villa Medici\, Roma
+DESCRIPTION:Dal 9 ottobre 2026 al 18 gennaio 2027\, l’Accademia di Fran
+ cia a Roma – Villa Medici presenta la mostra Sole nero\, petrolio \n\nI
+ nfo: https://www.arte.it/calendario-arte/roma/mostra-sole-nero-petrolio-e
+ -arte-contemporanea-104494\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-sole-nero-petrolio-e-
+ arte-contemporanea-104494
+END:VEVENT
+END:VCALENDAR
