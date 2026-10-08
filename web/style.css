@@ -395,3 +395,6 @@ footer { padding-bottom: calc(64px + env(safe-area-inset-bottom)) !important; }
 #map { height: 320px; }
 #map .leaflet-tile-pane { filter: sepia(.38) saturate(.8) brightness(1.03) contrast(.96) hue-rotate(-8deg); }
 .pin span.cl { width: 30px; height: 30px; margin: 2px; background: var(--accent); font-size: 13px; border-width: 3px; }
+
+/* accesso obbligatorio: app nascosta finché non si entra */
+html.lock .app { display: none; }

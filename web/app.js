@@ -516,10 +516,18 @@
   });
 
   // ---------- link condiviso: ?e=<id>&k=<serie> apre la card ----------
-  function openSharedFromUrl() {
+  let pendingShare = null, dataReady = false;
+  (function readShareParams() {
     const p = new URLSearchParams(location.search), id = p.get("e"), k = p.get("k");
     if (!id && !k) return;
+    pendingShare = { id, k };
     history.replaceState(null, "", SHARE_URL() + location.hash);
+  })();
+  const isLocked = () => !!(window.LinceoAuth && window.LinceoAuth.locked);
+  function openSharedFromUrl() {
+    if (!pendingShare || !dataReady || isLocked()) return;
+    const { id, k } = pendingShare; pendingShare = null;
+    $("#app").classList.add("in"); $("#app").scrollIntoView({ behavior: "auto", block: "start" });
     const today = iso(state.now);
     const ev = state.events.find((x) => x.id === id)
       || (state.runs.get(k) || []).filter((x) => x.end >= today).sort((x, y) => x.start.localeCompare(y.start))[0];
@@ -558,7 +566,8 @@
     document.querySelectorAll(".chip").forEach((c, i) => { const k = Object.keys(CATS).filter((x) => new Set(state.events.map((e) => e.cat)).has(x))[i]; c.classList.toggle("dim", state.hidden.has(k)); });
     render();
     wireHeader();
-    openSharedFromUrl();
+    dataReady = true; openSharedFromUrl();
+    window.addEventListener("linceo:unlocked", openSharedFromUrl);
     requestAnimationFrame(() => requestAnimationFrame(() => $(".tabs").classList.add("ready")));
     // se l'app resta aperta oltre la mezzanotte, ricalcola "oggi" al ritorno in primo piano
     document.addEventListener("visibilitychange", () => {
@@ -643,7 +652,7 @@
   if ("IntersectionObserver" in window) {
     new IntersectionObserver((es, o) => { if (es.some((e) => e.isIntersecting)) { app.classList.add("in"); o.disconnect(); } }, { threshold: 0, rootMargin: "0px 0px -18% 0px" }).observe(app);
   } else app.classList.add("in");
-  if (location.hash === "#app" || new URLSearchParams(location.search).has("e")) { app.classList.add("in"); app.scrollIntoView(); }
+  if (location.hash === "#app") { app.classList.add("in"); app.scrollIntoView(); }
 
   if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
   init();

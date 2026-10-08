@@ -16,7 +16,15 @@
   const configured = !!(CFG.supabaseUrl && CFG.supabaseKey);
 
   let sb = null, user = null;
-  const api = { configured, user: () => user, setSaved() {}, async sendFeedback() { return false; } };
+  const api = { configured, locked: configured, user: () => user, setSaved() {}, async sendFeedback() { return false; } };
+  // accesso obbligatorio: finché non c'è un utente l'app resta nascosta (html.lock) e dopo il logo compare solo la schermata di accesso
+  const root = document.documentElement;
+  if (configured) root.classList.add("lock");
+  function setLocked(v) {
+    if (api.locked === v) return;
+    api.locked = v; root.classList.toggle("lock", v);
+    if (!v) window.dispatchEvent(new CustomEvent("linceo:unlocked"));
+  }
   window.LinceoAuth = api;
 
   // ---------- feedback (box nel footer): visibile sempre ----------
@@ -54,7 +62,7 @@
     if (user) {
       a.append(`Accesso come ${user.email} · `);
       btn.textContent = "Esci";
-      btn.onclick = async () => { await sb.auth.signOut(); user = null; accountLine(); toast("Sei uscita da Linceo"); };
+      btn.onclick = async () => { await sb.auth.signOut(); toast("Sei uscita da Linceo"); };
       if (CFG.adminEmail && user.email.toLowerCase() === CFG.adminEmail.toLowerCase()) {
         const adm = document.createElement("a"); adm.href = "admin.html"; adm.className = "linklike"; adm.textContent = "Area admin";
         a.append(adm, " · ");
@@ -129,7 +137,8 @@
   function onSession(session) {
     user = session && session.user ? session.user : null;
     accountLine();
-    if (user) { syncSaved(); }
+    if (user) { syncSaved(); setLocked(false); }
+    else { setLocked(true); showGate(false); }
   }
 
   function wireGate() {
@@ -177,7 +186,6 @@
       const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: location.origin + location.pathname });
       error ? say(niceErr(error)) : say("Ti abbiamo mandato il link per scegliere una nuova password.", true);
     });
-    $("#g-skip").addEventListener("click", () => { ss.set("gate-skip", "1"); hideGate(); });
   }
 
   function start() {
@@ -185,16 +193,15 @@
     wireFeedback(); wireGate();
     sb.auth.onAuthStateChange((ev, session) => {
       if (ev === "PASSWORD_RECOVERY") { const p = prompt("Scegli la nuova password (almeno 8 caratteri)"); if (p && p.length >= 8) sb.auth.updateUser({ password: p }).then(({ error }) => toast(error ? "Password non cambiata" : "Password aggiornata")); }
-      if (ev === "SIGNED_OUT") onSession(null);
+      if (ev === "SIGNED_OUT") { onSession(null); showGate(true); }
     });
     sb.auth.getSession().then(({ data }) => {
       onSession(data.session);
-      if (!data.session && ss.get("gate-skip") !== "1" && !new URLSearchParams(location.search).has("e")) showGate(false);
     });
   }
 
   const s = document.createElement("script");
   s.src = "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js";
-  s.onload = start; s.onerror = () => { wireFeedback(); };
+  s.onload = start; s.onerror = () => { setLocked(false); wireFeedback(); };
   document.head.append(s);
 })();
