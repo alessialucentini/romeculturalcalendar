@@ -1,0 +1,13 @@
+{
+  "_nota": "Coordinate a mano [lat, lon] per i luoghi principali: la chiave è una parte del nome del luogo (minuscolo). Hanno la precedenza sulla ricerca automatica.",
+  "auditorium parco della musica": [41.9300, 12.4747],
+  "maxxi": [41.9279, 12.4672],
+  "teatro dell'opera di roma": [41.9007, 12.4959],
+  "teatro argentina": [41.8955, 12.4766],
+  "teatro quirino": [41.8993, 12.4833],
+  "cinema troisi": [41.8879, 12.4688],
+  "casa del cinema": [41.9116, 12.4912],
+  "palazzo merulana": [41.8937, 12.5041],
+  "palazzo barberini": [41.9037, 12.4888],
+  "galleria corsini": [41.8912, 12.4678]
+}

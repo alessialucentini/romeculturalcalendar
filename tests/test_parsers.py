@@ -66,6 +66,23 @@ def test_sites():
 
 
 
+def test_geo(tmp=None):
+    import tempfile
+    import geo
+    d = Path(tempfile.mkdtemp())
+    geo.CACHE, geo.OVERRIDES = d / "c.json", d / "o.json"
+    geo.OVERRIDES.write_text('{"auditorium": [41.93, 12.47]}')
+    ev = [{"venue": "Auditorium Parco della Musica · Sala Sinopoli", "address": "Viale X 1, Roma"},
+          {"venue": "Spazio X", "address": "Via Roma 3, Roma"}, {"venue": "Roma", "address": ""}, {"venue": "Teatro Boh", "address": ""}]
+    calls = []
+    st = geo.apply(ev, fetch=lambda q: calls.append(q) or ((41.9, 12.5) if "Via Roma" in q else None), sleep=lambda s: None)
+    assert ev[0]["lat"] == 41.93 and ev[1]["lat"] == 41.9 and "lat" not in ev[2] and "lat" not in ev[3]
+    assert calls == ["Via Roma 3, Roma", "Teatro Boh, Roma"] and st["with_coords"] == 2
+    calls.clear()
+    geo.apply(ev, fetch=lambda q: calls.append(q), sleep=lambda s: None)
+    assert not calls  # tutto in cache, anche i luoghi non trovati
+
+
 if __name__ == "__main__":
     for n, f in list(globals().items()):
         if n.startswith("test_"):

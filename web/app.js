@@ -165,6 +165,9 @@
     document.addEventListener("keydown", onKey);
   }
 
+  // "NEW": evento comparso per la prima volta nell'ultimo aggiornamento (entro 7 giorni da quando l'ha visto lo scraper)
+  const isNew = (e) => { if (!e.first_seen) return false; const d = (new Date(iso(state.now)) - new Date(e.first_seen)) / 864e5; return d >= 0 && d <= 7; };
+
   // ---------- componenti ----------
   function card(e, ctx = {}) {
     const col = `var(--c-${CATS[e.cat] ? e.cat : "altro"})`;
@@ -194,7 +197,9 @@
     const others = ctx.others && ctx.others.length
       ? el("div", { class: "runs" }, el("b", { text: "Altre date" }), ctx.others.slice(0, 4).map(occLabel).join(" · "), ctx.others.length > 4 ? ` · +${ctx.others.length - 4}` : "")
       : null;
-    return el("article", { class: "card", style: `--col:${col}` },
+    const fresh = isNew(e) || (state.runs.get(e._k) || []).some(isNew);
+    return el("article", { class: "card" + (fresh ? " is-new" : ""), style: `--col:${col}` },
+      fresh ? el("span", { class: "new-tag", text: "NEW" }) : null,
       when,
       el("div", {},
         el("h3", { text: e.title }),
@@ -313,17 +318,22 @@
   }
 
   // ---------- viste ----------
-  function renderList() {
+  // giorni mostrati nelle viste Oggi / Domani / Weekend
+  function viewDays() {
     const t = new Date(state.now.getFullYear(), state.now.getMonth(), state.now.getDate());
+    if (state.view === "oggi") return [t];
+    if (state.view === "domani") return [addDays(t, 1)];
+    const dow = t.getDay(); // weekend: prossimo sabato e domenica (se oggi è già weekend, include oggi)
+    const sat = dow === 0 ? addDays(t, -1) : addDays(t, 6 - dow);
+    return dow === 0 ? [t] : dow === 6 ? [t, addDays(t, 1)] : [sat, addDays(sat, 1)];
+  }
+
+  function renderList() {
     const main = $("#main"); main.replaceChildren();
+    const days = viewDays(), t = days[0];
     if (state.view === "oggi") main.append(daySection(t, { heading: "Oggi" }));
-    else if (state.view === "domani") main.append(daySection(addDays(t, 1), { heading: `Domani · ${longDay(addDays(t, 1))}` }));
-    else { // weekend: prossimo sabato e domenica (se oggi è già weekend, include oggi)
-      const dow = t.getDay();
-      const sat = dow === 0 ? addDays(t, -1) : addDays(t, 6 - dow);
-      const days = dow === 0 ? [t] : dow === 6 ? [t, addDays(t, 1)] : [sat, addDays(sat, 1)];
-      days.forEach((d) => main.append(daySection(d)));
-    }
+    else if (state.view === "domani") main.append(daySection(t, { heading: `Domani · ${longDay(t)}` }));
+    else days.forEach((d) => main.append(daySection(d)));
   }
 
   function renderCalendar() {
@@ -356,13 +366,80 @@
       daySection(fromIso(state.picked)));
   }
 
+  // ---------- mappa del giorno ----------
+  let leafletP = null, map = null, pins = null, mapSeq = 0;
+  function loadLeaflet() {
+    if (leafletP) return leafletP;
+    leafletP = new Promise((res, rej) => {
+      const l = document.createElement("link"); l.rel = "stylesheet"; l.href = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"; document.head.append(l);
+      const s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js";
+      s.onload = () => res(window.L); s.onerror = () => { leafletP = null; rej(new Error("leaflet")); }; document.head.append(s);
+    });
+    return leafletP;
+  }
+  function openPlace(group) {
+    closeSheet();
+    const cards = group.items.map(({ e, times }) => { const c = card(e, { times }); c.classList.add("seen"); return c; });
+    sheet = el("div", { class: "sheet", role: "dialog", "aria-modal": "true", "aria-label": group.venue, onclick(ev) { if (ev.target === ev.currentTarget) closeSheet(); } },
+      el("div", { class: "sheet-card place" },
+        el("div", { class: "sheet-grip", "aria-hidden": "true" }),
+        el("h3", { text: group.venue }),
+        el("p", { class: "sheet-ev", text: group.items.length > 1 ? `${group.items.length} eventi in questo luogo` : "Un evento in questo luogo" }),
+        el("div", { class: "place-list" }, cards),
+        el("button", { class: "sheet-cancel", type: "button", text: "Chiudi", onclick: closeSheet })));
+    document.body.append(sheet);
+    requestAnimationFrame(() => sheet && sheet.classList.add("show"));
+    document.addEventListener("keydown", onKey);
+  }
+  async function updateMap() {
+    const box = $("#mapbox"), seq = ++mapSeq;
+    if (state.q || !["oggi", "domani", "weekend"].includes(state.view)) { box.hidden = true; return; }
+    const days = viewDays().map(iso);
+    const groups = new Map();
+    for (const e of visible()) {
+      if (e.lat == null || !days.some((d) => e.start <= d && d <= e.end)) continue;
+      const k = `${e.lat},${e.lon}`;
+      if (!groups.has(k)) groups.set(k, { lat: e.lat, lon: e.lon, venue: e.venue.split(" · ")[0], byKey: new Map() });
+      const g = groups.get(k), it = g.byKey.get(e._k);
+      if (it) { if (e.time) it.times.push(e.time); } else g.byKey.set(e._k, { e, times: e.time ? [e.time] : [] });
+    }
+    if (!groups.size) { box.hidden = true; return; }
+    let L; try { L = await loadLeaflet(); } catch { box.hidden = true; return; }
+    if (seq !== mapSeq) return;
+    box.hidden = false;
+    if (!map) {
+      const touch = L.Browser.mobile;
+      map = L.map("map", { zoomControl: !touch, scrollWheelZoom: false, dragging: !touch, attributionControl: true, zoomSnap: 0.5 });
+      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom: 19, subdomains: "abcd", attribution: "© OpenStreetMap · © CARTO" }).addTo(map);
+      pins = L.layerGroup().addTo(map);
+    }
+    pins.clearLayers();
+    const pts = [];
+    for (const g of groups.values()) {
+      g.items = [...g.byKey.values()].sort((a, b) => (a.times[0] || "99").localeCompare(b.times[0] || "99"));
+      g.items.forEach((it) => { it.times = [...new Set(it.times)].sort(); });
+      const cats = new Set(g.items.map((it) => it.e.cat));
+      const col = cats.size === 1 ? `var(--c-${CATS[[...cats][0]] ? [...cats][0] : "altro"})` : "var(--accent)";
+      const n = g.items.length;
+      const m = L.marker([g.lat, g.lon], { title: `${g.venue} · ${n}`, keyboard: true, icon: L.divIcon({ className: "pin", html: `<span style="--c:${col}">${n > 1 ? n : ""}</span>`, iconSize: [24, 24], iconAnchor: [12, 12] }) });
+      m.on("click", () => openPlace(g));
+      m.addTo(pins); pts.push([g.lat, g.lon]);
+    }
+    $("#mapNote").textContent = `${pts.length} ${pts.length === 1 ? "luogo" : "luoghi"} sulla mappa · tocca un pallino per aprire la scheda`;
+    requestAnimationFrame(() => {
+      map.invalidateSize();
+      if (pts.length === 1) map.setView(pts[0], 15, { animate: false });
+      else map.fitBounds(pts, { padding: [30, 30], maxZoom: 15, animate: false });
+    });
+  }
+
   function render() {
     const special = !!state.q || state.view === "salvati";
     document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", String(!special && b.dataset.view === state.view)));
     $(".tabs").classList.toggle("none", special);
     if (state.q) renderSearch(); else if (state.view === "salvati") renderSaved();
     else if (state.view === "calendario") renderCalendar(); else renderList();
-    syncSaved(); movePill(); revealCards();
+    syncSaved(); movePill(); revealCards(); updateMap();
   }
   const toTop = () => { const y = $("#app").offsetTop + $("#intro").offsetHeight; if (window.scrollY > y) window.scrollTo({ top: y, behavior: "instant" }); };
 

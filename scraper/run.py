@@ -25,6 +25,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).parent))
+import geo  # noqa: E402
 import ics as ics_mod  # noqa: E402
 import jsonld  # noqa: E402
 from common import CATEGORIES, Event, polite_get  # noqa: E402
@@ -133,6 +134,10 @@ def main() -> int:
     cutoff = (today - timedelta(days=KEEP_DAYS_AFTER_END)).isoformat()
     final = [e for e in merged.values() if e["end"] >= cutoff]
     final.sort(key=lambda e: (e["start"], e.get("time") or "99:99", e["title"]))
+    # "new": data in cui l'evento compare per la prima volta (vuota per quelli già presenti prima di questa funzione)
+    for e in final:
+        prev = old.get(e["id"])
+        e["first_seen"] = prev.get("first_seen", "") if prev else (today.isoformat() if old else "")
 
     out = {
         "meta": {"generated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "count": len(final)},
@@ -141,6 +146,10 @@ def main() -> int:
     if args.dry_run:
         print(json.dumps(out["meta"]), "(dry-run: nulla scritto)")
         return 0
+    try:
+        print("coordinate:", geo.apply(final))
+    except Exception as ex:  # noqa: BLE001  la mappa è un extra: non deve bloccare l'aggiornamento
+        print(f"coordinate non aggiornate: {type(ex).__name__}: {ex}")
     EVENTS.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     LOG.write_text(json.dumps({"run": out["meta"]["generated"], "sources": log}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"scritti {len(final)} eventi in {EVENTS}")
