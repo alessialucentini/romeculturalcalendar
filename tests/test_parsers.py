@@ -55,6 +55,10 @@ def test_sites():
         assert len(z) >= 8 and any(e.time == "22:00" for e in z) and z[0].end == "2026-10-04"
         tc = sites.parse_teatriincomune(rx("teatriincomune.html"), "u", "t", today=datetime.date(2026, 10, 1))
         assert len(tc) >= 12 and any(e.venue == "Teatro Biblioteca Quarticciolo" for e in tc)
+        g = sites.parse_giornaledellarte(rx("giornaledellarte.html"), "https://www.ilgiornaledellarte.com", "g", city="Arezzo")
+        assert len(g) == 1 and g[0].end == "2027-01-10" and g[0].title.startswith("L'Immagine di Francesco")
+        rd = sites.parse_romadiffusa(rx("romadiffusa.html"), "https://romadiffusa.com/", "r", today=datetime.date(2026, 10, 8))
+        assert len(rd) == 1 and rd[0].start == "2026-10-10" and "Esquilino" in rd[0].title
         q = sites.parse_quirino(rx("quirino.html"), "u", "teatro", "q")
         assert len(q) >= 10 and q[0].start == "2026-10-20"
     assert sites._tdr_range("10 set – 6 ott 2026") == ("2026-09-10", "2026-10-06")

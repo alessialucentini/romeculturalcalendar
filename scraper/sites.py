@@ -586,6 +586,124 @@ def fetch_teatriincomune(src: dict) -> list[Event]:
     return parse_teatriincomune(_text(r.content), src["link"], src["id"])
 
 
+# ------------------------------------------------------------------ Il Giornale dell'Arte (calendario mostre, solo Roma)
+_GDA_DATE = re.compile(r"(\d{1,2})\s+([A-Za-z]{3,})\s+(\d{4})\s*[–-]\s*(\d{1,2})\s+([A-Za-z]{3,})\s+(\d{4})")
+
+
+_SMALL = {"di", "da", "dal", "dei", "del", "della", "delle", "dello", "degli", "al", "alla", "allo", "ai", "e", "ed", "il", "lo", "la", "le", "gli", "i", "in", "a", "per", "tra", "fra", "con", "su", "un", "una", "o", "nel", "nella", "sul"}
+
+
+def _nice_caps(t: str) -> str:
+    """TITOLI IN MAIUSCOLO -> 'Titoli in Maiuscolo' (parole piccole in minuscolo, maiuscola dopo il punto)."""
+    if not t.isupper():
+        return t
+    out, first = [], True
+    for w in re.split(r"(\s+)", t.lower()):
+        if not w.strip():
+            out.append(w)
+            continue
+        parts = re.split(r"(['’])", w)
+        for i, x in enumerate(parts):
+            if x in ("'", "’") or not x:
+                continue
+            small = (x in _SMALL or x in {"dell", "nell", "all", "dall", "sull", "un"}) and i == 0 and len(parts) > 1 or (x in _SMALL and len(parts) == 1)
+            if first or not small:
+                parts[i] = re.sub(r"^(\W*)(\w)", lambda m: m.group(1) + m.group(2).upper(), x)
+            first = False
+        w = "".join(parts)
+        out.append(w)
+        first = w.endswith((".", ":"))
+    return "".join(out)
+
+
+def parse_giornaledellarte(html: str, base: str, source: str, city: str = "Roma") -> list[Event]:
+    """Blocchi per città (.block_list_content): titolo città + N card .each_cat_news_item con sede, titolo e date."""
+    out, seen = [], {}
+    for blk in _soup(html).select(".block_list_content"):
+        h = blk.select_one(".title_label h2")
+        if not h or clean(h.get_text(" ", strip=True)).lower() != city.lower():
+            continue
+        for it in blk.select(".each_cat_news_item"):
+            t, d, v = it.select_one(".cat_news_title h2"), it.select_one(".news_cat_date"), it.select_one(".sublink_a")
+            m = _GDA_DATE.search(d.get_text(" ", strip=True)) if d else None
+            if not (t and m and _month(m.group(2)) and _month(m.group(5))):
+                continue
+            start = _d(int(m.group(3)), _month(m.group(2)), int(m.group(1)))
+            end = _d(int(m.group(6)), _month(m.group(5)), int(m.group(4)))
+            if not (start and end) or (date.fromisoformat(end) - date.fromisoformat(start)).days > 400:
+                continue
+            venue = clean(v.get_text(" ", strip=True)) if v else ""
+            title = clean(t.get_text(" ", strip=True))
+            link = next((a["href"] for a in it.select("a[href^='/Articolo/']")), None)
+            key = (title.lower(), venue.lower(), end)
+            alt = (venue.lower(), end)
+            dup = seen.get(key) or next((e for (k, e) in seen.items() if k[1:] == alt and e.start in (start,) ), None)
+            if dup is not None:  # stessa mostra ripetuta (anche con refusi nel titolo): tengo una sola scheda
+                if start < dup.start:
+                    dup.start = start
+                if link and "/Articolo/" not in dup.url:
+                    dup.url, dup.title = urljoin(base, link), _nice_caps(title)
+                continue
+            ev = Event(title=_nice_caps(title), cat="mostre", kind="mostra", venue=venue or "Roma",
+                       address=f"{venue}, Roma" if venue else "Roma", start=start, end=end,
+                       url=urljoin(base, link) if link else "https://www.ilgiornaledellarte.com/Calendario/Mostre", source=source)
+            seen[key] = ev
+            out.append(ev)
+    return out
+
+
+def fetch_giornaledellarte(src: dict) -> list[Event]:
+    """Il filtro per citta' e' una chiamata ajax: GET /Exhibit/_ExhibitionsByCity (Italia=204, Roma=1590); dateId 1 apre oggi, 2 in corso, 3 future."""
+    out, seen = [], set()
+    for date_id in (2, 3, 1):
+        try:
+            r = polite_get(f"https://www.ilgiornaledellarte.com/Exhibit/_ExhibitionsByCity?nation_id=204&id_city_fk=1590&dateId={date_id}&tagIds=%5B%5D")
+        except Exception:
+            continue
+        for e in parse_giornaledellarte(_text(r.content), "https://www.ilgiornaledellarte.com", src["id"]):
+            k = (e.title.lower(), e.venue.lower(), e.end)
+            if k not in seen:
+                seen.add(k)
+                out.append(e)
+    return out
+
+
+# ------------------------------------------------------------------ Romadiffusa (festival annuale)
+_RD_RANGE = re.compile(r"(\d{1,2})\s*[–-]\s*(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})")
+
+
+def parse_romadiffusa(html: str, base: str, source: str, today: date | None = None) -> list[Event]:
+    """Una sola edizione in evidenza ('10-11 Ottobre 2026' + 'Esquilino Festival'). Salta le edizioni passate."""
+    today = today or date.today()
+    text = _soup(html).get_text(" ", strip=True)
+    out = []
+    for m in _RD_RANGE.finditer(text):
+        if not _month(m.group(3)):
+            continue
+        start, end = _d(int(m.group(4)), _month(m.group(3)), int(m.group(1))), _d(int(m.group(4)), _month(m.group(3)), int(m.group(2)))
+        if not (start and end) or end < today.isoformat():
+            continue
+        rest = text[m.end():m.end() + 160]
+        q = re.search(r"([A-ZÀ-Ý][\wÀ-ÿ' ]{2,40}?)\s+Festival", rest)
+        zona = clean(q.group(1)) if q else ""
+        title = f"Romadiffusa · {zona} Festival" if zona else "Romadiffusa Festival"
+        old = next((e for e in out if e.start == start), None)
+        if old is not None:
+            if zona and "Festival" == old.title.split()[-1] and "·" not in old.title:
+                out.remove(old)
+            else:
+                continue
+        out.append(Event(title=title, cat="contemporanea", kind="evento", venue=f"Romadiffusa{' · ' + zona if zona else ''}",
+                         address=f"{zona}, Roma" if zona else "Roma", start=start, end=end, url=base, source=source,
+                         description="Festival diffuso: botteghe, studi d'artista, librerie e spazi che aprono al pubblico con musica, arte e performance."))
+    return out
+
+
+def fetch_romadiffusa(src: dict) -> list[Event]:
+    r = polite_get(src["link"])
+    return parse_romadiffusa(_text(r.content), src["link"], src["id"])
+
+
 SITES = {
     "maxxi": fetch_maxxi,
     "auditorium-parco-della-musica": fetch_auditorium,
@@ -598,5 +716,7 @@ SITES = {
     "teatro-quirino": fetch_quirino,
     "arte-it": fetch_arteit,
     "zero-roma": fetch_zero,
+    "il-giornale-dell-arte": fetch_giornaledellarte,
+    "romadiffusa": fetch_romadiffusa,
     "teatro-biblioteca-quarticciolo": fetch_teatriincomune,
 }
