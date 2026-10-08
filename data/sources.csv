@@ -121,5 +121,5 @@ tlon,Libreria Teatro Tlon,https://www.tlon.it,libreria,libri,manuale,no,si,nessu
 zalib,Zalib Centro Giovani (Arci),https://www.centrogiovaniroma.com/eventi,community,community,manuale,no,si,programma solo su Instagram/lnk.bio: eventi inseriti a mano
 eventbrite-roma,Eventbrite Roma,https://www.eventbrite.it/d/italy--roma/events/,aggregatore,altro,manuale,no,si,blocca i bot (405): serve la loro API ufficiale
 art-around-roma,Art Around Roma,,aggregatore,mostre,manuale,no,si,sito non trovato: serve il link esatto
-il-giornale-dell-arte,Il Giornale dell'Arte - calendario mostre (Roma),https://www.ilgiornaledellarte.com/Calendario/Mostre,editoria,mostre,auto,si,no,"solo mostre a Roma, dal filtro per città del calendario"
+il-giornale-dell-arte,Il Giornale dell'Arte - calendario mostre (Roma),https://www.ilgiornaledellarte.com/Calendario/Mostre,editoria,mostre,auto,no,no,"parser pronto, ma il filtro Roma del calendario risponde 'nessun risultato' a richieste automatiche: serve un browser vero (Playwright)"
 romadiffusa,Romadiffusa,https://romadiffusa.com/,festival,contemporanea,auto,si,no,"festival annuale diffuso, una edizione in evidenza"
