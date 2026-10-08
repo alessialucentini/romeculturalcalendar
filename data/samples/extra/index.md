@@ -1,4 +1,4 @@
 # pagine singole
 
-- extra/0.html <- https://romadiffusa.com/ (200, 183559 byte)
-- extra/1.html <- https://www.ilgiornaledellarte.com/Sezione/Mostre (200, 131707 byte)
+- extra/0.html <- https://www.ilgiornaledellarte.com/Calendario/Mostre (200, 311254 byte)
+- extra/1.html <- https://www.ilgiornaledellarte.com/Calendario/Mostre?citta=Roma (200, 311254 byte)
