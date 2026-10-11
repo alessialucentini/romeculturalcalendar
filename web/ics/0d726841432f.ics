@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0d726841432f@linceo
+DTSTAMP:20261011T093238Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:BUKOWSKI | Serata di letture a cura de La Setta dei Poeti estinti
+LOCATION:Palazzo Merulana\, Via Merulana 121\, Roma
+DESCRIPTION:Info: https://www.palazzomerulana.it/events/bukowski-serata-d
+ i-letture-a-cura-de-la-setta-dei-poeti-estinti/\n\nDa Linceo
+URL:https://www.palazzomerulana.it/events/bukowski-serata-di-letture-a-cu
+ ra-de-la-setta-dei-poeti-estinti/
+END:VEVENT
+END:VCALENDAR

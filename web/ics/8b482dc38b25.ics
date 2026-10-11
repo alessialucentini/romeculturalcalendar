@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b482dc38b25@linceo
+DTSTAMP:20261011T093238Z
+DTSTART:20261016T063000Z
+DTEND:20261016T083000Z
+SUMMARY:Festa del Cinema di Roma
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30\, R
+ oma
+DESCRIPTION:Cinema | Festival\n\nInfo: https://www.auditorium.com/it/even
+ t/festa-del-cinema-di-roma-giorno-4/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/festa-del-cinema-di-roma-giorno-4
+ /
+END:VEVENT
+END:VCALENDAR

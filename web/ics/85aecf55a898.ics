@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:85aecf55a898@linceo
+DTSTAMP:20261011T093238Z
+DTSTART:20261015T160000Z
+DTEND:20261015T180000Z
+SUMMARY:Spazio Lume Opening
+LOCATION:Spazio Lume\, Spazio Lume\, Roma
+DESCRIPTION:Apre un nuovo spazio all'Esquilino per workshop\, pop-up\, mo
+ stre ed eventi. L'opening è con i vini di Bucce e i\n\nInfo: https://zer
+ o.eu/it/eventi/380783-spazio-lume-opening\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380783-spazio-lume-opening,roma/
+END:VEVENT
+END:VCALENDAR

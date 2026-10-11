@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:176c52a98ae2@linceo
+DTSTAMP:20261011T093238Z
+DTSTART:20261017T173000Z
+DTEND:20261017T193000Z
+SUMMARY:Piano Quinquennale
+LOCATION:Wishlist Club\, Wishlist Club\, Roma
+DESCRIPTION:Weird Side festeggia cinque anni di attività e di nuova scen
+ a post-rock-punk con i live di Asino\, Die Abete\, Preferisco\n\nInfo: ht
+ tps://zero.eu/it/eventi/377302-piano-quinquennale\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377302-piano-quinquennale,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:653052816fca@linceo
+DTSTAMP:20261011T093238Z
+DTSTART:20261017T133000Z
+DTEND:20261017T153000Z
+SUMMARY:Shhh/Peaceful pres. The Contemporary Sound of Beirut
+LOCATION:Studio 33\, Studio 33\, Roma
+DESCRIPTION:Il progetto di curatela e approfondimento torna negli spazi d
+ i Studio 33 con un pomeriggio speciale dedicato alla capitale libanese.\n
+ \nInfo: https://zero.eu/it/eventi/380314-shhh-peaceful-pres-the-contempor
+ ary-sound-of-beirut\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380314-shhh-peaceful-pres-the-contemporary-
+ sound-of-beirut,roma/
+END:VEVENT
+END:VCALENDAR

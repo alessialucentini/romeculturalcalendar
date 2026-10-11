@@ -91,6 +91,10 @@
 41.9051996,
 12.5358626
 ],
+"cinema troisi|cinema troisi, roma": [
+41.8879,
+12.4688
+],
 "cinema troisi|via girolamo induno 1, 00153, roma": [
 41.8879,
 12.4688
@@ -118,6 +122,7 @@
 41.8906339,
 12.5302429
 ],
+"fondazione d’arc|fondazione d’arc, roma": null,
 "fondazione giuliani per l'arte contemporanea|via gustavo bianchi 1, roma": [
 41.8811254,
 12.4739931
@@ -163,6 +168,11 @@
 ],
 "gallerie, fondazioni, studi e istituti in tutta roma|mappa e calendario su romeartweek.com": null,
 "gallery morphè|gallery morphè, roma": null,
+"hacienda|hacienda, roma": [
+41.9070128,
+12.5450405
+],
+"il cantiere|il cantiere, roma": null,
 "instituto cervantes|instituto cervantes, roma": null,
 "interzone|interzone, roma": null,
 "isola farnese - piazza della colonnetta|la colonnetta di isola farnese, piazza della colonnetta, roma, rm, italia": null,
@@ -190,6 +200,7 @@
 ],
 "lateral|lateral, roma": null,
 "liminal space|liminal space, roma": null,
+"linea bar|linea bar, roma": null,
 "lorcan o'neill|lorcan o'neill, roma": [
 41.8935364,
 12.4730019
@@ -243,6 +254,7 @@
 ],
 "monti8|monti8, roma": null,
 "mucciaccia project|mucciaccia project, roma": null,
+"muef art gallery|muef art gallery, roma": null,
 "musei capitolini centrale montemartini|musei capitolini centrale montemartini, roma": [
 41.8665472,
 12.478015
@@ -382,9 +394,12 @@
 "scuola popolare delle arti del cip-alessandrino|scuola popolare delle arti del cip-alessandrino, roma": null,
 "società delle api|società delle api, roma": null,
 "spazio amanita|spazio amanita, roma": null,
+"spazio lume|spazio lume, roma": null,
 "spazio nuovo|spazio nuovo, roma": null,
 "spazio rossellini|": null,
 "spazio supernova|spazio supernova, roma": null,
+"spaziotempo|spaziotempo, roma": null,
+"studio 33|studio 33, roma": null,
 "t293|t293, roma": [
 41.8933203,
 12.4829321
@@ -483,6 +498,10 @@
 "villa torlonia|villa torlonia, roma": [
 41.9136433,
 12.5116238
+],
+"wishlist club|wishlist club, roma": [
+41.8994468,
+12.5182211
 ],
 "wunderkammern|wunderkammern, roma": null,
 "z2o project|z2o project, roma": null,

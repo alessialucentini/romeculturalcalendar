@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4972a9250f62@linceo
+DTSTAMP:20261011T093238Z
+DTSTART:20261011T123000Z
+DTEND:20261011T143000Z
+SUMMARY:Centocinquantametri
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Una performance itinerante nelle vie di Garbatella\, con Goss
+ i Maglioni\, Myriam Laplante\, Fabio Giorgi Alberti & Folwark e Vieni For
+ tuna\n\nInfo: https://zero.eu/it/eventi/380168-centocinquantametri\,roma/
+ \n\nDa Linceo
+URL:https://zero.eu/it/eventi/380168-centocinquantametri,roma/
+END:VEVENT
+END:VCALENDAR
