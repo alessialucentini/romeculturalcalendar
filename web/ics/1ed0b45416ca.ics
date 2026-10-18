@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ed0b45416ca@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20270126T090000Z
+DTEND:20270126T110000Z
+SUMMARY:Le Cenerentole quattro donne\, una storia
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/le-cenerentole-quat
+ tro-donne-una-storia/\n\nDa Linceo
+URL:https://www.operaroma.it/spettacoli/le-cenerentole-quattro-donne-una-
+ storia/
+END:VEVENT
+END:VCALENDAR

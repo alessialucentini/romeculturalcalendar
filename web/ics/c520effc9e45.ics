@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c520effc9e45@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261028T100000Z
+DTEND:20261028T120000Z
+SUMMARY:Il dottor Stranamore
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Uno psicopatico generale dell'aviazione USA\, deciso a salvar
+ e il mondo dal complotto comunista\, è pronto ad attaccare l'Unione Sovi
+ etica con armi nucleari. Uno dei pochi capolavori di satira politica nell
+ a storia del cinema che riflette gli incubi apocalittici dei primi anni '
+ 60. Il più forsennato e meno controllato film di Kubrick con Peter Selle
+ rs in 3 ruoli al culmine del suo istrionismo. Non…\n\nInfo: https://www
+ .cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

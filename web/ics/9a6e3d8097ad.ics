@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9a6e3d8097ad@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Stefano Saletti & Pejman Tadayon – Il dialogo in musica di San 
+ Francesco e Rumi
+LOCATION:Teatro Villa Pamphilj\, Teatro Villa Pamphilj\, Roma
+DESCRIPTION:Una produzione Associazione Ikona.\n\nInfo: https://teatriinc
+ omune.roma.it/events/stefano-saletti-pejman-tadayon-il-dialogo-in-musica-
+ di-san-francesco-e-rumi/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/stefano-saletti-pejman-tadayon-
+ il-dialogo-in-musica-di-san-francesco-e-rumi/
+END:VEVENT
+END:VCALENDAR

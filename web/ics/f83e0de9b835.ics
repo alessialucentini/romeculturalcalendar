@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f83e0de9b835@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261107
+SUMMARY:I cattivi pensieri
+LOCATION:Teatro di Roma · Teatro Elsa Morante
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-elsa-morante/i-cattivi-
+ pensieri-2/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-elsa-morante/i-cattivi-pensieri-2/
+END:VEVENT
+END:VCALENDAR

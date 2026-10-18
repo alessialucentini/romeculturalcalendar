@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:98d93640bccd@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:Fabiana Iacozzilli - "La trilogia di Belgrado"
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Cinque registi dirigono un cast di sette attrici ed attori de
+ l corso di II livello in recitazione dell’Accademia Nazionale d’Arte\
+ n\nInfo: https://zero.eu/it/eventi/378811-fabiana-iacozzilli-la-trilogia-
+ di-belgrado\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378811-fabiana-iacozzilli-la-trilogia-di-be
+ lgrado,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bcd21a5a5399@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20270401
+SUMMARY:Food
+LOCATION:Chiostro del Bramante\, Chiostro del Bramante\, Roma
+DESCRIPTION:Nuova mostra tematica negli spazi del Bramante\, con opere st
+ oriche e ricerche artistiche contemporanee con oggetti\, installazioni e 
+ immagini che\n\nInfo: https://zero.eu/it/eventi/379275-food-chiostro-del-
+ bramante\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379275-food-chiostro-del-bramante,roma/
+END:VEVENT
+END:VCALENDAR

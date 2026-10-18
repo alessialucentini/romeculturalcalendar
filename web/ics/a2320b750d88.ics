@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a2320b750d88@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Era
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Napoli\, oggi. Lina è una vedova ottantenne con un carattere
+  indomito e battagliero. Ha tre figli adulti: il prete Lucio\, che vorreb
+ be mandarla in una casa di riposo\; il laureato fuoricorso Sergio\, che "
+ non trova un lavoro adeguato" e neanche lo cerca\, pensando persino di sc
+ endere in politica pur non doversi rimboccare le maniche\; e la più giov
+ ane\, Patrizia\, ossessionata dal sospetto che il marito…\n\nInfo: http
+ s://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

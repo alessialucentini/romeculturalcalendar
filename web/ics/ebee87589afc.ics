@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ebee87589afc@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261103T173000Z
+DTEND:20261103T193000Z
+SUMMARY:Partner + Agonia 26
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Un introverso insegnante di teatro a Roma incontra il suo spi
+ etato alter ego. Il sosia prenderÃ progressivamente il suo posto\, trasc
+ inandolo in una spirale di follia\, violenza e rivolta politica sessantot
+ tina.\n\nInfo: https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

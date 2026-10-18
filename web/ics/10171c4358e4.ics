@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:10171c4358e4@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261116
+SUMMARY:Biodiversità ritratta. Tipi da cartellino rosso. L’immortalit
+ à secondo Vladimir Nabokov
+LOCATION:Museo Civico di Zoologia\, Museo Civico di Zoologia\, Roma
+DESCRIPTION:Dal 15 ottobre al 15 novembre 2026\, il Museo Civico di Zoolo
+ gia ospita la mostra fotografica Biodiversità ritratta. Tipi da cartelli
+ no rosso. L\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-biod
+ iversità-ritratta-tipi-da-cartellino-rosso-l-immortalità-secondo-vladim
+ ir-nabokov-104611\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-biodiversità-ritratt
+ a-tipi-da-cartellino-rosso-l-immortalità-secondo-vladimir-nabokov-104611
+END:VEVENT
+END:VCALENDAR

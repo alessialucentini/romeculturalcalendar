@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6d19b6beef4@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261101T003000Z
+DTEND:20261101T023000Z
+SUMMARY:Thirst
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Sang-hyun\, un rispettato sacerdote\, si offre volontario per
+  una procedura sperimentale che potrebbe portare a una cura per un virus 
+ mortale. Viene infettato e muore\, ma una trasfusione di sangue di origin
+ e sconosciuta lo riporta in vita come vampiro. Ora\, Sang-hyun Ã¨ divis
+ o tra fede e sete di sangue e ha un nuovo desiderio per Tae-ju\, la mogli
+ e del suo amico d'infanzia.\n\nInfo: https://www.cinematroisi.it\n\nDa Li
+ nceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d98ec5acf41e@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261130
+SUMMARY:Luigi & Iango. Corpi speciali
+LOCATION:Galleria Nazionale d’Arte Moderna e Contemporanea Roma\, Galle
+ ria Nazionale d’Arte Moderna e Contemporanea Roma\, Roma
+DESCRIPTION:Dal 13 ottobre al 29 novembre 2026\, la Galleria Nazionale d
+ ’Arte Moderna e Contemporanea dedica a Luigi & Iango\, duo fotografico 
+ tra i pi&ug\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-luig
+ i-iango-corpi-speciali-104414\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-luigi-iango-corpi-spe
+ ciali-104414
+END:VEVENT
+END:VCALENDAR

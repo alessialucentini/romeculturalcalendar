@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9249719c0f3@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261026
+SUMMARY:Tiago Rodrigues/NTGent - "NoYogurt for the Dead"
+LOCATION:Teatro Vascello\, Teatro Vascello\, Roma
+DESCRIPTION:Il regista\, drammaturgo e direttore artistico del Festival d
+ ’Avignone\, parte da una storia vera e profondamente personale: quella 
+ di suo\n\nInfo: https://zero.eu/it/eventi/378825-tiago-rodrigues-ntgent-n
+ oyogurt-for-the-dead\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378825-tiago-rodrigues-ntgent-noyogurt-for-
+ the-dead,roma/
+END:VEVENT
+END:VCALENDAR

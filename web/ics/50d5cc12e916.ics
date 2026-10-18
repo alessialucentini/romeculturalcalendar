@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:50d5cc12e916@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20270426
+SUMMARY:FRONTIERE
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:mostra · La Geopolitica dell’Architettura\n\nInfo: https:/
+ /www.maxxi.art/events/frontiere-la-geopolitica-dellarchitettura/\n\nDa Li
+ nceo
+URL:https://www.maxxi.art/events/frontiere-la-geopolitica-dellarchitettur
+ a/
+END:VEVENT
+END:VCALENDAR

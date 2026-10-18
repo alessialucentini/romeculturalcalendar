@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c764db5398f@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261024T190000Z
+DTEND:20261024T210000Z
+SUMMARY:Costellazione Boario
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Una lunga serata di installazioni e performance che prenderan
+ no vita dalla Pelanda all’Accademia di Belle Arti di Roma a Campo\n\nIn
+ fo: https://zero.eu/it/eventi/378856-costellazione-boario\,roma/\n\nDa Li
+ nceo
+URL:https://zero.eu/it/eventi/378856-costellazione-boario,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e5d3837652f0@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:Bike Massacre
+LOCATION:Forte Prenestino\, Forte Prenestino\, Roma
+DESCRIPTION:Una giornata al Forte dedicata alla pedalata impossibile\, \,
+  tra il mercato TERRA/terra\, presentazione della fanzine Urbikerz autopr
+ odotta dall’eclettico collettivo\n\nInfo: https://zero.eu/it/eventi/381
+ 214-bike-massacre-2026-forte-prenestino\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381214-bike-massacre-2026-forte-prenestino,
+ roma/
+END:VEVENT
+END:VCALENDAR

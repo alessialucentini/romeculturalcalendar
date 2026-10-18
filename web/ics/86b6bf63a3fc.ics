@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:86b6bf63a3fc@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261130
+SUMMARY:Luchino Visconti e la messa in scena della storia
+LOCATION:Castel Sant'Angelo\, Castel Sant'Angelo\, Roma
+DESCRIPTION:In occasione dei centoventi anni dalla nascita e dei cinquant
+ a dalla morte\, la mostra\, a cura di Caterina d’Amico e Gian Luca Far\
+ n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-luchino-visconti
+ -e-la-messa-in-scena-della-storia-104624\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-luchino-visconti-e-la
+ -messa-in-scena-della-storia-104624
+END:VEVENT
+END:VCALENDAR

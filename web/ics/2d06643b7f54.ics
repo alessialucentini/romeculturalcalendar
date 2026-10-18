@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d06643b7f54@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:Trainspotting
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Edimburgo. Mark Renton\, ladruncolo per necessità\, ha scelt
+ o un'onesta e sincera tossicodipendenza. Begbie\, uno psicopatico violent
+ o e alcolizzato spaventa perfino i suoi amici\, ma non si sognerebbe nemm
+ eno di toccare la droga. Spud\, un disperato\, ma amabile eroinomane. Sic
+ k Boy\, un narciso dalle conoscenze enciclopediche su Sean Connery\, in g
+ rado di tenere sotto controllo la propria dipendenza da…\n\nInfo: https
+ ://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

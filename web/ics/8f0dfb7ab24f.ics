@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8f0dfb7ab24f@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+SUMMARY:Gone
+LOCATION:Teatro di Roma · Teatro India
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-india/gone/\n\nDa Lince
+ o
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-india/gone/
+END:VEVENT
+END:VCALENDAR

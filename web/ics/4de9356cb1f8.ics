@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4de9356cb1f8@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261023T190000Z
+DTEND:20261023T210000Z
+SUMMARY:#ALTRNTV w/ Super Jet Kinoko
+LOCATION:Largo Venue\, Largo Venue\, Roma
+DESCRIPTION:Dance-punk con la folle band di Osaka\, Giappone.\n\nInfo: ht
+ tps://zero.eu/it/eventi/378750-altrntv-w-super-jet-kinoko\,roma/\n\nDa Li
+ nceo
+URL:https://zero.eu/it/eventi/378750-altrntv-w-super-jet-kinoko,roma/
+END:VEVENT
+END:VCALENDAR

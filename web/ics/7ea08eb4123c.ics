@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:7ea08eb4123c@linceo
-DTSTAMP:20261011T093238Z
+DTSTAMP:20261018T073831Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20261026
 SUMMARY:All That Changes You. Metamorphosis di Isaac Julien
 LOCATION:Galleria Borghese\, Galleria Borghese\, Roma
-DESCRIPTION:Nel contesto della mostra Metamorfosi. Ovidio e le arti – i
- l grande progetto espositivo nato dalla collaborazione tra il Rij\n\nInfo
- : https://www.arte.it/calendario-arte/roma/mostra-all-that-changes-you-me
- tamorphosis-di-isaac-julien-104272\n\nDa Linceo
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-all-tha
+ t-changes-you-metamorphosis-di-isaac-julien-104272\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-all-that-changes-you-
  metamorphosis-di-isaac-julien-104272
 END:VEVENT

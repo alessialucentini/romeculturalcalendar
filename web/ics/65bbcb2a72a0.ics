@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65bbcb2a72a0@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Buon Compleanno Popolare
+LOCATION:Acrobax\, Acrobax\, Roma
+DESCRIPTION:La Palestra Popolare dell'Acrobax festeggia i sedici anni di 
+ vita. Una lunga giornata che vedrà in in programma il secondo\n\nInfo: h
+ ttps://zero.eu/it/eventi/381207-buon-compleanno-popolare\,roma/\n\nDa Lin
+ ceo
+URL:https://zero.eu/it/eventi/381207-buon-compleanno-popolare,roma/
+END:VEVENT
+END:VCALENDAR

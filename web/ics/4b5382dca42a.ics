@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:4b5382dca42a@linceo
-DTSTAMP:20261011T093238Z
+DTSTAMP:20261018T073831Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20270426
-SUMMARY:Il Villaggio Olimpico di Roma
+SUMMARY:IL VILLAGGIO OLIMPICO DI ROMA
 LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
 DESCRIPTION:focus · architetture dagli archivi del MAXXI · Il mondo in 
  300.000 mq\n\nInfo: https://www.maxxi.art/events/il-villaggio-olimpico-di

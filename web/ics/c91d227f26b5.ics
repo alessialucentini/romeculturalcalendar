@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c91d227f26b5@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261122
+SUMMARY:Nicola Bertellotti - "Cronache dell'intervallo"
+LOCATION:Basile Contemporary\, Basile Contemporary\, Roma
+DESCRIPTION:Prima mostra personale romana del fotografo\, che porta negli
+  spazi della galleria 13 opere di dimensioni diverse\, molte delle quali\
+ n\nInfo: https://zero.eu/it/eventi/380160-nicola-bertellotti-cronache-del
+ lintervallo\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380160-nicola-bertellotti-cronache-dellinte
+ rvallo,roma/
+END:VEVENT
+END:VCALENDAR

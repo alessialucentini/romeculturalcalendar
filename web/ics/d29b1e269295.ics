@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d29b1e269295@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261026
+SUMMARY:Carrozzeria Orfeo - "Cuore di porco"
+LOCATION:Spazio Diamante\, Spazio Diamante\, Roma
+DESCRIPTION:Una gravidanza prolungata oltre i limiti\, il cuore di un mai
+ ale trapiantato dentro un essere umano\, l’apoteosi di un idolo\n\nInfo
+ : https://zero.eu/it/eventi/379137-carrozzeria-orfeo-cuore-di-porco\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379137-carrozzeria-orfeo-cuore-di-porco,rom
+ a/
+END:VEVENT
+END:VCALENDAR

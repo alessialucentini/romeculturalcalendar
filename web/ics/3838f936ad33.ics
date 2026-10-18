@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3838f936ad33@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20270917T190000Z
+DTEND:20270917T210000Z
+SUMMARY:Lasciate Ogni Esperienza Voi Che Entrate
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Dopo il successo di “Esperienze D. M.” Awed\, Dadda e Dos
+ e\, tornano a teatro con un nuovo progetto\, Lasciate ogni esperienza o v
+ oi che entrate!\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-
+ 2026-2027/lasciate-ogni-esperienza-voi-che-entrate/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/lasciate-og
+ ni-esperienza-voi-che-entrate/
+END:VEVENT
+END:VCALENDAR

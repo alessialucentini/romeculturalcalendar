@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5388b8a7be66@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:Prima della rivoluzione
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Parma\, 1962. Fabrizio\, un giovane dell'alta borghesia\, è 
+ preso da una serie di inquietudini personali e ideologiche. Ha una fidanz
+ ata\, la borghesissima Clelia\, con la quale però si lascia in fretta. H
+ a una mezza idea d'iscriversi al Pci\, ma pure quella non sembra una solu
+ zione. Ci sarebbe sempre la zia Gina\, quella che viene da Milano\, e con
+  la quale ha una relazione. Ma pure questa dura poco.\n\nInfo: https://ww
+ w.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

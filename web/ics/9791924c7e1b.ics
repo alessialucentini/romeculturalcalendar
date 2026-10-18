@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9791924c7e1b@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261017T130000Z
+DTEND:20261017T150000Z
+SUMMARY:Cerchi Luna Park & Market
+LOCATION:Via Sannio\, Via Sannio\, Roma
+DESCRIPTION:Una giornata ai Giardini di Via Sannio con un market con prog
+ etti indipendenti e realtà creative e tanta musica con\n\nInfo: https://
+ zero.eu/it/eventi/380991-cerchi-luna-park-market\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380991-cerchi-luna-park-market,roma/
+END:VEVENT
+END:VCALENDAR

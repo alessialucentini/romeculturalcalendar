@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:773fed487200@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261020T160000Z
+DTEND:20261020T180000Z
+SUMMARY:Bodies of Evidence: Israel’s Darkest Weapon
+LOCATION:Brancaleone\, Brancaleone\, Roma
+DESCRIPTION:Il Branca ospita il documentario di Al Jazeera che esamina de
+ cenni di presunti abusi\, torture e violenze sessuali da parte\n\nInfo: h
+ ttps://zero.eu/it/eventi/381287-bodies-of-evidence-israels-darkest-weapon
+ \,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381287-bodies-of-evidence-israels-darkest-w
+ eapon,roma/
+END:VEVENT
+END:VCALENDAR

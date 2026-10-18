@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3bc1ec02ce4@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261127T193000Z
+DTEND:20261127T213000Z
+SUMMARY:A Christmas Carol Il Musical
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:È la vigilia di Natale\, nella Londra del 1843\, e tutti si 
+ accingono a festeggiare la ricorrenza. Solo il vecchio […]\n\nInfo: htt
+ ps://teatrobrancaccio.it/spettacoli/stagione-2026-2027/a-christmas-carol-
+ il-musical/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/a-christmas
+ -carol-il-musical/
+END:VEVENT
+END:VCALENDAR

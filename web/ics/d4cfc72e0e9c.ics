@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d4cfc72e0e9c@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Chiara Calgaro - "Changing Room"
+LOCATION:Tuba\, Tuba\, Roma
+DESCRIPTION:L'autrice presenta il suo libro fotografico dedicato al calci
+ o femminile\, realizzando attraverso le immagini un'indagine sull'identit
+ à di genere.\n\nInfo: https://zero.eu/it/eventi/379882-chiara-calgaro-ch
+ anging-room-tuba\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379882-chiara-calgaro-changing-room-tuba,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

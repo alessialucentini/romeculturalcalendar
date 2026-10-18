@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:92cafe50cbfe@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261115T170000Z
+DTEND:20261115T190000Z
+SUMMARY:Anteprima Libri Come 2027 – Francesco Costa\, “Come se ne esc
+ e” – con Paolo Giordano
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Incontri\n\nInfo: https://www.auditorium.com/it/event/antepri
+ ma-libri-come-2027-francesco-costa-come-se-ne-esce-con-paolo-giordano/\n\
+ nDa Linceo
+URL:https://www.auditorium.com/it/event/anteprima-libri-come-2027-frances
+ co-costa-come-se-ne-esce-con-paolo-giordano/
+END:VEVENT
+END:VCALENDAR

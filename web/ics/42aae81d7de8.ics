@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:42aae81d7de8@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261022T193000Z
+DTEND:20261022T213000Z
+SUMMARY:Drink The Sea
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Dal vivo la superband composta da Peter Buck\, chitarrista fo
+ ndatore e principale autore dei R.E.M.\, Duke Garwood degli Screaming Tre
+ es\,\n\nInfo: https://zero.eu/it/eventi/378410-drink-the-sea\,roma/\n\nDa
+  Linceo
+URL:https://zero.eu/it/eventi/378410-drink-the-sea,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:28f4da1bc563@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20270206
+SUMMARY:Mario Ceroli {IO}
+LOCATION:21Art Roma\, 21Art Roma\, Roma
+DESCRIPTION:Mercoledì 14 ottobre 2026\, dalle ore 11.00 alle ore 13.00\,
+  21Art Roma presenta alla stampa la mostra Mario Ceroli {IO}\, a cura d\n
+ \nInfo: https://www.arte.it/calendario-arte/roma/mostra-mario-ceroli-io-1
+ 04552\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-mario-ceroli-io-10455
+ 2
+END:VEVENT
+END:VCALENDAR

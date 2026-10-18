@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0bad48084545@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261101T044500Z
+DTEND:20261101T064500Z
+SUMMARY:Nosferatu il vampiro
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Un losco commerciante di terreni\, invia in Transilvania un s
+ uo agente immobiliare\, il giovane Hutter\, per trattare con il misterios
+ o conte Orlok. Giunto nei Carpazi\, Hutter alloggerà in una locanda\, gl
+ i vengono preannunciati tristi presagi su ciò che lo attende...\n\nInfo:
+  https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

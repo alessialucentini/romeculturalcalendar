@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:34d022e1aa94@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261022T130000Z
+DTEND:20261022T150000Z
+SUMMARY:Collettivo H
+LOCATION:Villaggio Globale\, Villaggio Globale\, Roma
+DESCRIPTION:Al via una nuova stagione di mostre\, incontri\, sperimentazi
+ oni e progetti negli spazi del Villaggio Globale.\n\nInfo: https://zero.e
+ u/it/eventi/381125-collettivo-h\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381125-collettivo-h,roma/
+END:VEVENT
+END:VCALENDAR

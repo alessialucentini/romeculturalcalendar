@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ba79430ee55@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:La luce
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Romaeuropa Festival ospita un’installazione audiovisiva sit
+ e-specific ispirata all’omonima partitura di Giuseppe Chiari (1966)\, i
+ deata da Agnese Banti e Francesco Giomi\n\nInfo: https://zero.eu/it/event
+ i/378842-la-luce\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378842-la-luce,roma/
+END:VEVENT
+END:VCALENDAR

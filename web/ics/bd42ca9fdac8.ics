@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:bd42ca9fdac8@linceo
-DTSTAMP:20261011T093238Z
+DTSTAMP:20261018T073831Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261105
 SUMMARY:Jacques Perrin\, l’eterno ragazzo
 LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
-DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/jacq
- ues-perrin/\n\nDa Linceo
+DESCRIPTION:In sala\n\nInfo: https://www.casadelcinema.it/it/event/jacque
+ s-perrin/\n\nDa Linceo
 URL:https://www.casadelcinema.it/it/event/jacques-perrin/
 END:VEVENT
 END:VCALENDAR

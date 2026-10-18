@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e455fa221ccf@linceo
-DTSTAMP:20261011T093238Z
+DTSTAMP:20261018T073831Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20261108
 SUMMARY:Hypothèse de lecture
 LOCATION:Biblioteca della Trinità dei Monti\, Biblioteca della Trinità 
  dei Monti\, Roma
-DESCRIPTION:Dal 19 settembre\, Trinità dei Monti apre al pubblico gli sp
- azi dell’Antica Biblioteca\, parte del Complesso finalmente visitabile 
- dopo un \n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-hypoth
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-hypoth
  èse-de-lecture-104416\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-hypothèse-de-lecture
  -104416

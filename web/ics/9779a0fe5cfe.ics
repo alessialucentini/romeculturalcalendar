@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9779a0fe5cfe@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Serena Ciccone - "Gradienti evanescenti"
+LOCATION:G-Rough\, G-Rough\, Roma
+DESCRIPTION:Personale dell'artista\, nel cui lavoro pittura e installazio
+ ne articolano un’indagine sulle soglie percettive. Le installazioni in 
+ mostra si configurano come\n\nInfo: https://zero.eu/it/eventi/381209-sere
+ na-ciccone-gradienti-evanescenti\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381209-serena-ciccone-gradienti-evanescenti
+ ,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6729f14f2c09@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261109
+SUMMARY:Rivoluzione Naturale. Viaggio tra temi\, media e linguaggi che ha
+ nno costruito la coscienza ambientale in Italia
+LOCATION:MAXXI Museo nazionale delle arti del XXI secolo\, MAXXI Museo na
+ zionale delle arti del XXI secolo\, Roma
+DESCRIPTION:In occasione del 60° anniversario di WWF Italia\, Promemoria
+  Group\, realtà specializzata nella valorizzazione strategica dell’her
+ \n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-rivoluzione-nat
+ urale-viaggio-tra-temi-media-e-linguaggi-che-hanno-costruito-la-coscienza
+ -ambientale-in-italia-104480\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-rivoluzione-naturale-
+ viaggio-tra-temi-media-e-linguaggi-che-hanno-costruito-la-coscienza-ambie
+ ntale-in-italia-104480
+END:VEVENT
+END:VCALENDAR

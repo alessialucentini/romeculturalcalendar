@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0ebc7c74cb0e@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20270111
+SUMMARY:“Sulle tracce di Francesco – Arte\, restauro e contemporaneit
+ à”/“Dalla predicazione francescana ai Monti di Pietà”
+LOCATION:Museo del Corso - Polo Museale\, Museo del Corso - Polo Museale\
+ , Roma
+DESCRIPTION:Due mostre celebrano gli ottocento anni di San Francesco D'As
+ sisi\, patrono d'Italia.\n\nInfo: https://zero.eu/it/eventi/380837-sulle-
+ tracce-di-francesco-arte-restauro-e-contemporaneita-dalla-predicazione-fr
+ ancescana-ai-monti-di-pieta\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380837-sulle-tracce-di-francesco-arte-resta
+ uro-e-contemporaneita-dalla-predicazione-francescana-ai-monti-di-pieta,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

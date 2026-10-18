@@ -1,10 +1,19 @@
 {
 "10 documents|10 documents, roma": null,
+"21art roma|21art roma, roma": null,
 "21art|21art, roma": null,
 "30formiche|30formiche, roma": null,
 "accademia di francia a roma - villa medici|accademia di francia a roma - villa medici, roma": null,
 "accademia nazionale di san luca ets|accademia nazionale di san luca ets, roma": null,
 "accademia nazionale di san luca|accademia nazionale di san luca, roma": null,
+"accademia tedesca roma villa massimo|accademia tedesca roma villa massimo, roma": [
+41.9167123,
+12.5191182
+],
+"acrobax|acrobax, roma": [
+41.8579778,
+12.4687029
+],
 "ada|ada, roma": [
 41.9319297,
 12.5022524
@@ -18,8 +27,16 @@
 41.9298746,
 12.3980256
 ],
+"american academy in rome|american academy in rome, roma": [
+41.8872633,
+12.4621171
+],
 "anna marra contemporanea|anna marra contemporanea, roma": null,
 "auditorium parco della musica / casa del jazz|viale pietro de coubertin 30": [
+41.93,
+12.4747
+],
+"auditorium parco della musica|auditorium parco della musica, roma": [
 41.93,
 12.4747
 ],
@@ -36,6 +53,7 @@
 12.5396016
 ],
 "basement roma|basement roma, roma": null,
+"basile contemporary|basile contemporary, roma": null,
 "biblioteca della trinità dei monti|biblioteca della trinità dei monti, roma": null,
 "bocal|bocal, roma": null,
 "brancaleone|brancaleone, roma": [
@@ -43,10 +61,12 @@
 12.5407404
 ],
 "cantadora|cantadora, roma": null,
+"carrozzerie_n.o.t|carrozzerie_n.o.t, roma": null,
 "casa del cinema|largo marcello mastroianni 1, roma": [
 41.9116,
 12.4912
 ],
+"casa internazionale delle donne|casa internazionale delle donne, roma": null,
 "casa museo hendrik christian andersen|casa museo hendrik christian andersen, roma": null,
 "casa vuota|casa vuota, roma": null,
 "casale dei cedrati|casale dei cedrati, roma": [
@@ -86,6 +106,10 @@
 41.9061818,
 12.4708172
 ],
+"chiostro del bramante|chiostro del bramante, roma": [
+41.9000215,
+12.4715028
+],
 "chroma art lab|chroma art lab, roma": null,
 "cieloterra|cieloterra, roma": [
 41.9051996,
@@ -118,10 +142,12 @@
 ],
 "ermes - ermes|ermes - ermes, roma": null,
 "esc atelier occupato|esc atelier occupato, roma": null,
+"ex elettrofonica|ex elettrofonica, roma": null,
 "fanfulla 5/a|fanfulla 5/a, roma": [
 41.8906339,
 12.5302429
 ],
+"federica schiavo gallery|federica schiavo gallery, roma": null,
 "fondazione d’arc|fondazione d’arc, roma": null,
 "fondazione giuliani per l'arte contemporanea|via gustavo bianchi 1, roma": [
 41.8811254,
@@ -130,14 +156,21 @@
 "fondazione giuliani|fondazione giuliani, roma": null,
 "fondazione memmo|fondazione memmo, roma": null,
 "fondazione pastificio cerere|fondazione pastificio cerere, roma": null,
+"foro romano|foro romano, roma": [
+41.8916414,
+12.4867296
+],
 "forte prenestino|forte prenestino, roma": [
 41.8923425,
 12.569105
 ],
+"francesca antonini arte contemporanea|francesca antonini arte contemporanea, roma": null,
 "fusolab|fusolab, roma": [
 41.8720435,
 12.5822329
 ],
+"g-rough|g-rough, roma": null,
+"galleria biblioteca angelica|galleria biblioteca angelica, roma": null,
 "galleria borghese|galleria borghese, roma": [
 41.9141133,
 12.4921053
@@ -151,6 +184,7 @@
 41.903874,
 12.4858033
 ],
+"galleria dei miracoli|galleria dei miracoli, roma": null,
 "galleria gallerati|galleria gallerati, roma": null,
 "galleria gilda lavia|galleria gilda lavia, roma": null,
 "galleria nazionale d'arte antica a palazzo barberini|galleria nazionale d'arte antica a palazzo barberini, roma": null,
@@ -159,6 +193,10 @@
 12.4825309
 ],
 "galleria nazionale d'arte moderna e contemporanea|viale delle belle arti 131": [
+41.9172359,
+12.4825309
+],
+"galleria nazionale d’arte moderna e contemporanea roma|galleria nazionale d’arte moderna e contemporanea roma, roma": [
 41.9172359,
 12.4825309
 ],
@@ -185,6 +223,10 @@
 41.9063729,
 12.4876342
 ],
+"kina|kina, roma": [
+41.8666323,
+12.5465379
+],
 "la nuova pesa|la nuova pesa, roma": null,
 "la nuvola|viale asia 40": [
 41.830872,
@@ -210,6 +252,10 @@
 "macro|macro, roma": [
 41.9131637,
 12.503059
+],
+"magma|magma, roma": [
+41.8792931,
+12.540208
 ],
 "mam – media art museum|mam – media art museum, roma": null,
 "mattatoio di roma|mattatoio di roma, roma": [
@@ -241,6 +287,7 @@
 12.4672
 ],
 "mercato di tor bella monaca e zone limitrofe|tor bella monaca, roma, rm, italia": null,
+"mercurio pigneto|mercurio pigneto, roma": null,
 "metro core|metro core, roma": [
 41.891051,
 12.5329472
@@ -280,6 +327,11 @@
 41.9090468,
 12.4771678
 ],
+"museo civico di zoologia|museo civico di zoologia, roma": [
+41.9194205,
+12.488288
+],
+"museo del corso - polo museale|museo del corso - polo museale, roma": null,
 "museo di roma - palazzo braschi|museo di roma - palazzo braschi, roma": null,
 "museo di roma in trastevere|museo di roma in trastevere, roma": [
 41.8898257,
@@ -290,6 +342,7 @@
 41.8972775,
 12.4727772
 ],
+"museo e fondazione venanzo crocetti|museo e fondazione venanzo crocetti, roma": null,
 "museo h. c. andersen|museo h. c. andersen, roma": null,
 "museo napoleonico|museo napoleonico, roma": [
 41.901781,
@@ -354,6 +407,8 @@
 12.5319847
 ],
 "piazze e strade di tor bella monaca|tor bella monaca, roma, rm, italia": null,
+"pm23 - fondazione valentino garavani e giancarlo giammetti|pm23 - fondazione valentino garavani e giancarlo giammetti, roma": null,
+"porte rosse|porte rosse, roma": null,
 "posta di tor bella monaca, centro commerciale delle torri e spazi di transito tor bella monaca|tor bella monaca, roma, rm, italia": null,
 "primalinea studio|primalinea studio, roma": null,
 "rashomon club|rashomon club, roma": [
@@ -394,6 +449,10 @@
 "scuola popolare delle arti del cip-alessandrino|scuola popolare delle arti del cip-alessandrino, roma": null,
 "società delle api|società delle api, roma": null,
 "spazio amanita|spazio amanita, roma": null,
+"spazio diamante|spazio diamante, roma": [
+41.8921506,
+12.5392755
+],
 "spazio lume|spazio lume, roma": null,
 "spazio nuovo|spazio nuovo, roma": null,
 "spazio rossellini|": null,
@@ -411,6 +470,10 @@
 "teatro argentina|teatro argentina, roma": [
 41.8955,
 12.4766
+],
+"teatro basilica|teatro basilica, roma": [
+41.8871377,
+12.5073674
 ],
 "teatro biblioteca quarticciolo|teatro biblioteca quarticciolo, roma": [
 41.891324,
@@ -431,6 +494,10 @@
 "teatro dell'opera di roma|piazza beniamino gigli 7, roma": [
 41.9007,
 12.4959
+],
+"teatro della cometa|teatro della cometa, roma": [
+41.893501,
+12.4814895
 ],
 "teatro dell’opera di roma|": [
 41.9009286,
@@ -465,6 +532,15 @@
 41.869415,
 12.6331947
 ],
+"teatro valle|teatro valle, roma": [
+41.897457,
+12.4747514
+],
+"teatro vascello|teatro vascello, roma": [
+41.8824682,
+12.460607
+],
+"teatro villa pamphilj|teatro villa pamphilj, roma": null,
 "teatro vittoria|piazza santa maria liberatrice 10, roma": [
 41.8797422,
 12.4750116
@@ -480,6 +556,11 @@
 ],
 "tim van laere gallery|tim van laere gallery, roma": null,
 "tornabuoniarte|tornabuoniarte, roma": null,
+"tuba|tuba, roma": [
+41.8893885,
+12.5247246
+],
+"uccelliere farnesiane sul palatino|uccelliere farnesiane sul palatino, roma": null,
 "una vetrina|una vetrina, roma": null,
 "valentina bonomo|valentina bonomo, roma": null,
 "via brembio|via brembio, roma, rm, italia": [
@@ -490,15 +571,25 @@
 41.8823457,
 12.4766487
 ],
+"via sannio|via sannio, roma": [
+41.8841346,
+12.5074426
+],
 "villa borghese - loggia dei vini|villa borghese - loggia dei vini, roma": null,
 "villa di massenzio|villa di massenzio, roma": [
 41.8559222,
 12.5195946
 ],
+"villa la saracena, santa marinella|villa la saracena, santa marinella, roma": null,
 "villa torlonia|villa torlonia, roma": [
 41.9136433,
 12.5116238
 ],
+"villaggio globale|villaggio globale, roma": [
+41.8735602,
+12.4723561
+],
+"von buren contemporary|von buren contemporary, roma": null,
 "wishlist club|wishlist club, roma": [
 41.8994468,
 12.5182211

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf8f0b920ef8@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20270208
+SUMMARY:Sophie Calle. Matrimoni\, Rotture e Funerali inclusi
+LOCATION:MAXXI Museo nazionale delle arti del XXI secolo\, MAXXI Museo na
+ zionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Per la prima volta a Roma\, una panoramica sulla ricerca dell
+ ’artista attraverso oltre quarant’anni di attività. Presenza e assen
+ za\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-sophie-calle-
+ matrimoni-rotture-e-funerali-inclusi-104407\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-sophie-calle-matrimon
+ i-rotture-e-funerali-inclusi-104407
+END:VEVENT
+END:VCALENDAR

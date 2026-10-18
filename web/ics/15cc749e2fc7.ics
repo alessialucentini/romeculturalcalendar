@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:15cc749e2fc7@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20270529T190000Z
+DTEND:20270529T210000Z
+SUMMARY:Phantom Of The Opera
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Phantom Of The Opera di Andrew Lloyd Webber\, celebra i suoi 
+ 40 anni dal debutto e torna\, a grande richiesta\, […]\n\nInfo: https:/
+ /teatrobrancaccio.it/spettacoli/stagione-2026-2027/phantom-of-the-opera/\
+ n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/phantom-of-
+ the-opera/
+END:VEVENT
+END:VCALENDAR

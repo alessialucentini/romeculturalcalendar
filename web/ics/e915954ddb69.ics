@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e915954ddb69@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261118
+SUMMARY:Food. Il gusto nell’arte
+LOCATION:Chiostro del Bramante\, Chiostro del Bramante\, Roma
+DESCRIPTION:Dal 17 ottobre 2026 il Chiostro del Bramante racconta il cibo
+  come linguaggio dell’arte con “Food. Il gusto nell’arte”\, a cur
+ a\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-food-il-gusto-
+ nell-arte-104614\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-food-il-gusto-nell-ar
+ te-104614
+END:VEVENT
+END:VCALENDAR

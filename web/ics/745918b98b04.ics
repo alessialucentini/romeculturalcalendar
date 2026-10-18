@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:745918b98b04@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261113
+SUMMARY:Marco Stefanucci - "Iconografia dell’assenza"
+LOCATION:Von Buren Contemporary\, Von Buren Contemporary\, Roma
+DESCRIPTION:Personale dell'artista che\, attraverso la pittura e la reint
+ erpretazione di simboli della tradizione iconografica\, costruisce un imm
+ aginario sospeso\, in cui\n\nInfo: https://zero.eu/it/eventi/380831-marco
+ -stefanucci-iconografia-dellassenza\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380831-marco-stefanucci-iconografia-dellass
+ enza,roma/
+END:VEVENT
+END:VCALENDAR

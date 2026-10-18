@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:89c66a140405@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261121
+SUMMARY:Tallulah Drinfeld - "Wherever I Am I Am What Is Missing"
+LOCATION:T293\, T293\, Roma
+DESCRIPTION:Personale dell'artista che porta in mostra una serie di dipin
+ ti solcati da corpi\, camere da letto\, abiti\, frutta e interni\n\nInfo:
+  https://zero.eu/it/eventi/381211-tallulah-drinfeld-wherever-i-am-i-am-wh
+ at-is-missing\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381211-tallulah-drinfeld-wherever-i-am-i-am
+ -what-is-missing,roma/
+END:VEVENT
+END:VCALENDAR

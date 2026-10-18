@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1f564b70147e@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261101T063000Z
+DTEND:20261101T083000Z
+SUMMARY:SOLO GLI AMANTI SOPRAVVIVONO (ONLY LOVER
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Adam\, un musicista underground\, è gravemente depresso per 
+ via della piega che la sua vita umana sta prendendo\, nonostante i suoi s
+ forzi. Torna allora a far coppia con la sua enigmatica amante\, Eve\, con
+  la quale ha diviso diversi secoli di amore. Ma il loro idillio è interr
+ otto dall'arrivo della selvaggia e imprevedibile sorella minore di Eve\, 
+ Ava.\n\nInfo: https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ddeb4b393d87@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261018T215900Z
+DTEND:20261018T235900Z
+SUMMARY:Essi vivono
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Nada (Roddy Piper)\, operaio\, ha trovato lavoro a San Franci
+ sco. In cerca di un posto dove passare la notte\, viene portato da un col
+ lega in una chiesa dove ascolta un predicatore cieco parlare del controll
+ o della mente che “loro” starebbero praticando sugli uomini. Poco pri
+ ma che il posto sia oggetto di un raid della polizia\, Nada scova degli s
+ trani occhiali in una scatola e tramite quelli riesce…\n\nInfo: https:/
+ /www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

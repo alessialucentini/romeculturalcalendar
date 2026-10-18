@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f55e98c8a5c9@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261019T133000Z
+DTEND:20261019T153000Z
+SUMMARY:Fatherland
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Il rapporto tra lo scrittore Thomas Mann (Hanns Zischler) e s
+ ua figlia Erika (Sandra Hüller)\, attrice\, giornalista e pilota di rall
+ y. A bordo di una Buick nera intraprendono un viaggio attraverso una Germ
+ ania in macerie: da Francoforte\, sotto l'influenza statunitense\, fino a
+  Weimar\, controllata dai sovietici. Per la prima volta dopo la guerra\, 
+ Mann torna nella sua nativa Germania\, dopo aver preso…\n\nInfo: https:
+ //www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

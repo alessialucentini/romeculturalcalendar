@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5e752b2af251@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20270224
+SUMMARY:Aura
+LOCATION:PM23 - Fondazione Valentino Garavani e Giancarlo Giammetti\, PM2
+ 3 - Fondazione Valentino Garavani e Giancarlo Giammetti\, Roma
+DESCRIPTION:Un mostra mette in dialogo l'universo creativo del maestro Va
+ lentino con i dipinti surrealisti dell'artista polacca Ewa Juszkiewicz\, 
+ esplorando il\n\nInfo: https://zero.eu/it/eventi/380518-aura\,roma/\n\nDa
+  Linceo
+URL:https://zero.eu/it/eventi/380518-aura,roma/
+END:VEVENT
+END:VCALENDAR

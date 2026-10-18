@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9c53363b7762@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20270211
+SUMMARY:Tatiana Bilbao Estudio - "Campo aperto"
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Per la nona edizione di "NATURE"\, programma di installazioni
+  site-specific nella sala Claudia Gian Ferrari\, il Museo invita Tatiana 
+ Bilbao\,\n\nInfo: https://zero.eu/it/eventi/379638-tatiana-bilbao-estudio
+ -campo-aperto\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379638-tatiana-bilbao-estudio-campo-aperto,
+ roma/
+END:VEVENT
+END:VCALENDAR

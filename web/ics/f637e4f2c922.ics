@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f637e4f2c922@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20270126T200000Z
+DTEND:20270126T220000Z
+SUMMARY:Fatti Di Musica
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Pietro Morello è musicista\, creator e divulgatore\, capace 
+ di trasformare la musica in uno strumento di incontro\, racconto e condiv
+ isione. […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-20
+ 26-2027/fatti-di-musica/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/fatti-di-mu
+ sica/
+END:VEVENT
+END:VCALENDAR

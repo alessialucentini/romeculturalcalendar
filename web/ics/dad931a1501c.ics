@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dad931a1501c@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261025
+SUMMARY:Frosini/Timpano - "Dux in scatola"
+LOCATION:Carrozzerie_n.o.t\, Carrozzerie_n.o.t\, Roma
+DESCRIPTION:Repliche speciali per i vent'anni dello spettacolo che ha con
+ sacrato il duo Frosini/Timpano. Per prenotazioni carrozzerienot@gmail.com
+ .\n\nInfo: https://zero.eu/it/eventi/379089-frosini-timpano-dux-in-scatol
+ a-carrozzerie-not\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379089-frosini-timpano-dux-in-scatola-carro
+ zzerie-not,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90aa0243a00e@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261130
+SUMMARY:Luigi & Iango - "Corpi speciali"
+LOCATION:Galleria Nazionale d'Arte Moderna e Contemporanea\, Galleria Naz
+ ionale d'Arte Moderna e Contemporanea\, Roma
+DESCRIPTION:La coppia di fotografi formata da Luigi Murenu e Iango Henzi\
+ , attivissima nel mondo della moda\, sarà protagonista di una\n\nInfo: h
+ ttps://zero.eu/it/eventi/375864-luigi-iango-corpi-speciali\,roma/\n\nDa L
+ inceo
+URL:https://zero.eu/it/eventi/375864-luigi-iango-corpi-speciali,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:18fa0b33b3ca@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261026
+SUMMARY:IL CLUB DELLE SINGLE
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Una commedia moderna\, brillante\, che unisce divertimento e 
+ riflessione sociale. | SALA GRANDE\n\nInfo: https://teatriincomune.roma.i
+ t/events/il-club-delle-single/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/il-club-delle-single/
+END:VEVENT
+END:VCALENDAR

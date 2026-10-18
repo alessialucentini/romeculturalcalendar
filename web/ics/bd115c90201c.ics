@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd115c90201c@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261021T163000Z
+DTEND:20261021T183000Z
+SUMMARY:Tools for Assembly: Reading Counterpower
+LOCATION:Lateral\, Lateral\, Roma
+DESCRIPTION:Lateral ospita una sessione di lettura orchestrata da Giulia 
+ Crispiani\, ispirata all'omonimo progetto avviato nel 2024 dall'artista I
+ liada Charalambous (con\n\nInfo: https://zero.eu/it/eventi/381294-tools-f
+ or-assembly-reading-counterpower\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381294-tools-for-assembly-reading-counterpo
+ wer,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e3abef9fd4c1@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261110T173000Z
+DTEND:20261110T193000Z
+SUMMARY:Strategia del ragno
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:: Liberamente ispirato a un racconto di Borges\, segue il tre
+ ntacinquenne Athos Magnani mentre torna nella fittizia cittadina padana d
+ i Tara per indagare sull'omicidio del padre\, un celebre eroe antifascist
+ a. Scoprirà una fitta rete di menzogne scoprendo che la verità sul pass
+ ato è drammaticamente ambigua.\n\nInfo: https://www.cinematroisi.it\n\nD
+ a Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:464b60f5968f@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261216
+SUMMARY:Gaudí. Architettura\, arte e simbolo
+LOCATION:Galleria dei Miracoli\, Galleria dei Miracoli\, Roma
+DESCRIPTION:Nel centenario della scomparsa di Antoni Gaudí (1852–1926)
+ \, la Galleria dei Miracoli di Roma propone un ciclo di incontri volto a 
+ far con\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-gaudí-a
+ rchitettura-arte-e-simbolo-104618\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-gaudí-architettura-a
+ rte-e-simbolo-104618
+END:VEVENT
+END:VCALENDAR

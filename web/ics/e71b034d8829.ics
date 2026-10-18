@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e71b034d8829@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261117T173000Z
+DTEND:20261117T193000Z
+SUMMARY:Il conformista
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Nel 1937 il professore Marcello Clerici sposa Giulia. Mentre 
+ la donna è spensierata\, allegra\, senza problemi\, lui - nonostante i b
+ uoni successi come docente di filosofia - è tormentato da un ricordo: a 
+ tredici anni ha ucciso Lino Seminara\, un autista che ha tentato di avere
+  con lui dei rapporti omosessuali. Da allora Marcello ha abbandonato la p
+ ratica religiosa e si è legato strettamente con l'OV…\n\nInfo: https:/
+ /www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

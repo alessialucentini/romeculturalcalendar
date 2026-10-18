@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:443e12362566@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20270208
+SUMMARY:Tatiana Bilbao. Un-natural Space
+LOCATION:MAXXI Museo nazionale delle arti del XXI secolo\, MAXXI Museo na
+ zionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Un progetto che unisce natura\, materiali e architettura\, tr
+ asformando lo spazio in un luogo di relazione. Per la nona edizione di NA
+ TURE\, il programm\n\nInfo: https://www.arte.it/calendario-arte/roma/most
+ ra-tatiana-bilbao-un-natural-space-104408\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-tatiana-bilbao-un-nat
+ ural-space-104408
+END:VEVENT
+END:VCALENDAR

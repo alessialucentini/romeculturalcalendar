@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e925584eadb0@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261023T163000Z
+DTEND:20261023T183000Z
+SUMMARY:Biréli Lagrène
+LOCATION:Accademia di Francia a Roma - Villa Medici\, Accademia di Franci
+ a a Roma - Villa Medici\, Roma
+DESCRIPTION:Villa Medici ospita il grande chitarrista francese di origine
+  gitana\, erede della tradizione di Django Reinhardt.\n\nInfo: https://ze
+ ro.eu/it/eventi/377627-bireli-lagrene\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377627-bireli-lagrene,roma/
+END:VEVENT
+END:VCALENDAR

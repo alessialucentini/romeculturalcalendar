@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:01874c572310@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+SUMMARY:Witch is
+LOCATION:Teatro di Roma · Teatro Torlonia
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-torlonia/witch-is/\n\nD
+ a Linceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-torlonia/witch-is/
+END:VEVENT
+END:VCALENDAR

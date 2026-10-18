@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1858cc36505e@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261030
+SUMMARY:Retrospettiva. Roberto Venturoni
+LOCATION:Museo e Fondazione Venanzo Crocetti\, Museo e Fondazione Venanzo
+  Crocetti\, Roma
+DESCRIPTION:Il Museo e Fondazione Venanzo Crocetti di Roma\, ospita dal 1
+ 7 al 29 ottobre\, la retrospettiva sul celebre pittore\, incisore e scult
+ ore \n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-retrospetti
+ va-roberto-venturoni-104612\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-retrospettiva-roberto
+ -venturoni-104612
+END:VEVENT
+END:VCALENDAR

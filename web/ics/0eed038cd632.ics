@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0eed038cd632@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261030
+SUMMARY:Maria Pacheco Cibils. Vibrazioni
+LOCATION:Galleria Biblioteca Angelica\, Galleria Biblioteca Angelica\, Ro
+ ma
+DESCRIPTION:Il giorno 13 ottobre 2026 alle ore 18.00 inaugura la mostra V
+ ibrazioni di Maria Pacheco Cibils\, con i testi di Barbara Volpi e Maria 
+ Pacheco Cibils\, p\n\nInfo: https://www.arte.it/calendario-arte/roma/most
+ ra-maria-pacheco-cibils-vibrazioni-104631\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-maria-pacheco-cibils-
+ vibrazioni-104631
+END:VEVENT
+END:VCALENDAR

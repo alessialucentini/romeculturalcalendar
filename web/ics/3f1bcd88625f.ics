@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3f1bcd88625f@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261025T150000Z
+DTEND:20261025T170000Z
+SUMMARY:Stochastic Resonance I/O
+LOCATION:MAGMA\, MAGMA\, Roma
+DESCRIPTION:Una giornata intera di elettronica sperimentale a cura dell'e
+ tichetta romana.\n\nInfo: https://zero.eu/it/eventi/379347-stochastic-res
+ onance-i-o-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379347-stochastic-resonance-i-o-2026,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:75065ac87bad@linceo
+DTSTAMP:20261018T073831Z
+DTSTART:20261024T210000Z
+DTEND:20261024T230000Z
+SUMMARY:Fleurs Sonores x Armonia 27
+LOCATION:Brancaleone\, Brancaleone\, Roma
+DESCRIPTION:I due collettivi uniscono le forze con LPM - Live Performers 
+ Meeting tra bass music e performance visive. In line-up\n\nInfo: https://
+ zero.eu/it/eventi/381130-fleurs-sonores-x-armonia-27\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381130-fleurs-sonores-x-armonia-27,roma/
+END:VEVENT
+END:VCALENDAR

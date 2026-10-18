@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5c7c8f8eddfc@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261026
+SUMMARY:Motus - "Frankenstein (History of Hate)"
+LOCATION:Teatro Basilica\, Teatro Basilica\, Roma
+DESCRIPTION:Dopo "Frankenstein (A Love Story)"\, i Motus chiudono il prog
+ etto sul “mostro” di Mary Shelley: una storia di odio e\n\nInfo: http
+ s://zero.eu/it/eventi/378910-motus-frankenstein-history-of-hatebasilica-r
+ oma\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378910-motus-frankenstein-history-of-hateba
+ silica-roma,roma/
+END:VEVENT
+END:VCALENDAR

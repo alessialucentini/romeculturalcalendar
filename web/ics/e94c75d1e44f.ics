@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e94c75d1e44f@linceo
+DTSTAMP:20261018T073831Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Dario Fo ha cento anni
+LOCATION:Teatro di Roma · Teatro India
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-india/dario-fo-ha-cento
+ -anni/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-india/dario-fo-ha-cento-anni/
+END:VEVENT
+END:VCALENDAR
