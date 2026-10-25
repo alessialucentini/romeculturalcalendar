@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:85ac2397ccae@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261031T160000Z
+DTEND:20261031T180000Z
+SUMMARY:Halloween Sucks
+LOCATION:Cinema Troisi\, Cinema Troisi\, Roma
+DESCRIPTION:Maratona di film vampireschi per un Halloween alternativo e t
+ utto in sala.\n\nInfo: https://zero.eu/it/eventi/381283-halloween-sucks\,
+ roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381283-halloween-sucks,roma/
+END:VEVENT
+END:VCALENDAR

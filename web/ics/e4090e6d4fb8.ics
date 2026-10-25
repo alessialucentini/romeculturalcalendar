@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e4090e6d4fb8@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261128T153000Z
+DTEND:20261128T173000Z
+SUMMARY:Il corpo gioca e il gioco riunisce
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · MAXXI in famiglia\n\nInfo: https://www
+ .maxxi.art/events/il-corpo-gioca-e-il-gioco-riunisce/\n\nDa Linceo
+URL:https://www.maxxi.art/events/il-corpo-gioca-e-il-gioco-riunisce/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3ca8964bf5fb@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261120T173000Z
+DTEND:20261120T193000Z
+SUMMARY:Spirito Classico – Valerio Sebastiani
+LOCATION:Auditorium Parco della Musica · Spazio Risonanze\, Viale Pietro
+  de Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /spirito-classico-valerio-sebastiani/?replica=1850\n\nDa Linceo
+URL:https://santacecilia.it/concerto/spirito-classico-valerio-sebastiani/
+ ?replica=1850
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:567da433ec6a@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:PASOLINIANA site specific
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Un'esperienza urbana partecipativa dove danza e teatro si fon
+ dono per riabitare i luoghi nel segno di Pier Paolo Pasolini. Performance
+  e tableau vivant trasfigurano lo spazio pubblico\, trasformandolo in un 
+ omaggio al cinema e alla cultura popolare che Pasolini ha raccontato.\n\n
+ Info: https://teatriincomune.roma.it/events/pasoliniana-site-specific/\n\
+ nDa Linceo
+URL:https://teatriincomune.roma.it/events/pasoliniana-site-specific/
+END:VEVENT
+END:VCALENDAR

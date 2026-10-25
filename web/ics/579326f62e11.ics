@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:579326f62e11@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Philippe Parreno - "Riverrun"
+LOCATION:Roma cinema vari\, Roma cinema vari\, Roma
+DESCRIPTION:L'artista visivo e documentarista francese presenta alla Fest
+ a del Cinema di Roma il suo primo lungometraggio\, di cui firma anche\n\n
+ Info: https://zero.eu/it/eventi/381988-philippe-parreno-riverrun\,roma/\n
+ \nDa Linceo
+URL:https://zero.eu/it/eventi/381988-philippe-parreno-riverrun,roma/
+END:VEVENT
+END:VCALENDAR

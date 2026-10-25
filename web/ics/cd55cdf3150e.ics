@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cd55cdf3150e@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:corto.alto
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Dal vivo l'esplosivo progetto di Liam Shortall\, polistrument
+ ista scozzese sospeso tra nu-jazz ed elettronica.\n\nInfo: https://zero.e
+ u/it/eventi/378418-corto-alto-monk-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378418-corto-alto-monk-2026,roma/
+END:VEVENT
+END:VCALENDAR

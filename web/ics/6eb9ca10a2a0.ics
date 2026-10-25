@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6eb9ca10a2a0@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270207
+SUMMARY:Bill Viola - "The Greeting"
+LOCATION:Foro romano\, Foro romano\, Roma
+DESCRIPTION:La basilica di Santa Maria Antiqu all'interno del Foro Romano
+  ospita un'opera video realizzata per il Padiglione USA alla Biennale\n\n
+ Info: https://zero.eu/it/eventi/380824-bill-viola-the-greeting\,roma/\n\n
+ Da Linceo
+URL:https://zero.eu/it/eventi/380824-bill-viola-the-greeting,roma/
+END:VEVENT
+END:VCALENDAR

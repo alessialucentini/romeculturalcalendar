@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b0dd05768478@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261106T173000Z
+DTEND:20261106T193000Z
+SUMMARY:Le ragioni dell’architettura
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · convegno · Ricordando Susanna Nobili\n\nInfo: http
+ s://www.maxxi.art/events/le-ragioni-dellarchitettura/\n\nDa Linceo
+URL:https://www.maxxi.art/events/le-ragioni-dellarchitettura/
+END:VEVENT
+END:VCALENDAR

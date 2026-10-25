@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ed959ef5a9f1@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Iconografie 2026
+LOCATION:Mercurio Pigneto\, Mercurio Pigneto\, Roma
+DESCRIPTION:La rivista sullo spirito del tempo contemporaneo presenta l'e
+ dizione 2026 del suo festival dedicato al XXI secolo. Con Christian Raimo
+ \,\n\nInfo: https://zero.eu/it/eventi/380814-iconografie-2026\,roma/\n\nD
+ a Linceo
+URL:https://zero.eu/it/eventi/380814-iconografie-2026,roma/
+END:VEVENT
+END:VCALENDAR

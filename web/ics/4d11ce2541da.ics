@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d11ce2541da@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Vedere l’architettura
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · workshop · Un laboratorio di fotograf
+ ia al MAXXI con Allegra Martin\n\nInfo: https://www.maxxi.art/events/vede
+ re-larchitettura/\n\nDa Linceo
+URL:https://www.maxxi.art/events/vedere-larchitettura/
+END:VEVENT
+END:VCALENDAR

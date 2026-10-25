@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fcf6a3b3fd39@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261107T103000Z
+DTEND:20261107T123000Z
+SUMMARY:MANI NELLA TERRA
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · MAXXI GREEN Lab • laboratori per famiglie · Semi
+ \, foglie e meraviglia\n\nInfo: https://www.maxxi.art/events/mani-nella-t
+ erra-7novembre/\n\nDa Linceo
+URL:https://www.maxxi.art/events/mani-nella-terra-7novembre/
+END:VEVENT
+END:VCALENDAR

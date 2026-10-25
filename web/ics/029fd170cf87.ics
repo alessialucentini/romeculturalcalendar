@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:029fd170cf87@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261101
+SUMMARY:SOS Misteri a Palazzo: caccia ai segreti di Halloween
+LOCATION:Palazzo Barberini\, Via delle Quattro Fontane 13\, Roma
+DESCRIPTION:Info: https://barberinicorsini.org/evento/sos-misteri-a-palaz
+ zo-caccia-ai-segreti-di-halloween/\n\nDa Linceo
+URL:https://barberinicorsini.org/evento/sos-misteri-a-palazzo-caccia-ai-s
+ egreti-di-halloween/
+END:VEVENT
+END:VCALENDAR

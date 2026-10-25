@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4823c8091473@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:Azymuth
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:I re del groove brasiliano tornano dal vivo al Monk.\n\nInfo:
+  https://zero.eu/it/eventi/378417-azymuth-monk-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378417-azymuth-monk-2026,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dd3510345b9c@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261209
+SUMMARY:Tiziano. Dialoghi tra Sacro e Profano
+LOCATION:Galleria Borghese\, Galleria Borghese\, Roma
+DESCRIPTION:La mostra a cura di Maria Giovanna Sarti mette per la prima v
+ olta a confronto diretto l’Annunciazione di Tiziano\, proveniente\n\nIn
+ fo: https://zero.eu/it/eventi/380986-tiziano-dialoghi-tra-sacro-e-profano
+ \,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380986-tiziano-dialoghi-tra-sacro-e-profano
+ ,roma/
+END:VEVENT
+END:VCALENDAR

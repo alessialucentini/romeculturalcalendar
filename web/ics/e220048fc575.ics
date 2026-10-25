@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e220048fc575@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:Crocodiles
+LOCATION:Wishlist Club\, Wishlist Club\, Roma
+DESCRIPTION:Da San Diego\, California\, arriva il noise-pop dei Crocodile
+ s. Intriganti melodie pronte a disintegrarsi nel rumore.\n\nInfo: https:/
+ /zero.eu/it/eventi/378612-crocodiles-wishlist-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378612-crocodiles-wishlist-2026,roma/
+END:VEVENT
+END:VCALENDAR

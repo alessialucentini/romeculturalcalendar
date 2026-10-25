@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1d65f3e3cb19@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
+SUMMARY:Blade Runner Cine-concert
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Rassegne\n\nInfo: https://santacecilia.it/con
+ certo/blade-runner-cine-concert/?replica=1867\n\nDa Linceo
+URL:https://santacecilia.it/concerto/blade-runner-cine-concert/?replica=1
+ 867
+END:VEVENT
+END:VCALENDAR

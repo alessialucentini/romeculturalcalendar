@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9de239cbbba@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270121
+SUMMARY:Tajikistan. The Land of Unique Heritage
+LOCATION:MUCIV - Museo delle Civiltà\, MUCIV - Museo delle Civiltà\, Ro
+ ma
+DESCRIPTION:Una mostra suddivisa in due filoni principali: da una parte l
+ 'esplorazione di siti archeologici e degli imperi dell'antichità\, dall'
+ altra il\n\nInfo: https://zero.eu/it/eventi/381222-tajikistan-the-land-of
+ -unique-heritage\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381222-tajikistan-the-land-of-unique-herita
+ ge,roma/
+END:VEVENT
+END:VCALENDAR

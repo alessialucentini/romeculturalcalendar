@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f0416cedb635@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Spring Attitude w/ Ivreatronic
+LOCATION:Cinecittà Studios\, Cinecittà Studios\, Roma
+DESCRIPTION:Spring Attitude presenta un nuovo appuntamento negli Studi di
+  Cinecittà (al Teatro 26) con Ivreatronic: il collettivo piemontese torn
+ a a\n\nInfo: https://zero.eu/it/eventi/380710-spring-attitude-w-ivreatron
+ ic\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380710-spring-attitude-w-ivreatronic,roma/
+END:VEVENT
+END:VCALENDAR

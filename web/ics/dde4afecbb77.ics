@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dde4afecbb77@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261119T190000Z
+DTEND:20261119T210000Z
+SUMMARY:CDJO Casa del Jazz Orchestra diretta da Mario Corvini con Javier 
+ Girotto – “Tenor Madness”. Omaggio a Sonny Rollins
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ cdjo-casa-del-jazz-orchestra-di-mario-corvini-con-javier-girotto-tenor-ma
+ dness/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/cdjo-casa-del-jazz-orchestra-di-m
+ ario-corvini-con-javier-girotto-tenor-madness/
+END:VEVENT
+END:VCALENDAR

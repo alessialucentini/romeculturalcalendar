@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b6fa666c2ce7@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270201
+SUMMARY:Saffo. Lo spirito della poesia
+LOCATION:Uccelliere Farnesiane sul Palatino\, Uccelliere Farnesiane sul P
+ alatino\, Roma
+DESCRIPTION:Le Uccelliere Farnesiane sul Palatino ospitano una mostra ded
+ icata alla poetessa di Lesbo\, divisa in due parti: la Saffo storica\n\nI
+ nfo: https://zero.eu/it/eventi/380461-saffo-lo-spirito-della-poesia\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380461-saffo-lo-spirito-della-poesia,roma/
+END:VEVENT
+END:VCALENDAR

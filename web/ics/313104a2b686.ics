@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:313104a2b686@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261116
+SUMMARY:Jilan Wu - "A Certain Closeness"
+LOCATION:Curva Pura\, Curva Pura\, Roma
+DESCRIPTION:In mostra una selezione di opere recenti attraverso le quali 
+ l'artista di Guizhou esplora la dimensione più intima dell'esperienza um
+ ana:\n\nInfo: https://zero.eu/it/eventi/380699-jilan-wu-a-certain-closene
+ ss\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380699-jilan-wu-a-certain-closeness,roma/
+END:VEVENT
+END:VCALENDAR

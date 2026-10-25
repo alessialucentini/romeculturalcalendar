@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:067fb69303ed@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:STILL ALIVE
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Still Alive esplora le varie fasi che il corpo depresso attra
+ versa\, tra il rifiuto e l’accettazione. Una composizione che sa di “
+ still life”\, una natura morta che si lascia osservare\, inerme nella s
+ ua impossibilità.\n\nInfo: https://teatriincomune.roma.it/events/still-a
+ live/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/still-alive/
+END:VEVENT
+END:VCALENDAR

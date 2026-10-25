@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db29fcba78c4@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261221
+SUMMARY:Casotto
+LOCATION:Ex Elettrofonica\, Ex Elettrofonica\, Roma
+DESCRIPTION:Ex Elettrofonica inizia la sua stagione con una collettiva ch
+ e vedrà in mostra lavori di Stanislao Di Giugno\, Stefania Galegati\,\n\
+ nInfo: https://zero.eu/it/eventi/377622-casotto\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377622-casotto,roma/
+END:VEVENT
+END:VCALENDAR

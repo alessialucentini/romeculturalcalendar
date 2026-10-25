@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:11c20cc76ce8@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261030T160000Z
+DTEND:20261030T180000Z
+SUMMARY:SuperNaturale Opening
+LOCATION:SuperNaturale Bottega\, SuperNaturale Bottega\, Roma
+DESCRIPTION:SuperNaturale apre ufficialmente al pubblico la sua Bottega a
+  San Lorenzo\, tra vinelli e musica.\n\nInfo: https://zero.eu/it/eventi/3
+ 81892-supernaturale-opening\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381892-supernaturale-opening,roma/
+END:VEVENT
+END:VCALENDAR

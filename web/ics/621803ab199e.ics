@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:621803ab199e@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:Incontro: San Francesco e la musica
+LOCATION:Auditorium Parco della Musica · Bibliomediateca\, Viale Pietro 
+ de Coubertin 30\, Roma
+DESCRIPTION:Classica\n\nInfo: https://santacecilia.it/concerto/incontro-s
+ an-francesco-e-la-musica/?replica=1865\n\nDa Linceo
+URL:https://santacecilia.it/concerto/incontro-san-francesco-e-la-musica/?
+ replica=1865
+END:VEVENT
+END:VCALENDAR

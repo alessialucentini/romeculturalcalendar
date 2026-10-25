@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5cd87d448de3@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261124T173000Z
+DTEND:20261124T193000Z
+SUMMARY:Ultimo tango a Parigi
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Un uomo\, rimasto vedovo della moglie suicida\, si aggira per
+  Parigi in preda a una irrefrenabile malinconia\, dovuta\, oltre che alla
+  perdita della sua compagna\, a un passato confuso e alla perdita della g
+ iovinezza. L'incontro con una giovanissima ragazza borghese e il loro ful
+ mineo rapporto sessuale cambierà la vita di entrambi. Ma l'uomo sembra i
+ mprigionato in una sorta di ossessione erotica\, che…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

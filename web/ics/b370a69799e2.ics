@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b370a69799e2@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Preferisco il rumore del mare
+LOCATION:Villa La Saracena\, Santa Marinella\, Villa La Saracena\, Santa 
+ Marinella\, Roma
+DESCRIPTION:Un weekend di full immersion sospeso sul mare\, tra architett
+ ura\, musica\, scrittura e libri\, a cura del book club Common\n\nInfo: h
+ ttps://zero.eu/it/eventi/381252-preferisco-il-rumore-del-mare\,santa-mari
+ nella/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381252-preferisco-il-rumore-del-mare,santa-
+ marinella/
+END:VEVENT
+END:VCALENDAR

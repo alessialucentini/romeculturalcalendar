@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dffb1e23e98e@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Ersan Mondtag - "Winterreise"
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Cinque registi dirigono un cast di sette attrici ed attori de
+ l corso di II livello in recitazione dell’Accademia Nazionale d’Arte\
+ n\nInfo: https://zero.eu/it/eventi/378806-ersan-mondtag-winterreise\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378806-ersan-mondtag-winterreise,roma/
+END:VEVENT
+END:VCALENDAR

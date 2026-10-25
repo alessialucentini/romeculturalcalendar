@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6803405651d2@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:IABOON w/ Steve Pepe
+LOCATION:Fanfulla 5/a\, Fanfulla 5/a\, Roma
+DESCRIPTION:Exotic sound e sviaggi downtempo con il producer come ospite 
+ speciale (live)\, accompagnato dai dj set di Mangoo\, Pierpanico e\n\nInf
+ o: https://zero.eu/it/eventi/381557-iaboon-w-steve-pepe\,roma/\n\nDa Linc
+ eo
+URL:https://zero.eu/it/eventi/381557-iaboon-w-steve-pepe,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ecd1c45211fc@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261102
+SUMMARY:Kepler-452 - "Gone"
+LOCATION:Teatro India\, Teatro India\, Roma
+DESCRIPTION:Dall’incontro tra la compagnia e gli attori del Teatro Tuma
+ nishvili di Tbilisi nasce un’indagine teatrale costruita a partire dall
+ e biografie\n\nInfo: https://zero.eu/it/eventi/379079-kepler-452-gone\,ro
+ ma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379079-kepler-452-gone,roma/
+END:VEVENT
+END:VCALENDAR

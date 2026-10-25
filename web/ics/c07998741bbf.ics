@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c07998741bbf@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261214
+SUMMARY:Mario Carlo Iusi - "Exitus"
+LOCATION:Palazzo Doria Pamphilj\, Palazzo Doria Pamphilj\, Roma
+DESCRIPTION:Personale dell'artista negli appartamenti Segreti Doria Pamph
+ ilj\, a cura di Cristian Moriconi. Al centro della mostra\, un impianto n
+ arrativo basato\n\nInfo: https://zero.eu/it/eventi/380834-mario-carlo-ius
+ i-exitus\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380834-mario-carlo-iusi-exitus,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:75245ff3f2be@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261029T210000Z
+DTEND:20261029T230000Z
+SUMMARY:Danalogue
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Il suonatore di synth e producer inglese\, già membro dei Th
+ e Comet Is Coming\, presenta dal vivo il suo nuovo\n\nInfo: https://zero.
+ eu/it/eventi/379477-danalogue\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379477-danalogue,roma/
+END:VEVENT
+END:VCALENDAR

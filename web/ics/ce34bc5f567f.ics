@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ce34bc5f567f@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261212T103000Z
+DTEND:20261212T123000Z
+SUMMARY:PIANTALA!
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · MAXXI GREEN Lab • laboratori · Coltiva il futuro
+  tra natura\, arte e sostenibilità\n\nInfo: https://www.maxxi.art/events
+ /piantala-12dicembre/\n\nDa Linceo
+URL:https://www.maxxi.art/events/piantala-12dicembre/
+END:VEVENT
+END:VCALENDAR

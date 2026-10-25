@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4859b45046f3@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:DRACULA DI BRAM STOKER 4K (RIED. 2026)
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Anno 1462\, Costantinopoli era caduta. I musulmani turchi dil
+ agavano in Europa\, minacciando tutto il mondo cristiano. Dalla Transilva
+ nia si levò a difesa della chiesa un cavaliere rumeno del sacro ordine d
+ el Dragone\, conosciuto come Draculia. Quando ritornò a casa\, scoprì c
+ he Elisabeta\, principessa romena nonché sua moglie\, era morta suicida 
+ quando ricevette\, dai turchi sconfitti\, la falsa notizia…\n\nInfo: ht
+ tps://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

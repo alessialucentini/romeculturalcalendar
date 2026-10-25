@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c43817146e27@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261214
+SUMMARY:Mario Carlo Iusi. Exitus
+LOCATION:Appartamenti Segreti Doria Pamphilj\, Appartamenti Segreti Doria
+  Pamphilj\, Roma
+DESCRIPTION:Dal 21 ottobre al 13 dicembre 2026 gli Appartamenti Segreti D
+ oria Pamphilj a Roma si ospitano Exitus una mostra di Mario Carlo Iusi cu
+ rata da Cristian\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra
+ -mario-carlo-iusi-exitus-104623\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-mario-carlo-iusi-exit
+ us-104623
+END:VEVENT
+END:VCALENDAR

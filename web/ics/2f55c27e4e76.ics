@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2f55c27e4e76@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261031T181500Z
+DTEND:20261031T201500Z
+SUMMARY:The Addiction - Vampiri a New York
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Kathleen Conklin\, una giovane studentessa newyorkese di filo
+ sofia\, alla continua ricerca dell'origine del male\, viene attratta all'
+ interno di un gruppo di succhiatori di sangue e tramutata anch'essa in un
+ a vampira\, a causa del morso di Casanova\, un vampiro donna.Per lei si a
+ prirà un mondo delirante di sangue e di ansia esistenziale. Spinta dal b
+ isogno primordiale di succhiare sangue assalirà i su…\n\nInfo: https:/
+ /www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

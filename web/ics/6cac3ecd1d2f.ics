@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6cac3ecd1d2f@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20270227T103000Z
+DTEND:20270227T123000Z
+SUMMARY:PIANTALA!
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · MAXXI GREEN Lab • laboratori · Coltiva il futuro
+  tra natura\, arte e sostenibilità\n\nInfo: https://www.maxxi.art/events
+ /piantala-27febbraio/\n\nDa Linceo
+URL:https://www.maxxi.art/events/piantala-27febbraio/
+END:VEVENT
+END:VCALENDAR

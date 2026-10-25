@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:349714f5a8a8@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261226T103000Z
+DTEND:20261226T123000Z
+SUMMARY:Ritrovarsi
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · visite guidate\n\nInfo: https://www.ma
+ xxi.art/events/ritrovarsi-26dicembre/\n\nDa Linceo
+URL:https://www.maxxi.art/events/ritrovarsi-26dicembre/
+END:VEVENT
+END:VCALENDAR

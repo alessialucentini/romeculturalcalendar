@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3572fb44bb5b@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:IO SONO VERTICALE
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Attraverso la figura di Lazzaro\, Io sono verticale racconta 
+ con delicatezza\, ironia e profondità l’esperienza della depressione e
+  la fatica di “tornare alla vita”. Uno spettacolo sul dolore che isol
+ a\, sul legame con chi resta fuori e sulla fragile possibilità di rialza
+ rsi.\n\nInfo: https://teatriincomune.roma.it/events/io-sono-verticale/\n\
+ nDa Linceo
+URL:https://teatriincomune.roma.it/events/io-sono-verticale/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16f3489dc357@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261031T213000Z
+DTEND:20261031T233000Z
+SUMMARY:Anarchy In The Club w/ Jane Fitz
+LOCATION:Borgo della Mistica\, Borgo della Mistica\, Roma
+DESCRIPTION:Un viaggio notturno fra sonorità acid\, ambient\, deep house
+ \, progressive\, psychedelic e techno. In line up anche Brasi e Carlo\n\n
+ Info: https://zero.eu/it/eventi/380925-anarchy-in-the-club-w-jane-fitz\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380925-anarchy-in-the-club-w-jane-fitz,roma
+ /
+END:VEVENT
+END:VCALENDAR

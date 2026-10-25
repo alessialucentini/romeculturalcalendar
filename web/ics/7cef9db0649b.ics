@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7cef9db0649b@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261031
+SUMMARY:TRANSFERT
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Una psicoterapeuta alle prese con un gruppo di pazienti fragi
+ li\, spigolosi e irresistibilmente umani. Satira sociale\, comedy e dramm
+ a si intrecciano in uno spettacolo che trasforma la salute mentale da tab
+ ù a spazio di risata e confronto.\n\nInfo: https://teatriincomune.roma.i
+ t/events/transfert/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/transfert/
+END:VEVENT
+END:VCALENDAR

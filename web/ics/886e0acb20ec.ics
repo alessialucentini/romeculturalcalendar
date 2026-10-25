@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:886e0acb20ec@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:50 Minutes
+LOCATION:Teatro della Cometa\, Teatro della Cometa\, Roma
+DESCRIPTION:Tine Milz porta in scena un testo della scrittrice britannica
+  Deborah Levy: una conversazione tra un coniglio e un professore\n\nInfo:
+  https://zero.eu/it/eventi/379046-50-minutes\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379046-50-minutes,roma/
+END:VEVENT
+END:VCALENDAR

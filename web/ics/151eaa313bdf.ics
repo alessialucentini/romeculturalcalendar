@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:151eaa313bdf@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:POV – Point of View
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Romaeuropa Festival presenta "NORA" e "Opinione pubblica"\, d
+ ue installazioni di computer art selezionate nell’ambito di POV – Poi
+ nt of View\,\n\nInfo: https://zero.eu/it/eventi/378849-pov-point-of-view\
+ ,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378849-pov-point-of-view,roma/
+END:VEVENT
+END:VCALENDAR

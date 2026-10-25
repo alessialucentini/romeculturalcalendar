@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eb6aa12757d1@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270117
+SUMMARY:Giovanni Bongiovanni - "Tintura Madre"
+LOCATION:1/9unosunove\, 1/9unosunove\, Roma
+DESCRIPTION:Prima mostra personale dell'artista negli spazi della galleri
+ a. A cura di Isabella Vitale.\n\nInfo: https://zero.eu/it/eventi/380782-g
+ iovanni-bongiovanni-tintura-madre\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380782-giovanni-bongiovanni-tintura-madre,r
+ oma/
+END:VEVENT
+END:VCALENDAR

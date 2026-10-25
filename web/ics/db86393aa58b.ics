@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db86393aa58b@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:BEAT. BEAT. BEAT.
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Common People Club presenta un ciclo di appuntamenti dedicato
+  alla Beat Generation realizzato tra Rhizome e Spaziotempo\, due spazi a\
+ n\nInfo: https://zero.eu/it/eventi/379747-beat-beat-beat-4\,roma/\n\nDa L
+ inceo
+URL:https://zero.eu/it/eventi/379747-beat-beat-beat-4,roma/
+END:VEVENT
+END:VCALENDAR

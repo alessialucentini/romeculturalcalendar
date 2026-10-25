@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2d23472c26be@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270211
+SUMMARY:Antonio Marras - "Vorrei riempire la tua stanza di rose"
+LOCATION:Valentina Bonomo\, Valentina Bonomo\, Roma
+DESCRIPTION:Un progetto espositivo che nasce attorno a una figura fragile
+  e ostinata\, e riunisce un ampio nucleo di opere su\n\nInfo: https://zer
+ o.eu/it/eventi/378626-antonio-marras-vorrei-riempire-la-tua-stanza-di-ros
+ e\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378626-antonio-marras-vorrei-riempire-la-tu
+ a-stanza-di-rose,roma/
+END:VEVENT
+END:VCALENDAR

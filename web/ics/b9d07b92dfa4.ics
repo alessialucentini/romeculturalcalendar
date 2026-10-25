@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9d07b92dfa4@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261030T160000Z
+DTEND:20261030T180000Z
+SUMMARY:Ford Coppola - "Bram Stoker's Dracula"
+LOCATION:Cinema Nuovo Olimpia\, Cinema Nuovo Olimpia\, Roma
+DESCRIPTION:La scrittrice Chiara Valerio e autrice del libro "Così per s
+ empre" (che reinventa il destino del vampiro più celebre della\n\nInfo: 
+ https://zero.eu/it/eventi/382332-ford-coppola-bram-stokers-dracula\,roma/
+ \n\nDa Linceo
+URL:https://zero.eu/it/eventi/382332-ford-coppola-bram-stokers-dracula,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

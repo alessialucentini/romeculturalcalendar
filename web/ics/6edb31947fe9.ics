@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6edb31947fe9@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Edging
+LOCATION:Wishlist Club\, Wishlist Club\, Roma
+DESCRIPTION:A tutto art-punk con la band di Chicago. In apertura le forma
+ zioni italiane Jennifer In Paradise e Mexican.\n\nInfo: https://zero.eu/i
+ t/eventi/380631-edging\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380631-edging,roma/
+END:VEVENT
+END:VCALENDAR

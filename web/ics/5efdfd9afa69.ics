@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5efdfd9afa69@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261030T170000Z
+DTEND:20261030T190000Z
+SUMMARY:Roman Ruins
+LOCATION:RUFA Space\, RUFA Space\, Roma
+DESCRIPTION:Uno speciale evento promosso da RUFA per presentare l'album d
+ i Alvin Curran promosso da We Insist!. Prima parte della serata\n\nInfo: 
+ https://zero.eu/it/eventi/381800-roman-ruins\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381800-roman-ruins,roma/
+END:VEVENT
+END:VCALENDAR

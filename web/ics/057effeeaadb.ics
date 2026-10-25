@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:057effeeaadb@linceo
-DTSTAMP:20261018T073831Z
+DTSTAMP:20261025T080032Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261123
 SUMMARY:Agnieszka Mastalerz. The Props Assist the House
 LOCATION:Musei di Villa Torlonia\, Musei di Villa Torlonia\, Roma
-DESCRIPTION:Venerdì 2 ottobre 2026\, alle ore 19.00\, all’Istituto Pol
- acco di Roma\,e sabato 3 ottobre 2026\, alle ore 11.00\, alla Serra M\n\n
- Info: https://www.arte.it/calendario-arte/roma/mostra-agnieszka-mastalerz
- -the-props-assist-the-house-104550\n\nDa Linceo
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-agniesz
+ ka-mastalerz-the-props-assist-the-house-104550\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-agnieszka-mastalerz-t
  he-props-assist-the-house-104550
 END:VEVENT

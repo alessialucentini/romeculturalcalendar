@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f7c39b5ba05b@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261104T170000Z
+DTEND:20261104T190000Z
+SUMMARY:Piccola mia. Lettera a una bambina appena nata
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · libri al MAXXI · di Walter Veltroni\n\nInfo: https
+ ://www.maxxi.art/events/piccola-mia-lettera-a-una-bambina-appena-nata/\n\
+ nDa Linceo
+URL:https://www.maxxi.art/events/piccola-mia-lettera-a-una-bambina-appena
+ -nata/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:42510000a169@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261026T194500Z
+DTEND:20261026T214500Z
+SUMMARY:Tutta Roba Fresca
+LOCATION:Spaziotempo\, Spaziotempo\, Roma
+DESCRIPTION:Il format di Daniele Tinti\, Stefano Rapone e Luca Ravenna to
+ rna dal vivo\, nel cortile di SpazioTempo. Ospite speciale Chiara\n\nInfo
+ : https://zero.eu/it/eventi/382274-tutta-roba-fresca-27-maggio-2026-2\,ro
+ ma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382274-tutta-roba-fresca-27-maggio-2026-2,r
+ oma/
+END:VEVENT
+END:VCALENDAR

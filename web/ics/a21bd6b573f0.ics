@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a21bd6b573f0@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20270213T103000Z
+DTEND:20270213T123000Z
+SUMMARY:MANI NELLA TERRA
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · MAXXI GREEN Lab • laboratori per famiglie · Semi
+ \, foglie e meraviglia\n\nInfo: https://www.maxxi.art/events/mani-nella-t
+ erra-13febbraio/\n\nDa Linceo
+URL:https://www.maxxi.art/events/mani-nella-terra-13febbraio/
+END:VEVENT
+END:VCALENDAR

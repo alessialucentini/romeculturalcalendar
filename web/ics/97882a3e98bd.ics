@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:97882a3e98bd@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270131
+SUMMARY:Paul Rouphail - "The Embarrassment"
+LOCATION:Galerie Rolando Anselmi\, Galerie Rolando Anselmi\, Roma
+DESCRIPTION:Personale dell'artista.\n\nInfo: https://zero.eu/it/eventi/37
+ 9306-paul-rouphail-the-embarrassment\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379306-paul-rouphail-the-embarrassment,roma
+ /
+END:VEVENT
+END:VCALENDAR

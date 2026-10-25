@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a74ce3906d63@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270130
+SUMMARY:Raffaela Mariniello - "Terra Fertile\, Terra di Lavoro\, Terra de
+ i Fuochi"
+LOCATION:Istituto Centrale per il Catalogo e la Documentazione – ICCD\,
+  Istituto Centrale per il Catalogo e la Documentazione – ICCD\, Roma
+DESCRIPTION:In mostra l’esito di un progetto di committenza fotografica
+  assegnato dall’ICCD e dedicato ai territori attraversati dal Volturno.
+  Un viaggio\n\nInfo: https://zero.eu/it/eventi/381462-raffaela-mariniello
+ -terra-fertile-terra-di-lavoro-terra-dei-fuochi\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381462-raffaela-mariniello-terra-fertile-te
+ rra-di-lavoro-terra-dei-fuochi,roma/
+END:VEVENT
+END:VCALENDAR

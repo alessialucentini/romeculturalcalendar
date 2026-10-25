@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a9672f15612@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:COME IL CANTO PER GLI UCCELLI • A SPOKEN WORD SELECTA
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Una giornata dedicata alla spoken word con Isidoro Concas. Ne
+ l pomeriggio un laboratorio di scrittura e messa in voce\, la sera un DJ 
+ set per perdersi tra le parole e i suoni dell'underground italiano.\n\nIn
+ fo: https://teatriincomune.roma.it/events/come-il-canto-per-gli-uccelli-a
+ -spoken-word-selecta/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/come-il-canto-per-gli-uccelli-a
+ -spoken-word-selecta/
+END:VEVENT
+END:VCALENDAR

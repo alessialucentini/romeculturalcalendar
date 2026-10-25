@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6ef7d21df1b0@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261031
+SUMMARY:La Cassetta degli Attrezzi Femminista
+LOCATION:Casa Internazionale delle Donne\, Casa Internazionale delle Donn
+ e\, Roma
+DESCRIPTION:Il progetto a cura di Chiara Alessi\, Marie Moïse e Giulia S
+ iviero\, con progetto di allestimento di Denise Bonapace\, torna\n\nInfo:
+  https://zero.eu/it/eventi/378276-la-cassetta-degli-attrezzi-femminista\,
+ roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378276-la-cassetta-degli-attrezzi-femminist
+ a,roma/
+END:VEVENT
+END:VCALENDAR

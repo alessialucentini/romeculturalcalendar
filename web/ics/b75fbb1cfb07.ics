@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b75fbb1cfb07@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20270424T093000Z
+DTEND:20270424T113000Z
+SUMMARY:PIANTALA!
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · MAXXI GREEN Lab • laboratori · Coltiva il futuro
+  tra natura\, arte e sostenibilità\n\nInfo: https://www.maxxi.art/events
+ /piantala-24aprile/\n\nDa Linceo
+URL:https://www.maxxi.art/events/piantala-24aprile/
+END:VEVENT
+END:VCALENDAR

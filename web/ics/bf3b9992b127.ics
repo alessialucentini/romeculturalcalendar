@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf3b9992b127@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261027T180000Z
+DTEND:20261027T200000Z
+SUMMARY:Leonardo Manzan - "Il salto di Nureyev"
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Cinque registi dirigono un cast di sette attrici ed attori de
+ l corso di II livello in recitazione dell’Accademia Nazionale d’Arte\
+ n\nInfo: https://zero.eu/it/eventi/378810-leonardo-manzan-il-salto-di-nur
+ eyev\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378810-leonardo-manzan-il-salto-di-nureyev,
+ roma/
+END:VEVENT
+END:VCALENDAR

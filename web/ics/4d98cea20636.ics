@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d98cea20636@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261031T163000Z
+DTEND:20261031T183000Z
+SUMMARY:Mostruosamente Forte
+LOCATION:Forte Prenestino\, Forte Prenestino\, Roma
+DESCRIPTION:Torna il seratone di Halloween del Forte con performance\, in
+ stallazioni\, dj set\, mostre e mostri. Dal pomeriggio musica e attività
+ \n\nInfo: https://zero.eu/it/eventi/379222-mostruosamente-forte-2026\,rom
+ a/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379222-mostruosamente-forte-2026,roma/
+END:VEVENT
+END:VCALENDAR

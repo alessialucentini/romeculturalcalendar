@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3fe181ae7bde@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:L’ora dei predatori
+LOCATION:Teatro di Roma · Teatro Argentina
+DESCRIPTION:Info: https://www.teatrodiroma.net/progetti/attivita-cultural
+ i/reading-a-cura-di-piero-maccarinelli-con-elisabetta-pozzi-e-tullio-sole
+ nghi/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/progetti/attivita-culturali/reading-a-cu
+ ra-di-piero-maccarinelli-con-elisabetta-pozzi-e-tullio-solenghi/
+END:VEVENT
+END:VCALENDAR

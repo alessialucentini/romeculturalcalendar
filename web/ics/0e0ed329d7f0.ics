@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0e0ed329d7f0@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261027T210000Z
+DTEND:20261027T230000Z
+SUMMARY:Compleanno del Baronato
+LOCATION:Baronato Quattro Bellezze\, Baronato Quattro Bellezze\, Roma
+DESCRIPTION:Cinque pericolosissimi anni festeggiati con una lunghissima j
+ am session con l'orchestra del Baronato e Marco Ragni.\n\nInfo: https://z
+ ero.eu/it/eventi/381714-compleanno-del-baronato\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381714-compleanno-del-baronato,roma/
+END:VEVENT
+END:VCALENDAR

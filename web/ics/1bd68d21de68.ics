@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1bd68d21de68@linceo
+DTSTAMP:20261025T080032Z
+DTSTART:20261029T193000Z
+DTEND:20261029T213000Z
+SUMMARY:Under The Same Moon
+LOCATION:Nuovo Cinema Aquila\, Nuovo Cinema Aquila\, Roma
+DESCRIPTION:L'appuntamento dedicato al cinema dell'altrove realizzato da 
+ Forme Web TV in collaborazione con Cinema Mundi\, ospita i corti vincitor
+ i della\n\nInfo: https://zero.eu/it/eventi/381163-under-the-same-nazra-pa
+ lestine-short-film-festival\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381163-under-the-same-nazra-palestine-short
+ -film-festival,roma/
+END:VEVENT
+END:VCALENDAR

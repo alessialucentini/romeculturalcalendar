@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f61559b1a1ee@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261102
+SUMMARY:Escaped Alone
+LOCATION:Teatro Valle\, Teatro Valle\, Roma
+DESCRIPTION:Lisa Ferlazzo Natoli e Alessandro Ferroni portano in scena il
+  testo di Caryl Churchill. Sally\, Vi e Lena\, amiche di\n\nInfo: https:/
+ /zero.eu/it/eventi/379084-escaped-alone-teatro-valle\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379084-escaped-alone-teatro-valle,roma/
+END:VEVENT
+END:VCALENDAR

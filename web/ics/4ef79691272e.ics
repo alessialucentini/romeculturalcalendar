@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4ef79691272e@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:PRIMO GIORNO - IL SOGNO VA IN SCENA
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_single_image image=”18413″ img_siz
+ e=”full” alignment=”center” css=””][vc_empty_space height=”
+ 55px”][/vc_column][/vc_row][vc_row][vc_column width=”1/4″ css=”.v
+ c_custom_1659605420797{margin-top: -8px !important\;}”][vc_single_image
+  image=”18411″ img_size=”full” alignment=”center” css=””]
+ [vc_empty_space height=”25px”][/vc_column][vc_column width=”3/4″]
+  PRIMO GIORNO IL SOGNO VA…\n\nInfo: https://www.teatroghione.it/spettac
+ oli/primo-giorno-il-sogno-va-in-scena-sogno-nel-cassetto/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/primo-giorno-il-sogno-va-in-sc
+ ena-sogno-nel-cassetto/
+END:VEVENT
+END:VCALENDAR

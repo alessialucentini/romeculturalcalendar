@@ -5,14 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:24fc50e82fa2@linceo
-DTSTAMP:20261018T073831Z
+DTSTAMP:20261025T080032Z
 DTSTART:20261025T225900Z
 DTEND:20261026T005900Z
 SUMMARY:I DIAVOLI (THE DEVILS)
 LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
-DESCRIPTION:NELLA FRANCIA DEL SEICENTO UN SACERDOTE VIENE TRAVOLTO DA ACC
- USE DI STREGONERIA E INTRIGHI POLITICI.\n\nInfo: https://www.cinematroisi
- .it\n\nDa Linceo
+DESCRIPTION:La vicenda è ambientata in Francia agli inizi del XVII secol
+ o: ristabilita la pace dopo le guerre di religione\, il cardinale Richeli
+ eu\, per consolidare il potere regio\, invia il barone di Laubardemont a 
+ Loudun\, nel Poitou\, con l'incarico di abbatterne le fortificazioni. Il 
+ prete Urbano Grandier\, a cui l'appena deceduto governatore Sainte-Marthe
+  ha concesso i pieni poteri fino all'elezione del suo…\n\nInfo: https:/
+ /www.cinematroisi.it\n\nDa Linceo
 URL:https://www.cinematroisi.it
 END:VEVENT
 END:VCALENDAR

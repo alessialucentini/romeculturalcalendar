@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:7a9b828c00dd@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261109
+SUMMARY:Viaggio a Hong Kong
+LOCATION:Teatro di Roma · Teatro India
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-india/viaggio-a-hong-ko
+ ng/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-india/viaggio-a-hong-kong/
+END:VEVENT
+END:VCALENDAR

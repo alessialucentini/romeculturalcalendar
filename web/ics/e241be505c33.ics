@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e241be505c33@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261102
+SUMMARY:Catalogo
+LOCATION:Teatro Vascello\, Teatro Vascello\, Roma
+DESCRIPTION:Come si orchestra la propria sparizione? M. è una danzatrice
+  che intende congedarsi dalle scene. Ogni suo giorno in sala\n\nInfo: htt
+ ps://zero.eu/it/eventi/379066-catalogo\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379066-catalogo,roma/
+END:VEVENT
+END:VCALENDAR

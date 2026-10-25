@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cd5b53d5d20c@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20270131
+SUMMARY:Svenja Deininger - "On Leaning"
+LOCATION:Federica Schiavo Gallery\, Federica Schiavo Gallery\, Roma
+DESCRIPTION:Personale dell'artista. In mostra dipinti che nascono dal rif
+ iuto di un inizio definito: le opere prendono forma attraverso un process
+ o\n\nInfo: https://zero.eu/it/eventi/378451-svenja-deininger-on-leaning\,
+ roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378451-svenja-deininger-on-leaning,roma/
+END:VEVENT
+END:VCALENDAR

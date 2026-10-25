@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cc050d0ea96d@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20270111
+SUMMARY:SHIRIN NESHAT
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:mostra · Do U Dare!\n\nInfo: https://www.maxxi.art/events/sh
+ irin-neshat-do-u-dare/\n\nDa Linceo
+URL:https://www.maxxi.art/events/shirin-neshat-do-u-dare/
+END:VEVENT
+END:VCALENDAR

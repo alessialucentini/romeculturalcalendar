@@ -1,4 +1,5 @@
 {
+"1/9unosunove|1/9unosunove, roma": null,
 "10 documents|10 documents, roma": null,
 "21art roma|21art roma, roma": null,
 "21art|21art, roma": null,
@@ -32,6 +33,7 @@
 12.4621171
 ],
 "anna marra contemporanea|anna marra contemporanea, roma": null,
+"appartamenti segreti doria pamphilj|appartamenti segreti doria pamphilj, roma": null,
 "auditorium parco della musica / casa del jazz|viale pietro de coubertin 30": [
 41.93,
 12.4747
@@ -52,10 +54,12 @@
 41.8793311,
 12.5396016
 ],
+"baronato quattro bellezze|baronato quattro bellezze, roma": null,
 "basement roma|basement roma, roma": null,
 "basile contemporary|basile contemporary, roma": null,
 "biblioteca della trinità dei monti|biblioteca della trinità dei monti, roma": null,
 "bocal|bocal, roma": null,
+"borgo della mistica|borgo della mistica, roma": null,
 "brancaleone|brancaleone, roma": [
 41.9369238,
 12.5407404
@@ -67,6 +71,7 @@
 12.4912
 ],
 "casa internazionale delle donne|casa internazionale delle donne, roma": null,
+"casa museo boncompagni ludovisi|casa museo boncompagni ludovisi, roma": null,
 "casa museo hendrik christian andersen|casa museo hendrik christian andersen, roma": null,
 "casa vuota|casa vuota, roma": null,
 "casale dei cedrati|casale dei cedrati, roma": [
@@ -114,6 +119,14 @@
 "cieloterra|cieloterra, roma": [
 41.9051996,
 12.5358626
+],
+"cinecittà studios|cinecittà studios, roma": [
+41.8525292,
+12.5781507
+],
+"cinema nuovo olimpia|cinema nuovo olimpia, roma": [
+41.9028706,
+12.4789734
 ],
 "cinema troisi|cinema troisi, roma": [
 41.8879,
@@ -170,6 +183,7 @@
 12.5822329
 ],
 "g-rough|g-rough, roma": null,
+"galerie rolando anselmi|galerie rolando anselmi, roma": null,
 "galleria biblioteca angelica|galleria biblioteca angelica, roma": null,
 "galleria borghese|galleria borghese, roma": [
 41.9141133,
@@ -187,6 +201,10 @@
 "galleria dei miracoli|galleria dei miracoli, roma": null,
 "galleria gallerati|galleria gallerati, roma": null,
 "galleria gilda lavia|galleria gilda lavia, roma": null,
+"galleria il sole|via nomentana 125 roma, roma": [
+41.9342749,
+12.5346797
+],
 "galleria nazionale d'arte antica a palazzo barberini|galleria nazionale d'arte antica a palazzo barberini, roma": null,
 "galleria nazionale d'arte moderna e contemporanea|galleria nazionale d'arte moderna e contemporanea, roma": [
 41.9172359,
@@ -210,10 +228,15 @@
 41.9070128,
 12.5450405
 ],
+"iccd – istituto centrale per il catalogo e la documentazione|iccd – istituto centrale per il catalogo e la documentazione, roma": [
+41.8862103,
+12.4764323
+],
 "il cantiere|il cantiere, roma": null,
 "instituto cervantes|instituto cervantes, roma": null,
 "interzone|interzone, roma": null,
 "isola farnese - piazza della colonnetta|la colonnetta di isola farnese, piazza della colonnetta, roma, rm, italia": null,
+"istituto centrale per il catalogo e la documentazione – iccd|istituto centrale per il catalogo e la documentazione – iccd, roma": null,
 "istituto centrale per la grafica c/o palazzo poli|istituto centrale per la grafica c/o palazzo poli, roma": null,
 "istituto giapponese di cultura|istituto giapponese di cultura, roma": [
 41.9186833,
@@ -301,6 +324,7 @@
 ],
 "monti8|monti8, roma": null,
 "mucciaccia project|mucciaccia project, roma": null,
+"muciv - museo delle civiltà|muciv - museo delle civiltà, roma": null,
 "muef art gallery|muef art gallery, roma": null,
 "musei capitolini centrale montemartini|musei capitolini centrale montemartini, roma": [
 41.8665472,
@@ -360,6 +384,10 @@
 41.9036482,
 12.4987226
 ],
+"nuovo cinema aquila|nuovo cinema aquila, roma": [
+41.890412,
+12.525601
+],
 "officine fotografiche roma|officine fotografiche roma, roma": [
 41.864708,
 12.4809347
@@ -379,6 +407,10 @@
 "palazzo delle esposizioni|palazzo delle esposizioni, roma": [
 41.8995261,
 12.4901928
+],
+"palazzo doria pamphilj|palazzo doria pamphilj, roma": [
+41.8978235,
+12.4815609
 ],
 "palazzo esposizioni roma|palazzo esposizioni roma, roma": [
 41.8995261,
@@ -437,6 +469,8 @@
 "roma cinema vari|roma cinema vari, roma": null,
 "roma luoghi vari|roma luoghi vari, roma": null,
 "romadiffusa|esquilino, roma": null,
+"rufa space|rufa space, roma": null,
+"sant’andrea de scaphis|sant’andrea de scaphis, roma": null,
 "sazio celestino e casa del quartiere|roma, roma rm, italia": null,
 "scuderie del quirinale|scuderie del quirinale, roma": [
 41.8986536,
@@ -447,6 +481,7 @@
 12.4859583
 ],
 "scuola popolare delle arti del cip-alessandrino|scuola popolare delle arti del cip-alessandrino, roma": null,
+"sedi varie|sedi varie, roma": null,
 "società delle api|società delle api, roma": null,
 "spazio amanita|spazio amanita, roma": null,
 "spazio diamante|spazio diamante, roma": [
@@ -459,6 +494,7 @@
 "spazio supernova|spazio supernova, roma": null,
 "spaziotempo|spaziotempo, roma": null,
 "studio 33|studio 33, roma": null,
+"supernaturale bottega|supernaturale bottega, roma": null,
 "t293|t293, roma": [
 41.8933203,
 12.4829321

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:488abd02eb5f@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+SUMMARY:D’AMORE\, ECCO DI COSA PARLIAMO
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:L'amore: il più grande e nobile dei sentimenti finalmente an
+ alizzato al microscopio. | SALA PICCOLA\n\nInfo: https://teatriincomune.r
+ oma.it/events/damore-ecco-di-cosa-parliamo/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/damore-ecco-di-cosa-parliamo/
+END:VEVENT
+END:VCALENDAR

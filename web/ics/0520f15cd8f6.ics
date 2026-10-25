@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0520f15cd8f6@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261125
+SUMMARY:Emanuela Lena / Consuelo Mura - Arbor Mutata
+LOCATION:GALLERIA IL SOLE\, Via Nomentana 125 roma\, Roma
+DESCRIPTION:La Galleria Il Sole inaugura sabato 24 ottobre alle ore 11.30
+  “Arbor Mutata. La memoria degli alberi”\, mostra bipersonale di Eman
+ uela Lena e Consuelo Mura\, accompagnata in catalogo dal testo “Ciò ch
+ e vive nascosto” di Benedetta Centofanti.\n\nInfo: https://www.artribun
+ e.com/mostre-evento-arte/emanuela-lena-consuelo-mura-arbor-mutata/\n\nDa 
+ Linceo
+URL:https://www.artribune.com/mostre-evento-arte/emanuela-lena-consuelo-m
+ ura-arbor-mutata/
+END:VEVENT
+END:VCALENDAR

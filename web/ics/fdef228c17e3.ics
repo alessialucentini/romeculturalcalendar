@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fdef228c17e3@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:LE CONVERSAZIONI / Roma
+LOCATION:Palazzo Merulana\, Via Merulana 121\, Roma
+DESCRIPTION:Info: https://www.palazzomerulana.it/events/le-conversazioni-
+ roma-11/\n\nDa Linceo
+URL:https://www.palazzomerulana.it/events/le-conversazioni-roma-11/
+END:VEVENT
+END:VCALENDAR

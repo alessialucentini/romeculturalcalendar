@@ -5,12 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:d20d1658e177@linceo
-DTSTAMP:20261018T073831Z
+DTSTAMP:20261025T080032Z
 DTSTART:20261026T193000Z
 DTEND:20261026T213000Z
 SUMMARY:Swans Live Berlin
-LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
-DESCRIPTION:Info: https://www.cinematroisi.it\n\nDa Linceo
-URL:https://www.cinematroisi.it
+LOCATION:Cinema Troisi\, Cinema Troisi\, Roma
+DESCRIPTION:Al Troisi il documentario diretto da Marco Porsia e Peter Har
+ ton: due ore e mezza dedicate al tour di presentazione\n\nInfo: https://z
+ ero.eu/it/eventi/381993-swans-live-berlin\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381993-swans-live-berlin,roma/
 END:VEVENT
 END:VCALENDAR

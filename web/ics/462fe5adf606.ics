@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:462fe5adf606@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+SUMMARY:PSICHEDELICO
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Un’esperienza sensoriale\, uno spettacolo immersivo\, con u
+ n’ambientazione da discoteca: un racconto di vita. | SALA PICCOLA\n\nIn
+ fo: https://teatriincomune.roma.it/events/psichedelico/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/psichedelico/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bf9537983b6d@linceo
+DTSTAMP:20261025T080032Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20270213
+SUMMARY:Raffaela Mariniello. Terra Fertile\, Terra di Lavoro\, Terra dei 
+ Fuochi
+LOCATION:ICCD – Istituto Centrale per il Catalogo e la Documentazione\,
+  ICCD – Istituto Centrale per il Catalogo e la Documentazione\, Roma
+DESCRIPTION:La mostra “Raffaela Mariniello. Terra Fertile\, Terra di La
+ voro\, Terra dei Fuochi”\,a cura di Francesca Fabiani\,ospitata presso 
+ l’ICCD\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-raffael
+ a-mariniello-terra-fertile-terra-di-lavoro-terra-dei-fuochi-104620\n\nDa 
+ Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-raffaela-mariniello-t
+ erra-fertile-terra-di-lavoro-terra-dei-fuochi-104620
+END:VEVENT
+END:VCALENDAR
