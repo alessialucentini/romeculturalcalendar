@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:287a6c6e2022@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:DRAG ME UP Queer Art Festival
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:La forza della cultura Drag per accendere i riflettori su ogn
+ i espressione di genere. Due giornate tra performance\, cabaret\, stand-u
+ p comedy e lirica\, nel segno dell'arte queer e dell'attivismo per l'incl
+ usione.\n\nInfo: https://teatriincomune.roma.it/events/drag-me-up-queer-a
+ rt-festival/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/drag-me-up-queer-art-festival/
+END:VEVENT
+END:VCALENDAR

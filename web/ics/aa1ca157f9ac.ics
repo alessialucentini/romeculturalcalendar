@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aa1ca157f9ac@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261214
+SUMMARY:LE LINGUE DEI MURI_visual
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Una crepa rivela gli strati passati\, crea e deforma\, trasfo
+ rma lo sfondo in figura. Sofia Abbati e il suo archivio di muri consumati
+  dal tempo invitano a osservare ciò che affiora: immagini\, frammenti\, 
+ ricordi.\n\nInfo: https://teatriincomune.roma.it/events/le-lingue-dei-mur
+ i_visual/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/le-lingue-dei-muri_visual/
+END:VEVENT
+END:VCALENDAR

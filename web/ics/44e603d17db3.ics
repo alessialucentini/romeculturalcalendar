@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:44e603d17db3@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270405
+SUMMARY:Fireworks. Ileana Sonnabend e il boom dell'arte contemporanea
+LOCATION:Palazzo delle Esposizioni\, Palazzo delle Esposizioni\, Roma
+DESCRIPTION:Una retrospettiva a cura di Mario Codognato racconta l'attivi
+ tà e la storia di Ileana Sonnabend (1914-2007)\, collezionista e galleri
+ sta. In\n\nInfo: https://zero.eu/it/eventi/379860-fireworks-ileana-sonnab
+ end-e-il-boom-dellarte-contemporanea\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379860-fireworks-ileana-sonnabend-e-il-boom
+ -dellarte-contemporanea,roma/
+END:VEVENT
+END:VCALENDAR

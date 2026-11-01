@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abc95136d8b8@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261123T190000Z
+DTEND:20261123T210000Z
+SUMMARY:Chiara Civello e Clap! Clap! – “CCCC”
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ chiara-civello-e-clap-clap-cccc/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/chiara-civello-e-clap-clap-cccc/
+END:VEVENT
+END:VCALENDAR

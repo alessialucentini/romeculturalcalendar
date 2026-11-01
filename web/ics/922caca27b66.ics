@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:922caca27b66@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261102T100000Z
+DTEND:20261102T120000Z
+SUMMARY:MATRIX
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Un mondo che sembra reale ed è invece solo un paravento per 
+ nascondere la realtà vera. Seguendo un tatuaggio sulla spalla di una rag
+ azza\, l'hacker Neo scopre che la cosiddetta 'realtà' è solo un impulso
+  elettrico fornito al cervello degli umani da un'intelligenza artificiale
+ . La Terra era sopravvissuta alla catastrofe ma l'umanità ha avuto bisog
+ no delle macchine per sopravvivere. E queste hanno v…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d5fefd27777d@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:Mark Guiliana
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Dal vivo al Monk un maestro di rara tecnica e musicalità\, t
+ ra i più influenti batteristi della sua generazione.\n\nInfo: https://ze
+ ro.eu/it/eventi/382397-mark-guiliana-monk-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382397-mark-guiliana-monk-2026,roma/
+END:VEVENT
+END:VCALENDAR

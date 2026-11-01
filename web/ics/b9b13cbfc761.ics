@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b9b13cbfc761@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261104T210000Z
+DTEND:20261104T230000Z
+SUMMARY:Carl Stone
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Flaming Creatures e Trenta Formiche presentano il musicista a
+ mericano "re del sampling"\, uno degli assoluti pionieri della musica ele
+ ttronica. In\n\nInfo: https://zero.eu/it/eventi/382901-carl-stone\,roma/\
+ n\nDa Linceo
+URL:https://zero.eu/it/eventi/382901-carl-stone,roma/
+END:VEVENT
+END:VCALENDAR

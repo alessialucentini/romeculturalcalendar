@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbba4811d443@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:GATTO NERO GATTO BIANCO (BLACK CAT\, WHIT
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:La trama è grottesca e fitta di personaggi gitani caratteris
+ tici ed episodi espressivi di dinamismo e gaiezza. Un filo delle vicende 
+ è il desiderio di quattro giovani di fuggire il promesso matrimonio rinc
+ orrendo l'anima gemella attraverso un carosello di avventure buffonesche.
+ \n\nInfo: https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

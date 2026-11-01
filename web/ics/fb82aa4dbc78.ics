@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb82aa4dbc78@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261123
+SUMMARY:Fabiola Ferrero. LAS GRIETAS. Sulle tracce di una fantasia
+LOCATION:Museo di Roma in Trastevere\, Museo di Roma in Trastevere\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-fabiola
+ -ferrero-las-grietas-sulle-tracce-di-una-fantasia-104663\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-fabiola-ferrero-las-g
+ rietas-sulle-tracce-di-una-fantasia-104663
+END:VEVENT
+END:VCALENDAR

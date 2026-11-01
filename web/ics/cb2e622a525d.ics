@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cb2e622a525d@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:JAZZ\, CLASSICA E ALTRO
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:La straordinaria versatilità di quattro sassofoni azzera ogn
+ i confine musicale. Un crescendo ritmico che parte dall'America di Gershw
+ in e Bernstein\, omaggia i capolavori del cinema da Oscar\, attraversa il
+  nuevo tango ed esplode nell'energia pura del jazz elettronico.\n\nInfo: 
+ https://teatriincomune.roma.it/events/jazz-classica-e-altro/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/jazz-classica-e-altro/
+END:VEVENT
+END:VCALENDAR

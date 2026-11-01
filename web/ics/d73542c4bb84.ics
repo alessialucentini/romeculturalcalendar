@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d73542c4bb84@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+SUMMARY:Hopecore in Dialogue w/ Jenna Jauhiainen
+LOCATION:10 documents\, 10 documents\, Roma
+DESCRIPTION:10 documents ospita l'artista di Helsinki per una conversazio
+ ne performativa e un workshop partecipativo dedicati alla cultura dei mem
+ e\, alla\n\nInfo: https://zero.eu/it/eventi/381257-hopecore-in-dialogue-w
+ -jenna-jauhiainen\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381257-hopecore-in-dialogue-w-jenna-jauhiai
+ nen,roma/
+END:VEVENT
+END:VCALENDAR

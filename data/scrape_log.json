@@ -1,5 +1,5 @@
 {
- "run": "2026-10-25T08:00:06+00:00",
+ "run": "2026-11-01T09:58:50+00:00",
  "sources": [
   {
    "source": "roma-culture-zètema-estate-romana",
@@ -16,14 +16,14 @@
   {
    "source": "artribune",
    "url": "https://www.artribune.com",
-   "status": "ok",
-   "events": 1
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
   },
   {
    "source": "maxxi",
    "url": "https://www.maxxi.art",
    "status": "ok",
-   "events": 38
+   "events": 41
   },
   {
    "source": "macro",
@@ -58,7 +58,7 @@
   {
    "source": "palazzo-delle-esposizioni",
    "url": "https://www.palazzoesposizioni.it",
-   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "status": "errore: HTTPError: 503 Server Error: Service Unavailable for url: https://www.palazzoesposizioniroma.it/",
    "events": 0
   },
   {
@@ -71,7 +71,7 @@
    "source": "gallerie-nazionali-barberini-corsini",
    "url": "https://barberinicorsini.org/calendario/",
    "status": "ok",
-   "events": 3
+   "events": 2
   },
   {
    "source": "palazzo-bonaparte",
@@ -119,7 +119,7 @@
    "source": "teatro-dell-opera-di-roma",
    "url": "https://www.operaroma.it",
    "status": "ok",
-   "events": 120
+   "events": 117
   },
   {
    "source": "romaeuropa-festival",
@@ -149,13 +149,13 @@
    "source": "teatro-quirino",
    "url": "https://www.teatroquirino.it/calendario/",
    "status": "ok",
-   "events": 89
+   "events": 106
   },
   {
    "source": "teatro-biblioteca-quarticciolo",
    "url": "https://teatrobibliotecaquarticciolo.it/",
    "status": "ok",
-   "events": 16
+   "events": 20
   },
   {
    "source": "short-theatre",
@@ -167,7 +167,7 @@
    "source": "auditorium-parco-della-musica",
    "url": "https://www.auditorium.com",
    "status": "ok",
-   "events": 68
+   "events": 64
   },
   {
    "source": "accademia-nazionale-di-santa-cecilia",
@@ -185,13 +185,13 @@
    "source": "casa-del-cinema",
    "url": "https://www.casadelcinema.it/it/",
    "status": "ok",
-   "events": 11
+   "events": 9
   },
   {
    "source": "cinema-troisi",
    "url": "https://www.cinematroisi.it",
    "status": "ok",
-   "events": 82
+   "events": 144
   },
   {
    "source": "la-feltrinelli-eventi",
@@ -209,13 +209,13 @@
    "source": "arte-it",
    "url": "https://www.arte.it/calendario-arte/roma",
    "status": "ok",
-   "events": 46
+   "events": 41
   },
   {
    "source": "zero-roma",
    "url": "https://zero.eu/it/roma/eventi/",
    "status": "ok",
-   "events": 146
+   "events": 144
   },
   {
    "source": "romadiffusa",
@@ -227,7 +227,7 @@
    "source": "teatro-brancaccio",
    "url": "https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/",
    "status": "ok",
-   "events": 162
+   "events": 160
   },
   {
    "source": "teatro-vittoria",
@@ -238,8 +238,8 @@
   {
    "source": "teatro-ambra-jovinelli",
    "url": "https://www.ambrajovinelli.org/",
-   "status": "ok",
-   "events": 4
+   "status": "vuoto (nessun JSON-LD/ICS: serve un parser dedicato)",
+   "events": 0
   },
   {
    "source": "teatro-ghione",

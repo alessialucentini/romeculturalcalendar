@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0ed88c105d40@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:SERGI POLO - ENGLISH COMEDY
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column css=”.vc_custom_1659605420797{margin-top
+ : -8px !important\;}”] SERGI POLO Spanish Comedy [vc_empty_space height
+ =”15px”] 13 Gennaio 2027 ore 20:00 [vc_empty_space height=”15px”]
+ [vc_column_text][/vc_column_text][vc_empty_space height=”15px”][/vc_c
+ olumn][/vc_row][vc_row css_animation=”bounceIn”][vc_column css=”.vc
+ _custom_1659605420797{margin-top: -8px !important\;}”][vc_empty_space
+ …\n\nInfo: https://www.teatroghione.it/spettacoli/sergi-polo-english-co
+ medy/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/sergi-polo-english-comedy/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cf69e106f1fe@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270123
+SUMMARY:Etel Adnan
+LOCATION:Fondazione Nicola Del Roscio\, Fondazione Nicola Del Roscio\, Ro
+ ma
+DESCRIPTION:In occasione della pubblicazione per la prima volta in italia
+ no di quattro importanti saggi di Etel Adnan\, la Fondazione Nicola\n\nIn
+ fo: https://zero.eu/it/eventi/382702-etel-adnan\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382702-etel-adnan,roma/
+END:VEVENT
+END:VCALENDAR

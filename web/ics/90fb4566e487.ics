@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:90fb4566e487@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:IL GIUOCO DELLE PARTI
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/il-giuoco-delle-par
+ ti-2027-02-14/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/il-giuoco-delle-parti-2027-02-14/
+END:VEVENT
+END:VCALENDAR

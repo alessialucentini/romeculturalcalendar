@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c5693185bcbe@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261104T200000Z
+DTEND:20261104T220000Z
+SUMMARY:Imarhan
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Desert rock con la band algerina\, guidata da Moussa Ben Abde
+ rahmane.\n\nInfo: https://zero.eu/it/eventi/382393-imarhan-monk\,roma/\n\
+ nDa Linceo
+URL:https://zero.eu/it/eventi/382393-imarhan-monk,roma/
+END:VEVENT
+END:VCALENDAR

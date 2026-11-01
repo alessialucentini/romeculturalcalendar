@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bda37e21df27@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:DIPINGERE L’ESSENZIALE
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Un laboratorio per scoprire l'illustrazione attraverso la pit
+ tura cinese a inchiostro. Il gesto\, l'acqua\, il nero per descrivere un 
+ segno che non può essere cancellato e diventa identità.\n\nInfo: https:
+ //teatriincomune.roma.it/events/dipingere-lessenziale/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/dipingere-lessenziale/
+END:VEVENT
+END:VCALENDAR

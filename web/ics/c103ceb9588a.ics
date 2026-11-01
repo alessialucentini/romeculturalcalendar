@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c103ceb9588a@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261125T190000Z
+DTEND:20261125T210000Z
+SUMMARY:Sol Gabetta / Bertrand Chamayou
+LOCATION:Auditorium Parco della Musica · Sala Sinopoli\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Classica | Rassegne\n\nInfo: https://santacecilia.it/concerto
+ /sol-gabetta-bertrand-chamayou/?replica=1657\n\nDa Linceo
+URL:https://santacecilia.it/concerto/sol-gabetta-bertrand-chamayou/?repli
+ ca=1657
+END:VEVENT
+END:VCALENDAR

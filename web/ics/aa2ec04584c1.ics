@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aa2ec04584c1@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:Organum Multiplum II - I Capitolo
+LOCATION:Basilica di San Giovanni in Laterano\, Basilica di San Giovanni 
+ in Laterano\, Roma
+DESCRIPTION:Torna la rassegna di Villa Lontana che unisce contemporaneo\,
+  sacro\, artistə internazionalə e organi antichi. Concerto di apertura 
+ affidato a\n\nInfo: https://zero.eu/it/eventi/382010-organum-multiplum-ii
+ -i-capitolo-ellen-arkbro\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382010-organum-multiplum-ii-i-capitolo-elle
+ n-arkbro,roma/
+END:VEVENT
+END:VCALENDAR

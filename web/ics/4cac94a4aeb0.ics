@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4cac94a4aeb0@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261107T150000Z
+DTEND:20261107T170000Z
+SUMMARY:L'infernale Quinlan
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Mike Vargas\, ispettore della polizia messicana e sua moglie 
+ Susan\, devono interrompere il loro viaggio di nozze per venire a capo de
+ ll'uccisione del ricco proprietario Linnekar\, avvenuta al confine tra gl
+ i Stati Uniti e il Messico. Vargas partecipa alle indagini affiancando l'
+ ispettore americano Quinlan. Nel frattempo Susan viene circuita da un tip
+ o losco\, che\, ricattando la donna\, mira a liberar…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

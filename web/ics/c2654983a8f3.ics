@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c2654983a8f3@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20270926T143000Z
+DTEND:20270926T163000Z
+SUMMARY:La rondine
+LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
+DESCRIPTION:Info: https://www.operaroma.it/spettacoli/la-rondine/\n\nDa L
+ inceo
+URL:https://www.operaroma.it/spettacoli/la-rondine/
+END:VEVENT
+END:VCALENDAR

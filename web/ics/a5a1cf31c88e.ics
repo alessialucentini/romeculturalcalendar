@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a5a1cf31c88e@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Al cinema con la Galleria Borghese
+LOCATION:Casa del Cinema\, Largo Marcello Mastroianni 1\, Roma
+DESCRIPTION:In arrivo\n\nInfo: https://www.casadelcinema.it/it/event/cine
+ ma-galleria-borghese/\n\nDa Linceo
+URL:https://www.casadelcinema.it/it/event/cinema-galleria-borghese/
+END:VEVENT
+END:VCALENDAR

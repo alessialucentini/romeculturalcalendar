@@ -34,7 +34,12 @@
 ],
 "anna marra contemporanea|anna marra contemporanea, roma": null,
 "appartamenti segreti doria pamphilj|appartamenti segreti doria pamphilj, roma": null,
+"arcade club|arcade club, roma": null,
 "auditorium parco della musica / casa del jazz|viale pietro de coubertin 30": [
+41.93,
+12.4747
+],
+"auditorium parco della musica ennio morricone|auditorium parco della musica ennio morricone, roma": [
 41.93,
 12.4747
 ],
@@ -57,6 +62,16 @@
 "baronato quattro bellezze|baronato quattro bellezze, roma": null,
 "basement roma|basement roma, roma": null,
 "basile contemporary|basile contemporary, roma": null,
+"basilica di san giovanni in laterano|basilica di san giovanni in laterano, roma": [
+41.8858494,
+12.5055874
+],
+"basilica di santa cecilia in trastevere|basilica di santa cecilia in trastevere, roma": [
+41.8875623,
+12.4758569
+],
+"basilica di santa maria in aracoeli|basilica di santa maria in aracoeli, roma": null,
+"biblioteca apostolica vaticana|biblioteca apostolica vaticana, roma": null,
 "biblioteca della trinità dei monti|biblioteca della trinità dei monti, roma": null,
 "bocal|bocal, roma": null,
 "borgo della mistica|borgo della mistica, roma": null,
@@ -136,6 +151,10 @@
 41.8879,
 12.4688
 ],
+"città dell'altra economia|città dell'altra economia, roma": [
+41.8749172,
+12.4729995
+],
 "colle oppio - terme di traiano|parco del colle oppio e delle terme di traiano, vle del monte oppio, 00184 roma rm, italia": null,
 "complesso di trinità dei monti|complesso di trinità dei monti, roma": null,
 "condotto48|condotto48, roma": null,
@@ -168,6 +187,7 @@
 ],
 "fondazione giuliani|fondazione giuliani, roma": null,
 "fondazione memmo|fondazione memmo, roma": null,
+"fondazione nicola del roscio|fondazione nicola del roscio, roma": null,
 "fondazione pastificio cerere|fondazione pastificio cerere, roma": null,
 "foro romano|foro romano, roma": [
 41.8916414,
@@ -233,6 +253,7 @@
 12.4764323
 ],
 "il cantiere|il cantiere, roma": null,
+"il vinaietto di marco e giancarlo|il vinaietto di marco e giancarlo, roma": null,
 "instituto cervantes|instituto cervantes, roma": null,
 "interzone|interzone, roma": null,
 "isola farnese - piazza della colonnetta|la colonnetta di isola farnese, piazza della colonnetta, roma, rm, italia": null,
@@ -259,6 +280,7 @@
 41.9858076,
 12.6894113
 ],
+"label201|label201, roma": null,
 "largo venue|largo venue, roma": [
 41.8927748,
 12.5381774
@@ -292,6 +314,10 @@
 "mattatoio|mattatoio, roma": [
 41.9013511,
 12.5775934
+],
+"matèria|matèria, roma": [
+41.8873357,
+12.5103563
 ],
 "maxxi - museo nazionale delle arti del xxi secolo|maxxi - museo nazionale delle arti del xxi secolo, roma": [
 41.9279,
@@ -425,6 +451,10 @@
 12.5041
 ],
 "palazzo san lorenzo|palazzo san lorenzo, roma": null,
+"parco archeologico del colosseo|parco archeologico del colosseo | uccelliere farnesiane, roma": [
+41.8899538,
+12.4890639
+],
 "parco archeologico del colosseo|parco archeologico del colosseo, roma": [
 41.8899538,
 12.4890639
@@ -466,6 +496,10 @@
 41.887837,
 12.47854
 ],
+"risma|risma, roma": [
+41.8847525,
+12.5354337
+],
 "roma cinema vari|roma cinema vari, roma": null,
 "roma luoghi vari|roma luoghi vari, roma": null,
 "romadiffusa|esquilino, roma": null,
@@ -494,7 +528,9 @@
 "spazio supernova|spazio supernova, roma": null,
 "spaziotempo|spaziotempo, roma": null,
 "studio 33|studio 33, roma": null,
+"studio dfb|studio dfb, roma": null,
 "supernaturale bottega|supernaturale bottega, roma": null,
+"swan song tattoo|swan song tattoo, roma": null,
 "t293|t293, roma": [
 41.8933203,
 12.4829321
@@ -585,6 +621,10 @@
 "terme di caracalla|terme di caracalla, roma": [
 41.8788285,
 12.4924737
+],
+"terzo|terzo, roma": [
+42.0370547,
+12.6406537
 ],
 "tevere art gallery|tevere art gallery, roma": [
 41.8575711,

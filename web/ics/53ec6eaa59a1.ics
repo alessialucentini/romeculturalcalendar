@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:53ec6eaa59a1@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20261207
+SUMMARY:Fulco Pratesi. Acquerelli Pionieri
+LOCATION:Museo di Roma in Trastevere\, Museo di Roma in Trastevere\, Roma
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-fulco-p
+ ratesi-acquerelli-pionieri-104662\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-fulco-pratesi-acquere
+ lli-pionieri-104662
+END:VEVENT
+END:VCALENDAR

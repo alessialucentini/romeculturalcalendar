@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1cfd147cd4a4@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270111
+SUMMARY:ABRACADABRA 2026
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_raw_html css=””]JTVCZXNzX2dyaWQlMj
+ BhbGlhcyUzRCUyMmdyaWQtNDAlMjIlNUQlNUIlMkZlc3NfZ3JpZCU1RCUwOSUwRCUwQQ==[/v
+ c_raw_html][vc_empty_space height=”55px”][/vc_column][/vc_row][vc_row
+ ][vc_column width=”1/4″ css=”.vc_custom_1659605420797{margin-top: -
+ 8px !important\;}”][vc_single_image image=”17705″ img_size=”full
+ ” alignment=”center” css=””][vc_empty_space height=”25px”][
+ /vc_column]…\n\nInfo: https://www.teatroghione.it/spettacoli/abracadabr
+ a-2026/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/abracadabra-2026/
+END:VEVENT
+END:VCALENDAR

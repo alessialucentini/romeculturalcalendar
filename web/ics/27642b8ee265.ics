@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27642b8ee265@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261106T151500Z
+DTEND:20261106T171500Z
+SUMMARY:Hope
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:I rinforzi sono stati richiamati per fronteggiare i devastant
+ i incendi boschivi e ogni comunicazione con l’esterno è stata interrot
+ ta. Nel piccolo posto di polizia di Hope\, il comandante Bum-seok e l’a
+ gente Sung-ae lottano per proteggere un villaggio popolato quasi esclusiv
+ amente da anziani. Nel frattempo\, tra le montagne\, Sung-ki e gli abitan
+ ti del luogo partono sulle tracce della misteriosa cre…\n\nInfo: https:
+ //www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4f6364284ec5@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261124T190000Z
+DTEND:20261124T210000Z
+SUMMARY:Jason Miles – “100 Miles for Miles Davis”
+LOCATION:Auditorium Parco della Musica · Sala Petrassi\, Viale Pietro de
+  Coubertin 30\, Roma
+DESCRIPTION:Jazz | Festival\n\nInfo: https://www.auditorium.com/it/event/
+ jason-miles-100-miles-for-miles-davis/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/jason-miles-100-miles-for-miles-d
+ avis/
+END:VEVENT
+END:VCALENDAR

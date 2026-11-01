@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d77d7ce7afb3@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261119T193000Z
+DTEND:20261119T213000Z
+SUMMARY:Organum Multiplum II - II Capitolo
+LOCATION:Basilica di Santa Maria in Aracoeli\, Basilica di Santa Maria in
+  Aracoeli\, Roma
+DESCRIPTION:Torna la rassegna di Villa Lontana che unisce contemporaneo\,
+  sacro\, artistə internazionalə e organi antichi. Stasera James McVinni
+ e e Tristan\n\nInfo: https://zero.eu/it/eventi/382012-organum-multiplum-i
+ i-ii-capitolo-james-mcvinnie-tristan-perich\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382012-organum-multiplum-ii-ii-capitolo-jam
+ es-mcvinnie-tristan-perich,roma/
+END:VEVENT
+END:VCALENDAR

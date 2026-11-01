@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bc811b4200de@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Domenica nei Musei Civici
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Ogni prima domenica del mese i Musei Civici di Roma sono grat
+ uiti. Scopri qui i siti visitabili.\n\nInfo: https://zero.eu/it/eventi/38
+ 2271-domenica-nei-musei-civici-1-novembre-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382271-domenica-nei-musei-civici-1-novembre
+ -2026,roma/
+END:VEVENT
+END:VCALENDAR

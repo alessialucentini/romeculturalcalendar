@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff35772201b8@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:IL COMMISSARIO MONTALBANO
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/il-commissario-mont
+ albano-2027-02-27/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/il-commissario-montalbano-2027-02
+ -27/
+END:VEVENT
+END:VCALENDAR

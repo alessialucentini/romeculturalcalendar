@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a88439e2bca9@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261129T203000Z
+DTEND:20261129T223000Z
+SUMMARY:You Can See Everything
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Trentaquattro giorni prima di entrare in carcere per scontare
+  una condanna per frode\, Elizabeth Holmes\, fondatrice della startup The
+ ranos\, invita una troupe a documentare ogni suo movimento. Quello che co
+ mincia come un ritratto intimo si trasforma in un viaggio di tre anni\, n
+ el quale la relazione tra chi filma e chi viene filmato rende sempre piÃ
+ ¹ incerto il confine tra osservazione e messa in sc…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

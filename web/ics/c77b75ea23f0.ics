@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c77b75ea23f0@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261112
+SUMMARY:Mnemosyne - Atlante del divenire
+LOCATION:Largo Venue\, Largo Venue\, Roma
+DESCRIPTION:Tre giorni di performance\, installazioni e workshop per fest
+ eggiare i dieci anni di Chiasma\, la realtà teatrale fondata da Salvo\n\
+ nInfo: https://zero.eu/it/eventi/381656-mnemosyne-atlante-del-divenire\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381656-mnemosyne-atlante-del-divenire,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ced84d8966d9@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261106
+SUMMARY:Pietro Giannini - "Starman. La vera storia di Leon Skum"
+LOCATION:Teatro Vascello\, Teatro Vascello\, Roma
+DESCRIPTION:Pietro Giannini porta in scena la ricostruzione della vita di
+  un Leonardo ai tempi di Elon Musk\, mettendo insieme tasselli\n\nInfo: h
+ ttps://zero.eu/it/eventi/381706-starman-la-vera-storia-di-leon-skum\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381706-starman-la-vera-storia-di-leon-skum,
+ roma/
+END:VEVENT
+END:VCALENDAR

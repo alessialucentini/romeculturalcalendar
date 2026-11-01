@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3534d55ac84f@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261121
+SUMMARY:Nicolas Salgado Gomez - "El país de los hombres de plata"
+LOCATION:Label201\, Label201\, Roma
+DESCRIPTION:Attraverso una serie di (finti) ritrovamenti inediti\, l'arti
+ sta riporta alla luce le tracce di un passato sconosciuto\, capace di rim
+ ettere\n\nInfo: https://zero.eu/it/eventi/382001-nicolas-salgado-gomez-el
+ -pais-de-los-hombres-de-plata\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382001-nicolas-salgado-gomez-el-pais-de-los
+ -hombres-de-plata,roma/
+END:VEVENT
+END:VCALENDAR

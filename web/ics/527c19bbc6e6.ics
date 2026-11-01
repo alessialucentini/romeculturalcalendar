@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:527c19bbc6e6@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261107T210000Z
+DTEND:20261107T230000Z
+SUMMARY:Nubes w/ emer
+LOCATION:Esc Atelier Occupato\, Esc Atelier Occupato\, Roma
+DESCRIPTION:Dal vivo Marija Rasa\, artista nata in Lituania ma di base a 
+ Bruxelles\, che esplora sonorità radicate nella dub\, muovendosi\n\nInfo
+ : https://zero.eu/it/eventi/378778-nubes-w-emer\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378778-nubes-w-emer,roma/
+END:VEVENT
+END:VCALENDAR

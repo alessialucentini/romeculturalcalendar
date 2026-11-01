@@ -5,13 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:e3ac4a0be223@linceo
-DTSTAMP:20261025T080032Z
+DTSTAMP:20261101T095914Z
 DTSTART:20261107T170000Z
 DTEND:20261107T190000Z
 SUMMARY:Goecke / Robbins / Bausch
 LOCATION:Teatro dell'Opera di Roma\, Piazza Beniamino Gigli 7\, Roma
-DESCRIPTION:Info: https://www.operaroma.it/spettacoli/goecke-robbins-baus
- ch/\n\nDa Linceo
+DESCRIPTION:DURATA: Parte I 60 minuti – (Intervallo 30 minuti) – Part
+ e II 35 minuti\n\nInfo: https://www.operaroma.it/spettacoli/goecke-robbin
+ s-bausch/\n\nDa Linceo
 URL:https://www.operaroma.it/spettacoli/goecke-robbins-bausch/
 END:VEVENT
 END:VCALENDAR

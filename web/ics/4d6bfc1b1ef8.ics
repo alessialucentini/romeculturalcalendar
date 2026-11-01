@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4d6bfc1b1ef8@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+SUMMARY:Shirin Neshat
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · conversazioni d'autore\n\nInfo: https://www.maxxi.a
+ rt/events/conversazioni-dautore-shirin-neshat/\n\nDa Linceo
+URL:https://www.maxxi.art/events/conversazioni-dautore-shirin-neshat/
+END:VEVENT
+END:VCALENDAR

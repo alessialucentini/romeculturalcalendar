@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:80af729b9d1f@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:VOGLIO VEDERTI DANZARE 4ª ed.
+LOCATION:Teatro del Lido di Ostia\, Teatro del Lido di Ostia\, Roma
+DESCRIPTION:Quarta edizione per la rassegna dedicata alle scuole di danza
+  del Municipio Roma X. Esibizioni libere da vincoli di stile e discipline
+ \, per promuovere il confronto tra allievi/e\, insegnanti e pubblico\, of
+ frendo uno spazio di esibizione libero da competizioni.\n\nInfo: https://
+ teatriincomune.roma.it/events/voglio-vederti-danzare-4a-ed/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/voglio-vederti-danzare-4a-ed/
+END:VEVENT
+END:VCALENDAR

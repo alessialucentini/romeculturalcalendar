@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f63df9646a18@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261107T160000Z
+DTEND:20261107T180000Z
+SUMMARY:Swan Song Opening
+LOCATION:Swan Song Tattoo\, Swan Song Tattoo\, Roma
+DESCRIPTION:Swan Song inaugura la nuova sede con una festa lunga un pomer
+ iggio e una sera. Con i dj set di\n\nInfo: https://zero.eu/it/eventi/3827
+ 36-swan-song-opening\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382736-swan-song-opening,roma/
+END:VEVENT
+END:VCALENDAR

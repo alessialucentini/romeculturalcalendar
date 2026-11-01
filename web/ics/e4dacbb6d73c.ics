@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e4dacbb6d73c@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270515
+SUMMARY:AQVA
+LOCATION:Biblioteca Apostolica Vaticana\, Biblioteca Apostolica Vaticana\
+ , Roma
+DESCRIPTION:La Biblioteca Vaticana ospita "Catastrofe e Meraviglia"\, un 
+ ciclo di mostre quinquennale che mette in relazione il suo patrimonio di\
+ n\nInfo: https://zero.eu/it/eventi/378227-catastrofe-e-meraviglia-aqva\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378227-catastrofe-e-meraviglia-aqva,roma/
+END:VEVENT
+END:VCALENDAR

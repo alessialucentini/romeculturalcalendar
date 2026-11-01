@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b3cee809ead@linceo
+DTSTAMP:20261101T095914Z
+DTSTART:20261108T180000Z
+DTEND:20261108T200000Z
+SUMMARY:Giulio Stermieri
+LOCATION:Kina\, Kina\, Roma
+DESCRIPTION:Presentazione in anteprima romana di "Ouroboros"\, ultimo ipn
+ otico album del pianista campano dedicato all'organo Farfisa.\n\nInfo: ht
+ tps://zero.eu/it/eventi/382304-giulio-stermieri-kina\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382304-giulio-stermieri-kina,roma/
+END:VEVENT
+END:VCALENDAR

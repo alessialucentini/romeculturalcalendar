@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8b0bfc9a28bd@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261207
+SUMMARY:Yoan Mudry - "Nazis are Idiots and Other Small Works"
+LOCATION:Lateral\, Lateral\, Roma
+DESCRIPTION:Attraverso un insieme di dipinti\, manifesti e oggetti in bro
+ nzo\, la mostra esplora la circolazione di immagini e messaggi politici\n
+ \nInfo: https://zero.eu/it/eventi/382833-yoan-mudry-nazis-are-idiots-and-
+ other-small-works\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382833-yoan-mudry-nazis-are-idiots-and-othe
+ r-small-works,roma/
+END:VEVENT
+END:VCALENDAR

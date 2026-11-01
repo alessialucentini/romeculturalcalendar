@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:130b7564b6fa@linceo
+DTSTAMP:20261101T095914Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:ROSSO MALPELO
+LOCATION:Teatro Quirino\, Via delle Vergini 7\, Roma
+DESCRIPTION:Info: https://www.teatroquirino.it/eventi/rosso-malpelo-2027-
+ 02-04/\n\nDa Linceo
+URL:https://www.teatroquirino.it/eventi/rosso-malpelo-2027-02-04/
+END:VEVENT
+END:VCALENDAR
