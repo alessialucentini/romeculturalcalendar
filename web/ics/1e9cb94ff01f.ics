@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1e9cb94ff01f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
+SUMMARY:Tessuto Aereo
+LOCATION:Teatro della Dodicesima\, Via Carlo Avolio 60\, Roma
+DESCRIPTION:Laboratorio a cura di Chiara Lucisano - Lodi Circus\n\nInfo: 
+ https://culture.roma.it/appuntamento/tessuto-aereo/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/tessuto-aereo/
+END:VEVENT
+END:VCALENDAR

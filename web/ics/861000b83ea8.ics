@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:861000b83ea8@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261206T143000Z
+DTEND:20261206T163000Z
+SUMMARY:La regina della curva
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:attività educativa · workshop · a cura di Ùtol\n\nInfo: h
+ ttps://www.maxxi.art/events/la-regina-della-curva/\n\nDa Linceo
+URL:https://www.maxxi.art/events/la-regina-della-curva/
+END:VEVENT
+END:VCALENDAR

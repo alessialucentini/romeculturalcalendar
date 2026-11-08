@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0f196c10d375@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261214T190000Z
+DTEND:20261214T210000Z
+SUMMARY:Herbie Hancock – Tour 2026
+LOCATION:Auditorium Parco della Musica · Sala Santa Cecilia\, Viale Piet
+ ro de Coubertin 30\, Roma
+DESCRIPTION:Jazz\n\nInfo: https://www.auditorium.com/it/event/herbie-hanc
+ ock-5/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/herbie-hancock-5/
+END:VEVENT
+END:VCALENDAR

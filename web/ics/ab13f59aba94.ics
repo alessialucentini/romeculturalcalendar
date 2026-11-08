@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab13f59aba94@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:IL NATALE CHE VORREI
+LOCATION:Teatro Ghione
+DESCRIPTION:[vc_row][vc_column][vc_raw_html css=””]JTVCZXNzX2dyaWQlMj
+ BhbGlhcyUzRCUyMmdyaWQtNzYlMjIlNUQlNUIlMkZlc3NfZ3JpZCU1RA==[/vc_raw_html][
+ vc_empty_space height=”55px”][/vc_column][/vc_row][vc_row][vc_column 
+ width=”1/4″ css=”.vc_custom_1659605420797{margin-top: -8px !importa
+ nt\;}”][vc_single_image image=”18579″ img_size=”full” alignment
+ =”center” css=””][vc_empty_space height=”25px”][/vc_column][v
+ c_column w…\n\nInfo: https://www.teatroghione.it/spettacoli/il-natale-c
+ he-vorrei/\n\nDa Linceo
+URL:https://www.teatroghione.it/spettacoli/il-natale-che-vorrei/
+END:VEVENT
+END:VCALENDAR

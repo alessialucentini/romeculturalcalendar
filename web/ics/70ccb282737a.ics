@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70ccb282737a@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270111
+SUMMARY:Shirin Neshat. Do U Dare!
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Il progetto riunisce una trilogia di film e una serie di foto
+ grafie e trae ispirazione dalla storia di Nasim Aghdam\,\n\nInfo: https:/
+ /zero.eu/it/eventi/381954-shirin-neshat-do-u-dare\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381954-shirin-neshat-do-u-dare,roma/
+END:VEVENT
+END:VCALENDAR

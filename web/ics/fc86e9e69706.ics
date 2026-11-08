@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fc86e9e69706@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261213
+SUMMARY:Lindsay Merrill
+LOCATION:Galerie Rolando Anselmi\, Galerie Rolando Anselmi\, Roma
+DESCRIPTION:Personale dell'artista.\n\nInfo: https://zero.eu/it/eventi/37
+ 9305-lindsay-merrill\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/379305-lindsay-merrill,roma/
+END:VEVENT
+END:VCALENDAR

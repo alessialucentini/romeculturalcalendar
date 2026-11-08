@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a7067768656e@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261127T170000Z
+DTEND:20261127T190000Z
+SUMMARY:Marinetti
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · talk + film · L'uomo che inventò il futuro\n\nInf
+ o: https://www.maxxi.art/events/marinetti/\n\nDa Linceo
+URL:https://www.maxxi.art/events/marinetti/
+END:VEVENT
+END:VCALENDAR

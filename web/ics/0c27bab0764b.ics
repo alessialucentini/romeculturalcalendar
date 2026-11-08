@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0c27bab0764b@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261126
+SUMMARY:Chinese Kids
+LOCATION:AAIE Center For Contemporary Art\, AAIE Center For Contemporary 
+ Art\, Roma
+DESCRIPTION:Una collettiva costruita attorno al tema dell'infanzia permet
+ te di riflettere anche sulle biografie degli artisti e chierdersi cosa vo
+ glia dire\n\nInfo: https://zero.eu/it/eventi/383468-chinese-kids\,roma/\n
+ \nDa Linceo
+URL:https://zero.eu/it/eventi/383468-chinese-kids,roma/
+END:VEVENT
+END:VCALENDAR

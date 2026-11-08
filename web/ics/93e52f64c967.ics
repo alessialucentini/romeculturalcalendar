@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:93e52f64c967@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20270128T200000Z
+DTEND:20270128T220000Z
+SUMMARY:All You Need Is Love
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:All You Need is Love: JACOPO SARNO e CHIARA CANZIAN in uno sp
+ ettacolo fra prosa e musica\, con le iconiche musiche dei Beatles.\n\nInf
+ o: https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/all-you-need
+ -is-love/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/all-you-nee
+ d-is-love/
+END:VEVENT
+END:VCALENDAR

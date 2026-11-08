@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8185b7daac86@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:Carta Bianca a Blixa Bargeld: "The Nine Lives of Tomas Katz”
+LOCATION:Cinema Troisi\, Cinema Troisi\, Roma
+DESCRIPTION:Il compositore e scrittore\, fondatore e voce degli Einstürz
+ ende Neubauten\, attualmente in residenza a Villa Massimo\, presenta "The
+  Nine Lives\n\nInfo: https://zero.eu/it/eventi/383831-blixa-bargeld-prese
+ nta-the-nine-lives-of-tomas-katz\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383831-blixa-bargeld-presenta-the-nine-live
+ s-of-tomas-katz,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5f528c045140@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261206T100000Z
+DTEND:20261206T120000Z
+SUMMARY:Rezza Mastrella a Tor Bella Monaca
+LOCATION:Teatro di Tor Bella Monaca\, Via di Tor Bella Monaca\, 36\, Roma
+ \, RM\, Italia
+DESCRIPTION:Performance/restituzione pubblica\n\nInfo: https://culture.ro
+ ma.it/appuntamento/rezza-mastrella-a-tor-bella-monaca-6/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/rezza-mastrella-a-tor-bella-mona
+ ca-6/
+END:VEVENT
+END:VCALENDAR

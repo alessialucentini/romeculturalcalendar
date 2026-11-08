@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bb291108f645@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:The Nine Lives of Tomas Katz
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:The last day of creation. A stranger arrives in London. No on
+ e knows who he is or where he has come from. By the time he leaves\, the 
+ entire universe will have been erased. Black comedy about the Apocalypse.
+ \n\nInfo: https://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

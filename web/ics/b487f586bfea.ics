@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b487f586bfea@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261121
+SUMMARY:Marco Celentani - "Notturni"
+LOCATION:Lavatoio Contumaciale\, Lavatoio Contumaciale\, Roma
+DESCRIPTION:Un indagine pittorica sulla notte che prende spunto dai "Nott
+ urni" di Chopin\, tra luce\, oscurità e dissolvenza. A cura di\n\nInfo: 
+ https://zero.eu/it/eventi/383349-marco-celentani-notturni\,roma/\n\nDa Li
+ nceo
+URL:https://zero.eu/it/eventi/383349-marco-celentani-notturni,roma/
+END:VEVENT
+END:VCALENDAR

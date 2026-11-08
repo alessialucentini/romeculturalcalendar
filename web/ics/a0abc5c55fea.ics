@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a0abc5c55fea@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270301
+SUMMARY:Gordon Matta-Clark. Not the Work... The Worker
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Una retrospettiv a cura di Jessamyn Fiore e Francesco Stocchi
+  ripercorre alcuni momenti fondamentali della carriera dell'artista\, dag
+ li anni sperimentali\n\nInfo: https://zero.eu/it/eventi/381951-gordon-mat
+ ta-clark-not-the-work-the-worker-2\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381951-gordon-matta-clark-not-the-work-the-
+ worker-2,roma/
+END:VEVENT
+END:VCALENDAR

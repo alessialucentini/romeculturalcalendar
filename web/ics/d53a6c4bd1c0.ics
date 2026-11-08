@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d53a6c4bd1c0@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+SUMMARY:aMICi e aMICi kids: appuntamenti del 18 e 19 novembre 2026
+LOCATION:Vari luoghi
+DESCRIPTION:Visite dedicate ai possessori della MiC card\n\nInfo: https:/
+ /culture.roma.it/appuntamento/amici-e-amici-kids-appuntamenti-del-18-e-19
+ -novembre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/amici-e-amici-kids-appuntamenti-
+ del-18-e-19-novembre-2026/
+END:VEVENT
+END:VCALENDAR

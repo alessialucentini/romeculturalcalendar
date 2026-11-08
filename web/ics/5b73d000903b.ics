@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5b73d000903b@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261113T183000Z
+DTEND:20261113T203000Z
+SUMMARY:Eleonora Strino Trio
+LOCATION:Casa del Jazz
+DESCRIPTION:Sul palco con il nuovo album “Lumithia”\n\nInfo: https://
+ culture.roma.it/appuntamento/eleonora-strino-trio/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/eleonora-strino-trio/
+END:VEVENT
+END:VCALENDAR

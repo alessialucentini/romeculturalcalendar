@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd714b8ba39d@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270208
+SUMMARY:EUR – Una storia lunga 90 anni
+LOCATION:Palazzo Uffici\, Palazzo Uffici\, Roma
+DESCRIPTION:Dal 6 novembre 2026 al 7 febbraio 2027 il Palazzo Uffici dell
+ ’EUR\, capolavoro dell’architettura razionalista e prima o\n\nInfo: h
+ ttps://www.arte.it/calendario-arte/roma/mostra-eur-una-storia-lunga-90-an
+ ni-104580\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-eur-una-storia-lunga-
+ 90-anni-104580
+END:VEVENT
+END:VCALENDAR

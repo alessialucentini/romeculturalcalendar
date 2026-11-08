@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c9a9666ef57b@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:Domenico Rizzuto Trio
+LOCATION:Casa del Jazz
+DESCRIPTION:Sul palco con il nuovo album “Disastri quotidiani”\n\nInf
+ o: https://culture.roma.it/appuntamento/domenico-rizzuto-trio/\n\nDa Linc
+ eo
+URL:https://culture.roma.it/appuntamento/domenico-rizzuto-trio/
+END:VEVENT
+END:VCALENDAR

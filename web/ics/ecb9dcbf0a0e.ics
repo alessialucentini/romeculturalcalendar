@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ecb9dcbf0a0e@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:Bee Bee Sea
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Eroi italiani del garage-psych\, i Bee Bee Sea arrivano final
+ mente a Roma per presentare l'ultimo album\, "Stanzini Can Be Allright".\
+ n\nInfo: https://zero.eu/it/eventi/356707-bee-bee-sea-30-formiche-novembr
+ e-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/356707-bee-bee-sea-30-formiche-novembre-202
+ 6,roma/
+END:VEVENT
+END:VCALENDAR

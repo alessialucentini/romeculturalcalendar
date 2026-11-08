@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:733b5de3d86f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261115T180000Z
+DTEND:20261115T200000Z
+SUMMARY:acrobatica aerea
+LOCATION:Teatro della Dodicesima\, Via Carlo Avolio 60\, Roma
+DESCRIPTION:Spettacolo di acrobatica aerea a cura della Compagnia Lodi Ci
+ rcus\n\nInfo: https://culture.roma.it/appuntamento/acrobatica-aerea/\n\nD
+ a Linceo
+URL:https://culture.roma.it/appuntamento/acrobatica-aerea/
+END:VEVENT
+END:VCALENDAR

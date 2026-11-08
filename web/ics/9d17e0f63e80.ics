@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9d17e0f63e80@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261120T080000Z
+DTEND:20261120T100000Z
+SUMMARY:Imprinting – I Paesaggi Nativi degli Architetti Italiani
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · giornata di studi\n\nInfo: https://www.maxxi.art/ev
+ ents/imprinting-i-paesaggi-nativi-degli-architetti-italiani/\n\nDa Linceo
+URL:https://www.maxxi.art/events/imprinting-i-paesaggi-nativi-degli-archi
+ tetti-italiani/
+END:VEVENT
+END:VCALENDAR

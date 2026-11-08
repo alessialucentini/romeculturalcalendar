@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:21d15acf7a11@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261112
+SUMMARY:Opera Ballet Vlaanderen - "On speed" / "Grosse Fuge" / "Opus"
+LOCATION:Teatro dell'Opera\, Teatro dell'Opera\, Roma
+DESCRIPTION:La compagnia di danza riunisce tre scritture coreografiche co
+ ntemporanee\, abbracciando diverse generazioni della scena fiamminga e de
+ l panorama internazionale: Jan\n\nInfo: https://zero.eu/it/eventi/381838-
+ opera-ballet-vlaanderen-on-speed-grosse-fuge-opus\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381838-opera-ballet-vlaanderen-on-speed-gro
+ sse-fuge-opus,roma/
+END:VEVENT
+END:VCALENDAR

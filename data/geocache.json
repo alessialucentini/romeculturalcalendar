@@ -4,6 +4,11 @@
 "21art roma|21art roma, roma": null,
 "21art|21art, roma": null,
 "30formiche|30formiche, roma": null,
+"aaie center for contemporary art|aaie center for contemporary art, roma": null,
+"accademia di belle arti di roma|accademia di belle arti di roma, roma": [
+41.9073592,
+12.4753361
+],
 "accademia di francia a roma - villa medici|accademia di francia a roma - villa medici, roma": null,
 "accademia nazionale di san luca ets|accademia nazionale di san luca ets, roma": null,
 "accademia nazionale di san luca|accademia nazionale di san luca, roma": null,
@@ -19,6 +24,7 @@
 41.9319297,
 12.5022524
 ],
+"agorart - clivo rutario, 53|": null,
 "agriturismo cobragor|agriturismo cobragor, roma": null,
 "alcazar|alcazar, roma": [
 41.887269,
@@ -60,6 +66,10 @@
 12.5396016
 ],
 "baronato quattro bellezze|baronato quattro bellezze, roma": null,
+"barred|barred, roma": [
+41.883567,
+12.5136438
+],
 "basement roma|basement roma, roma": null,
 "basile contemporary|basile contemporary, roma": null,
 "basilica di san giovanni in laterano|basilica di san giovanni in laterano, roma": [
@@ -73,6 +83,11 @@
 "basilica di santa maria in aracoeli|basilica di santa maria in aracoeli, roma": null,
 "biblioteca apostolica vaticana|biblioteca apostolica vaticana, roma": null,
 "biblioteca della trinità dei monti|biblioteca della trinità dei monti, roma": null,
+"biblioteche di roma|roma, roma rm, italia": [
+41.9059672,
+12.5082924
+],
+"blocco 13|blocco 13, roma": null,
 "bocal|bocal, roma": null,
 "borgo della mistica|borgo della mistica, roma": null,
 "brancaleone|brancaleone, roma": [
@@ -84,6 +99,10 @@
 "casa del cinema|largo marcello mastroianni 1, roma": [
 41.9116,
 12.4912
+],
+"casa del jazz|": [
+41.8733879,
+12.4937668
 ],
 "casa internazionale delle donne|casa internazionale delle donne, roma": null,
 "casa museo boncompagni ludovisi|casa museo boncompagni ludovisi, roma": null,
@@ -189,6 +208,7 @@
 "fondazione memmo|fondazione memmo, roma": null,
 "fondazione nicola del roscio|fondazione nicola del roscio, roma": null,
 "fondazione pastificio cerere|fondazione pastificio cerere, roma": null,
+"fondazione volume!|fondazione volume!, roma": null,
 "foro romano|foro romano, roma": [
 41.8916414,
 12.4867296
@@ -198,6 +218,7 @@
 12.569105
 ],
 "francesca antonini arte contemporanea|francesca antonini arte contemporanea, roma": null,
+"frissón|frissón, roma": null,
 "fusolab|fusolab, roma": [
 41.8720435,
 12.5822329
@@ -271,6 +292,10 @@
 41.8666323,
 12.5465379
 ],
+"la berta|la berta, roma": [
+41.8781845,
+12.5410317
+],
 "la nuova pesa|la nuova pesa, roma": null,
 "la nuvola|viale asia 40": [
 41.830872,
@@ -286,6 +311,7 @@
 12.5381774
 ],
 "lateral|lateral, roma": null,
+"lavatoio contumaciale|lavatoio contumaciale, roma": null,
 "liminal space|liminal space, roma": null,
 "linea bar|linea bar, roma": null,
 "lorcan o'neill|lorcan o'neill, roma": [
@@ -382,6 +408,10 @@
 12.488288
 ],
 "museo del corso - polo museale|museo del corso - polo museale, roma": null,
+"museo dell'ara pacis|museo dell'ara pacis, roma": [
+41.9061386,
+12.4754631
+],
 "museo di roma - palazzo braschi|museo di roma - palazzo braschi, roma": null,
 "museo di roma in trastevere|museo di roma in trastevere, roma": [
 41.8898257,
@@ -410,6 +440,8 @@
 41.9036482,
 12.4987226
 ],
+"museo storico della fanteria|museo storico della fanteria, roma": null,
+"muta|muta, roma": null,
 "nuovo cinema aquila|nuovo cinema aquila, roma": [
 41.890412,
 12.525601
@@ -451,6 +483,11 @@
 12.5041
 ],
 "palazzo san lorenzo|palazzo san lorenzo, roma": null,
+"palazzo uffici dell'eur|palazzo uffici dell'eur, roma": null,
+"palazzo uffici|palazzo uffici, roma": [
+41.8365413,
+12.4689082
+],
 "parco archeologico del colosseo|parco archeologico del colosseo | uccelliere farnesiane, roma": [
 41.8899538,
 12.4890639
@@ -504,6 +541,10 @@
 "roma luoghi vari|roma luoghi vari, roma": null,
 "romadiffusa|esquilino, roma": null,
 "rufa space|rufa space, roma": null,
+"sacripante|sacripante, roma": null,
+"sala 1 - centro internazionale d'arte contemporanea|sala 1 - centro internazionale d'arte contemporanea, roma": null,
+"sala 1 – centro internazionale d’arte contemporanea|sala 1 – centro internazionale d’arte contemporanea, roma": null,
+"santedicola|santedicola, roma": null,
 "sant’andrea de scaphis|sant’andrea de scaphis, roma": null,
 "sazio celestino e casa del quartiere|roma, roma rm, italia": null,
 "scuderie del quirinale|scuderie del quirinale, roma": [
@@ -567,9 +608,17 @@
 41.9007,
 12.4959
 ],
+"teatro dell'opera|teatro dell'opera, roma": [
+41.9009286,
+12.4954686
+],
 "teatro della cometa|teatro della cometa, roma": [
 41.893501,
 12.4814895
+],
+"teatro della dodicesima|via carlo avolio 60, roma": [
+41.7890356,
+12.4436461
 ],
 "teatro dell’opera di roma|": [
 41.9009286,
@@ -579,14 +628,20 @@
 41.880098,
 12.5121912
 ],
+"teatro di tor bella monaca|via di tor bella monaca, 36, roma, rm, italia": [
+41.8722388,
+12.6322121
+],
 "teatro ghione|": [
 41.8987753,
 12.456389
 ],
+"teatro india e teatro torlonia|": null,
 "teatro india|teatro india, roma": [
 41.8686672,
 12.4718528
 ],
+"teatro mongiovino e la villetta|": null,
 "teatro palladium|teatro palladium, roma": [
 41.8624769,
 12.4854816
@@ -596,6 +651,7 @@
 12.4833
 ],
 "teatro tor bella monaca e zone del quartiere|teatro tor bella monaca, via bruno cirino, roma, rm, italia": null,
+"teatro tor bella monaca e zone limitrofe|teatro tor bella monaca, via bruno cirino, roma, rm, italia": null,
 "teatro tor bella monaca|teatro tor bella monaca, roma": [
 41.869415,
 12.6331947
@@ -617,6 +673,7 @@
 41.8797422,
 12.4750116
 ],
+"teldil art gallery|teldil art gallery, roma": null,
 "tenuta tor de' sordi, guidonia|tenuta tor de' sordi, guidonia, roma": null,
 "terme di caracalla|terme di caracalla, roma": [
 41.8788285,
@@ -630,6 +687,7 @@
 41.8575711,
 12.4603925
 ],
+"the british school at rome|the british school at rome, roma": null,
 "tim van laere gallery|tim van laere gallery, roma": null,
 "tornabuoniarte|tornabuoniarte, roma": null,
 "tuba|tuba, roma": [
@@ -657,6 +715,7 @@
 12.5195946
 ],
 "villa la saracena, santa marinella|villa la saracena, santa marinella, roma": null,
+"villa lontana|villa lontana, roma": null,
 "villa torlonia|villa torlonia, roma": [
 41.9136433,
 12.5116238

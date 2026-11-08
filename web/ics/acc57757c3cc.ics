@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acc57757c3cc@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261125T190000Z
+DTEND:20261125T210000Z
+SUMMARY:D’Improvviso: International Contemporary Ensemble e Nuova Conso
+ nanza in Concert
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Contemporanea | Festival\n\nInfo: https://www.auditorium.com/
+ it/event/festival-di-nuova-consonanza-dimprovviso-international-contempor
+ ary-ensemble-e-nuova-consonanza-in-concert/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/festival-di-nuova-consonanza-dimp
+ rovviso-international-contemporary-ensemble-e-nuova-consonanza-in-concert
+ /
+END:VEVENT
+END:VCALENDAR

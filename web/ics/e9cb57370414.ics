@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e9cb57370414@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261206T100000Z
+DTEND:20261206T120000Z
+SUMMARY:IL GGG - IL GRANDE GIGANTE GENTILE (THE
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Il GGG è un gigante\, un Grande Gigante Gentile\, molto dive
+ rso dagli altri abitanti del Paese dei Giganti che come San-Guinario e In
+ ghiotticicciaviva si nutrono di esseri umani\, preferibilmente bambini. E
+  così una notte il GGG - che è vegetariano e si ciba soltanto di Cetrio
+ nzoli e Sciroppio - rapisce Sophie\, una bambina che vive a Londra e la p
+ orta nella sua caverna. Inizialmente spaventata dal m…\n\nInfo: https:/
+ /www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

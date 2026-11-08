@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:483686926edb@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261129T103000Z
+DTEND:20261129T123000Z
+SUMMARY:Baby sound 3/5
+LOCATION:Auditorium Parco della Musica · Studio 1\, Viale Pietro de Coub
+ ertin 30\, Roma
+DESCRIPTION:Rassegne\n\nInfo: https://santacecilia.it/concerto/baby-sound
+ -3-5-2/?replica=1809\n\nDa Linceo
+URL:https://santacecilia.it/concerto/baby-sound-3-5-2/?replica=1809
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:06e0f44f7442@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:MedFilm Festival 2026 | 14 novembre
+LOCATION:Vari luoghi
+DESCRIPTION:La programmazione del 14 novembre 2026\n\nInfo: https://cultu
+ re.roma.it/appuntamento/medfilm-festival-2026-14-novembre/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/medfilm-festival-2026-14-novembr
+ e/
+END:VEVENT
+END:VCALENDAR

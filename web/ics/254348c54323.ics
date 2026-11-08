@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:254348c54323@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20270116
+SUMMARY:Ella Littwitz. Salt
+LOCATION:Sala 1 - Centro Internazionale d'Arte Contemporanea\, Sala 1 - C
+ entro Internazionale d'Arte Contemporanea\, Roma
+DESCRIPTION:Il 4 novembre 2026 alle ore 18 Sala 1 presenta Salt\, prima m
+ ostra personale a Roma di Ella Littwitz\, a cura di Micol Di Veroli. Da o
+ ltre quindici anni\n\nInfo: https://www.arte.it/calendario-arte/roma/most
+ ra-ella-littwitz-salt-104547\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-ella-littwitz-salt-10
+ 4547
+END:VEVENT
+END:VCALENDAR

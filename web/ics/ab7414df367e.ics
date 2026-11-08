@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab7414df367e@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261123
+SUMMARY:Il prodigio
+LOCATION:Teatro Vascello\, Teatro Vascello\, Roma
+DESCRIPTION:Giacomo Bisordi porta in scena il primo romanzo del drammatur
+ go Fabrizio Sinisi\, trasformandolo in un dispositivo scenico visionario 
+ che interroga\n\nInfo: https://zero.eu/it/eventi/381730-il-prodigio\,roma
+ /\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381730-il-prodigio,roma/
+END:VEVENT
+END:VCALENDAR

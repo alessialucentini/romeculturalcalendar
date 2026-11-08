@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:05151f3fc938@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261219
+SUMMARY:Cent’anni a Roma: The Abbey Awards\, 1926–2026
+LOCATION:The British School at Rome\, The British School at Rome\, Roma
+DESCRIPTION:Un mostra riunisce nuove opere su carta realizzate da illustr
+ i ex vincitori dell'Abbey Award\, dagli anni Cinquanta a oggi\, affiancat
+ e\n\nInfo: https://zero.eu/it/eventi/381740-centanni-a-roma-the-abbey-awa
+ rds-1926-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381740-centanni-a-roma-the-abbey-awards-192
+ 6-2026,roma/
+END:VEVENT
+END:VCALENDAR

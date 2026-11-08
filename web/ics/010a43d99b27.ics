@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:010a43d99b27@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270503
+SUMMARY:Il potere del ritratto. Egitto e Roma. I volti del Fayum
+LOCATION:Museo dell'Ara Pacis\, Museo dell'Ara Pacis\, Roma
+DESCRIPTION:Dal 5 novembre 2026 al 2 maggio 2027 il Museo dell’Ara Paci
+ s ospita Egitto e Roma. I volti del Fayum\, grande mostra dedicata ai vol
+ ti dipinti de\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-il
+ -potere-del-ritratto-egitto-e-roma-i-volti-del-fayum-104660\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-il-potere-del-ritratt
+ o-egitto-e-roma-i-volti-del-fayum-104660
+END:VEVENT
+END:VCALENDAR

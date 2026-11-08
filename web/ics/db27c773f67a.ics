@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:db27c773f67a@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:X SEMPRE. Scritte d’amore nello spazio pubblico in Italia\, 202
+ 3–2026
+LOCATION:La Berta\, La Berta\, Roma
+DESCRIPTION:DITO presenta il progetto della grafica Ella Villaumié\, com
+ posto da duecento scritte d’amore raccolte nello spazio pubblico italia
+ no tra agosto\n\nInfo: https://zero.eu/it/eventi/383316-x-sempre-scritte-
+ damore-nello-spazio-pubblico-in-italia-2023-2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383316-x-sempre-scritte-damore-nello-spazio
+ -pubblico-in-italia-2023-2026,roma/
+END:VEVENT
+END:VCALENDAR

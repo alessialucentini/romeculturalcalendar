@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ba5676c20450@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Before / Noon / After
+LOCATION:Sacripante\, Sacripante\, Roma
+DESCRIPTION:Un progetto fotografico ideato da Marco Cervato\, su chi c'è
+  dietro ogni fotografia.\n\nInfo: https://zero.eu/it/eventi/381761-before
+ -noon-after\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381761-before-noon-after,roma/
+END:VEVENT
+END:VCALENDAR

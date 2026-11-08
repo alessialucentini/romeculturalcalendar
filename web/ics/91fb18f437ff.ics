@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:91fb18f437ff@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Emanuela Fiorelli - "DIS-TOP-ICON"
+LOCATION:Fondazione Volume!\, Fondazione Volume!\, Roma
+DESCRIPTION:In un'epoca in cui la distopia non appartiene più alla narra
+ tiva ma definisce la nostra realtà\, l'artista esplora l'incolmabile div
+ ario\n\nInfo: https://zero.eu/it/eventi/382221-emanuela-fiorelli-dis-top-
+ icon\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382221-emanuela-fiorelli-dis-top-icon,roma/
+END:VEVENT
+END:VCALENDAR

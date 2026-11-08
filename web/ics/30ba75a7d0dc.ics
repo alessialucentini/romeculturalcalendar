@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:30ba75a7d0dc@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261109
+SUMMARY:Archeologia in Comune: appuntamenti del 4 e 8 novembre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Visite guidate nelle aree archeologiche a cura della Sovrinte
+ ndenza Capitolina\n\nInfo: https://culture.roma.it/appuntamento/archeolog
+ ia-in-comune-appuntamenti-del-4-e-8-novembre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/archeologia-in-comune-appuntamen
+ ti-del-4-e-8-novembre-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:912d22c512e7@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261209T170000Z
+DTEND:20261209T190000Z
+SUMMARY:Sensing the Future
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · curator's tour\n\nInfo: https://www.maxxi.art/event
+ s/curators-tour-sensing-the-future/\n\nDa Linceo
+URL:https://www.maxxi.art/events/curators-tour-sensing-the-future/
+END:VEVENT
+END:VCALENDAR

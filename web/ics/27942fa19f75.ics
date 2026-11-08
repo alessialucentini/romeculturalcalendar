@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:27942fa19f75@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261124
+SUMMARY:Ending
+LOCATION:Teatro di Roma · Teatro India
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-india/ending-3/\n\nDa L
+ inceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-india/ending-3/
+END:VEVENT
+END:VCALENDAR

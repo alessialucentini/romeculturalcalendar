@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0212360f2eab@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261110T170000Z
+DTEND:20261110T190000Z
+SUMMARY:DRAG ME... LAB 1
+LOCATION:online
+DESCRIPTION:Laboratorio di e con Sylvia Cry Her\n\nInfo: https://culture.
+ roma.it/appuntamento/drag-me-lab-1/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/drag-me-lab-1/
+END:VEVENT
+END:VCALENDAR

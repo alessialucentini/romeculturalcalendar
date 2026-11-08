@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:3d536b5ed0b1@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+SUMMARY:Garbatella Jazz Winter | 13 novembre
+LOCATION:Teatro Mongiovino e La Villetta
+DESCRIPTION:Gli appuntamenti del 13 novembre 2026\n\nInfo: https://cultur
+ e.roma.it/appuntamento/garbatella-jazz-winter-13-novembre/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/garbatella-jazz-winter-13-novemb
+ re/
+END:VEVENT
+END:VCALENDAR

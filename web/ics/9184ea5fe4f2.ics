@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9184ea5fe4f2@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20270110
+SUMMARY:Lorenzo Quinn. HI HUMAN – L’uno nell’altro
+LOCATION:Teldil Art Gallery\, Teldil Art Gallery\, Roma
+DESCRIPTION:Mentre la tecnologia estende sempre più le possibilità dell
+ ’uomo\, siamo ancora capaci di riconoscere e valorizzare ciò che \n\nI
+ nfo: https://www.arte.it/calendario-arte/roma/mostra-lorenzo-quinn-hi-hum
+ an-l-uno-nell-altro-104248\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-lorenzo-quinn-hi-huma
+ n-l-uno-nell-altro-104248
+END:VEVENT
+END:VCALENDAR

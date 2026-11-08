@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb96c156f72f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261208T173000Z
+DTEND:20261208T193000Z
+SUMMARY:Novecento - Atto II
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Atto I: in una fattoria dell'Emilia crescono insieme Olmo\, f
+ iglio di contadini\, e Alfredo\, erede del padrone\, nati nello stesso gi
+ orno del 1900. Dopo i primi scioperi nei campi e la guerra 1915-18\, il f
+ ascismo agrario dà una mano ai padroni. I due giovani si sposano. Atto I
+ I: negli anni '30 le strade di Olmo e Alfredo si separano. Il primo\, ved
+ ovo\, fa il norcino e continua la lotta\; il secondo si…\n\nInfo: https
+ ://www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

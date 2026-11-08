@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:abd4e2917a0c@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261116
+SUMMARY:Lost
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Un festival di due giorni curato da Momo Edizioni dedicato al
+ le culture radicali del presente e del futuro. Riconoscere di\n\nInfo: ht
+ tps://zero.eu/it/eventi/382803-lost\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382803-lost,roma/
+END:VEVENT
+END:VCALENDAR

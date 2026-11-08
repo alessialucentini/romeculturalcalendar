@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a206843cc6ef@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261119
+SUMMARY:Barberiniana II. Tributo alla fioritura delle arti romane nella p
+ rima metà del XVII secolo
+LOCATION:Palazzo Barberini\, Via delle Quattro Fontane 13\, Roma
+DESCRIPTION:Info: https://barberinicorsini.org/evento/barberiniana-ii-tri
+ buto-alla-fioritura-delle-arti-romane-nella-prima-meta-del-xvii-secolo/\n
+ \nDa Linceo
+URL:https://barberinicorsini.org/evento/barberiniana-ii-tributo-alla-fior
+ itura-delle-arti-romane-nella-prima-meta-del-xvii-secolo/
+END:VEVENT
+END:VCALENDAR

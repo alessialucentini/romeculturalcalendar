@@ -5,15 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:00e2f97166be@linceo
-DTSTAMP:20261101T095914Z
+DTSTAMP:20261108T094919Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20270201
 SUMMARY:Richard Avedon\, In the American West\, 1979-1984
 LOCATION:Palazzo Esposizioni Roma\, Palazzo Esposizioni Roma\, Roma
-DESCRIPTION:Palazzo Esposizioni Roma presenta dal 9 ottobre 2026 al 31 ge
- nnaio 2027 Richard Avedon. In the American West\, 1979 – 1984\, la stor
- ica serie di r\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-r
- ichard-avedon-in-the-american-west-1979-1984-104554\n\nDa Linceo
+DESCRIPTION:Info: https://www.arte.it/calendario-arte/roma/mostra-richard
+ -avedon-in-the-american-west-1979-1984-104554\n\nDa Linceo
 URL:https://www.arte.it/calendario-arte/roma/mostra-richard-avedon-in-the
  -american-west-1979-1984-104554
 END:VEVENT

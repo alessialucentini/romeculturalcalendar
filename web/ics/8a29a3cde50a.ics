@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8a29a3cde50a@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261110T060000Z
+DTEND:20261110T080000Z
+SUMMARY:MedFilm Festival 2026 | 10 novembre
+LOCATION:Vari luoghi
+DESCRIPTION:La programmazione del 10 novembre 2026\n\nInfo: https://cultu
+ re.roma.it/appuntamento/medfilm-festival-2026-10-novembre/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/medfilm-festival-2026-10-novembr
+ e/
+END:VEVENT
+END:VCALENDAR

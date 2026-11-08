@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2c669b61889a@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20271001T220000Z
+DTEND:20271002T000000Z
+SUMMARY:Fra’
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Come si fa a parlare di San Francesco D’Assisi senza essere
+  mostruosamente banali? Come farò a mettere in scena questo […]\n\nInf
+ o: https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/giovanni-sci
+ foni-fra-san-francesco-la-superstar-del-medioevo/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2025-2026/giovanni-sc
+ ifoni-fra-san-francesco-la-superstar-del-medioevo/
+END:VEVENT
+END:VCALENDAR

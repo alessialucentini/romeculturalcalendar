@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40b8275c846f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261115T100000Z
+DTEND:20261115T120000Z
+SUMMARY:Chi ha paura delle streghe?
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Un giovane ragazzo di nome Luke e sua nonna vanno in vacanza 
+ solo per scoprire che il loro hotel ospita una convention internazionale 
+ delle streghe\, dove la Grand High Witch sta svelando il suo piano princi
+ pale per trasformare tutti i bambini in topi. Luke sarÃ vittima della tr
+ ama delle streghe prima che possa fermarle?\n\nInfo: https://www.cinematr
+ oisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

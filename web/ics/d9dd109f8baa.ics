@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d9dd109f8baa@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+SUMMARY:Non Una Di Meno Benefit
+LOCATION:Forte Prenestino\, Forte Prenestino\, Roma
+DESCRIPTION:Verso il corteo del 28 novembre\, con il live di Yung Paninar
+ u e i dj set de La Reina Del\n\nInfo: https://zero.eu/it/eventi/383503-no
+ n-una-di-meno-benefit\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383503-non-una-di-meno-benefit,roma/
+END:VEVENT
+END:VCALENDAR

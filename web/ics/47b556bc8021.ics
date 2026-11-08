@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47b556bc8021@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261117T170000Z
+DTEND:20261117T190000Z
+SUMMARY:DRAG ME... LAB 2
+LOCATION:online
+DESCRIPTION:Laboratorio di e con Complichiamo le cose\n\nInfo: https://cu
+ lture.roma.it/appuntamento/drag-me-lab-2/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/drag-me-lab-2/
+END:VEVENT
+END:VCALENDAR

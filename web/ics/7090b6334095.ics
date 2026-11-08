@@ -5,19 +5,19 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:7090b6334095@linceo
-DTSTAMP:20261101T095914Z
+DTSTAMP:20261108T094919Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
 SUMMARY:SEI PERSONAGGI IN CERCA D'AUTORE
 LOCATION:Teatro Ghione
-DESCRIPTION:[vc_row][vc_column][vc_single_image image=”16617″ img_siz
- e=”full” css=””][vc_empty_space height=”55px”][/vc_column][/v
- c_row][vc_row][vc_column width=”1/4″ css=”.vc_custom_1659605420797{
- margin-top: -8px !important\;}”][vc_single_image image=”18436″ img_
- size=”full” alignment=”center” css=””][vc_empty_space height=
- ”25px”][/vc_column][vc_column width=”3/4″] SEI PERSONAGGI IN CERC
- A D'AUTORE [vc_empty_s…\n\nInfo: https://www.teatroghione.it/spettacoli
- /sei-personaggi-in-cerca-dautore/\n\nDa Linceo
+DESCRIPTION:[vc_row][vc_column][vc_raw_html css=””]JTVCZXNzX2dyaWQlMj
+ BhbGlhcyUzRCUyMmdyaWQtNzUlMjIlNUQlNUIlMkZlc3NfZ3JpZCU1RA==[/vc_raw_html][
+ vc_empty_space height=”55px”][/vc_column][/vc_row][vc_row][vc_column 
+ width=”1/4″ css=”.vc_custom_1659605420797{margin-top: -8px !importa
+ nt\;}”][vc_single_image image=”18436″ img_size=”full” alignment
+ =”center” css=””][vc_empty_space height=”25px”][/vc_column][v
+ c_column w…\n\nInfo: https://www.teatroghione.it/spettacoli/sei-persona
+ ggi-in-cerca-dautore/\n\nDa Linceo
 URL:https://www.teatroghione.it/spettacoli/sei-personaggi-in-cerca-dautor
  e/
 END:VEVENT

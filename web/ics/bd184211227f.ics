@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bd184211227f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Batov Records 10 Years
+LOCATION:Frissón\, Frissón\, Roma
+DESCRIPTION:L'etichetta londinese dedicata a global funk\, world jazz e g
+ roove del Medio Oriente\, festeggia dieci anni con la super compilation\n
+ \nInfo: https://zero.eu/it/eventi/382754-batov-records-10-years\,roma/\n\
+ nDa Linceo
+URL:https://zero.eu/it/eventi/382754-batov-records-10-years,roma/
+END:VEVENT
+END:VCALENDAR

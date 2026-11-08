@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f6a75698096d@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261112
+SUMMARY:Andrea Barazzutti - "Pesci Scaramazzi"
+LOCATION:Porte Rosse\, Porte Rosse\, Roma
+DESCRIPTION:In mostra un bestiario di pesci immaginari\, in cui il mondo 
+ animale viene rielaborato attraverso un linguaggio che unisce rigore\n\nI
+ nfo: https://zero.eu/it/eventi/381464-andrea-barazzutt-pesci-scaramazzi\,
+ roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381464-andrea-barazzutt-pesci-scaramazzi,ro
+ ma/
+END:VEVENT
+END:VCALENDAR

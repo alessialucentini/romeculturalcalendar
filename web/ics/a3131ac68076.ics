@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3131ac68076@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270503
+SUMMARY:Egitto e Roma. I volti del Fayum
+LOCATION:Museo dell'Ara Pacis\, Museo dell'Ara Pacis\, Roma
+DESCRIPTION:Attraverso oltre 110 opere tra tavole\, sudari\, maschere fun
+ erarie\, marmi\, calchi in gesso e oreficerie antiche\, l'esposizione rac
+ conta una delle\n\nInfo: https://zero.eu/it/eventi/380379-egitto-e-roma-i
+ -volti-del-fayum\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/380379-egitto-e-roma-i-volti-del-fayum,roma
+ /
+END:VEVENT
+END:VCALENDAR

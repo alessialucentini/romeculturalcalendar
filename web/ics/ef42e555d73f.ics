@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ef42e555d73f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Il rituale della memoria
+LOCATION:Teatro di Roma · Teatro Argentina
+DESCRIPTION:Info: https://www.teatrodiroma.net/progetti/attivita-cultural
+ i/memoria-di-ragazza/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/progetti/attivita-culturali/memoria-di-r
+ agazza/
+END:VEVENT
+END:VCALENDAR

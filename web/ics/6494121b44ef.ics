@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6494121b44ef@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:UMANI\, QUESTO VOLEVO CHE CAPISTE
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Ispirato dalle opere e dagli scritti di Romiti\, “UMANI…
+ ” si muove tra linguaggi differenti: teatro\, musica\, video\, suono\, 
+ pittura e gioco. | SALA PICCOLA\n\nInfo: https://teatriincomune.roma.it/e
+ vents/umani-questo-volevo-che-capiste/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/umani-questo-volevo-che-capiste
+ /
+END:VEVENT
+END:VCALENDAR

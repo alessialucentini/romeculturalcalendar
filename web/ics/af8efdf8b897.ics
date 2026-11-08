@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:af8efdf8b897@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261110T080000Z
+DTEND:20261110T100000Z
+SUMMARY:Passeggiate Romane del 10 novembre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Passeggiate in città a cura della Sovrintendenza Capitolina\
+ n\nInfo: https://culture.roma.it/appuntamento/passeggiate-romane-del-10-n
+ ovembre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/passeggiate-romane-del-10-novemb
+ re-2026/
+END:VEVENT
+END:VCALENDAR

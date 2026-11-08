@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:cdfa5d3045e1@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270108
+SUMMARY:Vincenzo Scolamiero - "Alla vista di certe piccole cose"
+LOCATION:Blocco 13\, Blocco 13\, Roma
+DESCRIPTION:L'artista porta in mostra un lavoro realizzato appositamente 
+ per lo spazio di via Benzoni: una grande tela dipinta per l’occasione\n
+ \nInfo: https://zero.eu/it/eventi/383473-vincenzo-scolamiero-alla-vista-d
+ i-certe-piccole-cose\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383473-vincenzo-scolamiero-alla-vista-di-ce
+ rte-piccole-cose,roma/
+END:VEVENT
+END:VCALENDAR

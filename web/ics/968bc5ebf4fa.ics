@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:968bc5ebf4fa@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:Officina di Futuri
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:segnaliamo · Ecosistema Futuro\n\nInfo: https://www.maxxi.ar
+ t/events/officina-di-futuri/\n\nDa Linceo
+URL:https://www.maxxi.art/events/officina-di-futuri/
+END:VEVENT
+END:VCALENDAR

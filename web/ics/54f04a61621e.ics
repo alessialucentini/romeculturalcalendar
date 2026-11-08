@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:54f04a61621e@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Veneto barbaro di muschi e nebbie
+LOCATION:Teatro di Roma · Teatro Argentina
+DESCRIPTION:Info: https://www.teatrodiroma.net/progetti/attivita-cultural
+ i/veneto-barbaro-di-muschi-e-nebbie/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/progetti/attivita-culturali/veneto-barba
+ ro-di-muschi-e-nebbie/
+END:VEVENT
+END:VCALENDAR

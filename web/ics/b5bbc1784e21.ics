@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b5bbc1784e21@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261203
+SUMMARY:Sonno Paradosso
+LOCATION:Terzo\, Terzo\, Roma
+DESCRIPTION:Quattro artisti under 30 riflettono sul tema del sonno: un ra
+ cconto visivo e sonoro sui vari stati di coscienza legati\n\nInfo: https:
+ //zero.eu/it/eventi/382734-sonno-paradosso\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382734-sonno-paradosso,roma/
+END:VEVENT
+END:VCALENDAR

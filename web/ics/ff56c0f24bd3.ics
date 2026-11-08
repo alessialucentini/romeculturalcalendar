@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ff56c0f24bd3@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270111
+SUMMARY:Ayse Idil Idi - "Missed not lost"
+LOCATION:10 documents\, 10 documents\, Roma
+DESCRIPTION:Personale dell'artista\, che indaga nel suo lavoro le condizi
+ oni che plasmano la condivisione tra persone distanti\, sullo sfondo di u
+ n’ondata\n\nInfo: https://zero.eu/it/eventi/383761-ayse-idil-idi-missed
+ -not-lost\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383761-ayse-idil-idi-missed-not-lost,roma/
+END:VEVENT
+END:VCALENDAR

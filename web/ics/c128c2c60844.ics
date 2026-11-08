@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c128c2c60844@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261110T200000Z
+DTEND:20261110T220000Z
+SUMMARY:Jarboroe + Zu
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:La leggendaria formazione romana e la leggendaria cantante ex
+  Swans sul palco insieme.\n\nInfo: https://zero.eu/it/eventi/378002-jarbo
+ roe-zu\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/378002-jarboroe-zu,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1158a01806c6@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+SUMMARY:Archeologia in Comune: appuntamenti del 19 e 22 novembre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Visite guidate nelle aree archeologiche a cura della Sovrinte
+ ndenza Capitolina\n\nInfo: https://culture.roma.it/appuntamento/archeolog
+ ia-in-comune-appuntamenti-del-19-e-22-novembre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/archeologia-in-comune-appuntamen
+ ti-del-19-e-22-novembre-2026/
+END:VEVENT
+END:VCALENDAR

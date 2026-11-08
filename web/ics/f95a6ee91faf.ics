@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f95a6ee91faf@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270116
+SUMMARY:Ella Littwitz - "Salt"
+LOCATION:Sala 1 – Centro Internazionale d’Arte Contemporanea\, Sala 1
+  – Centro Internazionale d’Arte Contemporanea\, Roma
+DESCRIPTION:L'artista prosegue il suo lavoro di indagine sul modo in cui 
+ il paesaggio diventa territorio\, con una mostra dedicata al\n\nInfo: htt
+ ps://zero.eu/it/eventi/381219-ella-littwitz-salt\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381219-ella-littwitz-salt,roma/
+END:VEVENT
+END:VCALENDAR

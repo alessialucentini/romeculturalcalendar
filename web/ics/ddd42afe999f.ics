@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ddd42afe999f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270129
+SUMMARY:Roma racconta...gli appuntamenti di gennaio
+LOCATION:Vari luoghi
+DESCRIPTION:Conferenze in presenza\, a cura dei Servizi Educativi della S
+ ovrintendenza Capitolina ai Beni Culturali\n\nInfo: https://culture.roma.
+ it/appuntamento/roma-racconta-gli-appuntamenti-di-gennaio-2/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/roma-racconta-gli-appuntamenti-d
+ i-gennaio-2/
+END:VEVENT
+END:VCALENDAR

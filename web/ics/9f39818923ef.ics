@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9f39818923ef@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261209
+SUMMARY:Theatre Social Hub
+LOCATION:Teatro Tor Bella Monaca e zone limitrofe\, Teatro Tor Bella Mona
+ ca\, Via Bruno Cirino\, Roma\, RM\, Italia
+DESCRIPTION:Laboratorio di produzione contenuti social\n\nInfo: https://c
+ ulture.roma.it/appuntamento/theatre-social-hub/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/theatre-social-hub/
+END:VEVENT
+END:VCALENDAR

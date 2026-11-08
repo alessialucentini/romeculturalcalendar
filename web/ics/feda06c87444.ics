@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:feda06c87444@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261116
+SUMMARY:CSC International Student Film Festival
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:segnaliamo\n\nInfo: https://www.maxxi.art/events/csc-internat
+ ional-student-film-festival/\n\nDa Linceo
+URL:https://www.maxxi.art/events/csc-international-student-film-festival/
+END:VEVENT
+END:VCALENDAR

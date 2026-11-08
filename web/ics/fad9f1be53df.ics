@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fad9f1be53df@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261213
+SUMMARY:Ho Fiutato il Mondo: Lamberto Pignotti & Co - Per i 100 anni di L
+ amberto Pignotti
+LOCATION:Accademia di Belle Arti di Roma\, Accademia di Belle Arti di Rom
+ a\, Roma
+DESCRIPTION:Il giorno 7 novembre 2026 alle ore 17.30\, inaugura negli spa
+ zi della Sala Colleoni e della Galleria del Contemporaneo dell’Accademi
+ a di Belle Ar\n\nInfo: https://www.arte.it/calendario-arte/roma/mostra-ho
+ -fiutato-il-mondo-lamberto-pignotti-co-per-i-100-anni-di-lamberto-pignott
+ i-104732\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-ho-fiutato-il-mondo-l
+ amberto-pignotti-co-per-i-100-anni-di-lamberto-pignotti-104732
+END:VEVENT
+END:VCALENDAR

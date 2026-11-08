@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f1cd9d7c4113@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261123
+SUMMARY:Memoria di ragazza
+LOCATION:Teatro di Roma · Teatro Valle
+DESCRIPTION:Info: https://www.teatrodiroma.net/spettacoli/il-teatro-e-vit
+ a-la-stagione-2026-2027-del-teatro-di-roma/teatro-valle/memoria-di-ragazz
+ a/\n\nDa Linceo
+URL:https://www.teatrodiroma.net/spettacoli/il-teatro-e-vita-la-stagione-
+ 2026-2027-del-teatro-di-roma/teatro-valle/memoria-di-ragazza/
+END:VEVENT
+END:VCALENDAR

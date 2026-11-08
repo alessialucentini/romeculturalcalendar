@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:f3c6ff9f87b4@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Una stanza per Bene. Tracce di quattro lavori di Carmelo Bene
+LOCATION:MACRO\, MACRO\, Roma
+DESCRIPTION:Una mostra a cura di Claudio Fazzini\, Giuseppe Garrera e Fed
+ erico Primosig che presenta materiali inediti legati ai primi spettacoli\
+ n\nInfo: https://zero.eu/it/eventi/383542-una-stanza-per-bene-tracce-di-q
+ uattro-lavori-di-carmelo-bene\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383542-una-stanza-per-bene-tracce-di-quattr
+ o-lavori-di-carmelo-bene,roma/
+END:VEVENT
+END:VCALENDAR

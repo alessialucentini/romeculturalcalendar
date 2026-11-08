@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3e546deb909@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Oltre il linguaggio inclusivo. Dallo scegliere le parole allo sgu
+ ardo sul mondo
+LOCATION:Palazzo Merulana\, Via Merulana 121\, Roma
+DESCRIPTION:Info: https://www.palazzomerulana.it/events/oltre-il-linguagg
+ io-inclusivo-dallo-scegliere-le-parole-allo-sguardo-sul-mondo/\n\nDa Linc
+ eo
+URL:https://www.palazzomerulana.it/events/oltre-il-linguaggio-inclusivo-d
+ allo-scegliere-le-parole-allo-sguardo-sul-mondo/
+END:VEVENT
+END:VCALENDAR

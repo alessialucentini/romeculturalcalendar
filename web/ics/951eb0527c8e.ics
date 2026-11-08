@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:951eb0527c8e@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261116
+SUMMARY:Faces
+LOCATION:Studio DFB\, Studio DFB\, Roma
+DESCRIPTION:Per festeggiare i cinque anni di attività\, Studio DFB si ci
+ menta in una gargantuesca kermesse di facce e volti. A\n\nInfo: https://z
+ ero.eu/it/eventi/381809-faces\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381809-faces,roma/
+END:VEVENT
+END:VCALENDAR

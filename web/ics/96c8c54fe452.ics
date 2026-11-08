@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:96c8c54fe452@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270301
+SUMMARY:Ordinare il mondo. L’Archivio di Nanda Lanfranco
+LOCATION:MAXXI - Museo nazionale delle arti del XXI secolo\, MAXXI - Muse
+ o nazionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Attraverso un percorso tematico e cronologico\, la mostra rip
+ ercorre l’attività professionale e artistica della fotografa ligure\, 
+ dagli esordi a Genova\n\nInfo: https://zero.eu/it/eventi/381945-ordinare-
+ il-mondo-larchivio-di-nanda-lanfranco\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381945-ordinare-il-mondo-larchivio-di-nanda
+ -lanfranco,roma/
+END:VEVENT
+END:VCALENDAR

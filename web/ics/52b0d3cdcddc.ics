@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:52b0d3cdcddc@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270222
+SUMMARY:Alessio Romenzi/Christian Tasso - "The Thin Line"
+LOCATION:Museo di Roma in Trastevere\, Museo di Roma in Trastevere\, Roma
+DESCRIPTION:Un viaggio fotografico all'interno delle più gravi emergenze
+  del nostro tempo.\n\nInfo: https://zero.eu/it/eventi/381580-alessio-rome
+ nzi-christian-tasso-the-thin-line\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381580-alessio-romenzi-christian-tasso-the-
+ thin-line,roma/
+END:VEVENT
+END:VCALENDAR

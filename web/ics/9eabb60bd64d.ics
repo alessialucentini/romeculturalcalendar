@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:9eabb60bd64d@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+SUMMARY:La Notte Bianca di Villa Medici
+LOCATION:Accademia di Francia a Roma - Villa Medici\, Accademia di Franci
+ a a Roma - Villa Medici\, Roma
+DESCRIPTION:Villa Medici apre in notturna\, tra installazioni\, visite ag
+ li studi d’artista\, proiezioni e letture. Ultimo ingresso alle 23:30.\
+ n\nInfo: https://zero.eu/it/eventi/382159-la-notte-bianca-di-villa-medici
+ -2026\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382159-la-notte-bianca-di-villa-medici-2026
+ ,roma/
+END:VEVENT
+END:VCALENDAR

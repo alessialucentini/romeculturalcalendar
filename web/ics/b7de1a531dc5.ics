@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b7de1a531dc5@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261122T100000Z
+DTEND:20261122T120000Z
+SUMMARY:James e la pesca gigante
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:James Henry Trotter\, che si ritrova a vivere con due zie\, z
+ ia Stecco (interpretata da Joanna Lumley) e zia Spugna (interpretata da M
+ iriam Margoyles\, futura Prof. Sprite in Harry Potter e la Camera dei Seg
+ reti) dopo la morte dei genitori. La vita con le sue zie è difficile e s
+ ogna di un posto migliore\, più specificamente New York City\, un posto 
+ da sogno di cui i suoi genitori gli avevano parlato.…\n\nInfo: https://
+ www.cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

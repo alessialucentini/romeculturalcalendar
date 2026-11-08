@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:16360aa5d6d4@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20270308
+SUMMARY:MAXXI BVLGARI PRIZE 2026
+LOCATION:MAXXI Museo nazionale delle arti del XXI secolo\, MAXXI Museo na
+ zionale delle arti del XXI secolo\, Roma
+DESCRIPTION:Il progetto per il sostegno e la promozione dei giovani artis
+ ti\, che dal 2018 unisce il MAXXI e Bvlgari e che negli anni ha lanciato 
+ tanti nuovi talen\n\nInfo: https://www.arte.it/calendario-arte/roma/mostr
+ a-maxxi-bvlgari-prize-2026-104409\n\nDa Linceo
+URL:https://www.arte.it/calendario-arte/roma/mostra-maxxi-bvlgari-prize-2
+ 026-104409
+END:VEVENT
+END:VCALENDAR

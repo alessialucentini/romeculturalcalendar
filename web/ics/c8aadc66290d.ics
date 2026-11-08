@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c8aadc66290d@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261207T180000Z
+DTEND:20261207T200000Z
+SUMMARY:Ri-Abitiamo — Studio aperto
+LOCATION:Teatro di Tor Bella Monaca\, Via di Tor Bella Monaca\, 36\, Roma
+ \, RM\, Italia
+DESCRIPTION:Performance/restituzione pubblica\n\nInfo: https://culture.ro
+ ma.it/appuntamento/ri-abitiamo-studio-aperto/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/ri-abitiamo-studio-aperto/
+END:VEVENT
+END:VCALENDAR

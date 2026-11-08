@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:185552b3deac@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261129T100000Z
+DTEND:20261129T120000Z
+SUMMARY:Matilda 6 mitica
+LOCATION:Cinema Troisi\, Via Girolamo Induno 1\, 00153\, Roma
+DESCRIPTION:Matilda nasce in una famiglia benestante\, in cui i genitori 
+ e il fratello la trattano in modo indifferente e la considerano una secca
+ tura. All'etÃ di sei anni la bambina riesce finalmente ad andare a scuol
+ a grazie ad un accordo fra il padre e la terribile preside di una scuola:
+  Agatha Trinciabue\, una donna arrogante che ritiene tutti i bambini una 
+ condanna. Fortunatamente Matilda trova nella sua…\n\nInfo: https://www.
+ cinematroisi.it\n\nDa Linceo
+URL:https://www.cinematroisi.it
+END:VEVENT
+END:VCALENDAR

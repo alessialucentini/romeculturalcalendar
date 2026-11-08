@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:13091f6567ae@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261114T183000Z
+DTEND:20261114T203000Z
+SUMMARY:Nexus Quartet
+LOCATION:Casa del Jazz
+DESCRIPTION:Sul palco con l'album d'esordio “Appunti di viaggio”\n\nI
+ nfo: https://culture.roma.it/appuntamento/nexus-quartet/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/nexus-quartet/
+END:VEVENT
+END:VCALENDAR

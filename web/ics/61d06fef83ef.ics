@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:61d06fef83ef@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:BUIO
+LOCATION:Teatro Tor Bella Monaca\, Teatro Tor Bella Monaca\, Roma
+DESCRIPTION:Una performance immersiva audioguidata adatta a un pubblico v
+ edente\, ipovedente e non vedente. | SALA PICCOLA\n\nInfo: https://teatri
+ incomune.roma.it/events/buio/\n\nDa Linceo
+URL:https://teatriincomune.roma.it/events/buio/
+END:VEVENT
+END:VCALENDAR

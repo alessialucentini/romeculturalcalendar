@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:acb392afb0bc@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261231T203000Z
+DTEND:20261231T223000Z
+SUMMARY:Speciale Capodanno: Assassinio Sull’Orient Express
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:🥂 L’ULTIMO MISTERO DELL’ANNO? SCEGLIERE COME TRASCORRE
+ RE CAPODANNO. Noi abbiamo degli indizi per voi. 🔎 Il treno più famoso
+  della […]\n\nInfo: https://teatrobrancaccio.it/spettacoli/stagione-202
+ 6-2027/speciale-capodanno-assassinio-sullorient-express/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/speciale-ca
+ podanno-assassinio-sullorient-express/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1b4243671a43@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:Philip Glass Afternoon Sessions
+LOCATION:Auditorium Parco della Musica Ennio Morricone\, Auditorium Parco
+  della Musica Ennio Morricone\, Roma
+DESCRIPTION:La quarantunesima edizione de Romaeuropa si chiude con pomeri
+ ggio che anticipa le celebrazioni per i novant'anni del celebre composito
+ re minimalista\n\nInfo: https://zero.eu/it/eventi/382636-philip-glass-aft
+ ernoon-sessions\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382636-philip-glass-afternoon-sessions,roma
+ /
+END:VEVENT
+END:VCALENDAR

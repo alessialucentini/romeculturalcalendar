@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65f0e8b5871a@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+SUMMARY:Alimenti Toda la Noche
+LOCATION:Roma luoghi vari\, Roma luoghi vari\, Roma
+DESCRIPTION:Venerdì musicale per il rifugio enologico di vicolo del Gall
+ o. Primo tempo in sede con le selezioni di Telldem (roots\n\nInfo: https:
+ //zero.eu/it/eventi/383043-alimenti-toda-la-noche\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383043-alimenti-toda-la-noche,roma/
+END:VEVENT
+END:VCALENDAR

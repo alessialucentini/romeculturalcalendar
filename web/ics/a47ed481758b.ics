@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a47ed481758b@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
+SUMMARY:Barred 10 Years Anniversary
+LOCATION:Barred\, Barred\, Roma
+DESCRIPTION:La brigata di Barred compie dieci anni e festeggia con una lu
+ nga giornata di musica e cibo\, insieme ad altre\n\nInfo: https://zero.eu
+ /it/eventi/383426-barred-10-years-anniversary\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383426-barred-10-years-anniversary,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a3b67ddb3207@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Festa dell’Arte a Monteverde 2026
+LOCATION:AgorArt - Clivo Rutario\, 53
+DESCRIPTION:Due giorni di incontri\, laboratori\, presentazioni di libri 
+ e una mostra collettiva. VII edizione\n\nInfo: https://culture.roma.it/ap
+ puntamento/festa-dellarte-a-monteverde-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/festa-dellarte-a-monteverde-2026
+ /
+END:VEVENT
+END:VCALENDAR

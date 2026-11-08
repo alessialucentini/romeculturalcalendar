@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c5c8c517d57b@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261113T210000Z
+DTEND:20261113T230000Z
+SUMMARY:Lay Llamas
+LOCATION:30Formiche\, 30Formiche\, Roma
+DESCRIPTION:Exotica occulta con la band romana\, che presenta il nuovo al
+ bum.\n\nInfo: https://zero.eu/it/eventi/382922-lay-llamas-30-formiche\,ro
+ ma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382922-lay-llamas-30-formiche,roma/
+END:VEVENT
+END:VCALENDAR

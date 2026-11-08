@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:614e7649dcbd@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261123
+SUMMARY:Silvia Costa - "Memoria di ragazza"
+LOCATION:Teatro Valle\, Teatro Valle\, Roma
+DESCRIPTION:In scena un lavoro tratto dall’omonimo libro della scrittri
+ ce premio Nobel Annie Ernaux. Attraverso frammenti di memoria\, pagine di
+  diario\,\n\nInfo: https://zero.eu/it/eventi/381847-silvia-costa-memoria-
+ di-ragazza\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381847-silvia-costa-memoria-di-ragazza,roma
+ /
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c0376d3b3f0a@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261108
+SUMMARY:Passeggiate Romane del 4 e 7 novembre 2026
+LOCATION:Vari Luoghi
+DESCRIPTION:Passeggiate in città a cura della Sovrintendenza Capitolina\
+ n\nInfo: https://culture.roma.it/appuntamento/passeggiate-romane-del-4-e-
+ 7-novembre-2026/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/passeggiate-romane-del-4-e-7-nov
+ embre-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b5fb7c86fcd0@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20270208
+SUMMARY:EUR - Una storia lunga 90 anni
+LOCATION:Palazzo Uffici dell'EUR\, Palazzo Uffici dell'EUR\, Roma
+DESCRIPTION:Una mostra curata da Alessandro Nicosia e Marco Pizzo raccont
+ a la storia del quartiere razionalista per antonomasia\, attraverso fotog
+ rafie\, documenti\n\nInfo: https://zero.eu/it/eventi/377816-eur-una-stori
+ a-lunga-90-anni\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/377816-eur-una-storia-lunga-90-anni,roma/
+END:VEVENT
+END:VCALENDAR

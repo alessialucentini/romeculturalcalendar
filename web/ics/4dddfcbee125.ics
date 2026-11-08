@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4dddfcbee125@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261119
+SUMMARY:DRAG ME... LAB 3
+LOCATION:online
+DESCRIPTION:Laboratorio di e con Alessia Crocini\n\nInfo: https://culture
+ .roma.it/appuntamento/drag-me-lab-3/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/drag-me-lab-3/
+END:VEVENT
+END:VCALENDAR

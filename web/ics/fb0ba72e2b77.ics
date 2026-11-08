@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb0ba72e2b77@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261127T190000Z
+DTEND:20261127T210000Z
+SUMMARY:Big! Premio Francesco Di Giacomo
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:Pop/Rock\n\nInfo: https://www.auditorium.com/it/event/big-pre
+ mio-francesco-di-giacomo-2/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/big-premio-francesco-di-giacomo-2
+ /
+END:VEVENT
+END:VCALENDAR

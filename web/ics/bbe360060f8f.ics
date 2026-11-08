@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bbe360060f8f@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261111T200000Z
+DTEND:20261111T220000Z
+SUMMARY:The Molotovs
+LOCATION:Hacienda\, Hacienda\, Roma
+DESCRIPTION:Il duo punk inglese per la prima volta a Roma dal vivo.\n\nIn
+ fo: https://zero.eu/it/eventi/381558-the-molotovs\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381558-the-molotovs,roma/
+END:VEVENT
+END:VCALENDAR

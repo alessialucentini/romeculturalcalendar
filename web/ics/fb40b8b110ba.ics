@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fb40b8b110ba@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Katerina Andreou/Carte Blanche - "How Romantic"
+LOCATION:Teatro Vascello\, Teatro Vascello\, Roma
+DESCRIPTION:Indagando sulla tendenza contemporanea a trasformare le diffi
+ coltà dell’esistenza in spettacolo\, la danzatrice greca immagina una 
+ coreografia che richiama le\n\nInfo: https://zero.eu/it/eventi/381828-kat
+ erina-andreou-carte-blanche-how-romantic\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381828-katerina-andreou-carte-blanche-how-r
+ omantic,roma/
+END:VEVENT
+END:VCALENDAR

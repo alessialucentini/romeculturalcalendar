@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bce3731dae16@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261112T203000Z
+DTEND:20261112T223000Z
+SUMMARY:Indiepanchine w/ Lauryyn
+LOCATION:Monk\, Monk\, Roma
+DESCRIPTION:Il format presenta il live della cantante e autrice pugliese\
+ , tra soul e R&B. In apertura Scar e Addivvi.\n\nInfo: https://zero.eu/it
+ /eventi/382401-indiepanchine-w-lauryyn\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382401-indiepanchine-w-lauryyn,roma/
+END:VEVENT
+END:VCALENDAR

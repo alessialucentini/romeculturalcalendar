@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:26f1cb746de3@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:ATMOSFERA OFF THE PAGE
+LOCATION:santedicola\, santedicola\, Roma
+DESCRIPTION:IL magazine ATMOSFERA festeggia il suo primo anno su carta co
+ n una serata dedicata all'editoria indipendente\, accompagnata da un aper
+ itivo\n\nInfo: https://zero.eu/it/eventi/383828-atmosfera-off-the-page\,r
+ oma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383828-atmosfera-off-the-page,roma/
+END:VEVENT
+END:VCALENDAR

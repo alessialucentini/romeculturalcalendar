@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:80b6b654902c@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261127T180000Z
+DTEND:20261127T200000Z
+SUMMARY:The Scoop Jazz Band
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · musica · Sotto le stelle del jazz. La musica incon
+ tra l’arte\n\nInfo: https://www.maxxi.art/events/the-scoop-jazz-band/\n
+ \nDa Linceo
+URL:https://www.maxxi.art/events/the-scoop-jazz-band/
+END:VEVENT
+END:VCALENDAR

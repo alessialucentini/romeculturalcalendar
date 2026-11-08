@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6498bbe608c8@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:CAMBIAMO COPIONE! L’industria audiovisiva per una cultura liber
+ a dalla violenza di genere – 4° edizione
+LOCATION:Palazzo Merulana\, Via Merulana 121\, Roma
+DESCRIPTION:Info: https://www.palazzomerulana.it/events/cambiamo-copione-
+ lindustria-audiovisiva-per-una-cultura-libera-dalla-violenza-di-genere-4-
+ edizione/\n\nDa Linceo
+URL:https://www.palazzomerulana.it/events/cambiamo-copione-lindustria-aud
+ iovisiva-per-una-cultura-libera-dalla-violenza-di-genere-4-edizione/
+END:VEVENT
+END:VCALENDAR

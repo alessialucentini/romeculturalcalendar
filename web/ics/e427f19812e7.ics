@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:e427f19812e7@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Mario Venuti & Tony Canto – Mai come ieri
+LOCATION:Auditorium Parco della Musica · Teatro Studio Borgna\, Viale Pi
+ etro de Coubertin 30\, Roma
+DESCRIPTION:D'autore\n\nInfo: https://www.auditorium.com/it/event/mario-v
+ enuti-tony-canto-mai-come-ieri/\n\nDa Linceo
+URL:https://www.auditorium.com/it/event/mario-venuti-tony-canto-mai-come-
+ ieri/
+END:VEVENT
+END:VCALENDAR

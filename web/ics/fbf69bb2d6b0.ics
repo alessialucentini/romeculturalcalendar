@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fbf69bb2d6b0@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ØKSE
+LOCATION:Il Cantiere\, Il Cantiere\, Roma
+DESCRIPTION:Flaming Creatures e Zen Arcade presentano il supergruppo sved
+ ese di avant-jazz pubblicato da Backwoodz Studioz.\n\nInfo: https://zero.
+ eu/it/eventi/383495-okse\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383495-okse,roma/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1ebf8e4f07b3@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261204
+SUMMARY:Phillip Sollmann & Konrad Sprenger - "Modular Organ System"
+LOCATION:Villa Lontana\, Villa Lontana\, Roma
+DESCRIPTION:In occasione della rassegna Organum Multiplum\, Villa Lontana
+  ospita un'installazione sonora dei due artisti Phillip Sollmann (aka Efd
+ emin) e Konrad\n\nInfo: https://zero.eu/it/eventi/382709-phillip-sollmann
+ -konrad-sprenger-modular-organ-system\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382709-phillip-sollmann-konrad-sprenger-mod
+ ular-organ-system,roma/
+END:VEVENT
+END:VCALENDAR

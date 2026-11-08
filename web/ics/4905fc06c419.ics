@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4905fc06c419@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261108T140000Z
+DTEND:20261108T160000Z
+SUMMARY:Muta Studi Aperti
+LOCATION:MUTA\, MUTA\, Roma
+DESCRIPTION:Gli studi di Muta riaprono per un lungo pomeriggio domenicale
+  con gli artisti e le artiste in residenza e il\n\nInfo: https://zero.eu/
+ it/eventi/383393-muta-studi-aperti\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/383393-muta-studi-aperti,roma/
+END:VEVENT
+END:VCALENDAR

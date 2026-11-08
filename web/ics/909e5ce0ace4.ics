@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:909e5ce0ace4@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20271004T160000Z
+DTEND:20271004T180000Z
+SUMMARY:Fra’
+LOCATION:Teatro Brancaccio\, Via Merulana 244\, Roma
+DESCRIPTION:Giovanni Scifoni al Teatro Brancaccio con Fra' - San Francesc
+ o la superstar del medioevo: Il 4 ottobre\, anniversario degli 800 anni d
+ alla morte di Francesco\n\nInfo: https://teatrobrancaccio.it/spettacoli/s
+ tagione-2026-2027/fra/\n\nDa Linceo
+URL:https://teatrobrancaccio.it/spettacoli/stagione-2026-2027/fra/
+END:VEVENT
+END:VCALENDAR

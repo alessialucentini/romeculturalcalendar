@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6e620e3c9cbe@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261111T173000Z
+DTEND:20261111T193000Z
+SUMMARY:Tennis Paradise
+LOCATION:MAXXI\, Via Guido Reni 4A\, Roma
+DESCRIPTION:evento · libri al MAXXI · di Francesco Longo\n\nInfo: https
+ ://www.maxxi.art/events/tennis-paradise/\n\nDa Linceo
+URL:https://www.maxxi.art/events/tennis-paradise/
+END:VEVENT
+END:VCALENDAR

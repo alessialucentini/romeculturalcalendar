@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:aab553da1a01@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261120T170000Z
+DTEND:20261120T190000Z
+SUMMARY:Biologicamente Queer
+LOCATION:online
+DESCRIPTION:Video performance con Karma B e Margò Paciotti\n\nInfo: http
+ s://culture.roma.it/appuntamento/biologicamente-queer/\n\nDa Linceo
+URL:https://culture.roma.it/appuntamento/biologicamente-queer/
+END:VEVENT
+END:VCALENDAR

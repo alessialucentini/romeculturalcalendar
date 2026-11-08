@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:8c6e60eca4a1@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261116
+SUMMARY:Kenji Shinohe - "Action Briquette Z Manga Beat & Dance"
+LOCATION:Mattatoio\, Mattatoio\, Roma
+DESCRIPTION:Sul palco del Mattatoio una danza che esplora come i suoni\, 
+ e in particolare le onomatopee dei manga\, influenzino i\n\nInfo: https:/
+ /zero.eu/it/eventi/381853-kenji-shinohe-action-briquette-z-manga-beat-dan
+ ce\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/381853-kenji-shinohe-action-briquette-z-man
+ ga-beat-dance,roma/
+END:VEVENT
+END:VCALENDAR

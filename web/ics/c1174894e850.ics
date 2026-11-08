@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:c1174894e850@linceo
+DTSTAMP:20261108T094919Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Alicja Pakosz - "Tipping Points"
+LOCATION:Ada\, Ada\, Roma
+DESCRIPTION:Personael dell'artista. Inaugurazione mercoledì 11 novembre 
+ dalle 18:00 alle 21:00.\n\nInfo: https://zero.eu/it/eventi/382163-alicja-
+ pakosz-tipping-points\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382163-alicja-pakosz-tipping-points,roma/
+END:VEVENT
+END:VCALENDAR

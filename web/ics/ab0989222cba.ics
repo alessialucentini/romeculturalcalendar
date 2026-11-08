@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ab0989222cba@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261117T190000Z
+DTEND:20261117T210000Z
+SUMMARY:75 anni – Una Storia per il Futuro
+LOCATION:Auditorium Parco della Musica\, Viale Pietro de Coubertin 30\, R
+ oma
+DESCRIPTION:Classica\n\nInfo: https://santacecilia.it/concerto/una-storia
+ -che-diventa-futuro/?replica=1849\n\nDa Linceo
+URL:https://santacecilia.it/concerto/una-storia-che-diventa-futuro/?repli
+ ca=1849
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Linceo//Roma//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2eb4cc832c25@linceo
+DTSTAMP:20261108T094919Z
+DTSTART:20261114T210000Z
+DTEND:20261114T230000Z
+SUMMARY:King Alpha & Fikkir Amlak w/ Blue Zone Hi-Fi
+LOCATION:Fusolab\, Fusolab\, Roma
+DESCRIPTION:Il soundsystem nato nelle montagne del Trentino arriva a Roma
+  per amplificare i due veterani della scena inglese e americana.\n\nInfo:
+  https://zero.eu/it/eventi/382895-king-alpha-fikkir-amlak-w-blue-zone-hi-
+ fi\,roma/\n\nDa Linceo
+URL:https://zero.eu/it/eventi/382895-king-alpha-fikkir-amlak-w-blue-zone-
+ hi-fi,roma/
+END:VEVENT
+END:VCALENDAR
